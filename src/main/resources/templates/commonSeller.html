@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Common Sellers</title>
+</head>
+<body>
+<div>
+  <h3>This is the list of common sellers from json files:</h3>
+  <h4 th:text="${jsonfileOne} + ' and '+ ${jsonfileTwo} + ', there are ' + ${size} +' common sellers'"></h4>
+  <a th:href="@{/}">
+    <button>Back to main</button>
+  </a>
+  <a href="https://jsonformatter.org/json-editor">
+    <button>Json editor</button>
+  </a>
+  <div>
+    <textarea th:rows="70" th:cols="150" th:name="jsondata" th:text="${jsondata}"></textarea>
+  </div>
+
+</div>
+
+</body>
+</html>

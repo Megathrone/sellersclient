@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Domains</title>
+</head>
+<body>
+<div>
+  <h3>This is your list of domains from json file: <p th:text="${jsonfile}"></p></h3>
+  <a th:href="@{/}">
+    <button>Back to main</button>
+  </a>
+  <div>
+    <textarea th:rows="70" th:cols="150" th:name="jsondata" th:text="${jsondata}"></textarea>
+  </div>
+
+</div>
+
+</body>
+</html>

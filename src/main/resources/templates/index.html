@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Index</title>
+</head>
+<body>
+<div>
+  <h3><p>This is Sellers.json JSON Processing</p></h3>
+  <h4>Type into your sellers.json url then click the button</h4>
+  <form th:action="@{/loadfromurl}" th:method="POST">
+    <input th:name="jsonurl" th:type="text" th:size="100"><br>
+    <button th:type="submit">Load</button>
+  </form>
+
+  <h4>Get a list of seller's domains from sellers.json file</h4>
+  <form th:action="@{/listdomains}" th:method="POST" enctype="multipart/form-data">
+    <input th:name="jsonfile" th:type="file"><br>
+    <button th:type="submit">Upload</button>
+  </form>
+
+  <h4>Get a list of common sellers from two sellers.json files</h4>
+  <form th:action="@{/commonSellers}" th:method="POST" enctype="multipart/form-data">
+    <input th:name="jsonfiles" th:type="file"><br>
+    <input th:name="jsonfiles" th:type="file"><br>
+    <button th:type="submit">Upload</button>
+  </form>
+</div>
+
+</body>
+</html>
