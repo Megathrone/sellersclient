@@ -1,0 +1,1253 @@
+{
+  "version": "1.0",
+  "identifiers": [
+    {
+      "name": "TAG-ID",
+      "value": "b6ada874b4d7d0b2"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "1017856417",
+      "seller_type": "INTERMEDIARY",
+      "name": "JamVid",
+      "domain": "jamvid.com"
+    },
+    {
+      "seller_id": "1013433090",
+      "seller_type": "PUBLISHER",
+      "name": "Lifebuzz",
+      "domain": "lifebuzz.com"
+    },
+    {
+      "seller_id": "2114812987",
+      "seller_type": "INTERMEDIARY",
+      "name": "MediaImpact",
+      "domain": "mediaimpact.com"
+    },
+    {
+      "seller_id": "6481700530",
+      "seller_type": "PUBLISHER",
+      "name": "MediaImpact",
+      "domain": "mediaimpact.com"
+    },
+    {
+      "seller_id": "4831816138",
+      "seller_type": "PUBLISHER",
+      "name": "cport",
+      "domain": "cport.eu"
+    },
+    {
+      "seller_id": "6794355266",
+      "seller_type": "INTERMEDIARY",
+      "name": "Anyclip",
+      "domain": "anyclip.com"
+    },
+    {
+      "seller_id": "1555901228",
+      "seller_type": "PUBLISHER",
+      "name": "Zergnet",
+      "domain": "zergnet.com"
+    },
+    {
+      "seller_id": "3172216395",
+      "seller_type": "PUBLISHER",
+      "name": "italiaonline.it",
+      "domain": "italiaonline.it.com"
+    },
+    {
+      "seller_id": "3625010750",
+      "seller_type": "INTERMEDIARY",
+      "name": "italiaonline.it",
+      "domain": "italiaonline.it.com"
+    },
+    {
+      "seller_id": "3676790341",
+      "seller_type": "INTERMEDIARY",
+      "name": "Watchcartoon",
+      "domain": "watchcartoon.com"
+    },
+    {
+      "seller_id": "3979356165",
+      "seller_type": "PUBLISHER",
+      "name": "Minute Media",
+      "domain": "minute media.com"
+    },
+    {
+      "seller_id": "4049247047",
+      "seller_type": "INTERMEDIARY",
+      "name": "Lifebuzz",
+      "domain": "lifebuzz.com"
+    },
+    {
+      "seller_id": "4373633370",
+      "seller_type": "INTERMEDIARY",
+      "name": "Content.ad",
+      "domain": "content.ad.com"
+    },
+    {
+      "seller_id": "4773214775",
+      "seller_type": "PUBLISHER",
+      "name": "TimesInternet",
+      "domain": "timesinternet.com"
+    },
+    {
+      "seller_id": "4967162112",
+      "seller_type": "INTERMEDIARY",
+      "name": "Disqus",
+      "domain": "disqus.com"
+    },
+    {
+      "seller_id": "5181618553",
+      "seller_type": "INTERMEDIARY",
+      "name": "MonetizeMore",
+      "domain": "monetizemore.com"
+    },
+    {
+      "seller_id": "5199769076",
+      "seller_type": "PUBLISHER",
+      "name": "Motorsport",
+      "domain": "motorsport.com"
+    },
+    {
+      "seller_id": "5263983764",
+      "seller_type": "PUBLISHER",
+      "name": "Ströer Media Brands GmbH",
+      "domain": "stroeermediabrands.de"
+    },
+    {
+      "seller_id": "5362936801",
+      "seller_type": "INTERMEDIARY",
+      "name": "Zedo",
+      "domain": "zedo.com"
+    },
+    {
+      "seller_id": "54332548",
+      "seller_type": "PUBLISHER",
+      "name": "CBS Interactive",
+      "domain": "cbs interactive.com"
+    },
+    {
+      "seller_id": "5802303190",
+      "seller_type": "INTERMEDIARY",
+      "name": "Motorsport",
+      "domain": "motorsport.com"
+    },
+    {
+      "seller_id": "5840137198",
+      "seller_type": "PUBLISHER",
+      "name": "Impactify",
+      "domain": "impactify.com"
+    },
+    {
+      "seller_id": "5969950",
+      "seller_type": "INTERMEDIARY",
+      "name": "Wibbitz Ltd.",
+      "domain": "wibbitz.com"
+    },
+    {
+      "seller_id": "5c810ae06ded540014093ee1",
+      "seller_type": "PUBLISHER",
+      "name": "Offendy",
+      "domain": "offendy.com"
+    },
+    {
+      "seller_id": "6221295237",
+      "seller_type": "PUBLISHER",
+      "name": "Kiwys",
+      "domain": "kiwys.com"
+    },
+    {
+      "seller_id": "6277274378",
+      "seller_type": "PUBLISHER",
+      "name": "boredpanda",
+      "domain": "boredpanda.com"
+    },
+    {
+      "seller_id": "6316608157",
+      "seller_type": "INTERMEDIARY",
+      "name": "Slacker",
+      "domain": "slacker.com"
+    },
+    {
+      "seller_id": "6597353451",
+      "seller_type": "PUBLISHER",
+      "name": "Slacker",
+      "domain": "slacker.com"
+    },
+    {
+      "seller_id": "6603719165",
+      "seller_type": "INTERMEDIARY",
+      "name": "TimesInternet",
+      "domain": "timesinternet.com"
+    },
+    {
+      "seller_id": "6635729",
+      "seller_type": "INTERMEDIARY",
+      "name": "Disqus",
+      "domain": "disqus.com"
+    },
+    {
+      "seller_id": "6767130653",
+      "seller_type": "PUBLISHER",
+      "name": "thegamer",
+      "domain": "thegamer.tv"
+    },
+    {
+      "seller_id": "6825803149",
+      "seller_type": "PUBLISHER",
+      "name": "Watchcartoon",
+      "domain": "watchcartoon.com"
+    },
+    {
+      "seller_id": "7020237223",
+      "seller_type": "PUBLISHER",
+      "name": "Uptodown",
+      "domain": "uptodown.com"
+    },
+    {
+      "seller_id": "7036942643",
+      "seller_type": "INTERMEDIARY",
+      "name": "JamVid",
+      "domain": "jamvid.com"
+    },
+    {
+      "seller_id": "7076833969",
+      "seller_type": "PUBLISHER",
+      "name": "Moneytag - L'agardere",
+      "domain": "moneytag - l'agardere.com"
+    },
+    {
+      "seller_id": "7570461460",
+      "seller_type": "INTERMEDIARY",
+      "name": "Uptodown",
+      "domain": "uptodown.com"
+    },
+    {
+      "seller_id": "7695771814",
+      "seller_type": "INTERMEDIARY",
+      "name": "boredpanda",
+      "domain": "boredpanda.com"
+    },
+    {
+      "seller_id": "78645000000",
+      "seller_type": "PUBLISHER",
+      "name": "Gray Down",
+      "domain": "gray down.com"
+    },
+    {
+      "seller_id": "7933232172",
+      "seller_type": "INTERMEDIARY",
+      "name": "Moneytag - L'agardere",
+      "domain": "moneytag - l'agardere.com"
+    },
+    {
+      "seller_id": "8119502438",
+      "seller_type": "INTERMEDIARY",
+      "name": "MonetizeMore",
+      "domain": "monetizemore.com"
+    },
+    {
+      "seller_id": "817646222",
+      "seller_type": "INTERMEDIARY",
+      "name": "Outbrain Inc.",
+      "domain": "outbrain.com"
+    },
+    {
+      "seller_id": "8434813671",
+      "seller_type": "INTERMEDIARY",
+      "name": "J Media Group",
+      "domain": "j media group.com"
+    },
+    {
+      "seller_id": "8725430969",
+      "seller_type": "INTERMEDIARY",
+      "name": "thegamer",
+      "domain": "thegamer.tv"
+    },
+    {
+      "seller_id": "91",
+      "seller_type": "PUBLISHER",
+      "name": "J Media Group",
+      "domain": "j media group.com"
+    },
+    {
+      "seller_id": "9188954542",
+      "seller_type": "PUBLISHER",
+      "name": "J Media Group",
+      "domain": "j media group.com"
+    },
+    {
+      "seller_id": "9672749",
+      "seller_type": "INTERMEDIARY",
+      "name": "Wibbitz Ltd.",
+      "domain": "wibbitz.com"
+    },
+    {
+      "seller_id": "9861078062",
+      "seller_type": "INTERMEDIARY",
+      "name": "Minute.ly",
+      "domain": "minute.ly.com"
+    },
+    {
+      "seller_id": "9879905264",
+      "seller_type": "INTERMEDIARY",
+      "name": "Content.ad",
+      "domain": "content.ad.com"
+    },
+    {
+      "seller_id": "9905327076",
+      "seller_type": "INTERMEDIARY",
+      "name": "Kiwys",
+      "domain": "kiwys.com"
+    },
+    {
+      "seller_id": "5d960aabbe0aeb00141fab12",
+      "seller_type": "PUBLISHER",
+      "name": "The Multimedia Group",
+      "domain": "multimediaghana.com"
+    },
+    {
+      "seller_id": "49809829402",
+      "seller_type": "PUBLISHER",
+      "name": "Popdust",
+      "domain": "popdust.com"
+    },
+    {
+      "seller_id": "5d9bb6142785ee0014344440",
+      "seller_type": "PUBLISHER",
+      "name": "Techie Guy",
+      "domain": "thetechieguy.com"
+    },
+    {
+      "seller_id": "5d94bdfcbe659e0014316199",
+      "seller_type": "PUBLISHER",
+      "name": "wherever-i-look",
+      "domain": "Wherever-i-look.com"
+    },
+    {
+      "seller_id": "5da8d29357648c0014fba99e",
+      "seller_type": "PUBLISHER",
+      "name": "Sports Publishers Group",
+      "domain": "sportspublishersgroup.com"
+    },
+    {
+      "seller_id": "5da8281f57648c0014fba999",
+      "seller_type": "PUBLISHER",
+      "name": "PositronX",
+      "domain": "positronx.io"
+    },
+    {
+      "seller_id": "5da3bb13ca937c00140aca93",
+      "seller_type": "PUBLISHER",
+      "name": "Turistika",
+      "domain": "turistika.cz"
+    },
+    {
+      "seller_id": "468000000000",
+      "seller_type": "PUBLISHER",
+      "name": "Bollywood Bubble",
+      "domain": "bollywoodbubble.com"
+    },
+    {
+      "seller_id": "6843518465",
+      "seller_type": "PUBLISHER",
+      "name": "Bright Mountain Media",
+      "domain": "brightmountainmedia.com"
+    },
+    {
+      "seller_id": "5dc48ed127f0410014175087",
+      "seller_type": "PUBLISHER",
+      "name": "Peoplepill",
+      "domain": "peoplepill.com"
+    },
+    {
+      "seller_id": "5db903c0be753a00143cd6aa",
+      "seller_type": "PUBLISHER",
+      "name": "Gagadaily",
+      "domain": "gagadaily.com "
+    },
+    {
+      "seller_id": "5dc437c527f041001417507e",
+      "seller_type": "PUBLISHER",
+      "name": "Gamespew",
+      "domain": "gamespew.com"
+    },
+    {
+      "seller_id": "5db764fc050dc10014f39f85",
+      "seller_type": "PUBLISHER",
+      "name": "Tunebat",
+      "domain": "tunebat.com"
+    },
+    {
+      "seller_id": "5dc0471b9079f4001492228c",
+      "seller_type": "PUBLISHER",
+      "name": "Explain Life",
+      "domain": "explainlife.com"
+    },
+    {
+      "seller_id": "5dc3016aba0dc600145b3a05",
+      "seller_type": "PUBLISHER",
+      "name": "Vidmax",
+      "domain": "vidmax.com"
+    },
+    {
+      "seller_id": "5db210275783230014c0fd04",
+      "seller_type": "PUBLISHER",
+      "name": "Central Nervous",
+      "domain": "centralnervous.com"
+    },
+    {
+      "seller_id": "5db21e875783230014c0fd0a",
+      "seller_type": "PUBLISHER",
+      "name": "Inside Hoops",
+      "domain": "insidehoops.com"
+    },
+    {
+      "seller_id": "5dbb2607bb9ccc00143d9cb0",
+      "seller_type": "PUBLISHER",
+      "name": "HBCU Sports",
+      "domain": "hbcusports.com"
+    },
+    {
+      "seller_id": "5db33b7752ed9a00141a2493",
+      "seller_type": "PUBLISHER",
+      "name": "Phillips Media Group",
+      "domain": "phillipsmedia.com"
+    },
+    {
+      "seller_id": "5dcc1777f6419f001402e066",
+      "seller_type": "PUBLISHER",
+      "name": "Pub Plus",
+      "domain": "pubplus.com"
+    },
+    {
+      "seller_id": "5ddc52629b2510001747ce1c",
+      "seller_type": "PUBLISHER",
+      "name": "DiversifyMedia",
+      "domain": ""
+    },
+    {
+      "seller_id": "5zuf8d7xlc92x1lfroipr25q",
+      "seller_type": "PUBLISHER",
+      "name": "Czech Media Invest, a.s.",
+      "domain": "czechmediainvest.cz"
+    },
+    {
+      "seller_id": "2umq1scrwtysa2y9i951n246",
+      "seller_type": "PUBLISHER",
+      "name": "E2J2",
+      "domain": "slate.fr"
+    },
+    {
+      "seller_id": "gsi1qguc3kp2g6q63vtg3bbm",
+      "seller_type": "PUBLISHER",
+      "name": "EWTN News INC",
+      "domain": "ewtnnews.com"
+    },
+    {
+      "seller_id": "i8bkr03835eud5w8bm4sc4og",
+      "seller_type": "PUBLISHER",
+      "name": "Exent Technologies Ltd",
+      "domain": "exent.com"
+    },
+    {
+      "seller_id": "2umq1scrwtysa2y9i951n246",
+      "seller_type": "PUBLISHER",
+      "name": "Income Store",
+      "domain": "incomestore.com"
+    },
+    {
+      "seller_id": "4g5qlxovrw0z1b5nkme47lfh",
+      "seller_type": "PUBLISHER",
+      "name": "Informacion Integral 24/7 S.a.p.i. De C.v.",
+      "domain": "24-horas.mx"
+    },
+    {
+      "seller_id": "2qoh06fqycha91yzjkbskri3",
+      "seller_type": "PUBLISHER",
+      "name": "iOne Digital",
+      "domain": "ionedigital.com"
+    },
+    {
+      "seller_id": "o610gxam2bfkp809gkj9mpjc",
+      "seller_type": "PUBLISHER",
+      "name": "Lagardere Media News",
+      "domain": "lagardere.com"
+    },
+    {
+      "seller_id": "wl1zphyorrea8dwx5195sajm",
+      "seller_type": "PUBLISHER",
+      "name": "Le Parisien Libere",
+      "domain": "leparisien.fr"
+    },
+    {
+      "seller_id": "jz89065d6x6qhr7bz2dksmv9",
+      "seller_type": "PUBLISHER",
+      "name": "Leadership Institute",
+      "domain": "incomestore.com"
+    },
+    {
+      "seller_id": "56rtddb1uchjma28ke31fedw",
+      "seller_type": "PUBLISHER",
+      "name": "Ma Chaine Etudiante",
+      "domain": "mcetv.fr"
+    },
+    {
+      "seller_id": "7os87mv6j56b0cht8e2vfnur",
+      "seller_type": "PUBLISHER",
+      "name": "Planet.fr SA",
+      "domain": "planet.fr"
+    },
+    {
+      "seller_id": "7gbxlpii1vc6h0insh5vmav1",
+      "seller_type": "PUBLISHER",
+      "name": "Prodege, LLC",
+      "domain": "prodege.com"
+    },
+    {
+      "seller_id": "biubm54kaca3jv7npyz4qmfh",
+      "seller_type": "PUBLISHER",
+      "name": "PWInsider",
+      "domain": "pwinsider.com"
+    },
+    {
+      "seller_id": "hct3xe8hdda06wvjsg82a3tp",
+      "seller_type": "PUBLISHER",
+      "name": "Schurz Communications Inc.",
+      "domain": "schurz.com"
+    },
+    {
+      "seller_id": "y0jc7pymjoo5iec2xlvvkyid",
+      "seller_type": "PUBLISHER",
+      "name": "Societe Ouest-France SA",
+      "domain": "ouest-france.fr"
+    },
+    {
+      "seller_id": "9uj4erfn08hfgbbfqbecf01s",
+      "seller_type": "PUBLISHER",
+      "name": "Telepictures Productions Inc.",
+      "domain": "telepicturestv.com"
+    },
+    {
+      "seller_id": "mwi9mn69i0i9pe4vyzjlmdfs",
+      "seller_type": "PUBLISHER",
+      "name": "The New Mexican, Inc.",
+      "domain": "santafenewmexican.com"
+    },
+    {
+      "seller_id": "cc40o6wore4orwuwe7axgcj3",
+      "seller_type": "PUBLISHER",
+      "name": "The Poynter Institute",
+      "domain": "poynter.org"
+    },
+    {
+      "seller_id": "nctf55le00di97fz22fuo3jr",
+      "seller_type": "PUBLISHER",
+      "name": "Truthdig, LLC",
+      "domain": "truthdig.com"
+    },
+    {
+      "seller_id": "qs69mqg2ai52el6euybzdk6k",
+      "seller_type": "PUBLISHER",
+      "name": "Voice Media Group",
+      "domain": "voicemediagroup.com"
+    },
+    {
+      "seller_id": "mgl53k2jin1263k27tjh3tzd",
+      "seller_type": "PUBLISHER",
+      "name": "YB Media, LLC",
+      "domain": "yardbarker.com"
+    },
+    {
+      "seller_id": "rzof7o5ao8ilrbjix7m2d07n",
+      "seller_type": "PUBLISHER",
+      "name": "LA Weekly",
+      "domain": "laweekly.com"
+    },
+    {
+      "seller_id": "5d95bbabbe0aeb00141faafe",
+      "seller_type": "PUBLISHER",
+      "name": "Twinix",
+      "domain": "twinixinfomedia.com"
+    },
+    {
+      "seller_id": "5dd7c1d833d7e6001742438e",
+      "seller_type": "PUBLISHER",
+      "name": "Digitalbox PLC",
+      "domain": "digitalbox.com"
+    },
+    {
+      "seller_id": "5dde6e55a3c0550014c56b75",
+      "seller_type": "PUBLISHER",
+      "name": "Suraj Meshram",
+      "domain": "sololeveling.net"
+    },
+    {
+      "seller_id": "5de8261aec32da0015826fdc",
+      "seller_type": "PUBLISHER",
+      "name": "LALATE LLC",
+      "domain": "lalate.com"
+    },
+    {
+      "seller_id": "5de3e389e0f1e1001501af23",
+      "seller_type": "PUBLISHER",
+      "name": "Eckman Design, LLC",
+      "domain": "eckmandesign.com"
+    },
+    {
+      "seller_id": "5dea993f05e11e0015282a5e",
+      "seller_type": "PUBLISHER",
+      "name": "Aware Ads Inc",
+      "domain": "awareads.com"
+    },
+    {
+      "seller_id": "5de95405f50d5d0015e4537c",
+      "seller_type": "PUBLISHER",
+      "name": "SportSpyder LLC",
+      "domain": "sportspyder.com"
+    },
+    {
+      "seller_id": "5ded10949610264545cc816c",
+      "seller_type": "PUBLISHER",
+      "name": "MFTest",
+      "domain": "mftest.com"
+    },
+    {
+      "seller_id": "5de4cd19b1c19a001584c504",
+      "seller_type": "PUBLISHER",
+      "name": "Demonslayermanga",
+      "domain": "demonslayermanga.com"
+    },
+    {
+      "seller_id": "5dee685dae91510015fff191",
+      "seller_type": "PUBLISHER",
+      "name": "test912",
+      "domain": "test912.com"
+    },
+    {
+      "seller_id": "5dee7e40066be200156aa23e",
+      "seller_type": "PUBLISHER",
+      "name": "Softonic",
+      "domain": "Softonic.com"
+    },
+    {
+      "seller_id": "5defc3e42e7d120015aa0bb0",
+      "seller_type": "PUBLISHER",
+      "name": "Nostalgic Express",
+      "domain": "nostalgicexpress.com"
+    },
+    {
+      "seller_id": "5ded6a90692d1100158c9d8d",
+      "seller_type": "PUBLISHER",
+      "name": "The Denver Exchange, Inc",
+      "domain": "tde.com"
+    },
+    {
+      "seller_id": "5def8d22493dd000159af77a",
+      "seller_type": "PUBLISHER",
+      "name": "Jack Yan & Associates",
+      "domain": "jyanet.com"
+    },
+    {
+      "seller_id": "5df0a5552e7d120015aa0bc0",
+      "seller_type": "PUBLISHER",
+      "name": "Bangkok Post",
+      "domain": "bangkokpost.com"
+    },
+    {
+      "seller_id": "5df08ea52e7d120015aa0bb7",
+      "seller_type": "PUBLISHER",
+      "name": "Volantis Digital Media Pte Ltd",
+      "domain": "volantisdigital.com"
+    },
+    {
+      "seller_id": "482049603",
+      "seller_type": "PUBLISHER",
+      "name": "Dailydot",
+      "domain": "dailydot.com"
+    },
+    {
+      "seller_id": "48385597953",
+      "seller_type": "PUBLISHER",
+      "name": "Beachgrit",
+      "domain": "beachgrit.com"
+    },
+    {
+      "seller_id": "5db70347050dc10014f39f82",
+      "seller_type": "PUBLISHER",
+      "name": "Albuquerque Journal",
+      "domain": "abqjournal.com"
+    },
+    {
+      "seller_id": "5df20378cbc84c001528a609",
+      "seller_type": "PUBLISHER",
+      "name": "Origami-Make",
+      "domain": "origami-make.org"
+    },
+    {
+      "seller_id": "5dcdda041c34780017d85f5b",
+      "seller_type": "PUBLISHER",
+      "name": "Diversify Media",
+      "domain": "diversifymedia.com"
+    },
+    {
+      "seller_id": "3514101921",
+      "seller_type": "PUBLISHER",
+      "name": "t.wuest@stroeermediabrands.de",
+      "domain": "stroeermediabrands.de"
+    },
+    {
+      "seller_id": "5df387981b04ba00153a5035",
+      "seller_type": "PUBLISHER",
+      "name": "Albeu",
+      "domain": "albeu.com"
+    },
+    {
+      "seller_id": "5df633db8099b00015cdea31",
+      "seller_type": "PUBLISHER",
+      "name": "Jagran New Media",
+      "domain": "jagrannewmedia.com"
+    },
+    {
+      "seller_id": "5df386971b04ba00153a5032",
+      "seller_type": "PUBLISHER",
+      "name": "HHV Media Enterprises, Inc.",
+      "domain": "hip-hopvibe.com"
+    },
+    {
+      "seller_id": "4861384954",
+      "seller_type": "PUBLISHER",
+      "name": "Football Scoop",
+      "domain": "footballscoop.com"
+    },
+    {
+      "seller_id": "6366326562",
+      "seller_type": "PUBLISHER",
+      "name": "Userwave",
+      "domain": "userwave.com"
+    },
+    {
+      "seller_id": "468463186351",
+      "seller_type": "PUBLISHER",
+      "name": "Bollywood Bubble",
+      "domain": "bollywoodbubble.com"
+    },
+    {
+      "seller_id": "4864138186",
+      "seller_type": "PUBLISHER",
+      "name": "New Indian Express",
+      "domain": "newindianexpress.com"
+    },
+    {
+      "seller_id": "5daa0358e0f4560014346cc8",
+      "seller_type": "PUBLISHER",
+      "name": "Yieldlove GmbH",
+      "domain": "yieldlove.com"
+    },
+    {
+      "seller_id": "5d946d40be659e0014316196",
+      "seller_type": "PUBLISHER",
+      "name": "Popdust",
+      "domain": "popdust.com"
+    },
+    {
+      "seller_id": "5dc98b11f261390014a40f3a",
+      "seller_type": "PUBLISHER",
+      "name": "WeRaveYou",
+      "domain": "weraveyou.com"
+    },
+    {
+      "seller_id": "678687698768",
+      "seller_type": "PUBLISHER",
+      "name": "World Israel News",
+      "domain": "worldisraelnews.com"
+    },
+    {
+      "seller_id": "5dfa5d4aaedc8f0015a13e43",
+      "seller_type": "PUBLISHER",
+      "name": "NMC",
+      "domain": "newsmediacorporation.com"
+    },
+    {
+      "seller_id": "5e007ff84ff6df0015e16905",
+      "seller_type": "PUBLISHER",
+      "name": "test2212",
+      "domain": "test2212.com"
+    },
+    {
+      "seller_id": "5e008e174ff6df0015e1690b",
+      "seller_type": "PUBLISHER",
+      "name": "The Asashi Shimbun Company",
+      "domain": "asahi.com"
+    },
+    {
+      "seller_id": "5e0079c37d9fe50015920039",
+      "seller_type": "PUBLISHER",
+      "name": "Teepr",
+      "domain": "teepr.com"
+    },
+    {
+      "seller_id": "5dff684d0532790015dc45e4",
+      "seller_type": "PUBLISHER",
+      "name": "Healthy Celeb",
+      "domain": "healthyceleb.com"
+    },
+    {
+      "seller_id": "5dfb999f3a19880015fc0a72",
+      "seller_type": "PUBLISHER",
+      "name": "Adevarul Holding ",
+      "domain": "adevarul.ro"
+    },
+    {
+      "seller_id": "5dfb4ee93a19880015fc0a67",
+      "seller_type": "PUBLISHER",
+      "name": "Namo Digital Media LLP",
+      "domain": "namodigitalmedia.com"
+    },
+    {
+      "seller_id": "5e0229daecdae100154074a4",
+      "seller_type": "PUBLISHER",
+      "name": "Wazimo Media Ltd",
+      "domain": "wazimo.com"
+    },
+    {
+      "seller_id": "1773068026",
+      "seller_type": "INTERMEDIARY",
+      "name": "Outbrain Inc.",
+      "domain": "outbrain.com"
+    },
+    {
+      "seller_id": "7402668336",
+      "seller_type": "PUBLISHER",
+      "name": "Shinez",
+      "domain": "shinez.io"
+    },
+    {
+      "seller_id": "5e0cc088ea22040015bc098b",
+      "seller_type": "PUBLISHER",
+      "name": "Merohub Ltd",
+      "domain": "highlightsfootball.net"
+    },
+    {
+      "seller_id": "7630975550",
+      "seller_type": "PUBLISHER",
+      "name": "Forty Two Media Group Ltd",
+      "domain": "42media.group"
+    },
+    {
+      "seller_id": "5e1eb193f60df50015a8ce63",
+      "seller_type": "PUBLISHER",
+      "name": "Kompas Gramedia",
+      "domain": "kompas.com"
+    },
+    {
+      "seller_id": "5e1e2e14f60df50015a8ce5a",
+      "seller_type": "PUBLISHER",
+      "name": "Revolvy",
+      "domain": "revolvy.com"
+    },
+    {
+      "seller_id": "5e1d9e347d206800155fa83c",
+      "seller_type": "PUBLISHER",
+      "name": "ADOP",
+      "domain": "adop.cc"
+    },
+    {
+      "seller_id": "5e1d952900d44d0015c37d97",
+      "seller_type": "PUBLISHER",
+      "name": "twiago GmbH",
+      "domain": "twiago.com"
+    },
+    {
+      "seller_id": "5e1cded400d44d0015c37d8f",
+      "seller_type": "PUBLISHER",
+      "name": "CIRBS LLC",
+      "domain": "geekspin.co"
+    },
+    {
+      "seller_id": "5e1c67357917c300156bef8c",
+      "seller_type": "PUBLISHER",
+      "name": "SARG Global Digital Pvt. Ltd",
+      "domain": "republicworld.com"
+    },
+    {
+      "seller_id": "5e18792ade8d0f00156677c7",
+      "seller_type": "PUBLISHER",
+      "name": "Creatur.io",
+      "domain": "creatur.io"
+    },
+    {
+      "seller_id": "5e178ae1de8d0f00156677be",
+      "seller_type": "PUBLISHER",
+      "name": "Ziff Davis",
+      "domain": "ziffdavis.com"
+    },
+    {
+      "seller_id": "5e17544f7fb0980015c2ffa5",
+      "seller_type": "PUBLISHER",
+      "name": "Magic Valley Publishing Co., Inc. ",
+      "domain": "magicvalleypublishing.com"
+    },
+    {
+      "seller_id": "5e1701dc7fb0980015c2ff57",
+      "seller_type": "PUBLISHER",
+      "name": "ADTERRA SOLUTIONS PRIVATE LIMITED",
+      "domain": "adterra.in"
+    },
+    {
+      "seller_id": "5e16cf9d0f7f0d00157f4e5f",
+      "seller_type": "PUBLISHER",
+      "name": "Daily Racing Forum",
+      "domain": "drf.com"
+    },
+    {
+      "seller_id": "5e1522b102df8c00156b825c",
+      "seller_type": "PUBLISHER",
+      "name": "StomachPunch Media LLC",
+      "domain": "stomachpunchmedia.com"
+    },
+    {
+      "seller_id": "5e14fd0c02df8c00156b8254",
+      "seller_type": "PUBLISHER",
+      "name": "Cordless Media",
+      "domain": "cordlessmedia.com"
+    },
+    {
+      "seller_id": "5e1496bbd1b30a00156fd69b",
+      "seller_type": "PUBLISHER",
+      "name": "Kidz Feed",
+      "domain": "kidzfeed.com"
+    },
+    {
+      "seller_id": "5e14890de4f25200151a0b9d",
+      "seller_type": "PUBLISHER",
+      "name": "Azerion",
+      "domain": "azerion.com"
+    },
+    {
+      "seller_id": "5e146850d1b30a00156fd690",
+      "seller_type": "PUBLISHER",
+      "name": "Footy Gruppen ApS",
+      "domain": "footy.dk"
+    },
+    {
+      "seller_id": "5e1445bad1b30a00156fd687",
+      "seller_type": "PUBLISHER",
+      "name": "Abp Digital",
+      "domain": "abpdigital.in"
+    },
+    {
+      "seller_id": "5e1443e1d1b30a00156fd67f",
+      "seller_type": "PUBLISHER",
+      "name": "Netlink",
+      "domain": "netlink.vn"
+    },
+    {
+      "seller_id": "5e138bf5e4f25200151a0b8b",
+      "seller_type": "PUBLISHER",
+      "name": "Buhamster.com",
+      "domain": "buhamster.com"
+    },
+    {
+      "seller_id": "5e1346941d60720015174a7b",
+      "seller_type": "PUBLISHER",
+      "name": "Home-Dzine",
+      "domain": "home-dzine.co.za"
+    },
+    {
+      "seller_id": "5e1317a2ae52d7001534c298",
+      "seller_type": "PUBLISHER",
+      "name": "Zee Entertainment Enterprises Ltd",
+      "domain": "india.com"
+    },
+    {
+      "seller_id": "5e0e770f0767b000156bccb3",
+      "seller_type": "PUBLISHER",
+      "name": "Recreational Gaming LLC",
+      "domain": "sportsplays.com"
+    },
+    {
+      "seller_id": "5e0e76e00767b000156bccab",
+      "seller_type": "PUBLISHER",
+      "name": "Superior Line Sports",
+      "domain": "centsports.com"
+    },
+    {
+      "seller_id": "5e085f4d9aa1d300150eb93c",
+      "seller_type": "PUBLISHER",
+      "name": "MonetizeMore",
+      "domain": "monetizemore.com"
+    },
+    {
+      "seller_id": "5e2895ab6430fb0015164f8e",
+      "seller_type": "PUBLISHER",
+      "name": "issuu",
+      "domain": "issuu.com"
+    },
+    {
+      "seller_id": "5e2067bc9120cf00157da0ba",
+      "seller_type": "PUBLISHER",
+      "name": "SnigelWeb",
+      "domain": "snigelweb.com"
+    },
+    {
+      "seller_id": "5e270e53f13b190015a31576",
+      "seller_type": "PUBLISHER",
+      "name": "Musixmatch",
+      "domain": "musixmatch.com"
+    },
+    {
+      "seller_id": "5e305ac4e7e8da0015114532",
+      "seller_type": "PUBLISHER",
+      "name": "Marsoly Media LLC",
+      "domain": "marsolymedia.com"
+    },
+    {
+      "seller_id": "5e2f181eb836d200157a6f36",
+      "seller_type": "PUBLISHER",
+      "name": "TalkBasket",
+      "domain": "talkbasket.net"
+    },
+    {
+      "seller_id": "5e34279a00e86300158b8be6",
+      "seller_type": "PUBLISHER",
+      "name": "Summit Publishing Co., Inc.",
+      "domain": "summitmedia.com.ph"
+    },
+    {
+      "seller_id": "5e382e01f64fec0015ce3983",
+      "seller_type": "PUBLISHER",
+      "name": "Bidgear jsc",
+      "domain": "bidgear.com"
+    },
+    {
+      "seller_id": "5e3ab1d6b7fd7b0015eb3278",
+      "seller_type": "PUBLISHER",
+      "name": "Evolutionadv ",
+      "domain": "evolutionadv.it"
+    },
+    {
+      "seller_id": "5e4279991fab9e00154b363d",
+      "seller_type": "PUBLISHER",
+      "name": "The Moscow times",
+      "domain": "themoscowtimes.com"
+    },
+    {
+      "seller_id": "5e41bb4c6ee1190015b0179b",
+      "seller_type": "PUBLISHER",
+      "name": "Editora Surcolombiana",
+      "domain": "lanacion.com.co"
+    },
+    {
+      "seller_id": "5e3d2576e7677000158e1f47",
+      "seller_type": "PUBLISHER",
+      "name": "iVoox Global Podcasting Service",
+      "domain": "ivoox.com"
+    },
+    {
+      "seller_id": "5e39a14aa8d7190015409c56",
+      "seller_type": "PUBLISHER",
+      "name": "Northwest Media Partners, LLC",
+      "domain": "nwmediapartners.com"
+    },
+    {
+      "seller_id": "5e398884a8d7190015409c4c",
+      "seller_type": "PUBLISHER",
+      "name": "Brulee Publishing",
+      "domain": "bruleepublishing.com"
+    },
+    {
+      "seller_id": "5e2b34bb26eb6f0015f971ce",
+      "seller_type": "PUBLISHER",
+      "name": "TUR",
+      "domain": "dailyoccupation.com"
+    },
+    {
+      "seller_id": "5e28698d97eacd0015940433",
+      "seller_type": "PUBLISHER",
+      "name": "The Moneytizer",
+      "domain": "themoneytizer.com"
+    },
+    {
+      "seller_id": "5e391c37a8d7190015409c3b",
+      "seller_type": "PUBLISHER",
+      "name": "klamm.de",
+      "domain": "klamm.de"
+    },
+    {
+      "seller_id": "5e429ec62bb61c0015be67c6",
+      "seller_type": "PUBLISHER",
+      "name": "Smile Think, SL",
+      "domain": "ampliffy.com"
+    },
+    {
+      "seller_id": "5e42a23a1fab9e00154b3646",
+      "seller_type": "PUBLISHER",
+      "name": "April Innovations",
+      "domain": "aprilinnovations.com"
+    },
+    {
+      "seller_id": "5e397fdda8d7190015409c44",
+      "seller_type": "PUBLISHER",
+      "name": "Ringier",
+      "domain": "ringier.ro"
+    },
+    {
+      "seller_id": "5e32eaf7037cc70015fc9aa1",
+      "seller_type": "PUBLISHER",
+      "name": "MANX CAPITAL GROUP, INC",
+      "domain": "manxcap.com"
+    },
+    {
+      "seller_id": "5e31c766432b0b0015749782",
+      "seller_type": "PUBLISHER",
+      "name": "La Nacion",
+      "domain": "lanacion.com.ar"
+    },
+    {
+      "seller_id": "5e442f597bceb800153d5c3c",
+      "seller_type": "PUBLISHER",
+      "name": "Rhymes With Snitch / Nichelle Ussery",
+      "domain": "rhymeswithsnitch.com"
+    },
+    {
+      "seller_id": "5e4554689b2db30015d4fbce",
+      "seller_type": "PUBLISHER",
+      "name": "TV24 Group AB",
+      "domain": "tv24.co.uk"
+    },
+    {
+      "seller_id": "5e45631244ebd300156b5ba9",
+      "seller_type": "PUBLISHER",
+      "name": "ONE Group",
+      "domain": "one.com.mt"
+    },
+    {
+      "seller_id": "5e458f459b2db30015d4fbd6",
+      "seller_type": "PUBLISHER",
+      "name": "Calculator.org",
+      "domain": "calculator.com"
+    },
+    {
+      "seller_id": "5e1f23129120cf00157da0b9",
+      "seller_type": "PUBLISHER",
+      "name": "Fusion Media Limited",
+      "domain": "investing.com"
+    },
+    {
+      "seller_id": "5e45b0ad9b2db30015d4fbde",
+      "seller_type": "PUBLISHER",
+      "name": "Andre Braddox",
+      "domain": "ontheflix.com"
+    },
+    {
+      "seller_id": "5e4aaea09499bb001587b514",
+      "seller_type": "PUBLISHER",
+      "name": "SIA MEDIA PARTNERS",
+      "domain": "rankchart.org"
+    },
+    {
+      "seller_id": "5e4ac5fcfcec7400153a775a",
+      "seller_type": "PUBLISHER",
+      "name": "Wallofcelebrities",
+      "domain": "wallofcelebrities.com"
+    },
+    {
+      "seller_id": "5e4bc14558d1e80015fe5a18",
+      "seller_type": "PUBLISHER",
+      "name": "123MULTIMEDIA",
+      "domain": "123multimedia.com"
+    },
+    {
+      "seller_id": "5e4c2dc908d87b0015456cea",
+      "seller_type": "PUBLISHER",
+      "name": "Media Lodge",
+      "domain": "medialodge.com"
+    },
+    {
+      "seller_id": "5e4c447508d87b0015456cf2",
+      "seller_type": "PUBLISHER",
+      "name": "G&A Sziladi",
+      "domain": "gasziladi.com"
+    },
+    {
+      "seller_id": "9950565347",
+      "seller_type": "PUBLISHER",
+      "name": "Forreason",
+      "domain": "forreason.com"
+    },
+    {
+      "seller_id": "5a9707c03be22e0001979764",
+      "name": "ESI Media",
+      "seller_type": "PUBLISHER",
+      "domain": "esimedia.co.uk"
+    },
+    {
+      "seller_id": "5e2475a58431a300154327dc",
+      "seller_type": "PUBLISHER",
+      "name": "Kueez Entertainment LTD",
+      "domain": "kueez-ent.com"
+    },
+    {
+      "seller_id": "5e4edb1cd927e00015d2cf08",
+      "seller_type": "PUBLISHER",
+      "name": "Hive Media Group",
+      "domain": "hivemedia.com"
+    },
+    {
+      "seller_id": "5e4f6461d927e00015d2cf11",
+      "seller_type": "PUBLISHER",
+      "name": "Fuze, LLC",
+      "domain": "mediafuse.com"
+    },
+    {
+      "seller_id": "5e552bf96a2a180015c346f8",
+      "seller_type": "PUBLISHER",
+      "name": "SpeakEasy Media Ltd",
+      "domain": "thepoke.co.uk"
+    },
+    {
+      "seller_id": "5e563d630602d50015bb097c",
+      "seller_type": "PUBLISHER",
+      "name": "Mettri Media",
+      "domain": "hoodsite.com"
+    },
+    {
+      "seller_id": "5e567ba20602d50015bb0985",
+      "seller_type": "PUBLISHER",
+      "name": "Adverline",
+      "domain": "adverline-regie.com"
+    },
+    {
+      "seller_id": "5e4d117a08d87b0015456d04",
+      "seller_type": "PUBLISHER",
+      "name": "BuzzDestination",
+      "domain": "buzzdestination.com"
+    },
+    {
+      "seller_id": "5773074880",
+      "seller_type": "PUBLISHER",
+      "name": "Fusion Media Limited",
+      "domain": "investing.com"
+    },
+    {
+      "seller_id": "5e4debdb09609500150c587b",
+      "seller_type": "PUBLISHER",
+      "name": "Factinate Ltd.",
+      "domain": "factinate.com"
+    },
+    {
+      "seller_id": "5e4307ae1fab9e00154b3656",
+      "seller_type": "PUBLISHER",
+      "name": "RealGM L.L.C.",
+      "domain": "realgm.com"
+    },
+    {
+      "seller_id": "5e5eabb5a5d4fe00158574f8",
+      "seller_type": "PUBLISHER",
+      "name": "3Blue Media",
+      "domain": "3bluemedia.com"
+    }
+  ]
+}

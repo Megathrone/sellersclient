@@ -1,0 +1,264 @@
+﻿{
+  "contact_email": "info@take1ads.com",
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": 60,
+      "seller_type": "PUBLISHER",
+      "name": "Dingit.TV",
+      "domain": "Dingit.TV"
+    },
+    {
+      "seller_id": 89,
+      "seller_type": "PUBLISHER",
+      "name": "Easybrain",
+      "domain": "easybrain.com"
+    },
+    {
+      "seller_id": 90,
+      "seller_type": "PUBLISHER",
+      "name": "Kokteyl",
+      "domain": "kokteyl.com"
+    },
+    {
+      "seller_id": 91,
+      "seller_type": "PUBLISHER",
+      "name": "Clear invest LTD",
+      "domain": "psvgamestudio.com"
+    },
+    {
+      "seller_id": 92,
+      "seller_type": "PUBLISHER",
+      "name": "Havos",
+      "domain": "havos.co.uk"
+    },
+    {
+      "seller_id": 141,
+      "seller_type": "PUBLISHER",
+      "name": "Softgame",
+      "domain": "softgames.de"
+    },
+    {
+      "seller_id": 159,
+      "seller_type": "PUBLISHER",
+      "name": "TimesInternet",
+      "domain": "timesinternet.in"
+    },
+    {
+      "seller_id": 209,
+      "seller_type": "PUBLISHER",
+      "name": "Ask.fm",
+      "domain": "ask.fm"
+    },
+    {
+      "seller_id": 212,
+      "seller_type": "PUBLISHER",
+      "name": "Hearst",
+      "domain": "hearst.com"
+    },
+    {
+      "seller_id": 247,
+      "seller_type": "PUBLISHER",
+      "name": "Insticator, Inc",
+      "domain": "insticator.com"
+    },
+    {
+      "seller_id": 255,
+      "seller_type": "PUBLISHER",
+      "name": "eurweb.com",
+      "domain": "eurweb.com"
+    },
+    {
+      "seller_id": 265,
+      "seller_type": "PUBLISHER",
+      "name": "MESSAMTA PROJECT LTD",
+      "domain": "megacastplayer.com"
+    },
+    {
+      "seller_id": 273,
+      "seller_type": "PUBLISHER",
+      "name": "ATG Ad Tech Group GmbH",
+      "domain": "ad-tech-group.com"
+    },
+    {
+      "seller_id": 278,
+      "seller_type": "PUBLISHER",
+      "name": "Xqubemedia",
+      "domain": "xqubemedia.com"
+    },
+    {
+      "seller_id": 279,
+      "seller_type": "PUBLISHER",
+      "name": "Yupptv",
+      "domain": "yupptv.com"
+    },
+    {
+      "seller_id": 285,
+      "seller_type": "PUBLISHER",
+      "name": "Bigstar TV",
+      "domain": "bigstar.tv"
+    },
+    {
+      "seller_id": 309,
+      "seller_type": "PUBLISHER",
+      "name": "Gledaibgtv.com",
+      "domain": "Gledaibgtv.com"
+    },
+    {
+      "seller_id": 310,
+      "seller_type": "PUBLISHER",
+      "name": "Makazu Co",
+      "domain": "pokellector.com"
+    },
+    {
+      "seller_id": 314,
+      "seller_type": "PUBLISHER",
+      "name": "Stingray Music USA Inc",
+      "domain": "naturevisiontv.com"
+    },
+    {
+      "seller_id": 315,
+      "seller_type": "PUBLISHER",
+      "name": "Adzert",
+      "domain": "adzert.com"
+    },
+    {
+      "seller_id": 319,
+      "seller_type": "PUBLISHER",
+      "name": "Ultimate-guitar",
+      "domain": "ultimate-guitar.com"
+    },
+    {
+      "seller_id": 320,
+      "seller_type": "PUBLISHER",
+      "name": "Screen Media",
+      "domain": "screenmedia.net"
+    },
+    {
+      "seller_id": 321,
+      "seller_type": "PUBLISHER",
+      "name": "Vatsana",
+      "domain": "vatsana.com"
+    },
+    {
+      "seller_id": 323,
+      "seller_type": "PUBLISHER",
+      "name": "BRStudioGames",
+      "domain": "brstudiogames.com"
+    },
+    {
+      "seller_id": 326,
+      "seller_type": "PUBLISHER",
+      "name": "Outside TV",
+      "domain": "outsidetv.com"
+    },
+    {
+      "seller_id": 329,
+      "seller_type": "PUBLISHER",
+      "name": "International Education and Communication Corporation",
+      "domain": "ieccorp.vn"
+    },
+    {
+      "seller_id": 333,
+      "seller_type": "PUBLISHER",
+      "name": "Pandora",
+      "domain": "pandora.com"
+    },
+    {
+      "seller_id": 337,
+      "seller_type": "PUBLISHER",
+      "name": "TV Batch LLC",
+      "domain": "tvbatch.com"
+    },
+    {
+      "seller_id": 339,
+      "seller_type": "PUBLISHER",
+      "name": "CBS",
+      "domain": "cbs.com"
+    },
+    {
+      "seller_id": 350,
+      "seller_type": "PUBLISHER",
+      "name": "Viacom (BET Networks)",
+      "domain": "bet.net"
+    },
+    {
+      "seller_id": 356,
+      "seller_type": "PUBLISHER",
+      "name": "TouchPal HK Co., Limited",
+      "domain": "cootek.cn"
+    },
+    {
+      "seller_id": 357,
+      "seller_type": "PUBLISHER",
+      "name": "FoxNews",
+      "domain": "foxnews.com"
+    },
+    {
+      "seller_id": 360,
+      "seller_type": "PUBLISHER",
+      "name": "Entertaiment Studios",
+      "domain": "es.tv"
+    },
+    {
+      "seller_id": 368,
+      "seller_type": "PUBLISHER",
+      "name": "Iverson Media & Communication, LLC",
+      "domain": "imediaaudiences.com"
+    },
+    {
+      "seller_id": 385,
+      "seller_type": "PUBLISHER",
+      "name": "WinkTV LLC.",
+      "domain": "wearewinktv.com"
+    },
+    {
+      "seller_id": 396,
+      "seller_type": "PUBLISHER",
+      "name": "AGA Medialab Inc",
+      "domain": "agamedialab.com"
+    },
+    {
+      "seller_id": 404,
+      "seller_type": "PUBLISHER",
+      "name": "Flyclops",
+      "domain": "flyclops.com"
+    },
+    {
+      "seller_id": 405,
+      "seller_type": "PUBLISHER",
+      "name": "Game Circus LLC",
+      "domain": "gamecircus.com"
+    },
+    {
+      "seller_id": 406,
+      "seller_type": "PUBLISHER",
+      "name": "Gameloft",
+      "domain": "gameloft.com"
+    },
+    {
+      "seller_id": 407,
+      "seller_type": "PUBLISHER",
+      "name": "Nextwave Multimedia",
+      "domain": "nextwavemultimedia.com"
+    },
+    {
+      "seller_id": 392,
+      "seller_type": "PUBLISHER",
+      "name": "Syncback",
+      "domain": "syncbak.com"
+    },
+    {
+      "seller_id": 408,
+      "seller_type": "PUBLISHER",
+      "name": "TextNow Inc.",
+      "domain": "textnow.com"
+    },
+    {
+      "seller_id": 409,
+      "seller_type": "PUBLISHER",
+      "name": "TotalStreamMedia",
+      "domain": "totalstreammedia.com"
+    }
+  ]
+}

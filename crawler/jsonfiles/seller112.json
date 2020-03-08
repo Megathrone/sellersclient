@@ -1,0 +1,518 @@
+{
+  "contact_address": "Adsolut Media 309, C Wing, Vikhroli (W, HMPL Surya Nagar, Vikhroli West Kailas Business Park), Mumbai, Maharashtra 400079",
+  "contact_email": "Kush Rohra <kush@adsolut.in>",
+  "version": 1.0,
+  "sellers": [
+    {
+      "seller_id": "12441",
+      "name": "Network18 Media & Investments Ltd.",
+      "domain": "news18.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "12441",
+      "name": "E-Eighteen.com Limited",
+      "domain": "moneycontrol.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "12441",
+      "name": "Network18 Media & Investments Ltd.",
+      "domain": "firstpost.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "1098",
+      "name": "Network18 Media & Investments Ltd.",
+      "domain": "forbesindia.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "2248",
+      "name": "ADVERGAME TECHNOLOGIES PRIVATE LIMITED",
+      "domain": "games.gamezop.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "2631",
+      "name": "FLICKSTREE PRODUCTIONS PRIVATE LIMITED",
+      "domain": "flickstree.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "11938",
+      "name": "Nazara Technologies Limited",
+      "domain": "nazara.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "2258",
+      "name": "Games2win India Pvt. Ltd.",
+      "domain": "games2winmedia.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "11938",
+      "name": "Adways VC India Private Limited",
+      "domain": "the-pocket-money.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "12442",
+      "name": "Bennett Coleman & Company Limited",
+      "domain": "timesnownews",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "15204",
+      "name": "Ask.fm Europe Limited",
+      "domain": "ask.fm",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "88349",
+      "name": "Jagran Prakashan Limited",
+      "domain": "jagran.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "2235",
+      "name": "Jagran Prakashan Limited",
+      "domain": "mid-day.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "3112",
+      "name": "Jagran Prakashan Limited",
+      "domain": "onlymyhealth.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "2010",
+      "name": "Jagran Prakashan Limited",
+      "domain": "herzindagi.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "2010",
+      "name": "Jagran Prakashan Limited",
+      "domain": "herzindagi.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "117",
+      "name": "SARG GLOBAL DIGITAL PRIVATE LIMITED",
+      "domain": "republicworld.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "117",
+      "name": "SARG GLOBAL DIGITAL PRIVATE LIMITED",
+      "domain": "republicworld.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "912372",
+      "name": "Red Hot Web Gems India Private Limited",
+      "domain": "bollywoodshaadis.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "33762",
+      "name": "Kesari Connect Private Ltd",
+      "domain": "punjabkesari.in",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "33762",
+      "name": "Kesari Connect Private Ltd",
+      "domain": "jagbani.punjabkesari.in",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "2232",
+      "name": "Kesari Connect Private Ltd",
+      "domain": "bollywoodtadka.in",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "6234",
+      "name": "Aamoda Publications Pvt. Ltd",
+      "domain": "andhrajyothy.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "29181",
+      "name": "VIKATAN .COM PVT LTD",
+      "domain": "vikatan.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "78327",
+      "name": "tupaki",
+      "domain": "tupaki.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "33822",
+      "name": "Hyderabad Media House Pvt. Ltd.",
+      "domain": "thehansindia.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "35192",
+      "name": "News Track InfoMedia Pvt Ltd",
+      "domain": "newstracklive.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "19291",
+      "name": "Amar Ujala Web Services Pvt Ltd",
+      "domain": "amarujala.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "228102",
+      "name": "Webdunia.com(India) Pvt Ltd",
+      "domain": "webdunia.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "1100",
+      "name": "Sandesh Digital Private Limited",
+      "domain": "Sandesh.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "28801",
+      "name": "Rajasthan Patrika Pvt Ltd",
+      "domain": "patrika.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "2235",
+      "name": "Droom Technology Pvt Ltd",
+      "domain": "droom.in",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "2235",
+      "name": "Droom Technology Pvt Ltd",
+      "domain": "orangebookvalue.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "210291",
+      "name": "ouo.io",
+      "domain": "ouo.io",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "3112",
+      "name": "Jagran Prakashan Limited",
+      "domain": "jagranjosh.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "27115",
+      "name": "Cassius Technologies Private Limited",
+      "domain": "freshersworld.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "271412",
+      "name": "Quinstreet India Marketing & Media Pvt. Ltd",
+      "domain": "https://www.quinstreet.com/india/",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "398739",
+      "name": "aglasem",
+      "domain": "aglasem.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "22391",
+      "name": "UDigital Content Private Limited",
+      "domain": "arre.co.in",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "27101",
+      "name": "Quikr India Private Limited",
+      "domain": "quikr.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "27109",
+      "name": "healthisfood",
+      "domain": "healthisfood.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "27102",
+      "name": "Khana Khazana Productions Pvt Ltd",
+      "domain": "sanjeevkapoor.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "27111",
+      "name": "funwithliving",
+      "domain": "funwithliving.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "27113",
+      "name": "pizzaisgood",
+      "domain": "pizzaisgood.info",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "28820",
+      "name": "UŽDAROJI AKCINĖ BENDROVĖ",
+      "domain": "lrytas.lt",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "3980768",
+      "name": "ac24.cz",
+      "domain": "ac24.cz",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "371098",
+      "name": "bollywoodpapa.com",
+      "domain": "bollywoodpapa.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "11921",
+      "name": "bongda.com.vn",
+      "domain": "bongda.com.vn",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "44921",
+      "name": "Apple Seed Pte Ltd",
+      "domain": "theindependent.sg",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "351786",
+      "name": "yeah1",
+      "domain": "yeah1.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "4324723",
+      "name": "androhub",
+      "domain": "androhub.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "81099",
+      "name": "Mobfox US LLC",
+      "domain": "mobfox.com",
+      "seller_type": "INTERMEDIARY",
+      "comment": "Sells both O&O and SDK inventory"
+    },
+    {
+      "seller_id": "80594",
+      "name": "Smaato Inc",
+      "domain": "smaato.com",
+      "seller_type": "INTERMEDIARY",
+      "comment": "Sells both O&O and SDK inventory"
+    },
+    {
+      "seller_id": "96461",
+      "name": "Adcolony, INC",
+      "domain": "adcolony.com",
+      "seller_type": "INTERMEDIARY",
+      "comment": "Sells both O&O and SDK inventory"
+    },
+    {
+      "seller_id": "81324",
+      "name": "SoMo Audience Corp",
+      "domain": "somoaudience.com",
+      "seller_type": "INTERMEDIARY",
+      "comment": "Sells both O&O and SDK inventory"
+    },
+    {
+      "seller_id": "27112",
+      "name": "bihari.news",
+      "domain": "bihari.news",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "3989874",
+      "name": "designervn.net",
+      "domain": "designervn.net",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "3989874",
+      "name": "designervn.net",
+      "domain": "designervn.net",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "93345",
+      "name": "MX Entertainment",
+      "domain": "mxplayer.in",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "21",
+      "name": "Sony Pictures Networks India Pvt Limited",
+      "domain": "sonyliv.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "110192",
+      "name": "Luxeva Technologies",
+      "domain": "popxo.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "15103",
+      "name": "RealGM LLC",
+      "domain": "basketball.realgm.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "327541",
+      "name": "ArcaMax Publishing, Inc",
+      "domain": "arcamax.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "3987300",
+      "name": "Zetha Media - Polish Express Media Group",
+      "domain": "polishexpress.co.uk",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "102315",
+      "name": "Unidad Editorial",
+      "domain": "marca.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "102316",
+      "name": "Unidad Editorial",
+      "domain": "elmundo.es",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "9320",
+      "name": "Observatorulph RO",
+      "domain": "observatorulph.ro",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "158462",
+      "name": "mobilityware",
+      "domain": "mobilityware.com",
+      "seller_type": "RESELLER",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "26486",
+      "name": "outfit7",
+      "domain": "outfit7.com",
+      "seller_type": "RESELLER",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "26488",
+      "name": "textnow",
+      "domain": "textnow.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "26489",
+      "name": "camera360",
+      "domain": "camera360.com",
+      "seller_type": "RESELLER",
+      "comment": "Sells O&O Inventory"
+    },
+    {
+      "seller_id": "26489",
+      "name": "camera360",
+      "domain": "camera360.com",
+      "seller_type": "RESELLER",
+      "comment": "Sells O&O Inventory"
+    },
+	  {
+      "seller_id": "15231",
+      "name": "Webcapacity Incorporated",
+      "domain": "wrestlinginc.com",
+      "seller_type": "DIRECT",
+      "comment": "Sells O&O Inventory"
+    }
+  ]
+}

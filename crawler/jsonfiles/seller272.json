@@ -1,0 +1,292 @@
+{
+    "contact_email": "sellers.json@chocolateplatform.com",
+    "contact_address": "Vdopia Inc ( DBA Chocolate), 442 Post Street, 8th Floor, San Francisco, CA 94102",
+    "version": "1.0",
+    "identifiers": [
+        {
+            "name": "TAG-ID",
+            "value": "49a66ce31a704197"
+        }
+    ],
+    "sellers": [
+        {
+            "seller_id": "13790",
+            "is_confidential": "0",
+            "name": "AdApex",
+            "domain": "google.com",
+            "comment": "Adapex via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14496",
+            "is_confidential": "0",
+            "name": "CBS Interactive",
+            "domain": "google.com",
+            "comment": "CBS via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14360",
+            "is_confidential": "0",
+            "name": "CafeMedia",
+            "domain": "google.com",
+            "comment": "CafeMedia via EB exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14495",
+            "is_confidential": "0",
+            "name": "Gamma Gaana Ltd",
+            "domain": "google.com",
+            "comment": "Gamma Gaana Ltd via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14432",
+            "is_confidential": "0",
+            "name": "Gannett",
+            "domain": "google.com",
+            "comment": "Gannett Satellite Information Network, LLC via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14477",
+            "is_confidential": "0",
+            "name": "Pelmorex Media \/ The Weather Network",
+            "domain": "google.com",
+            "comment": "Pelmorex \/ The Weather Network via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14271",
+            "is_confidential": "0",
+            "name": "Apartment Therapy, LLC",
+            "domain": "google.com",
+            "comment": "Apartment Therapy, LLC via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14517",
+            "is_confidential": "0",
+            "name": "Weather DFP Premium",
+            "domain": "google.com",
+            "comment": "IBM Weather via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14221",
+            "is_confidential": "0",
+            "name": "Curiosity Media Inc.",
+            "domain": "google.com",
+            "comment": "Curiosity Media Inc. via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14071",
+            "is_confidential": "0",
+            "name": "Interactive One",
+            "domain": "google.com",
+            "comment": "Interactive One via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14057",
+            "is_confidential": "0",
+            "name": "Rumble",
+            "domain": "google.com",
+            "comment": "Rumble via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14478",
+            "is_confidential": "0",
+            "name": "Snack Media Sports Network",
+            "domain": "google.com",
+            "comment": "Snack Media Ltd. via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14019",
+            "is_confidential": "0",
+            "name": "Publisher Desk LLC",
+            "domain": "google.com",
+            "comment": "The Publisher Desk, Inc via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14473",
+            "is_confidential": "0",
+            "name": "GhanaWeb",
+            "domain": "google.com",
+            "comment": "GhanaWeb via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14540",
+            "is_confidential": "0",
+            "name": "ZDT - DFP",
+            "domain": "google.com",
+            "comment": "Ziff Davis via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14469",
+            "is_confidential": "0",
+            "name": "Nexstar Digital LLC",
+            "domain": "nexstardigital.com",
+            "comment": "Nexstar Digital LLC (Formerly known as LKQD) via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "13075",
+            "is_confidential": "0",
+            "name": "Aeria Canada",
+            "domain": "aeriacanada.com",
+            "comment": "Aeria Games - Chocolate Mediation",
+            "seller_type": "PUBLISHER",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "11455",
+            "is_confidential": "0",
+            "name": "CakeCodes",
+            "domain": "bitmaker.cakecodes.com",
+            "comment": "CakeCodes - Chocolate Mediation",
+            "seller_type": "PUBLISHER",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "11836",
+            "is_confidential": "0",
+            "name": "YouWowMeLTD",
+            "domain": "wowapp.com",
+            "comment": "YouWowMe Limited - Chocolate Mediation",
+            "seller_type": "PUBLISHER",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14329",
+            "is_confidential": "0",
+            "name": "Gold Town Games",
+            "domain": "goldtowngames.com",
+            "comment": "Gold Town Games - Chocolate Mediation",
+            "seller_type": "PUBLISHER",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14080",
+            "is_confidential": "0",
+            "name": "AppA11y Inc.",
+            "domain": "appa11y.com",
+            "comment": "Appa11y, Inc - Chocolate Mediation",
+            "seller_type": "PUBLISHER",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14608",
+            "is_confidential": "0",
+            "name": "Wallstreet",
+            "domain": "google.com",
+            "comment": "Wallstreet Online via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14672",
+            "is_confidential": "0",
+            "name": "NDTV",
+            "domain": "google.com",
+            "comment": "NDTV via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14665",
+            "is_confidential": "0",
+            "name": "WetterOnline",
+            "domain": "google.com",
+            "comment": "WetterOnline via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14627",
+            "is_confidential": "0",
+            "name": "Sky Italia",
+            "domain": "google.com",
+            "comment": "Sky Italia via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14632",
+            "is_confidential": "0",
+            "name": "DAZN",
+            "domain": "google.com",
+            "comment": "DAZN via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14754",
+            "is_confidential": "0",
+            "name": "PlaySimple Games",
+            "domain": "google.com",
+            "comment": "PlaySimple Games via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14678",
+            "is_confidential": "0",
+            "name": "VNG",
+            "domain": "google.com",
+            "comment": "Zing via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14774",
+            "is_confidential": "0",
+            "name": "Daily Mail",
+            "domain": "google.com",
+            "comment": "Daily Mail via EB exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14773",
+            "is_confidential": "0",
+            "name": "TuneIn",
+            "domain": "google.com",
+            "comment": "TuneIn Inc via EB exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        },
+        {
+            "seller_id": "14750",
+            "is_confidential": "0",
+            "name": "EA Games",
+            "domain": "google.com",
+            "comment": "Electronic Arts Inc via EB Exchange",
+            "seller_type": "INTERMEDIARY",
+            "is_passthrough": "0"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "contact_email": "sellers.json@resultsmedia.com", 
+    "contact_address": "16 Galgalei Haplada St,Herzliya Pituach,4612, Israel", 
+    "version": "1.0",
+    "identifiers": [
+      {
+      }
+    ],
+    "sellers": [
+
+{
+ "seller_id": "83112",
+ "name": "Perfect365",
+ "domain": "perfect365.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "82829",
+ "name": "Mobpals",
+ "domain": "mobpals.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "82828",
+ "name": "House of Pub's studio",
+ "domain": "hop-studio.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "83048",
+ "name": "Icestonesoft",
+ "domain": "icestonesoft.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "82751",
+ "name": "Azerion",
+ "domain": "azerion.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "8655",
+ "name": "Ask.fm Europe Limited",
+ "domain": "ask.fm",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "83124",
+ "name": "Gold Finger",
+ "domain": "my-goldfinger.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "82677",
+ "name": "365Scores Ltd",
+ "domain": "365scores.com",
+ "seller_type": "INTERMEDIARY"
+ },
+{
+ "seller_id": "82749",
+ "name": "VNL entertainment games",
+ "domain": "vnlentertainment.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "82754",
+ "name": "Shanghai Shalltry Technology Limited",
+ "domain": "toolgroup.shalltry.com",
+ "seller_type": "INTERMEDIARY"
+ },
+{
+ "seller_id": "83036",
+ "name": "Mobile Agenda FZE LLC",
+ "domain": "download.appsforboost.com",
+ "seller_type": "INTERMEDIARY"
+ },
+{
+ "seller_id": "83048",
+ "name": "Absolutist Ltd",
+ "domain": "absolutist.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "87682",
+ "name": "NAVER WEBTOON Corp",
+ "domain": "webtoons.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "8148",
+ "name": "CoolGames b.v.",
+ "domain": "coolgames.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "82695",
+ "name": "Daily News Gallery",
+ "domain": "dailynewsgallery.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "8624",
+ "name": "Wowkeren",
+ "domain": "wowkeren.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "8625",
+ "name": "saambaa LLC",
+ "domain": "saambaa.com",
+ "seller_type": "BOTH"
+ },
+{
+ "seller_id": "8629",
+ "name": "Ultimate Guitar USA LLC",
+ "domain": "ultimate-guitar.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "8632",
+ "name": "CARI Internet Sdn Bhd",
+ "domain": "cari.com.my",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "89",
+ "name": "RhythmOne group",
+ "domain": "360daily.com",
+ "seller_type": "BOTH"
+ },
+{
+ "seller_id": "82754",
+ "name": "DigitalSkyGames",
+ "domain": "digitalskygames.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "8",
+ "name": "Living Media-India Today group",
+ "domain": "indiatodaygroup.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "8627",
+ "name": "Doppelganger Entertainment Ltd.",
+ "domain": "cliphash.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "8626",
+ "name": "Australian Clearing Pty Ltd",
+ "domain": "timebucks.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "8636",
+ "name": "GVU Technologies",
+ "domain": "moretvtime.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "82672",
+ "name": "Diversify Media Inc",
+ "domain": "flyost.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "82669",
+ "name": "travelerdoor.com",
+ "domain": "travelerdoor.com",
+ "seller_type": "PUBLISHER"
+ },
+{
+ "seller_id": "82754",
+ "name": "Scooper",
+ "domain": "scoopernews.com",
+ "seller_type": "INTERMEDIARY"
+ },
+{
+ "seller_id": "701",
+ "name": "Mars Media Group",
+ "domain": "mars.media",
+ "seller_type": "INTERMEDIARY"
+ },
+{
+ "seller_id": "83116",
+ "name": "Fyber",
+ "domain": "fyber.com",
+ "seller_type": "INTERMEDIARY"
+ },
+{
+ "seller_id": "815",
+ "name": "Smaato",
+ "domain": "smaato.com",
+ "seller_type": "INTERMEDIARY"
+ },
+{
+ "seller_id": "83116",
+ "name": "Mobfox US LLC",
+ "domain": "mobfox.com",
+ "seller_type": "INTERMEDIARY"
+ }
+]
+}

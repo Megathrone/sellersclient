@@ -1,0 +1,509 @@
+{
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "5e3301babc6b5-5df1244ad228d",
+      "domain": "awg.la",
+      "name": "AWG",
+      "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": "5e3301babefba-5c505f0ea5ceb",
+      "domain": "www.automoto.com",
+      "name": "Auto Moto ",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301babefba-5cada45194a4e",
+      "domain": "maison-travaux.fr",
+      "name": "Maison et Travaux",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301babefba-5cada4897a329",
+      "domain": "lejournaldelamaison.fr",
+      "name": "Le Journal de la Maison",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301babefba-5cada4b809765",
+      "domain": "monjardinmamaison.maison-travaux.fr",
+      "name": "Mon Jardin Ma maison",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301babefba-5cd5924a02737",
+      "domain": "mariefrance.fr",
+      "name": "Marie France",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301babefba-5dde5814a93cf",
+      "domain": "f1i.auto-moto.com",
+      "name": "F1",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac024d-5c6f2f69b62bd",
+      "domain": "20minutes.fr",
+      "name": "20minutes.fr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac2fe9-5c5c36de14897",
+      "domain": "lefigaro.fr",
+      "name": "Le Figaro Website",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5cd3dc434b325",
+      "domain": "radioscoop.com",
+      "name": "RadioScoop",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d5187276c7e6",
+      "domain": "latina.fr",
+      "name": "Latina",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d518766903a6",
+      "domain": "voltage.fr",
+      "name": "Voltage",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d518789285aa",
+      "domain": "swigg.fr",
+      "name": "Ado FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d5187fd9be6b",
+      "domain": "blackboxfm.fr",
+      "name": "BlackBox FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d518829668ed",
+      "domain": "vibration.fr",
+      "name": "Vibration",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d51884f491aa",
+      "domain": "witfm.fr",
+      "name": "Wit FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d5188a22bec8",
+      "domain": "forum.fr",
+      "name": "Forum Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d51678f9a749",
+      "domain": "africaradio.com",
+      "name": "africaradio.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d5186eeb5069",
+      "domain": "sudradio.fr",
+      "name": "sudradio.fr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d51b40556b44",
+      "domain": "deltafm.fr",
+      "name": "deltafm.fr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d524bfcc8f9f",
+      "domain": "ubranhit.fr",
+      "name": "Urban Hit",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d524c23dee1f",
+      "domain": "francemaghreb2.fr",
+      "name": "francemaghreb2.fr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d52ad50179d0",
+      "domain": "centpourcent.com",
+      "name": "centpourcent.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d52ad9371018",
+      "domain": "alouette.fr",
+      "name": "alouette.fr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d5c0d53ca48a",
+      "domain": "mycontact.fr",
+      "name": "mycontact.fr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d5c0d7ceffe5",
+      "domain": "rdlradio.fr",
+      "name": "rdlradio.fr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d726501d122d",
+      "domain": "hitwest.com",
+      "name": "Hit West",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d7265289e6a8",
+      "domain": "oceanefm.com",
+      "name": "oceanefm.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d726581bde43",
+      "domain": "maradiocristal.com",
+      "name": "maradiocristal.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d72660cd2acc",
+      "domain": "beurfm.net",
+      "name": "beurfm.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d7266ce4e03f",
+      "domain": "radiobonheur.com",
+      "name": "radiobonheur.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d726741804b3",
+      "domain": "cannesradio.com",
+      "name": "cannesradio.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d726799775c5",
+      "domain": "darling.fm",
+      "name": "darling fm",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d7267bfa7622",
+      "domain": "cerisefm.fr",
+      "name": "Cerise FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d72680a936ca",
+      "domain": "radiodreyeckland.com",
+      "name": "radiodreyeckland.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d8de17c5eab1",
+      "domain": "radio6.fr",
+      "name": "Radio 6",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d8e39b4dc624",
+      "domain": "dici.fr",
+      "name": "Dici Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d8e3a024b5a5",
+      "domain": "jaimeradio.fr",
+      "name": "Jaime Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d8e3a4b64121",
+      "domain": "radio8fm.com",
+      "name": "Radio 8",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d8e3aa9cfe46",
+      "domain": "montblanclive.com",
+      "name": "Radio Mont Blanc",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d8e3b030d5c6",
+      "domain": "directfm.fr",
+      "name": "Direct FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d91bcb92c786",
+      "domain": "impactfm.fr",
+      "name": "Impact FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d9efdb878a64",
+      "domain": "collines-laradio.fr",
+      "name": "Les collines",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d9efe2dc5cfc",
+      "domain": "grandsudfm.com",
+      "name": "Grand Sud",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d9efe6e324ce",
+      "domain": "montagnefm.com",
+      "name": "Montagne FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d9eff0392672",
+      "domain": "monafm.fr",
+      "name": "Mona FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d9eff4ebe239",
+      "domain": "fusionfm.fr",
+      "name": "Fusion FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5d9effbd783be",
+      "domain": "radio-isa.com",
+      "name": "Radio ISA",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5db1653c6775f",
+      "domain": "frequenceplusfm.com",
+      "name": "Fréquence Plus",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5db165b39ef74",
+      "domain": "k6fm.com",
+      "name": "K6FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5db16639f2a83",
+      "domain": "lyonpremiere.fr",
+      "name": "Lyon 1ère",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5db166876c761",
+      "domain": "activradio.com",
+      "name": "Activ Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5db1670320ced",
+      "domain": "tonicradio.fr",
+      "name": "Tonic Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5db164c825e2e",
+      "domain": "radiorva.com",
+      "name": "Radio RVA",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e17437bcb7f0",
+      "domain": "alpesdusud.alpes1.com",
+      "name": "Alpes 1",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e1743feba95d",
+      "domain": "generations.fr",
+      "name": "Generations",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e174443ee4d9",
+      "domain": "jazzradio.fr",
+      "name": "Jazz Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e1744898122c",
+      "domain": "laradioplus.com",
+      "name": "La Radio Plus",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e1744ca11a5f",
+      "domain": "mradio.fr",
+      "name": "MRadio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e17457a11d20",
+      "domain": "odsradio.com",
+      "name": "ODS Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e1745ba7720f",
+      "domain": "radioespace.com",
+      "name": "Radio Espace",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e1746b44ef21",
+      "domain": "virageradio.com",
+      "name": "Virage Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e174d7b350ce",
+      "domain": "durancefm.com",
+      "name": "Durance FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e1d87c945d14",
+      "domain": "allzicradio.com",
+      "name": "Allzic Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e1efa20ec932",
+      "domain": "classicfm.com",
+      "name": "Classic FM",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e1efad9b0b3a",
+      "domain": "radio-demo.fr",
+      "name": "radio demo",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e203fe40f357",
+      "domain": "mandelaradio.com",
+      "name": "Mandela Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e206ce72d276",
+      "domain": "radiobellevue.fr",
+      "name": "Radio Bellevue",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e206d5e2b057",
+      "domain": "radiomontmartre.fr",
+      "name": "Radio Montmartre",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e206e28b7b9e",
+      "domain": "tcl.fr",
+      "name": "TCL en musique",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac5995-5e206e649a18f",
+      "domain": "zimradio.com",
+      "name": "Zim Radio",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bac823d-5c6ad98ac88d8",
+      "domain": "rtl.fr",
+      "name": "RTL Website",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301baccdd0-5d11e3572a690",
+      "domain": "ouest-france.fr",
+      "name": "ouest-france.fr ",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bad5acb-5d11e3572a690",
+      "domain": "ouest-france.fr",
+      "name": "ouest-france.fr ",
+      "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": "5e3301bace6ff-5d14e2c19c76e",
+      "domain": "ausha.co",
+      "name": "ausha.co",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bad155f-5c6d6e0224264",
+      "domain": "shirkalab.io",
+      "name": "Shirkalab ",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bad78e3-5dfc97093d79e",
+      "domain": "rustica.fr",
+      "name": "Rustica",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bad8f5f-5e135c10346c1",
+      "domain": "radioclassique.fr",
+      "name": "Radio Classique",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301badbe43-5dbaca03e6403",
+      "domain": "ladepeche.fr",
+      "name": "La Dépêche",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bad5acb-5dbaca03e6403",
+      "domain": "ladepeche.fr",
+      "name": "La Dépêche",
+      "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": "5e3301badd2eb-5dbaca2b92fc7",
+      "domain": "midilibre.fr",
+      "name": "Midi Libre",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bad5acb-5dbaca2b92fc7",
+      "domain": "midilibre.fr",
+      "name": "Midi Libre",
+      "seller_type": "INTERMEDIARY"
+    },
+    {
+      "seller_id": "5e3301badecbd-5e0dbd27f3566",
+      "domain": "publicsante.com",
+      "name": "Radio Public Santé",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5e3301bae036f-5e16f9e07f854",
+      "domain": "lequipe.fr",
+      "name": "L'Equipe",
+      "seller_type": "PUBLISHER"
+    }
+  ]
+} 

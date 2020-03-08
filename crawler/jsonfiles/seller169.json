@@ -1,0 +1,12 @@
+{
+    "contact_email": "ops@diDNA.io",
+    "contact_address": "206 Hillcrest St, Orlando, Florida 32801",
+    "version": "1.0",
+    "sellers": [
+        {
+            "seller_id": 4169,
+            "seller_type": "BOTH",
+            "is_confidential": "1"
+        }
+    ]
+}

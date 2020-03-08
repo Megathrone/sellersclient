@@ -1,0 +1,476 @@
+{
+    "contact_email": "publishers@bizzclick.com",
+    "contact_phone": "+19185409159",
+    "contact_address": "1840 SW 22ND ST., PMB 4-1136 MIAMI, FL 33145",
+    "version": 1,
+    "identifiers": [
+        {
+            "name": "TAG-ID",
+            "value": "7e936b1feafdaa61"
+        }
+    ],
+    "sellers": [
+        {
+            "seller_id": 226,
+            "seller_type": "Intermediary",
+            "name": "aceex",
+            "domain": "aceex.io"
+        },
+        {
+            "seller_id": 227,
+            "seller_type": "Intermediary",
+            "name": "aceex",
+            "domain": "aceex.io"
+        },
+        {
+            "seller_id": 132,
+            "seller_type": "Intermediary",
+            "name": "adcolony",
+            "domain": "adcolony.com"
+        },
+        {
+            "seller_id": 163,
+            "seller_type": "Intermediary",
+            "name": "acuityads",
+            "domain": "acuityads.com"
+        },
+        {
+            "seller_id": 164,
+            "seller_type": "Intermediary",
+            "name": "acuityads",
+            "domain": "acuityads.com"
+        },
+        {
+            "seller_id": 165,
+            "seller_type": "Intermediary",
+            "name": "acuityads",
+            "domain": "acuityads.com"
+        },
+        {
+            "seller_id": 232,
+            "seller_type": "Intermediary",
+            "name": "acuityads",
+            "domain": "acuityads.com"
+        },
+        {
+            "seller_id": 131,
+            "seller_type": "Intermediary",
+            "name": "admixer",
+            "domain": "admixer.net"
+        },
+        {
+            "seller_id": 73,
+            "seller_type": "Intermediary",
+            "name": "admixer",
+            "domain": "admixer.net"
+        },
+        {
+            "seller_id": 127,
+            "seller_type": "Intermediary",
+            "name": "admixer",
+            "domain": "admixer.net"
+        },
+        {
+            "seller_id": 210,
+            "seller_type": "Intermediary",
+            "name": "admixer",
+            "domain": "admixer.net"
+        },
+        {
+            "seller_id": 211,
+            "seller_type": "Intermediary",
+            "name": "admixer",
+            "domain": "admixer.net"
+        },
+        {
+            "seller_id": 124,
+            "seller_type": "Intermediary",
+            "name": "adview",
+            "domain": "adview.com"
+        },
+        {
+            "seller_id": 187,
+            "seller_type": "Intermediary",
+            "name": "aniview",
+            "domain": "aniview.com"
+        },
+        {
+            "seller_id": 192,
+            "seller_type": "Intermediary",
+            "name": "baidu",
+            "domain": "baiduadvertising.com"
+        },
+        {
+            "seller_id": 193,
+            "seller_type": "Intermediary",
+            "name": "baidu",
+            "domain": "baiduadvertising.com"
+        },
+        {
+            "seller_id": 231,
+            "seller_type": "Intermediary",
+            "name": "baidu",
+            "domain": "baiduadvertising.com"
+        },
+        {
+            "seller_id": 168,
+            "seller_type": "Intermediary",
+            "name": "bebimedia",
+            "domain": "bebi.com"
+        },
+        {
+            "seller_id": 169,
+            "seller_type": "Intermediary",
+            "name": "bebimedia",
+            "domain": "bebi.com"
+        },
+        {
+            "seller_id": 207,
+            "seller_type": "Intermediary",
+            "name": "boldwin",
+            "domain": "bold-win.com"
+        },
+        {
+            "seller_id": 208,
+            "seller_type": "Intermediary",
+            "name": "boldwin",
+            "domain": "bold-win.com"
+        },
+        {
+            "seller_id": 221,
+            "seller_type": "Intermediary",
+            "name": "boldwin",
+            "domain": "bold-win.com"
+        },
+        {
+            "seller_id": 204,
+            "seller_type": "Intermediary",
+            "name": "brave",
+            "domain": "thebrave.io"
+        },
+        {
+            "seller_id": 94,
+            "seller_type": "Intermediary",
+            "name": "brave",
+            "domain": "thebrave.io"
+        },
+        {
+            "seller_id": 145,
+            "seller_type": "Intermediary",
+            "name": "brave",
+            "domain": "thebrave.io"
+        },
+        {
+            "seller_id": 63,
+            "seller_type": "Intermediary",
+            "name": "brave",
+            "domain": "thebrave.io"
+        },
+        {
+            "seller_id": 59,
+            "seller_type": "Intermediary",
+            "name": "brave",
+            "domain": "thebrave.io"
+        },
+        {
+            "seller_id": 205,
+            "seller_type": "Intermediary",
+            "name": "brave",
+            "domain": "thebrave.io"
+        },
+        {
+            "seller_id": 107,
+            "seller_type": "Intermediary",
+            "name": "brave",
+            "domain": "thebrave.io"
+        },
+        {
+            "seller_id": 220,
+            "seller_type": "Intermediary",
+            "name": "brave",
+            "domain": "thebrave.io"
+        },
+        {
+            "seller_id": 144,
+            "seller_type": "Intermediary",
+            "name": "edge226",
+            "domain": "edge226.com"
+        },
+        {
+            "seller_id": 222,
+            "seller_type": "Intermediary",
+            "name": "edge226",
+            "domain": "edge226.com"
+        },
+        {
+            "seller_id": 149,
+            "seller_type": "Intermediary",
+            "name": "epom",
+            "domain": "epom.com"
+        },
+        {
+            "seller_id": 151,
+            "seller_type": "Intermediary",
+            "name": "epom",
+            "domain": "epom.com"
+        },
+        {
+            "seller_id": 152,
+            "seller_type": "Intermediary",
+            "name": "epom",
+            "domain": "epom.com"
+        },
+        {
+            "seller_id": 248,
+            "seller_type": "Intermediary",
+            "name": "exoclick",
+            "domain": "exoclick.com"
+        },
+        {
+            "seller_id": 209,
+            "seller_type": "Intermediary",
+            "name": "gemius",
+            "domain": "adocean-global.com"
+        },
+        {
+            "seller_id": 2,
+            "seller_type": "Intermediary",
+            "name": "gothamads",
+            "domain": "gothamads.com"
+        },
+        {
+            "seller_id": 4,
+            "seller_type": "Intermediary",
+            "name": "imonomy",
+            "domain": "imonomy.com"
+        },
+        {
+            "seller_id": 33,
+            "seller_type": "Intermediary",
+            "name": "imonomy",
+            "domain": "imonomy.com"
+        },
+        {
+            "seller_id": 57,
+            "seller_type": "Intermediary",
+            "name": "imonomy",
+            "domain": "imonomy.com"
+        },
+        {
+            "seller_id": 143,
+            "seller_type": "Intermediary",
+            "name": "imonomy",
+            "domain": "imonomy.com"
+        },
+        {
+            "seller_id": 119,
+            "seller_type": "Intermediary",
+            "name": "imonomy",
+            "domain": "imonomy.com"
+        },
+        {
+            "seller_id": 181,
+            "seller_type": "Intermediary",
+            "name": "integralmarketing",
+            "domain": "integral-marketing.com"
+        },
+        {
+            "seller_id": 90,
+            "seller_type": "Intermediary",
+            "name": "memeglobal",
+            "domain": "thetimmedia.com"
+        },
+        {
+            "seller_id": 217,
+            "seller_type": "Intermediary",
+            "name": "memeglobal",
+            "domain": "thetimmedia.com"
+        },
+        {
+            "seller_id": 47,
+            "seller_type": "Intermediary",
+            "name": "memeglobal",
+            "domain": "thetimmedia.com"
+        },
+        {
+            "seller_id": 215,
+            "seller_type": "Intermediary",
+            "name": "memeglobal",
+            "domain": "thetimmedia.com"
+        },
+        {
+            "seller_id": 241,
+            "seller_type": "Intermediary",
+            "name": "mobfox",
+            "domain": "mobfox.com"
+        },
+        {
+            "seller_id": 158,
+            "seller_type": "Intermediary",
+            "name": "mobfox",
+            "domain": "mobfox.com"
+        },
+        {
+            "seller_id": 41,
+            "seller_type": "Intermediary",
+            "name": "mobfox",
+            "domain": "mobfox.com"
+        },
+        {
+            "seller_id": 11,
+            "seller_type": "Intermediary",
+            "name": "mobfox",
+            "domain": "mobfox.com"
+        },
+        {
+            "seller_id": 7,
+            "seller_type": "Intermediary",
+            "name": "mobfox",
+            "domain": "mobfox.com"
+        },
+        {
+            "seller_id": 42,
+            "seller_type": "Intermediary",
+            "name": "oath",
+            "domain": "verizonmedia.com"
+        },
+        {
+            "seller_id": 44,
+            "seller_type": "Intermediary",
+            "name": "oath",
+            "domain": "verizonmedia.com"
+        },
+        {
+            "seller_id": 238,
+            "seller_type": "Intermediary",
+            "name": "passendo",
+            "domain": "passendo.com"
+        },
+        {
+            "seller_id": 239,
+            "seller_type": "Intermediary",
+            "name": "passendo",
+            "domain": "passendo.com"
+        },
+        {
+            "seller_id": 186,
+            "seller_type": "Intermediary",
+            "name": "pulsepoint",
+            "domain": "pulsepoint.com"
+        },
+        {
+            "seller_id": 246,
+            "seller_type": "Intermediary",
+            "name": "rhythmone",
+            "domain": "rhythmone.com"
+        },
+        {
+            "seller_id": 247,
+            "seller_type": "Intermediary",
+            "name": "smaato",
+            "domain": "smaato.com"
+        },
+        {
+            "seller_id": 53,
+            "seller_type": "Intermediary",
+            "name": "smartyads",
+            "domain": "smartyads.com"
+        },
+        {
+            "seller_id": 39,
+            "seller_type": "Intermediary",
+            "name": "smartyads",
+            "domain": "smartyads.com"
+        },
+        {
+            "seller_id": 1,
+            "seller_type": "Intermediary",
+            "name": "smartyads",
+            "domain": "smartyads.com"
+        },
+        {
+            "seller_id": 28,
+            "seller_type": "Intermediary",
+            "name": "smartyads",
+            "domain": "smartyads.com"
+        },
+        {
+            "seller_id": 30,
+            "seller_type": "Intermediary",
+            "name": "smartyads",
+            "domain": "smartyads.com"
+        },
+        {
+            "seller_id": 20,
+            "seller_type": "Intermediary",
+            "name": "somoaudience",
+            "domain": "somoaudience.com"
+        },
+        {
+            "seller_id": 37,
+            "seller_type": "Intermediary",
+            "name": "somoaudience",
+            "domain": "somoaudience.com"
+        },
+        {
+            "seller_id": 223,
+            "seller_type": "Intermediary",
+            "name": "stack_byappodeal",
+            "domain": "appodeal.com"
+        },
+        {
+            "seller_id": 225,
+            "seller_type": "Intermediary",
+            "name": "stack_byappodeal",
+            "domain": "appodeal.com"
+        },
+        {
+            "seller_id": 65,
+            "seller_type": "Intermediary",
+            "name": "tappx",
+            "domain": "tappx.com"
+        },
+        {
+            "seller_id": 120,
+            "seller_type": "Intermediary",
+            "name": "tappx",
+            "domain": "tappx.com"
+        },
+        {
+            "seller_id": 229,
+            "seller_type": "Intermediary",
+            "name": "thirdpresence",
+            "domain": "thirdpresence.com"
+        },
+        {
+            "seller_id": 233,
+            "seller_type": "Intermediary",
+            "name": "verve",
+            "domain": "verve.com"
+        },
+        {
+            "seller_id": 234,
+            "seller_type": "Intermediary",
+            "name": "verve",
+            "domain": "verve.com"
+        },
+        {
+            "seller_id": 224,
+            "seller_type": "Intermediary",
+            "name": "vexigo",
+            "domain": "vexigo.com"
+        },
+        {
+            "seller_id": 228,
+            "seller_type": "Intermediary",
+            "name": "vexigo",
+            "domain": "vexigo.com"
+        },
+        {
+            "seller_id": 213,
+            "seller_type": "Publisher",
+            "name": "lark player",
+            "domain": "com.dywx.larkplayer"
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "contact_email": "adops@display.io",
+    "contact_address": "display.io Inc., Suite 972, 511 Avenue Of The Americas, New York, NY 10011, USA",
+    "version": "1.0",
+    "sellers": [
+        {
+            "seller_id": "1176",
+            "name": "APUS SYSTEM TECHNOLOGY(HONG KONG) LIMITED",
+            "domain": "apusapps.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1190",
+            "name": "360 MOBILE SECURITY LIMITED",
+            "domain": "360securityapps.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1432",
+            "name": "Hongkong Daocheng Network Technology Co. Ltd.",
+            "domain": "thinkyeah.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1749",
+            "name": "Jump Ramp Games Inc",
+            "domain": "jumprampgames.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1840",
+            "name": "Shenzhen Haoke Internet Co., Ltd.",
+            "domain": "ehawk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1898",
+            "name": "HANDCENT CORPORATION (HK) LIMITED",
+            "domain": "handcent.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1925",
+            "name": "Sega of America Inc",
+            "domain": "help.sega.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1967",
+            "name": "Cashbox Group Technology(Hong Kong) Limited",
+            "domain": "51cashbox.com",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "1970",
+            "name": "PSafe Tecnologia S.A",
+            "domain": "psafe.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1987",
+            "name": "Funny Apps",
+            "domain": "muzemusic.github.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2000",
+            "name": "Audiomack, Inc.",
+            "domain": "audiomack.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2002",
+            "name": "Lima Sky LLC",
+            "domain": "limasky.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2007",
+            "name": "Guru Network Limited",
+            "domain": "castbox.fm",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2016",
+            "name": "IMGUR",
+            "domain": "imgur.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2050",
+            "name": "Fishingnet",
+            "domain": "galleryvault.xyz",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2057",
+            "name": "Newque Tech Limited",
+            "domain": "gpower.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2059",
+            "name": "NAVER WEBTOON CORP",
+            "domain": "webtoonscorp.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2067",
+            "name": "Eyecon Phone Dialer & Contacts",
+            "domain": "www.eyecon-app.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2086",
+            "name": "Influence Mobile, Inc.",
+            "domain": "www.influencemobile.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2091",
+            "name": "LEARNINGS CO., LIMITED",
+            "domain": "learnings.ai",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2100",
+            "name": "PYOPYO Studio",
+            "domain": "pyopyo.firebaseapp.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2101",
+            "is_confidential": 1,
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2106",
+            "name": "Medium Holding Limited",
+            "domain": "www.fastcleaner.site\/tether.cleaner_privacypolicy.html",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2108",
+            "name": "Luckios Game Limited",
+            "domain": "luckios.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2128",
+            "name": "Luckios Technology Co., Ltd.",
+            "domain": "luckios.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2136",
+            "name": "X-FLOW LTD",
+            "domain": "x-flow.app",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2146",
+            "name": "Perfect Corp.",
+            "domain": "perfectcorp.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2152",
+            "name": "TaleFun",
+            "domain": "www.talefun.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2154",
+            "name": "YUNBU TECHNOLOGY CO.,LIMITED",
+            "domain": "www.yunbu.me",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2166",
+            "name": "Soundhound",
+            "domain": "soundhound.com\/soundhound",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2180",
+            "name": "X Global, LLC",
+            "domain": "www.giftloop.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2186",
+            "name": "Wafour Corporation",
+            "domain": "www.wafour.com",
+            "seller_type": "PUBLISHER"
+        }
+    ]
+}

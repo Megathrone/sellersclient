@@ -1,0 +1,89 @@
+{
+"contact_email": "info@algorix.co",
+"version": "1.0",
+"sellers": [
+{
+"seller_id": "54201",
+"seller_type": "PUBLISHER",
+"name": "Amber",
+"domain": "amberweather.com"
+},
+{
+"seller_id": "54444",
+"seller_type": "PUBLISHER",
+"name": "Mfun",
+"domain": "mfun.io"
+},
+{
+"seller_id": "54305",
+"seller_type": "PUBLISHER",
+"name": "Orbis",
+"domain": "appsforboost.com"
+},
+{
+"seller_id": "10148",
+"seller_type": "PUBLISHER",
+"name": "X-Flow",
+"domain": "x-flow.app"
+},
+{
+"seller_id": "54538",
+"seller_type": "PUBLISHER",
+"name": "Meitu",
+"domain": "beautyplus.com"
+},
+{
+"seller_id": "54589",
+"seller_type": "PUBLISHER",
+"name": "Modooplay",
+"domain": "modooplay.com"
+},
+{
+"seller_id": "60120",
+"seller_type": "PUBLISHER",
+"name": "AlgoriX"
+},
+{
+"seller_id": "54824",
+"seller_type": "PUBLISHER",
+"name": "SHAREit",
+"domain": "www.ushareit.com"
+},
+{
+"seller_id": "54650",
+"seller_type": "PUBLISHER",
+"name": "WiFi Master",
+"domain": "en.wifi.com"
+},
+{
+"seller_id": "54652",
+"seller_type": "PUBLISHER",
+"name": "Transsion",
+"domain": "toolgroup.shalltry.com"
+},
+{
+"seller_id": "54843",
+"seller_type": "PUBLISHER",
+"name": "TapQ",
+"domain": "www.tapque.com"
+},
+{
+"seller_id": "54844",
+"seller_type": "PUBLISHER",
+"name": "Bigo",
+"domain": "likee.com"
+},
+{
+"seller_id": "54840",
+"seller_type": "PUBLISHER",
+"name": "Greedygames",
+"domain": "greedygame.com"
+},
+{
+"seller_id": "54616",
+"seller_type": "BOTH",
+"name": "Unity",
+"domain": "unity.com"
+}
+]
+}

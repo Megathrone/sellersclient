@@ -1,0 +1,4500 @@
+{
+    "version": "1.0",
+    "contact_email": "support@rhythmone.com",
+    "sellers": [
+        {
+            "seller_id": "721883678",
+            "name": " xAD, Inc. ",
+            "domain": "weatherbug.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3196246602",
+            "name": "24 Minutes Media",
+            "domain": "24minutesmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2777516160",
+            "name": "24hourcampfire.com, Inc",
+            "domain": "24hourcampfire.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3976512613",
+            "name": "3Y3 Digital labs prive limited",
+            "domain": "automatad.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1039837623",
+            "name": "47 Samurai",
+            "domain": "47samurai.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "228158759",
+            "name": "A View From My Seat",
+            "domain": "aviewfrommyseat.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3669484386",
+            "name": "AccuRadio LLC.",
+            "domain": "accuradio.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2451244104",
+            "name": "Adinplay",
+            "domain": "adinplay.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3938450841",
+            "name": "AdRizer",
+            "domain": "adrizer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1623953993",
+            "name": "Affiz by Evonia",
+            "domain": "affiz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "326036173",
+            "name": "AGA Medialab, Inc. d\/b\/a Blamic",
+            "domain": "blamic.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4093652929",
+            "name": "Aleteia USA, Inc",
+            "domain": "aleteia.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1089757078",
+            "name": "Alpha Brand Media",
+            "domain": "alphabrandmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "632865580",
+            "name": "American Listed, Inc",
+            "domain": "americanlisted.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2804492232",
+            "name": "Amomama Media Limited",
+            "domain": "amomama.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3350674472",
+            "name": "Aniview Inc.",
+            "domain": "aniview.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1483982361",
+            "name": "Anthony Marino",
+            "domain": "audizine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1878624802",
+            "name": "Apester Ltd.",
+            "domain": "apester.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2566245559",
+            "name": "Aragon Creek, Inc",
+            "domain": "aragoncreek.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "326706738",
+            "name": "Arkadium",
+            "domain": "arkadium.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1404950849",
+            "name": "Ascend Media Inc.",
+            "domain": "ascendmedia.ca",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1663448033",
+            "name": "Ask.fm Europe Limited",
+            "domain": "ask.fm",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1188141023",
+            "name": "Axl Media Works, LLC",
+            "domain": "axlmediaworks.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1187535094",
+            "name": "Barons",
+            "domain": "baronsmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1893012334",
+            "name": "Barons Media",
+            "domain": "baronsmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2671898434",
+            "name": "BFTV LLC.",
+            "domain": "first.media",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3599269269",
+            "name": "Bigstar TV",
+            "domain": "bigstar.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "757630593",
+            "name": "Blavity Inc",
+            "domain": "blavity.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1177308212",
+            "name": "BN Media LLC",
+            "domain": "bnmediallc.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3710806166",
+            "name": "Boarding School Review LLC",
+            "domain": "boardingschoolreview.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1753937339",
+            "name": "Boats Group, LLC",
+            "domain": "boats.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "255574915",
+            "name": "Brads Deals LLC",
+            "domain": "bradsdeals.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1795325284",
+            "name": "Brulee ",
+            "domain": "bruleepublishing.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "133701954",
+            "name": "Brulee Media",
+            "domain": "bruleepublishing.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2944900132",
+            "name": "CallApp",
+            "domain": "callapp.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2892164036",
+            "name": "Callosum Software GmbH",
+            "domain": "tellonym.me",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3011908013",
+            "name": "CarterMatt",
+            "domain": "cartermatt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2833278782",
+            "name": "castbox",
+            "domain": "castbox.fm",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1023975061",
+            "name": "Casting Call Club LLC",
+            "domain": "castingcall.club",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "333500182",
+            "name": "CBS Interactive inc.",
+            "domain": "cbsinteractive.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "420551443",
+            "name": "Cedato Technologies Inc",
+            "domain": "cedato.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1996538814",
+            "name": "Celltick Technologies",
+            "domain": "celltick.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1878652882",
+            "name": "Chace Media, LLC",
+            "domain": "bcmediagroup.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2322429484",
+            "name": "Chattertime Media, Inc",
+            "domain": "chattertime.media",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1076928510",
+            "name": "Chicken Soup for the Soul Entertainment Inc.",
+            "domain": "cssentertainment.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "941620647",
+            "name": "Chip Chick Media Inc.",
+            "domain": "chipchick.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1227412608",
+            "name": "Chive Media Group",
+            "domain": "chivemediagroup.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1418446573",
+            "name": "Ciao People Srl",
+            "domain": "ciaopeople.it",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4242179717",
+            "name": "Claarware LLC",
+            "domain": "claarware.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2646796552",
+            "name": "Clique Brands, Inc",
+            "domain": "cliquebrands.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4049741778",
+            "name": "Clique Brands, Inc.",
+            "domain": "corporate.whowhatwear.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3004702684",
+            "name": "Comedy Technologies, Inc",
+            "domain": "imgn.media",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1447675086",
+            "name": "Complex Media, Inc.",
+            "domain": "complexnetworks.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2152824727",
+            "name": "Connected Ventures, LLC",
+            "domain": "electus.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1914671382",
+            "name": "Consequence Media",
+            "domain": "consequencemedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1979527539",
+            "name": "Content IQ LLC",
+            "domain": "contentiq.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4218477100",
+            "name": "Coral Capital Solutions",
+            "domain": "coralcapitalsolutions.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "299611828",
+            "name": "Cordless Media LLC",
+            "domain": "cordlessmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "522229911",
+            "name": "Cortex Media Group",
+            "domain": "cortexmeg.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "649914739",
+            "name": "Cortex Media Group",
+            "domain": "cortexmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2528775572",
+            "name": "CotterWeb Enterprises, Inc.",
+            "domain": "cotterweb.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2678590664",
+            "name": "Covers Media Group, Ltd",
+            "domain": "covers.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1571241006",
+            "name": "Cracked",
+            "domain": "scripps.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "222724323",
+            "name": "Cross Media Corporation",
+            "domain": "lightcast.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "812726633",
+            "name": "Crunchmind",
+            "domain": "crunchmind.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "865728755",
+            "name": "Cultura Colectiva",
+            "domain": "culturacolectiva.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2545105233",
+            "name": "Curiosity Media, Inc.",
+            "domain": "curiositymedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3696225318",
+            "name": "Cynogage LLC",
+            "domain": "cynogage.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1107452720",
+            "name": "DailyMotion SA",
+            "domain": "dailymotion.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "645663861",
+            "name": "DangerTV LLC",
+            "domain": "dangertv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3805633227",
+            "name": "Dark Entity Music LLC",
+            "domain": "sglentertainment.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "917851130",
+            "name": "Dasco Interactive, Inc",
+            "domain": "dascointeractive.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1890099700",
+            "name": "Deviant Art, Inc",
+            "domain": "wix.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2071923148",
+            "name": "Deviant Art, Inc",
+            "domain": "wix.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3457855440",
+            "name": "Dexerto Limited",
+            "domain": "dexerto.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2552120949",
+            "name": "Digital Fairway Inc",
+            "domain": "digital-fairway.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1054484327",
+            "name": "Digital Media Rights",
+            "domain": "digitalmediarights.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1815171894",
+            "name": "Digital Trends",
+            "domain": "digitaltrends.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3955616926",
+            "name": "Display.IO Inc.",
+            "domain": "display.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "89503554",
+            "name": "Drexls",
+            "domain": "drexls.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3891834295",
+            "name": "Drexls",
+            "domain": "drexls.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1255201812",
+            "name": "Drusimar SA",
+            "domain": "houseofpubs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "566028692",
+            "name": "eBizpa LLC",
+            "domain": "instanttvchannel.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1552986879",
+            "name": "Editor Choice Inc",
+            "domain": "editorchoice.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3733656303",
+            "name": "Eleven Internet Services LLP",
+            "domain": "meaww.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4043013804",
+            "name": "Ellation Inc",
+            "domain": "ellation.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1091129489",
+            "name": "Encyclop\u00e6dia Britannica, Inc.",
+            "domain": "eb.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "623284799",
+            "name": "Equestria Daily",
+            "domain": "equestriadaily.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3144976592",
+            "name": "Equibase",
+            "domain": "equibase.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "580182306",
+            "name": "Equibase Co LLC",
+            "domain": "equibase.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3180879934",
+            "name": "Exent Technologies Ltd.",
+            "domain": "exent.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3936289016",
+            "name": "Exorigos LTD",
+            "domain": "exorigos.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3709112943",
+            "name": "Eye Popper Digital, LLC",
+            "domain": "eyepopperdigital.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3111831508",
+            "name": "Factinate Ltd.",
+            "domain": "factinate.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3675047057",
+            "name": "Fandoom LLC",
+            "domain": "communityhired.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3077883174",
+            "name": "Fangraphs",
+            "domain": "fangraphs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3746116852",
+            "name": "Farlex, Inc",
+            "domain": "farlex.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3689934331",
+            "name": "Farlex, Inc",
+            "domain": "farlex.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1314611592",
+            "name": "Flixxy Inc.",
+            "domain": "flixxy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2061927114",
+            "name": "FloSports, Inc.",
+            "domain": "flosports.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2210162258",
+            "name": "Football Media Pvt Ltd",
+            "domain": "footballmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2692365915",
+            "name": "Free SAS",
+            "domain": "corp.free.fr",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2441881915",
+            "name": "FrontStory",
+            "domain": "frontstory.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "444270789",
+            "name": "fuboTV, Inc",
+            "domain": "fubo.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "531082710",
+            "name": "FunCorp LTD",
+            "domain": "fun.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2267462925",
+            "name": "FunCorp LTD",
+            "domain": "fun.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "782906980",
+            "name": "Future Today Inc.",
+            "domain": "futuretodayinc.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1947792888",
+            "name": "GamePix s.r.l",
+            "domain": "gamepix.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "373774703",
+            "name": "GateHouse Media",
+            "domain": "gatehousemedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3187536415",
+            "name": "Gazette Communications Inc",
+            "domain": "thegazette.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1542316377",
+            "name": "Generation Premium",
+            "domain": "generationpremium.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1398004509",
+            "name": "Gladly, Inc.",
+            "domain": "gladly.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4155644243",
+            "name": "Gladly, Inc.",
+            "domain": "gladly.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "354769340",
+            "name": "Glam, Inc. ",
+            "domain": "glam.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2014616652",
+            "name": "Glewed Media",
+            "domain": "glewed.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "410079685",
+            "name": "Glory Technology Ltd",
+            "domain": "weegooads.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1716130007",
+            "name": "Gosici Services LTD",
+            "domain": "physicsandmathstutor.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1763945219",
+            "name": "Granite Media Group Inc.",
+            "domain": "granitemedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1043480022",
+            "name": "Great Lakes United",
+            "domain": "greatlakesunited.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4125923359",
+            "name": "Grilling Guru, Inc.",
+            "domain": "amazingribs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1475885920",
+            "name": "Groundswell Publishing",
+            "domain": "groundswellpublishing.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1218429008",
+            "name": "Groundswell Publishing LLC",
+            "domain": "groundswellpublishing.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1863237842",
+            "name": "GSN Games. Inc",
+            "domain": "gsn.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3399262603",
+            "name": "Haystack TV Inc",
+            "domain": "haystack.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4016333178",
+            "name": "Hello Earth LLC",
+            "domain": "helloearth.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "318776684",
+            "name": "Hip Happenings, LLC ",
+            "domain": "hip2save.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "782130755",
+            "name": "Hometalk LLC",
+            "domain": "hometalk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1287424535",
+            "name": "HotPot Media Inc",
+            "domain": "hotpot.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4115218781",
+            "name": "HYFR T.V. LTD",
+            "domain": "hyfr.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1182358342",
+            "name": "HYFR.TV",
+            "domain": "hyfr.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "912512313",
+            "name": "Hypable Media Inc",
+            "domain": "hypable.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2321943508",
+            "name": "iHandy Network Limited",
+            "domain": "ihandygroup.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3339100761",
+            "name": "Imgur, Inc",
+            "domain": "imgur.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "623055281",
+            "name": "Impala Studios",
+            "domain": "impalastudios.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3245342418",
+            "name": "Imperium Group",
+            "domain": "shakespeare-online.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4237858196",
+            "name": "Infospace Holdings LLC",
+            "domain": "system1.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4075274943",
+            "name": "Ingenierie Diffusion Multimedia, Inc.",
+            "domain": "idoceonline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4052369826",
+            "name": "INTERAX DIGITAL INC",
+            "domain": "interaxdigital.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "96628935",
+            "name": "Interdog Media Limited",
+            "domain": "interdogmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1296170945",
+            "name": "Inuvo, Inc.",
+            "domain": "inuvo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3445201765",
+            "name": "IR Media Ventures Corp",
+            "domain": "fatherly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3223355610",
+            "name": "Iversoft Solutions Inc",
+            "domain": "iversoft.ca",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2144310578",
+            "name": "IZON Network USA, LLC",
+            "domain": "izonnetwork.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1755316730",
+            "name": "JadooTV Inc.",
+            "domain": "jadootv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2020214421",
+            "name": "JNJ Mobile, Inc.",
+            "domain": "jnjmobile.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1128811590",
+            "name": "Joseph Velardo dba Osprey Media LLC",
+            "domain": "ospreymedia.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "68892045",
+            "name": "Jukin Media, Inc.",
+            "domain": "jukinmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2801588188",
+            "name": "Jungle Creations",
+            "domain": "junglecreations.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2167927308",
+            "name": "Jungle Creations Ltd",
+            "domain": "junglecreations.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2249989963",
+            "name": "Kamino Trade Federation, Inc.",
+            "domain": "tech-vi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4268206200",
+            "name": "Kika Tech, Inc.",
+            "domain": "kikatech.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3108317553",
+            "name": "Lafayette Media Group, LLC.",
+            "domain": "lafayettemediagroup.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1071397745",
+            "name": "Leftrock Design Inc",
+            "domain": "buzzworthy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3210721138",
+            "name": "Letsrun.com, LLC",
+            "domain": "letsrun.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1306926261",
+            "name": "LG Electronics Inc.",
+            "domain": "lg.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4221363407",
+            "name": "Lifehack",
+            "domain": "lifehack.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "263179039",
+            "name": "Liftable Media Inc",
+            "domain": "liftablemedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1514265791",
+            "name": "Livingly Media, LLC",
+            "domain": "livingly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2421327630",
+            "name": "Lola Digital Media",
+            "domain": "loladigitalmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2576817383",
+            "name": "Lori Christofides",
+            "domain": "criticsinc.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "172717467",
+            "name": "LoveToKnow Corp.",
+            "domain": "lovetoknowmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2254489857",
+            "name": "LoveToKnow, Corp",
+            "domain": "lovetoknow.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "742853455",
+            "name": "LQR Participations Ltd",
+            "domain": "trendscatchers.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1793230024",
+            "name": "M32 Media Inc",
+            "domain": "m32connect.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3704593594",
+            "name": "MacMillan Interactive LLC",
+            "domain": "macmillanweb.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1680142487",
+            "name": "Mdsperformance",
+            "domain": "mediastay.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3222046755",
+            "name": "MegaDilla LLC",
+            "domain": "megadilla.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "569724749",
+            "name": "MegaDilla LLC",
+            "domain": "megadilla.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3611697073",
+            "name": "Melons HK Limited",
+            "domain": "melonsapp.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "773326575",
+            "name": "Mental Floss",
+            "domain": "mentalfloss.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4098500199",
+            "name": "Microdigital Consulting Corporation",
+            "domain": "microdigitalmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4201179085",
+            "name": "Mind Tank Media",
+            "domain": "mindtankmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "699546687",
+            "name": "Minute Media",
+            "domain": "minutemedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "588997488",
+            "name": "minute media",
+            "domain": "minutemedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1018222080",
+            "name": "Mixerbox Inc",
+            "domain": "mixerbox.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4247147460",
+            "name": "Mobirix Corporation",
+            "domain": "mobirix.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4004520121",
+            "name": "Musi, Inc.",
+            "domain": "feelthemusi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "981589514",
+            "name": "National Review",
+            "domain": "nationalreview.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1798910855",
+            "name": "Naver Corporation",
+            "domain": "navercorp.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "316817661",
+            "name": "NDS Sales Inc- Next Millenium Media",
+            "domain": "nextmillenium.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2537889976",
+            "name": "Nevada Business Credit, LLC",
+            "domain": "totalstreammedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2265683806",
+            "name": "Newsy",
+            "domain": "newsy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2765871736",
+            "name": "Nex-Tech LLC",
+            "domain": "nextechclassifieds.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2731176240",
+            "name": "Nitronet Media",
+            "domain": "nitronetmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2621241420",
+            "name": "NorApps AS",
+            "domain": "fotmob.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "111540810",
+            "name": "Norton LLC",
+            "domain": "pastemagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3430579967",
+            "name": "Novelty Magazines, Inc.",
+            "domain": "novelty.media",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1509500361",
+            "name": "NUWA SPRL",
+            "domain": "viral-kittens.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "45475795",
+            "name": "Oahu Publications",
+            "domain": "oahupublications.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3919307236",
+            "name": "Octave Network Television LLC",
+            "domain": "octavetv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2838880547",
+            "name": "ODK Media",
+            "domain": "odkmedia.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "902291203",
+            "name": "Oilersnation.com Ltd",
+            "domain": "oilersnation.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "710572050",
+            "name": "Olmera Group LTD",
+            "domain": "olmeragroup.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2603271360",
+            "name": "Online Guru Inc",
+            "domain": "onlineguru.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3303121124",
+            "name": "onomagic LTD",
+            "domain": "onomagic.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3096168944",
+            "name": "oPub Media, LLC",
+            "domain": "opubmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3721339390",
+            "name": "OTYS LTD",
+            "domain": "healthyandnaturalworld.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1165084384",
+            "name": "Outside Television, Inc.",
+            "domain": "outsidetv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1529395603",
+            "name": "Overworld LTD.",
+            "domain": "overwolf.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2161797849",
+            "name": "Pandos, UAB",
+            "domain": "boredpanda.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2514756517",
+            "name": "PC-Magic Software LLC",
+            "domain": "pc-magic.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3702436129",
+            "name": "PCH Tribune, LLC",
+            "domain": "sltrib.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "958391789",
+            "name": "Pepsia",
+            "domain": "pepsia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3665813760",
+            "name": "Perk",
+            "domain": "perk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "734221616",
+            "name": "Perk",
+            "domain": "perk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2296595178",
+            "name": "Petilmat S.A.",
+            "domain": "awg.la",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1243534440",
+            "name": "Pharoscode",
+            "domain": "pharoscode.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "792459348",
+            "name": "Philo, Inc.",
+            "domain": "philo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2658133683",
+            "name": "PhoneArena AD",
+            "domain": "phonearena.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2298741357",
+            "name": "Pixfuture Media, Inc.",
+            "domain": "pixfuture.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2154177581",
+            "name": "PlayVig",
+            "domain": "playvig.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "318127178",
+            "name": "PlayWorks Digital Limited",
+            "domain": "play.works",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3697233659",
+            "name": "Plex Gmbh",
+            "domain": "plex.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2153678444",
+            "name": "Plexus Studios",
+            "domain": "plexusstudios.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "944192521",
+            "name": "Pongalo, Inc.",
+            "domain": "pongalo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2743523528",
+            "name": "Popreach Incorporated",
+            "domain": "popreach.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2405855521",
+            "name": "Power Bomb Media",
+            "domain": "powerbombmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "278267630",
+            "name": "Powerbomb Media",
+            "domain": "powerbombmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34786419",
+            "name": "Presspo Ltd",
+            "domain": "presspo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3347823537",
+            "name": "Prodege",
+            "domain": "prodege.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2245509678",
+            "name": "Propel Media LLC",
+            "domain": "propelmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1642612095",
+            "name": "Pubfinity, LLC",
+            "domain": "pubfinity.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3330286268",
+            "name": "Pubwise.io",
+            "domain": "pubwise.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "190321800",
+            "name": "Rainberry, Inc.",
+            "domain": "tron.network",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3311108595",
+            "name": "Random Elements Media",
+            "domain": "randomem.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1859734247",
+            "name": "Ranker, LLC",
+            "domain": "ranker.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3537028192",
+            "name": "Real News Press",
+            "domain": "realnewspress.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2949180669",
+            "name": "Red Spark, LP (dba Audience Drive, LP)",
+            "domain": "audiencedrive.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "222203092",
+            "name": "ReigNN Platform LTD",
+            "domain": "reignn.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1064375053",
+            "name": "ResearchGate GmbH",
+            "domain": "researchgate.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1903312477",
+            "name": "RhythmOne",
+            "domain": "rhythmone.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "861547498",
+            "name": "RhythmOne",
+            "domain": "rhythmone.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "697939048",
+            "name": "Ringier Romania SR",
+            "domain": "ringier.ro",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1698826910",
+            "name": "Rough Maps Incorporated",
+            "domain": "roughmaps.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "436891915",
+            "name": "SA La Nacion",
+            "domain": "lanacion.com.ar",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2178368078",
+            "name": "Salary.com LLC",
+            "domain": "salary.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3595097282",
+            "name": "Salem Web Network, LLC ",
+            "domain": "townhallmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1004642950",
+            "name": "Sayollo",
+            "domain": "sayollo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4099490515",
+            "name": "Screen Media Ventures, LLC",
+            "domain": "screenmedia.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "25628047",
+            "name": "Scripps Media, Inc.",
+            "domain": "scripps.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4178558062",
+            "name": "Scripps Media, Inc.",
+            "domain": "scripps.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3829173541",
+            "name": "Scripps Media, Inc.",
+            "domain": "scripps.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3279735358",
+            "name": "Shandy Media",
+            "domain": "shandymedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "168798926",
+            "name": "Shared",
+            "domain": "shared.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "612009761",
+            "name": "Shinez I.O. LTD",
+            "domain": "shinez.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "81993710",
+            "name": "Slacker Radio",
+            "domain": "slacker.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2596985063",
+            "name": "Slacker Radio",
+            "domain": "slacker.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1669347250",
+            "name": "Slutzky & Winshman Ltd.",
+            "domain": "snw.media",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3324556933",
+            "name": "Snigel Web Services Ltd.",
+            "domain": "snigelweb.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1327350493",
+            "name": "Snigel Webservices Ltd",
+            "domain": "snigelweb.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1820562077",
+            "name": "Snopes Media Group",
+            "domain": "snopes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4199870881",
+            "name": "Solomid Corporation",
+            "domain": "solomid.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1490141221",
+            "name": "Solve LLC",
+            "domain": "flickstream.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3449439255",
+            "name": "Someecards, Inc",
+            "domain": "someecards.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "33786957",
+            "name": "Sommers Media Inc.",
+            "domain": "sommersmediainc.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4136528596",
+            "name": "Sonemic, Inc",
+            "domain": "sonemic.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2099571006",
+            "name": "SparkPeople",
+            "domain": "sparkpeople.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2617910254",
+            "name": "Spike Media LTD",
+            "domain": "shwartz.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2264368982",
+            "name": "Step A\/S",
+            "domain": "step.dk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1467605413",
+            "name": "Stormcast Cinema LLC",
+            "domain": "stormcastcinema.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1650909855",
+            "name": "Stream Go Media",
+            "domain": "streamgomedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3452231749",
+            "name": "Streamkey LTD",
+            "domain": "streamkey.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1955686826",
+            "name": "Swift Communications, Inc",
+            "domain": "swiftcom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1838093862",
+            "name": "Tactics Network LLC",
+            "domain": "cpmstar.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "592554283",
+            "name": "Takoomi Ltd",
+            "domain": "takoomi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "117082553",
+            "name": "Tango Publishing Corp",
+            "domain": "yourtango.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1301012528",
+            "name": "Tapatalk",
+            "domain": "tapatalk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "688016270",
+            "name": "Tapatalk",
+            "domain": "tapatalk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "830853115",
+            "name": "Tech and Career",
+            "domain": "techandcareer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3698640460",
+            "name": "TextNow",
+            "domain": "textnow.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1704059967",
+            "name": "The Big Think, Inc.",
+            "domain": "bigthink.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3157276310",
+            "name": "The Daily Caller, Inc.",
+            "domain": "dailycaller.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "581030648",
+            "name": "The Drive Media, Inc",
+            "domain": "thedrivemedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2310154583",
+            "name": "The Eighth, LLC",
+            "domain": "theeighth.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3873713621",
+            "name": "The FADER, Inc.",
+            "domain": "thefader.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2851096448",
+            "name": "The Jerusalem Post",
+            "domain": "jpost.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1700222682",
+            "name": "The Meet Group",
+            "domain": "themeetgroup.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "212217823",
+            "name": "The Tracker Network",
+            "domain": "thetrackernetwork.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "911144826",
+            "name": "Tie Rod Media LLC",
+            "domain": "Tie Rod Media LLC",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "585762414",
+            "name": "Time and Date AS",
+            "domain": "timeanddate.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1508410480",
+            "name": "Timehop",
+            "domain": "timehop.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3144674972",
+            "name": "Timera Media",
+            "domain": "timeramedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4259079339",
+            "name": "Times Publishing Company",
+            "domain": "company.tampabay.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "671690140",
+            "name": "Tinybeans USA Ltd",
+            "domain": "tinybeans.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3835412855",
+            "name": "Top Law Schools LLC",
+            "domain": "top-law-schools.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2035178308",
+            "name": "Truvid, Inc.",
+            "domain": "truvid.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2594452761",
+            "name": "Turf Digital",
+            "domain": "turf.digital",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2757108644",
+            "name": "TV Time Media",
+            "domain": "tvtimemedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3324183239",
+            "name": "UDU Digital",
+            "domain": "ududigital.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1233849266",
+            "name": "UDU Digital",
+            "domain": "ududigital.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3741194953",
+            "name": "Uncoached Corp",
+            "domain": "uncoached.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4278088178",
+            "name": "Unreel Entertainment LLC",
+            "domain": "unreel.me",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3582568659",
+            "name": "Urban Dictionary LLC",
+            "domain": "urbandictionary.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1857747193",
+            "name": "Versaci Interactive Gaming Inc.",
+            "domain": "playvig.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "667315384",
+            "name": "Vevmo",
+            "domain": "vevmo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "88608377",
+            "name": "Vid20 LLC",
+            "domain": "vid20.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2387013268",
+            "name": "Vidillion",
+            "domain": "vidillion.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2452562591",
+            "name": "Viewlift, Inc.",
+            "domain": "viewlift.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3199225506",
+            "name": "Vinted UAB",
+            "domain": "vinted.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4116223063",
+            "name": "VisaJourney LLC",
+            "domain": "visajourney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1956481586",
+            "name": "Vitor Media, LLC",
+            "domain": "vitor.media",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2389563977",
+            "name": "Voice Media Group",
+            "domain": "voicemediagroup.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2498779112",
+            "name": "w00t! Media Ltd.",
+            "domain": "w00tmedia.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2002024771",
+            "name": "Wattpad Corp",
+            "domain": "wattpad.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2142335101",
+            "name": "Wattpad Corp",
+            "domain": "wattpad.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2622887920",
+            "name": "Wazimo Media Ltd.",
+            "domain": "wazimo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1410800305",
+            "name": "Weathernation TV, INC.",
+            "domain": "weathernationtv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3755382622",
+            "name": "Webedia SA",
+            "domain": "webedia-group.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3094144095",
+            "name": "WebMD Health Corp.",
+            "domain": "webmd.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2728760375",
+            "name": "WEBTOON Entertainment Inc",
+            "domain": "webtoons.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "827538197",
+            "name": "WetterOnline GmbH",
+            "domain": "wetteronline.de",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1344075341",
+            "name": "Whitepages Consumer, Inc.",
+            "domain": "whitepages.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4169414813",
+            "name": "WildTangent",
+            "domain": "wildtangent.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3996694653",
+            "name": "Wize Digital, d.o.o.",
+            "domain": "wisedigital.media",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1823051919",
+            "name": "X-FLOW LTD.",
+            "domain": "x-flow-ltd.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2130180266",
+            "name": "xAD, Inc.",
+            "domain": "groundtruth.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1060189675",
+            "name": "Xumo LLC",
+            "domain": "corp.xumo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "955431909",
+            "name": "YANSONIC, LLC",
+            "domain": "cashbackmonitor.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4277003381",
+            "name": "Yolla Media LLC",
+            "domain": "yollamedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4281163938",
+            "name": "Yoolotto LLC",
+            "domain": "yoolotto.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2437565393",
+            "name": "Young Hollywood",
+            "domain": "younghollywood.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4000280176",
+            "name": "Zepto Internet Solutions Inc",
+            "domain": "poolexpert.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3977634732",
+            "name": "Zepto Internet Solutions Inc.",
+            "domain": "poolexpert.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1222734754",
+            "name": "Zero 1 Inc.",
+            "domain": "vdo.ai",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3365684715",
+            "name": "Zippor Media LTD",
+            "domain": "zippormedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1707194545",
+            "name": "47 Samurai LLC",
+            "domain": "47samurai.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1518083778",
+            "name": "A.MOB",
+            "domain": "we-are-adot.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1022945102",
+            "name": "Adapex LLC",
+            "domain": "adapex.io",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "547493497",
+            "name": "Adflare",
+            "domain": "adflare.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1108206426",
+            "name": "Adkarma",
+            "domain": "adkarma.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3638460133",
+            "name": "ADMAX SAS",
+            "domain": "admaxmedia.io",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "771199368",
+            "name": "AdThink SA",
+            "domain": "adthink.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3922120390",
+            "name": "Adverline SAS",
+            "domain": "adverline.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4212616382",
+            "name": "Anyclip",
+            "domain": "anyclip.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4286588646",
+            "name": "Apestar",
+            "domain": "apester.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4235315517",
+            "name": "Bidfluence",
+            "domain": "bidfluence.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "545277841",
+            "name": "Boldscreen Media",
+            "domain": "boldscreenmedia.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2088589623",
+            "name": "Carambola Ltd. ",
+            "domain": "carambola.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1426568941",
+            "name": "Creative Research",
+            "domain": "corp.playtem.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2166623664",
+            "name": "CRM Srl",
+            "domain": "crm.it",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2227494707",
+            "name": "Fanbyte",
+            "domain": "fanbyte.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3498298858",
+            "name": "Four media network GmbH",
+            "domain": "4media-network.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1058760868",
+            "name": "Freestar, LLC",
+            "domain": "freestar.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3799952508",
+            "name": "Google EB - 123greetings, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "821857336",
+            "name": "Google EB - 18 Storey Private Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1942009976",
+            "name": "Google EB - 365 Scores",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2749091681",
+            "name": "Google EB - 7 Graus LDA",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "380048919",
+            "name": "Google EB - 9to5Mac",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1658093783",
+            "name": "Google EB - AARP",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1223411471",
+            "name": "Google EB - Adapex LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1432377581",
+            "name": "Google EB - Adinplay",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1922840542",
+            "name": "Google EB - AdKaora Srl",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1736839099",
+            "name": "Google EB - ADME(CY) Ltd.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2684646107",
+            "name": "Google EB - Adnimation ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2948759984",
+            "name": "Google EB - AdPushup, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2052094767",
+            "name": "Google EB - Ads Interactive Network KFT.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "350053546",
+            "name": "Google EB - Advance Digital, Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3026114549",
+            "name": "Google EB - Adverline S.A.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1243285368",
+            "name": "Google EB - Adversport",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3348581544",
+            "name": "Google EB - AdWeek, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2746997163",
+            "name": "Google EB - Akuate Internet Services Private Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "412878602",
+            "name": "Google EB - Amomama Media Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1575167821",
+            "name": "Google EB - Ampliffy Young Audience",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2852200149",
+            "name": "Google EB - AppGeneration - Software Technologies, Lda",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "909885332",
+            "name": "Google EB - Armor Games",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "791028234",
+            "name": "Google EB - Asianet News Media & Entertainment Private Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2493799031",
+            "name": "Google EB - Ask Media Group",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4037600055",
+            "name": "Google EB - Associated Newspapers Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "599078942",
+            "name": "Google EB - Assosciated Press",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2784785034",
+            "name": "Google EB - Autodesk, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2837491688",
+            "name": "Google EB - Bazaarvoice Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3093722432",
+            "name": "Google EB - BCM",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3076353231",
+            "name": "Google EB - Belo Media Group",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "631247491",
+            "name": "Google EB - Bennet, Coleman & Company Ltd",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3068722027",
+            "name": "Google EB - BFTV LLC.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2722291892",
+            "name": "Google EB - BH Media Group, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3149900187",
+            "name": "Google EB - BN Media LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2700731826",
+            "name": "Google EB - Boston Globe Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1959202310",
+            "name": "Google EB - Brainjolt Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4131525968",
+            "name": "Google EB - Broadcast Advertising",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "192293796",
+            "name": "Google EB - BT Media LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3281949690",
+            "name": "Google EB - Bustle",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1311513724",
+            "name": "Google EB - calcioinfinito srl",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "444941962",
+            "name": "Google EB - CAN Digital Solutions Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1703752335",
+            "name": "Google EB - CarsDirect",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1708260210",
+            "name": "Google EB - CBS Interactive inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2509182728",
+            "name": "Google EB - Cdiscount",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "689598935",
+            "name": "Google EB - Celltick Technologies",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "794540181",
+            "name": "Google EB - Chegg Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1450274897",
+            "name": "Google EB - Chive Media Group, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3883509303",
+            "name": "Google EB - Classmates, Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1265560552",
+            "name": "Google EB - Complex Media, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3888861401",
+            "name": "Google EB - Concourse Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1596119024",
+            "name": "Google EB - Connected Ventures, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "915918040",
+            "name": "Google EB - Constructive Media, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2518049739",
+            "name": "Google EB - Content IQ LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1513852832",
+            "name": "Google EB - Corpito",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1947464359",
+            "name": "Google EB - Cortex Media Group",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4070784638",
+            "name": "Google EB - Covers Media Group, Ltd",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2284886587",
+            "name": "Google EB - Crain Communications",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2758804628",
+            "name": "Google EB - Curiosity Media, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "712464791",
+            "name": "Google EB - Daily Mail",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1936447579",
+            "name": "Google EB - Daily Racing Form LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "985506412",
+            "name": "Google EB - Demand Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1991449680",
+            "name": "Google EB - Den of Geek",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1850592025",
+            "name": "Google EB - Dennis Publisher LTD",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3905797057",
+            "name": "Google EB - DeviantArt",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3155642823",
+            "name": "Google EB - Dictionary.com, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1542445655",
+            "name": "Google EB - Digest Media Publications Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "495954670",
+            "name": "Google EB - Digital First Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "473607841",
+            "name": "Google EB - Digital Trends",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "961961586",
+            "name": "Google EB - DIGO Hispanic Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3057403807",
+            "name": "Google EB - Distractify",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4117835252",
+            "name": "Google EB - Distroscale, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1220660962",
+            "name": "Google EB - Doodle",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4256623934",
+            "name": "Google EB - Drive Tribe",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3860748433",
+            "name": "Google EB - Drugsite Trust",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1981152629",
+            "name": "Google EB - Dugout Worldwide",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2344758953",
+            "name": "Google EB - eBay Inc. ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1409339259",
+            "name": "Google EB - Editor Choice, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3541673656",
+            "name": "Google EB - Eeple",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2383608145",
+            "name": "Google EB - Eleven Internet Services LLP",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "29722311",
+            "name": "Google EB - Elokence",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1138302160",
+            "name": "Google EB - Elokence, SAS",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1458088747",
+            "name": "Google EB - EMIS Health",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2436724746",
+            "name": "Google EB - Encyclopedia Britannica, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "855412539",
+            "name": "Google EB - Entercom Communications Corp.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2323143121",
+            "name": "Google EB - Enthusiast Gaming, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1779938478",
+            "name": "Google EB - Entrepreneur Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3943911795",
+            "name": "Google EB - Entrepreneur Media, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1120218464",
+            "name": "Google EB - Evite, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3241433253",
+            "name": "Google EB - Evolve Media, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1923001931",
+            "name": "Google EB - ExMarketPlace FZ LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4132581174",
+            "name": "Google EB - Exorigos LTD",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2126269103",
+            "name": "Google EB - Factinate",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "428705974",
+            "name": "Google EB - Famous Birthdays LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4231141077",
+            "name": "Google EB - Fareportal",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1955794380",
+            "name": "Google EB - FloSports, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "823219057",
+            "name": "Google EB - Forbes Media, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "719540025",
+            "name": "Google EB - Forum Communications Company",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1145766910",
+            "name": "Google EB - Frankly Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2696396483",
+            "name": "Google EB - Freestar, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "475526200",
+            "name": "Google EB - Frequent Flyer Services",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "665451201",
+            "name": "Google EB - FrontStory",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2709932661",
+            "name": "Google EB - Fusion Agency Spain S.L. ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3847314734",
+            "name": "Google EB - Futbol Sites Network",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2345285769",
+            "name": "Google EB - Future PLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1126204936",
+            "name": "Google EB - Future PLC Publishing",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "390722756",
+            "name": "Google EB - G\/O Media, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1149317856",
+            "name": "Google EB - Gannett",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2848856066",
+            "name": "Google EB - GasBuddy Organization, Inc.,",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1787830067",
+            "name": "Google EB - Gateway Blend, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3995338187",
+            "name": "Google EB - Generation Premium",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2208241788",
+            "name": "Google EB - Genius Media Group Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3342164179",
+            "name": "Google EB - GFR Media Communications ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2416533990",
+            "name": "Google EB - GhanaWeb",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2117276395",
+            "name": "Google EB - Glassdoor, Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3988579418",
+            "name": "Google EB - GoViral, Inc. ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "114361122",
+            "name": "Google EB - Granite Media Group, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1674910559",
+            "name": "Google EB - Greynium Information Tech",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2490934491",
+            "name": "Google EB - Groupe Cerise",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1154167824",
+            "name": "Google EB - Grupo Healy",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4033076080",
+            "name": "Google EB - Grupo Zeta, S.A.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3426060995",
+            "name": "Google EB - Hearst Corporation",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1092903238",
+            "name": "Google EB - Heavy, Inc.,",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3105511759",
+            "name": "Google EB - Hexagram LTD",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "639525035",
+            "name": "Google EB - Hindu Businessline",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3048633323",
+            "name": "Google EB - Homes.com, Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2230435552",
+            "name": "Google EB - Hometalk LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1249376240",
+            "name": "Google EB - Hubbard Radio Washington DC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1718414795",
+            "name": "Google EB - IAC  Publishing,  LLC,",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1134591718",
+            "name": "Google EB - IFLScienceLTD.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3082253493",
+            "name": "Google EB - Ilyon Dynamics",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "601188783",
+            "name": "Google EB - Immediate Media Company London LTD.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2378707456",
+            "name": "Google EB - Impala Studios",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2534773167",
+            "name": "Google EB - Independent Digital News and Media Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3898873792",
+            "name": "Google EB - Infospace Holdings LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "705499385",
+            "name": "Google EB - INM",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "761115846",
+            "name": "Google EB - INN Partners, L.C.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "591114681",
+            "name": "Google EB - INN Partners, L.C.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1487708862",
+            "name": "Google EB - Inquirer Interactive Inc ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "527383184",
+            "name": "Google EB - Insticator Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "316960046",
+            "name": "Google EB - Interactive One, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1719629905",
+            "name": "Google EB - Inuvo, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1644621255",
+            "name": "Google EB - Investing Channel, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2483498431",
+            "name": "Google EB - IR Media Ventures Corp",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1771359821",
+            "name": "Google EB - Issuu inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "962090776",
+            "name": "Google EB - Iversoft Solutions, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3186259907",
+            "name": "Google EB - Jagran Prakashan Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1492890661",
+            "name": "Google EB - JNJ Mobile",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2023183204",
+            "name": "Google EB - Kiosed",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1972848190",
+            "name": "Google EB - Kocowa",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1470707308",
+            "name": "Google EB - Kueez Entertainment",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2225266319",
+            "name": "Google EB - Kulni International S.A Etermax",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3235227935",
+            "name": "Google EB - Le Point Communications",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2096411237",
+            "name": "Google EB - Lee Enterprises, Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "5565883",
+            "name": "Google EB - Legacy.com, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3028176301",
+            "name": "Google EB - Letgo USA B.V.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1189469348",
+            "name": "Google EB - Livingly Media Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2004801293",
+            "name": "Google EB - LoveToKnow Corp.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2052258722",
+            "name": "Google EB - M2",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "596375962",
+            "name": "Google EB - M32 Media Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4135307405",
+            "name": "Google EB - marfeel.com",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2233121798",
+            "name": "Google EB - Market Realist",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3361406856",
+            "name": "Google EB - Mass\u00b2,a division of Nexstar Digital LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1536213822",
+            "name": "Google EB - Match.com LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2029316391",
+            "name": "Google EB - McClatchy Shared Services, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "949103067",
+            "name": "Google EB - Mediavine,  Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2909204019",
+            "name": "Google EB - MedyaNet ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3027553247",
+            "name": "Google EB - Melons HK Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "404531141",
+            "name": "Google EB - Meredith Corporation",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2677023787",
+            "name": "Google EB - Mind Tank Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "203808374",
+            "name": "Google EB - minute media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1076954548",
+            "name": "Google EB - Mobile Posse, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3021821329",
+            "name": "Google EB - MonetizeMore",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2181361681",
+            "name": "Google EB - Moneytag",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "32202710",
+            "name": "Google EB - Monumetric",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "70760072",
+            "name": "Google EB - Multiply",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2978209022",
+            "name": "Google EB - Mumsnet Limited",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "413723992",
+            "name": "Google EB - Mundo Hispano",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1647685925",
+            "name": "Google EB - MX Media & Entertainment",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1702997646",
+            "name": "Google EB - MX Media & Entertainment Pte Ltd",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1689631031",
+            "name": "Google EB - Narcity Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1105045584",
+            "name": "Google EB - NASDAQ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2059465938",
+            "name": "Google EB - NDS Sales Inc- Next Millenium Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3872044733",
+            "name": "Google EB - Neo Era Media Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "31150043",
+            "name": "Google EB - New Dream Global",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2577015702",
+            "name": "Google EB - New York Magazine",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "338557713",
+            "name": "Google EB - News UK ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "477252885",
+            "name": "Google EB - Norton LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2596774381",
+            "name": "Google EB - Novelty Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2105375839",
+            "name": "Google EB - Obsco LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2655511289",
+            "name": "Google EB - ODK Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2978065952",
+            "name": "Google EB - Olympia Media Group LLC-Odyssey ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "307554828",
+            "name": "Google EB - Orange France ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1780426216",
+            "name": "Google EB - PBH Network",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2099793420",
+            "name": "Google EB - PCH Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1381157640",
+            "name": "Google EB - Pelmorex Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3993619119",
+            "name": "Google EB - Perform Group",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2432108893",
+            "name": "Google EB - Philadelphia Media Network, PBC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1081208561",
+            "name": "Google EB - PhoneArena AD",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2066993551",
+            "name": "Google EB - Pinsight Media, inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "829244716",
+            "name": "Google EB - Playwire",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "997359805",
+            "name": "Google EB - Playwire",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "223950605",
+            "name": "Google EB - Popsugar, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3694825556",
+            "name": "Google EB - Postmedia",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2021618242",
+            "name": "Google EB - PRENSA IBERICA 360 SL.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2001948844",
+            "name": "Google EB - Pressdemocrat (Yourbow)",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1784269274",
+            "name": "Google EB - PriceRunner Sweden AB ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2623748926",
+            "name": "Google EB - Prime Publishing LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2894227787",
+            "name": "Google EB - Prometheus Global Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1166936797",
+            "name": "Google EB - Proper Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3424821387",
+            "name": "Google EB - Publir",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1625313986",
+            "name": "Google EB - Quoka GmbH",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2714870091",
+            "name": "Google EB - Radio.de GmbH",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3013637965",
+            "name": "Google EB - Random Elements Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2997571737",
+            "name": "Google EB - Ranker, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "683051541",
+            "name": "Google EB - Raycom Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4512557",
+            "name": "Google EB - RentPath",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4240804475",
+            "name": "Google EB - ResearchGate GmbH",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "301820969",
+            "name": "Google EB - Reuters",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4278909898",
+            "name": "Google EB - Reworld Media Factory",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2766725497",
+            "name": "Google EB - RNOT, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3526250853",
+            "name": "Google EB - Rumble, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1838768771",
+            "name": "Google EB - SA La Nacion",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3342464691",
+            "name": "Google EB - Salary.com",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3600445199",
+            "name": "Google EB - Salem Web Network, LLC ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "885743634",
+            "name": "Google EB - Salvatore Aranzulla",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "635969987",
+            "name": "Google EB - Say Media Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2339344683",
+            "name": "Google EB - Scripps Media, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "284093653",
+            "name": "Google EB - Serious Eats Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3017188228",
+            "name": "Google EB - Shareably Media, LLC ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1680741778",
+            "name": "Google EB - SHE Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2506861374",
+            "name": "Google EB - Sinclair",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2865045207",
+            "name": "Google EB - Slacker Radio",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3116314521",
+            "name": "Google EB - Snack Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3936018154",
+            "name": "Google EB - Snigel Webservices Ltd",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2737720946",
+            "name": "Google EB - Snopes Media Group",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "572871995",
+            "name": "Google EB - Softonic International S.A.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "726357657",
+            "name": "Google EB - Solomid Corporation",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1760509160",
+            "name": "Google EB - Some Spider, Inc. ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2175094432",
+            "name": "Google EB - Sonic Twist Media Publishing LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2093799529",
+            "name": "Google EB - SoundHound Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1362155753",
+            "name": "Google EB - SparkPeople",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3548491335",
+            "name": "Google EB - Spil Games",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2176916699",
+            "name": "Google EB - Spine Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3980727263",
+            "name": "Google EB - Spine Media, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2157014059",
+            "name": "Google EB - Sports News Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2658988059",
+            "name": "Google EB - Sportskeeda",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "915882568",
+            "name": "Google EB - Spot.IM Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3691093435",
+            "name": "Google EB - Star Tribune",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3221269876",
+            "name": "Google EB - Stockholm Yield Optimisers AB",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2817568782",
+            "name": "Google EB - Stocktwits, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2130882134",
+            "name": "Google EB - StreamAMP",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1903337323",
+            "name": "Google EB - Streema",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2119797735",
+            "name": "Google EB - Swathi's",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4267838673",
+            "name": "Google EB - Synacor Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "727947656",
+            "name": "Google EB - Tagged",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3898167159",
+            "name": "Google EB - Tango Publishing Corp",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "43407795",
+            "name": "Google EB - Teaching Aids, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2950698741",
+            "name": "Google EB - Teaching.com",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4259971108",
+            "name": "Google EB - TeamSnap",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2348493402",
+            "name": "Google EB - Tegna",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2064294999",
+            "name": "Google EB - Telegraph",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3290186191",
+            "name": "Google EB - TextNow",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1308391225",
+            "name": "Google EB - The Cheat Sheet",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3039329955",
+            "name": "Google EB - The Daily Beast Company, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2182297330",
+            "name": "Google EB - The Drive Media, Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1690822551",
+            "name": "Google EB - The News Broadcasting Corporation PLC.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1099390519",
+            "name": "Google EB - The Publisher Desk",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "589578904",
+            "name": "Google EB - The Seattle Times Company",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4270929544",
+            "name": "Google EB - The Slate Group",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3212835989",
+            "name": "Google EB - The Washington Times",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2455714108",
+            "name": "Google EB - TheLadBible",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2546019116",
+            "name": "Google EB - TheSoul Publishing",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1009741435",
+            "name": "Google EB - This Old House Ventures, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2863816850",
+            "name": "Google EB - Time and Date AS",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2666480745",
+            "name": "Google EB - Time USA, LLC.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1026339493",
+            "name": "Google EB - Titan Gate LTD",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "203598673",
+            "name": "Google EB - Topix",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2055243557",
+            "name": "Google EB - Tribune",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3936810445",
+            "name": "Google EB - Trinity Mirror",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2946739035",
+            "name": "Google EB - Turkuvaz Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4035768237",
+            "name": "Google EB - UACF",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2691952685",
+            "name": "Google EB - Unilad",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4191622739",
+            "name": "Google EB - Univision",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "578796737",
+            "name": "Google EB - UPI",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3085582998",
+            "name": "Google EB - Urban Dictionary",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3835751711",
+            "name": "Google EB - Valnet, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2864567592",
+            "name": "Google EB - Venatus Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1525200299",
+            "name": "Google EB - Viber Media SARL",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1809331877",
+            "name": "Google EB - Vice Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3109407923",
+            "name": "Google EB - Vimeo, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1139829927",
+            "name": "Google EB - Vinted UAB",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2066434306",
+            "name": "Google EB - Vitalize, LLC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "736524665",
+            "name": "Google EB - Vuukle DMCC",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3342390447",
+            "name": "Google EB - Wallapop",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2702656831",
+            "name": "Google EB - WarnerMedia",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1592364992",
+            "name": "Google EB - Washington Newspaper Publishing",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1564806009",
+            "name": "Google EB - Webedia",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3310053418",
+            "name": "Google EB - Webedia SA",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2974960557",
+            "name": "Google EB - Weblog Media B.V",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3893553752",
+            "name": "Google EB - WEBTOON Entertainment Inc. ",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1218884089",
+            "name": "Google EB - WetterOnline GmbH",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "507913929",
+            "name": "Google EB - Wikia",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4259564122",
+            "name": "Google EB - wikihow, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1244215722",
+            "name": "Google EB - Wikr Group",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2942640015",
+            "name": "Google EB - WildTangent",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3172520780",
+            "name": "Google EB - WindFinder",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3700845637",
+            "name": "Google EB - Wise Publishing Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4195999290",
+            "name": "Google EB - WMG International, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "344725445",
+            "name": "Google EB - Workout Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4240623454",
+            "name": "Google EB - Woven Digital, Inc.",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2267276107",
+            "name": "Google EB - XO Group",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2125894044",
+            "name": "Google EB - Yieldbird Sp. z.o.o",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "960386424",
+            "name": "Google EB - YieldLift",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1244507885",
+            "name": "Google EB - Zergnet",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3736940343",
+            "name": "Google EB - Zero1, Inc",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3624075443",
+            "name": "Google EB - Zippor Media",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2837764818",
+            "name": "Hooked Media",
+            "domain": "hookedmediagroup.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2221906906",
+            "name": "Infolinks Media, LLC",
+            "domain": "infolinks.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2850815479",
+            "name": "Inform, Inc",
+            "domain": "inform.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3836434094",
+            "name": "Insticator",
+            "domain": "insticator.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "136898039",
+            "name": "Insticator Inc.",
+            "domain": "Insticator.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3278238520",
+            "name": "IRCO TECHNOLOGIES LTD (M51)",
+            "domain": "m51.co",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1352466146",
+            "name": "Ironsource USA Inc (NS)",
+            "domain": "ironsrc.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3245818132",
+            "name": "Kangai SAS",
+            "domain": "kangai.fr",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2047737298",
+            "name": "Krush Media",
+            "domain": "krush.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2720906716",
+            "name": "Kubient, Inc.",
+            "domain": "kubient.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1897319827",
+            "name": "McCann Disciplines LTD",
+            "domain": "primis.tech",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2338962694",
+            "name": "McCann Disciplines LTD",
+            "domain": "primis.tech",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3611299104",
+            "name": "Media.net",
+            "domain": "media.net",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3408527385",
+            "name": "Mediavine, Inc.",
+            "domain": "mediavine.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "872685755",
+            "name": "Mobideck",
+            "domain": "mobideck.net",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2614004368",
+            "name": "MonetizeMore",
+            "domain": "monetizemore.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "512966271",
+            "name": "Moneytag",
+            "domain": "moneytag.fr",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2067799303",
+            "name": "Monumetric",
+            "domain": "monumetric.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2876592028",
+            "name": "New Dream Global",
+            "domain": "newdreamglobal.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1204009095",
+            "name": "NFL Enterprises LLC",
+            "domain": "nfl.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1585706287",
+            "name": "NicheRev",
+            "domain": "nicherev.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1804932792",
+            "name": "Novoroll",
+            "domain": "novoroll.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "869591749",
+            "name": "Online Media Solutions",
+            "domain": "brightcom.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "453338987",
+            "name": "OpsCo LLC",
+            "domain": "ops.co",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1566669042",
+            "name": "Proper Media, LLC",
+            "domain": "proper.io",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3403014119",
+            "name": "pubGENIUS Inc.",
+            "domain": "pubgenius.io",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2933136468",
+            "name": "Publir",
+            "domain": "publir.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3204243397",
+            "name": "Publishers Revenue Optimization Sp. z o.o.",
+            "domain": "optad360.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1114124056",
+            "name": "RTK.io, Inc.",
+            "domain": "rtk.io",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "286281696",
+            "name": "Say Media Inc.",
+            "domain": "saymedia.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1962388486",
+            "name": "Skyboard",
+            "domain": "skyboard.fr",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3375425534",
+            "name": "Streamkey",
+            "domain": "streamkey.tv",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3184718221",
+            "name": "Synacor Inc.",
+            "domain": "synacor.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3184058373",
+            "name": "The Moneytizer",
+            "domain": "us.themoneytizer.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "517970633",
+            "name": "The News Broadcasting Corporation",
+            "domain": "tnbcplc.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "872983181",
+            "name": "Titan Gate AD",
+            "domain": "titangate.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3071852484",
+            "name": "TNBC DIGITAL INDIA PVT. LTD.",
+            "domain": "tnbcplc.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2895870590",
+            "name": "Trion Interactive",
+            "domain": "trion.io",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "456081263",
+            "name": "VidCrunch LLC",
+            "domain": "vidcrunch.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4107953657",
+            "name": "Vidoomy",
+            "domain": "vidoomy.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1230894478",
+            "name": "Vuukle DMCC",
+            "domain": "vuukle.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1200765299",
+            "name": "Winvid LTD",
+            "domain": "winvid.co",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2721457585",
+            "name": "ZMG",
+            "domain": "ruckusfactory.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3865032645",
+            "name": "Zumobi",
+            "domain": "zumobi.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1415748127",
+            "name": "Zype",
+            "domain": "zype.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3944211472",
+            "name": "Future PLC",
+            "domain": "futureplc.com",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "2997140015",
+            "name": "Fuze LLC d\/b\/a MediaFuse",
+            "domain": "mediafuse.com",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "3744749066",
+            "name": "GG Software LLC",
+            "domain": "ggsoftware.io",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "2476372777",
+            "name": "Lee Enterprises, Inc",
+            "domain": "lee.net",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "752824437",
+            "name": "Rumble, Inc.",
+            "domain": "rumble.com",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "3002307632",
+            "name": "Teaching Aids, LLC",
+            "domain": "admetricspro.com",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "1175182741",
+            "name": "This Old House Ventures, LLC",
+            "domain": "thisoldhouse.com",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "666788343",
+            "name": "WMG International, Inc.",
+            "domain": "wmgroup.us",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "78519861",
+            "name": "Floor6",
+            "domain": "floor6.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1178115478",
+            "name": "Pubmatic",
+            "domain": "pubmatic.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1059622079",
+            "name": "Sonobi",
+            "domain": "sonobi.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1422284203",
+            "name": "AOL Video",
+            "domain": "verizonmedia.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "640444239",
+            "name": "Rubicon Project",
+            "domain": "rubiconproject.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4201299756",
+            "name": "Smaato",
+            "domain": "smaato.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "188404962",
+            "name": "INMOBI PTE LTD",
+            "domain": "aerserv.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2444764291",
+            "name": "Sovrn",
+            "domain": "lijit.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2100077319",
+            "name": "AdColony",
+            "domain": "adcolony.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4000889998",
+            "name": "Underdog Media",
+            "domain": "udmserve.net",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2169000724",
+            "name": "Fyber",
+            "domain": "fyber.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1119862112",
+            "name": "Triplelift",
+            "domain": "triplelift.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "501921149",
+            "name": "FreeWheel Media, Inc",
+            "domain": "freewheel.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1521350481",
+            "name": "Q1Media",
+            "domain": "q1media.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2564526802",
+            "name": "SmartAdServer",
+            "domain": "smartadserver.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3581273787",
+            "name": "Telaria",
+            "domain": "telaria.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "630876328",
+            "name": "Sortable",
+            "domain": "sortable.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1179838991",
+            "name": "Google AdX",
+            "domain": "google.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1654642120",
+            "name": "Amazon Publisher Services (APS)",
+            "domain": "aps.amazon.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "4173858586",
+            "name": "PubNative",
+            "domain": "pubnative.net",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1166984029",
+            "name": "Taboola",
+            "domain": "taboola.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3169196794",
+            "name": "IronSource",
+            "domain": "ironsrc.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1767353092",
+            "name": "e-Planning",
+            "domain": "e-planning.net",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3227031674",
+            "name": "VRTCAL",
+            "domain": "vrtcal.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2288795184",
+            "name": "SelectMedia",
+            "domain": "selectmedia.asia",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3948367200",
+            "name": "AcuityAds",
+            "domain": "acuityads.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3842346081",
+            "name": "Madvertise",
+            "domain": "madvertise.com\/en",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1605779867",
+            "name": "ChartBoost",
+            "domain": "chartboost.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3704396951",
+            "name": "MobileFuse",
+            "domain": "mobilefuse.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3218195319",
+            "name": "AdView",
+            "domain": "adview.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1928162805",
+            "name": "Xandr",
+            "domain": "xandr.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2221906906",
+            "name": "Infolinks",
+            "domain": "infolinks.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "592288605",
+            "name": "MGID",
+            "domain": "mgid.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "3880497124",
+            "name": "Between Exchange",
+            "domain": "betweendigital.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1089843590",
+            "name": "Unruly",
+            "domain": "unruly.co",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "2464975885",
+            "name": "StartApp",
+            "domain": "startapp.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1492464500",
+            "name": "Passendo",
+            "domain": "passendo.com",
+            "seller_type": "INTERMEDIARY"
+        }
+    ]
+}

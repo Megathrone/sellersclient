@@ -1,0 +1,415 @@
+{
+  "contact_email": "pmsquad@kargo.com",
+  "contact_address": "Kargo, 826 Broadway 4th Floor, New York, NY 10003",
+  "version": "1.0",
+  "identifiers": [
+    {
+      "name": "TAG-ID",
+      "value": "98ccdd9948ed08da"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "1267",
+      "name": "AdWeek",
+      "domain": "www.adweek.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "125",
+      "name": "American Media, Inc.",
+      "domain": "www.americanmediainc.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "76",
+      "name": "Bauer Media Group",
+      "domain": "www.bauermedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1320",
+      "name": "BBC Global News LTD",
+      "domain": "www.bbc.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8128",
+      "name": "Brit + Co",
+      "domain": "www.brit.co",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "108",
+      "name": "Business Insider",
+      "domain": "www.businessinsider.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "121",
+      "name": "Bustle Media Group",
+      "domain": "bustle.company",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1724",
+      "name": "BuzzFeed, Inc.",
+      "domain": "www.buzzfeed.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "109",
+      "name": "CBS Interactive",
+      "domain": "www.cbsinteractive.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1321",
+      "name": "CBS Interactive",
+      "domain": "www.cbsinteractive.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "112",
+      "name": "Complex Media Inc.",
+      "domain": "complex.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1236",
+      "name": "Complex Media Inc.",
+      "domain": "complex.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1237",
+      "name": "Complex Media Inc.",
+      "domain": "complex.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1246",
+      "name": "Cracked",
+      "domain": "www.cracked.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "117",
+      "name": "The Daily Mail",
+      "domain": "www.dailymail.co.uk",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1252",
+      "name": "The Daily Mail",
+      "domain": "www.dailymail.co.uk",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8321",
+      "name": "The Daily Mail",
+      "domain": "www.dailymail.co.uk",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "116",
+      "name": "Leaf Group",
+      "domain": "www.leafgroup.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "113",
+      "name": "Discovery, Inc.",
+      "domain": "corporate.discovery.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3064",
+      "name": "Distractify Inc",
+      "domain": "www.distractify.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "4195",
+      "name": "EB Golf Media",
+      "domain": "www.golf.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1550",
+      "name": "Everyday Health",
+      "domain": "www.everydayhealthgroup.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "210",
+      "name": "Wikia, Inc.",
+      "domain": "www.wikia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "200",
+      "name": "Fusion Media Group",
+      "domain": "thefmg.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8112",
+      "name": "Group Nine Media",
+      "domain": "www.groupninemedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "120",
+      "name": "H Code Media",
+      "domain": "hcodemedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "114",
+      "name": "Hearst",
+      "domain": "www.hearst.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "77",
+      "name": "IAC",
+      "domain": "www.thedailybeast.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8111",
+      "name": "Inverse",
+      "domain": "www.inverse.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "2988",
+      "name": "iOne Digital",
+      "domain": "ionedigital.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3112",
+      "name": "Livingly Media",
+      "domain": "www.livinglymedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "73",
+      "name": "Meredith Corporation",
+      "domain": "www.meredith.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "73",
+      "name": "Meredith Corporation",
+      "domain": "www.meredith.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7139",
+      "name": "MindBodyGreen",
+      "domain": "www.mindbodygreen.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3063",
+      "name": "Multiply Media",
+      "domain": "www.multiply.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8125",
+      "name": "Narcity Media",
+      "domain": "www.narcitymedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "136",
+      "name": "NBCUniversal",
+      "domain": "www.nbcuniversal.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3808",
+      "name": "New York Media",
+      "domain": "mediakit.nymag.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "137",
+      "name": "The New York Post",
+      "domain": "nypost.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "137",
+      "name": "The New York Post",
+      "domain": "nypost.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "102",
+      "name": "Penske Media Corporation",
+      "domain": "pmc.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8126",
+      "name": "Playbill",
+      "domain": "www.playbill.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "75",
+      "name": "Prometheus Global Media",
+      "domain": "www.prometheusgm.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "141",
+      "name": "Ranker",
+      "domain": "www.ranker.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "143",
+      "name": "Scary Mommy",
+      "domain": "scarymommy.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "118",
+      "name": "She Media",
+      "domain": "www.shemedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7747",
+      "name": "Snopes Media Group",
+      "domain": "www.snopes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3141",
+      "name": "Task And Purpose",
+      "domain": "taskandpurpose.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5764",
+      "name": "Task And Purpose",
+      "domain": "taskandpurpose.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "151",
+      "name": "The Hill",
+      "domain": "thehill.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3207",
+      "name": "The Odyssey",
+      "domain": "www.theodysseyonline.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1388",
+      "name": "The Publisher Desk",
+      "domain": "www.publisherdesk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8119",
+      "name": "The Real Deal",
+      "domain": "therealdeal.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "78",
+      "name": "The Spun",
+      "domain": "thespun.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3029",
+      "name": "The Venue Report",
+      "domain": "www.venuereport.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8127",
+      "name": "Time Out Group",
+      "domain": "www.timeout.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "90",
+      "name": "Townsquare Media, Inc.",
+      "domain": "www.townsquaremedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5974",
+      "name": "Tribune Media Company",
+      "domain": "www.tribunemedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3573",
+      "name": "Tribune Publishing Company",
+      "domain": "www.tribpub.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8117",
+      "name": "US News & World Report",
+      "domain": "www.usnews.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8114",
+      "name": "Valcomm, Inc.",
+      "domain": "www.valnetinc.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "98",
+      "name": "Valnet, Inc.",
+      "domain": "www.valnetinc.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "158",
+      "name": "Venture Beat, Inc.",
+      "domain": "venturebeat.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "82",
+      "name": "Warner Bros. Entertainment Inc.",
+      "domain": "www.warnerbros.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "2722",
+      "name": "Wild Sky Media",
+      "domain": "www.wildskymedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3246",
+      "name": "Tango Publishing Corporation",
+      "domain": "www.yourtango.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "134",
+      "name": "ZergNet",
+      "domain": "www.zergnet.com",
+      "seller_type": "PUBLISHER"
+    }
+  ]
+}

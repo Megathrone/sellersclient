@@ -1,0 +1,577 @@
+{
+  "version": 1.0,
+  "contact_address": "Barcelona, Spain",
+  "identifiers": [
+    {
+      "name": "TAG-ID",
+      "value": "9f375a07da0318ec"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "30672",
+      "seller_type": "PUBLISHER",
+      "name": "Mobilityware D",
+      "domain": "https://www.mobilityware.com"
+    },
+    {
+      "seller_id": "31337",
+      "seller_type": "PUBLISHER",
+      "name": "Mobilityware V",
+      "domain": "https://www.mobilityware.com"
+    },
+    {
+      "seller_id": "24343",
+      "seller_type": "PUBLISHER",
+      "name": "Tappx Apps",
+      "domain": "https://www.tappx.com"
+    },
+    {
+      "seller_id": "17290",
+      "seller_type": "PUBLISHER",
+      "name": "FUNCORP LIMITED",
+      "domain": "https://fun.co"
+    },
+    {
+      "seller_id": "29107",
+      "seller_type": "PUBLISHER",
+      "name": "WeatherBug, by GroundTruth"
+    },
+    {
+      "seller_id": "32974",
+      "seller_type": "PUBLISHER",
+      "name": "Melons V"
+    },
+    {
+      "seller_id": "28929",
+      "seller_type": "PUBLISHER",
+      "name": "Zedge, Inc."
+    },
+    {
+      "seller_id": "33312",
+      "seller_type": "PUBLISHER",
+      "name": "Easybrain AD"
+    },
+    {
+      "seller_id": "32574",
+      "seller_type": "PUBLISHER",
+      "name": "Chive Media Group, LLC"
+    },
+    {
+      "seller_id": "32823",
+      "seller_type": "PUBLISHER",
+      "name": "smarter-wireless"
+    },
+    {
+      "seller_id": "32408",
+      "seller_type": "PUBLISHER",
+      "name": "Melons/AppM"
+    },
+    {
+      "seller_id": "32460",
+      "seller_type": "PUBLISHER",
+      "name": "Mobiuspace O&O D"
+    },
+    {
+      "seller_id": "31288",
+      "seller_type": "PUBLISHER",
+      "name": "Meitu D",
+      "domain": "http://global.meitu.com"
+    },
+    {
+      "seller_id": "31539",
+      "seller_type": "PUBLISHER",
+      "name": "Etermax/Appm"
+    },
+    {
+      "seller_id": "29782",
+      "seller_type": "PUBLISHER",
+      "name": "Hornet Networks Limited"
+    },
+    {
+      "seller_id": "16831",
+      "seller_type": "PUBLISHER",
+      "name": "Tubidy",
+      "domain": "https://tubidy.fm"
+    },
+    {
+      "seller_id": "32164",
+      "seller_type": "PUBLISHER",
+      "name": "Venatus Direct V"
+    },
+    {
+      "seller_id": "31406",
+      "seller_type": "PUBLISHER",
+      "name": "Castbox display",
+      "domain": "https://castbox.fm"
+    },
+    {
+      "seller_id": "29011",
+      "seller_type": "PUBLISHER",
+      "name": "Giftloop",
+      "domain": "https://www.giftloop.co"
+    },
+    {
+      "seller_id": "19156",
+      "seller_type": "PUBLISHER",
+      "name": "HANDCENT CORPORATION (HK) LIMITED",
+      "domain": "http://www.handcent.com"
+    },
+    {
+      "seller_id": "28959",
+      "seller_type": "PUBLISHER",
+      "name": "Ximad",
+      "domain": "https://zimad.com"
+    },
+    {
+      "seller_id": "31972",
+      "seller_type": "PUBLISHER",
+      "name": "AppGeneration - Software Technologies, Lda"
+    },
+    {
+      "seller_id": "28219",
+      "seller_type": "PUBLISHER",
+      "name": "Mobile Agenda FZE LLC"
+    },
+    {
+      "seller_id": "32894",
+      "seller_type": "PUBLISHER",
+      "name": "Mavericks/Appm"
+    },
+    {
+      "seller_id": "31205",
+      "seller_type": "PUBLISHER",
+      "name": "Imgur D",
+      "domain": "https://imgur.com"
+    },
+    {
+      "seller_id": "32893",
+      "seller_type": "PUBLISHER",
+      "name": "Curiosity/Appm"
+    },
+    {
+      "seller_id": "30567",
+      "seller_type": "PUBLISHER",
+      "name": "Timehop V",
+      "domain": "https://www.timehop.com"
+    },
+    {
+      "seller_id": "29703",
+      "seller_type": "PUBLISHER",
+      "name": "Timehop D",
+      "domain": "https://www.timehop.com"
+    },
+    {
+      "seller_id": "33214",
+      "seller_type": "PUBLISHER",
+      "name": "Volcera LTD"
+    },
+    {
+      "seller_id": "31214",
+      "seller_type": "PUBLISHER",
+      "name": "Castbox video"
+    },
+    {
+      "seller_id": "30258",
+      "seller_type": "PUBLISHER",
+      "name": "Trebel",
+      "domain": "https://trebel.io"
+    },
+    {
+      "seller_id": "33221",
+      "seller_type": "PUBLISHER",
+      "name": "Lift App, LLC"
+    },
+    {
+      "seller_id": "13494",
+      "seller_type": "PUBLISHER",
+      "name": "ASK.FM EUROPE LIMITED"
+    },
+    {
+      "seller_id": "31834",
+      "seller_type": "PUBLISHER",
+      "name": "TapaTalk/Appm"
+    },
+    {
+      "seller_id": "30944",
+      "seller_type": "PUBLISHER",
+      "name": " Trebel D"
+    },
+    {
+      "seller_id": "32239",
+      "seller_type": "PUBLISHER",
+      "name": "Giftloop V"
+    },
+    {
+      "seller_id": "31181",
+      "seller_type": "PUBLISHER",
+      "name": "Meitu V",
+      "domain": "http://global.meitu.com"
+    },
+    {
+      "seller_id": "14030",
+      "seller_type": "PUBLISHER",
+      "name": "CJVG"
+    },
+    {
+      "seller_id": "32273",
+      "seller_type": "PUBLISHER",
+      "name": "Flipboard, Inc."
+    },
+    {
+      "seller_id": "32012",
+      "seller_type": "PUBLISHER",
+      "name": "Luckydollar D"
+    },
+    {
+      "seller_id": "31154",
+      "seller_type": "PUBLISHER",
+      "name": "MixerBox D",
+      "domain": "https://www.mixerbox.com"
+    },
+    {
+      "seller_id": "29710",
+      "seller_type": "PUBLISHER",
+      "name": "IQzone Inc."
+    },
+    {
+      "seller_id": "32816",
+      "seller_type": "PUBLISHER",
+      "name": "Melons D"
+    },
+    {
+      "seller_id": "1205",
+      "seller_type": "PUBLISHER",
+      "name": "Novagecko S.L.U.",
+      "domain": "http://www.novagecko.com"
+    },
+    {
+      "seller_id": "1608",
+      "seller_type": "PUBLISHER",
+      "name": "Publiredes Technologies S.L"
+    },
+    {
+      "seller_id": "28719",
+      "seller_type": "PUBLISHER",
+      "name": "ToolbarStudio Inc.",
+      "domain": "https://www.appsgeyser.com"
+    },
+    {
+      "seller_id": "13361",
+      "seller_type": "PUBLISHER",
+      "name": "Shanga"
+    },
+    {
+      "seller_id": "32458",
+      "seller_type": "PUBLISHER",
+      "name": "FROSTWIRE LLC"
+    },
+    {
+      "seller_id": "24673",
+      "seller_type": "PUBLISHER",
+      "name": "RUD Present D"
+    },
+    {
+      "seller_id": "30310",
+      "seller_type": "PUBLISHER",
+      "name": "SoundHound Inc.",
+      "domain": "https://soundhound.com"
+    },
+    {
+      "seller_id": "31191",
+      "seller_type": "PUBLISHER",
+      "name": "MixerBox V",
+      "domain": "https://www.mixerbox.com"
+    },
+    {
+      "seller_id": "33100",
+      "seller_type": "PUBLISHER",
+      "name": "TheScore"
+    },
+    {
+      "seller_id": "32154",
+      "seller_type": "PUBLISHER",
+      "name": "Vignoli Comunicação Ltda"
+    },
+    {
+      "seller_id": "3759",
+      "seller_type": "PUBLISHER",
+      "name": "Pinenuts SRLS - Con Unico Socio",
+      "domain": "http://pinenutsdev.net"
+    },
+    {
+      "seller_id": "32564",
+      "seller_type": "PUBLISHER",
+      "name": "ZenoMedia"
+    },
+    {
+      "seller_id": "32815",
+      "seller_type": "PUBLISHER",
+      "name": "Peerstream/Appm"
+    },
+    {
+      "seller_id": "31206",
+      "seller_type": "PUBLISHER",
+      "name": "Imgur V",
+      "domain": "https://imgur.com"
+    },
+    {
+      "seller_id": "32139",
+      "seller_type": "PUBLISHER",
+      "name": "JNJ Moco / Appm"
+    },
+    {
+      "seller_id": "32094",
+      "seller_type": "PUBLISHER",
+      "name": "Mobilitylabs Apps LLC"
+    },
+    {
+      "seller_id": "31701",
+      "seller_type": "PUBLISHER",
+      "name": "Alfred Camera D"
+    },
+    {
+      "seller_id": "32096",
+      "seller_type": "PUBLISHER",
+      "name": "CERISE MEDIA SAS"
+    },
+    {
+      "seller_id": "33253",
+      "seller_type": "PUBLISHER",
+      "name": "Roz Dhan"
+    },
+    {
+      "seller_id": "11101",
+      "seller_type": "PUBLISHER",
+      "name": "Rotha CHAN",
+      "domain": "https://khmermusicbox.com"
+    },
+    {
+      "seller_id": "16513",
+      "seller_type": "PUBLISHER",
+      "name": "Neurologix Security Group, Inc.",
+      "domain": "https://nlgxsecure.com"
+    },
+    {
+      "seller_id": "22196",
+      "seller_type": "PUBLISHER",
+      "name": "TheDroplist"
+    },
+    {
+      "seller_id": "25649",
+      "seller_type": "PUBLISHER",
+      "name": "BKS Apps"
+    },
+    {
+      "seller_id": "3295",
+      "seller_type": "PUBLISHER",
+      "name": "Markt+Technik Verlag GmbH",
+      "domain": "https://www.treva-entertainment.com"
+    },
+    {
+      "seller_id": "30339",
+      "seller_type": "PUBLISHER",
+      "name": "Vision Expresiva"
+    },
+    {
+      "seller_id": "31478",
+      "seller_type": "PUBLISHER",
+      "name": "TV3"
+    },
+    {
+      "seller_id": "33138",
+      "seller_type": "PUBLISHER",
+      "name": "Jupiter Appstore"
+    },
+    {
+      "seller_id": "21789",
+      "seller_type": "PUBLISHER",
+      "name": "Zeykit-Dev",
+      "domain": "https://www.cryptomarketcap.fr"
+    },
+    {
+      "seller_id": "24054",
+      "seller_type": "PUBLISHER",
+      "name": "Verschueren Geert"
+    },
+    {
+      "seller_id": "13999",
+      "seller_type": "PUBLISHER",
+      "name": "EfmSoft"
+    },
+    {
+      "seller_id": "32723",
+      "seller_type": "PUBLISHER",
+      "name": "Plexapp V"
+    },
+    {
+      "seller_id": "30090",
+      "seller_type": "PUBLISHER",
+      "name": "zerone mobile",
+      "domain": "http://www.zeroneapps.com"
+    },
+    {
+      "seller_id": "32888",
+      "seller_type": "PUBLISHER",
+      "name": "Amber Mobile"
+    },
+    {
+      "seller_id": "30190",
+      "seller_type": "PUBLISHER",
+      "name": "Sirics Mobile"
+    },
+    {
+      "seller_id": "9767",
+      "seller_type": "PUBLISHER",
+      "name": "Viguys"
+    },
+    {
+      "seller_id": "32817",
+      "seller_type": "PUBLISHER",
+      "name": "Plexapp CTV"
+    },
+    {
+      "seller_id": "21372",
+      "seller_type": "PUBLISHER",
+      "name": "Iversoft Solutions Inc"
+    },
+    {
+      "seller_id": "33254",
+      "seller_type": "PUBLISHER",
+      "name": "Mzemo "
+    },
+    {
+      "seller_id": "31127",
+      "seller_type": "PUBLISHER",
+      "name": "RBS - ZERO HORA EDITORA JORNALÍSTICA S.A."
+    },
+    {
+      "seller_id": "19228",
+      "seller_type": "PUBLISHER",
+      "name": "App Holdings",
+      "domain": "http://appholdings.org"
+    },
+    {
+      "seller_id": "33170",
+      "seller_type": "PUBLISHER",
+      "name": "AppAspect Technologies Pvt. Ltd."
+    },
+    {
+      "seller_id": "32876",
+      "seller_type": "PUBLISHER",
+      "name": "MoneyScratch"
+    },
+    {
+      "seller_id": "17498",
+      "seller_type": "PUBLISHER",
+      "name": "ARTIFICIAL INTELLIGENCE RESEARCH LAB Ltd"
+    },
+    {
+      "seller_id": "3320",
+      "seller_type": "PUBLISHER",
+      "name": "IG Tech"
+    },
+    {
+      "seller_id": "33153",
+      "seller_type": "PUBLISHER",
+      "name": "Pyopyo"
+    },
+    {
+      "seller_id": "22771",
+      "seller_type": "PUBLISHER",
+      "name": "MySolat"
+    },
+    {
+      "seller_id": "3840",
+      "seller_type": "PUBLISHER",
+      "name": "Secondlemon SL",
+      "domain": "https://secondlemon.com"
+    },
+    {
+      "seller_id": "29911",
+      "seller_type": "PUBLISHER",
+      "name": "Fernando"
+    },
+    {
+      "seller_id": "33260",
+      "seller_type": "PUBLISHER",
+      "name": "Lodger Games"
+    },
+    {
+      "seller_id": "33268",
+      "seller_type": "PUBLISHER",
+      "name": "Smarter-wireless V"
+    },
+    {
+      "seller_id": "32367",
+      "seller_type": "PUBLISHER",
+      "name": "madz"
+    },
+    {
+      "seller_id": "20740",
+      "seller_type": "PUBLISHER",
+      "name": "ipandevida",
+      "domain": "http://ipandevida.net"
+    },
+    {
+      "seller_id": "32541",
+      "seller_type": "PUBLISHER",
+      "name": "Reach plc"
+    },
+    {
+      "seller_id": "33092",
+      "seller_type": "PUBLISHER",
+      "name": "Laliga Fantasy"
+    },
+    {
+      "seller_id": "29561",
+      "seller_type": "PUBLISHER",
+      "name": "christopher ash"
+    },
+    {
+      "seller_id": "17234",
+      "seller_type": "PUBLISHER",
+      "name": "Educa Kids"
+    },
+    {
+      "seller_id": "8609",
+      "seller_type": "PUBLISHER",
+      "name": "Sage",
+      "domain": "http://www.osons.net"
+    },
+    {
+      "seller_id": "20679",
+      "seller_type": "PUBLISHER",
+      "name": "frankie miller"
+    },
+    {
+      "seller_id": "16003",
+      "seller_type": "PUBLISHER",
+      "name": "Buzzvil",
+      "domain": "https://www.buzzvil.com"
+    },
+    {
+      "seller_id": "11572",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mobfox US LLC",
+      "domain": "https://www.mobfox.com"
+    },
+    {
+      "seller_id": "14039",
+      "seller_type": "INTERMEDIARY",
+      "name": "Adview",
+      "domain": "https://www.adview.cn"
+    },
+    {
+      "seller_id": "32425",
+      "seller_type": "INTERMEDIARY",
+      "name": "BidMachine, Inc"
+    },
+    {
+      "seller_id": "13433",
+      "seller_type": "INTERMEDIARY",
+      "name": "IQzone Inc.",
+      "domain": "https://iqzone.com"
+    }
+  ]
+}

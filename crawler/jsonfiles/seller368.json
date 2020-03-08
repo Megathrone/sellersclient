@@ -1,0 +1,221 @@
+{
+  "address": "NoBid LLC 4813 W Haven RD West Haven UT 844041",
+  "email": "Marc Ropelato <Marc.Ropelato@NoBid.io>",
+  "version": 1.0,
+  "sellers": [
+    {
+      "seller_id": "123456789",
+      "name": "NoBid LLC",
+      "domain": "NoBid.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "101",
+      "name": "Curiosity.com",
+      "domain": "curiosity.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "102",
+      "name": "Sightline Media Group",
+      "domain": "Sightlinemediagroup.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21850480964",
+      "name": "TheDailyDot",
+      "domain": "dailydot.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21850543183",
+      "name": "Ranker",
+      "domain": "ranker.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21851990727",
+      "name": "BuySellAds",
+      "domain": "buysellads.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "103",
+      "name": "Duration Media",
+      "domain": "durationmedia.net",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "21822851189",
+      "name": "Duration Media2",
+      "domain": "durationmedia.net",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "21857359074",
+      "name": "MediaFuse",
+      "domain": "mediafuse.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21855996465",
+      "name": "Cedato",
+      "domain": "cedato.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21855772042",
+      "name": "VPP Gaming Network",
+      "domain": "vppgamingnetwork.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21860933830",
+      "name": "Digital Trends",
+      "domain": "Digitaltrends.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21862407506",
+      "name": "Weatherbug ",
+      "domain": "Weatherbug.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21862618683",
+      "name": "Snopes",
+      "domain": "snopes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21862407503",
+      "name": "Imgur",
+      "domain": "imgur.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21862618644",
+      "name": "3Blue Media",
+      "domain": "3BlueMedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21867791340",
+      "name": "Adscend Media",
+      "domain": "adscendmedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21863691156",
+      "name": "Business.com",
+      "domain": "Business.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21866277937",
+      "name": "SHE Media",
+      "domain": "shemedia.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "21866282371",
+      "name": "GotChosen",
+      "domain": "gotchosen.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "21878299544",
+      "name": "G/O Media",
+      "domain": "g-omedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21872987311",
+      "name": "Curse",
+      "domain": "wikia-inc.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "21872987305",
+      "name": "AdApex",
+      "domain": "adapex.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21878339678",
+      "name": "Automatad",
+      "domain": "divestopedia.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "21887451936",
+      "name": "Top5",
+      "domain": "top5.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21885515821",
+      "name": "Glam",
+      "domain": "glam.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21889651986",
+      "name": "FanByte",
+      "domain": "fanbyte.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21902361623",
+      "name": "Hive Media",
+      "domain": "hivemedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21902491560",
+      "name": "Livingly.com",
+      "domain": "livingly.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21902498393",
+      "name": "McClatchy",
+      "domain": "miamiherald.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21910078770",
+      "name": "Valnet",
+      "domain": "screenrant.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21923712859",
+      "name": "MRC Media LLC",
+      "domain": "billboard.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21919606049",
+      "name": "The Chive",
+      "domain": "thechive.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21919732014",
+      "name": "SBLY",
+      "domain": "shareably.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21923712856",
+      "name": "Elocast",
+      "domain": "elocast.com",
+      "seller_type": "PUBLISHER"
+    }
+  ]
+}
+
+
+
+

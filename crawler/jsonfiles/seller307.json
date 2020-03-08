@@ -1,0 +1,230 @@
+{
+  "contact_email" : "info@kubient.com",
+  "contact_address" : "Kubient, Inc., 330 7th Ave, New York, NY 10001",
+  "version" : "1.0",
+  "identifiers" : [
+    {
+      "name" : "TAG-ID",
+      "value" : "4f12311e6ed900a3"
+    },
+    {
+      "name" : "Kubient-ID",
+      "value" : "56f58bdd446e9"
+    }
+  ],
+  "sellers" : [
+    {
+      "seller_id" : "5cfa6ed46e352",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "velismedia.com",
+      "name" : "Velis Media"
+    },
+    {
+      "seller_id" : "5d27508f5fa93",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "brightcom.com",
+      "name" : "Brightcom"
+    },
+    {
+      "seller_id" : "5d9f5993e022d",
+      "is_confidential" : 1,
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : "5d8bc411328af",
+      "is_confidential" : 1,
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : "587fa0f3b9643",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "gothamads.com",
+      "name" : "Gotham Ads"
+    },
+    {
+      "seller_id" : "5b4dfcff1288d",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "zedo.com",
+      "name" : "Zedo"
+    },
+    {
+      "seller_id" : "5b7ace8dae657",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "adcolony.com",
+      "name": "AdColony Inc."
+    },
+    {
+      "seller_id" : "5b4f621a861f7",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "chocolateplatform.com",
+      "name" : "Vdopia Inc ( DBA Chocolate)"
+    },
+    {
+      "seller_id" : "59b1504978f94",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "cynogage.com",
+      "name" : "Cynogage LLC"
+    },
+    {
+      "seller_id" : "5a905dd7f2bfe",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "mobfox.com",
+      "name" : "Mobfox Mobile Advertising Gmbh"
+    },
+    {
+      "seller_id" : "57ceee7f4144a",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "rhythmone.com",
+      "name" : "RhythmOne"
+    },
+    {
+      "seller_id" : "5d76ba87870e1",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "rubiconproject.com",
+      "name" : "Rubicon Project"
+    },
+    {
+      "seller_id" : "599322824980a",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "smaato.com",
+      "name" : "Smaato"
+    },
+    {
+      "seller_id" : "5b2a5955b1213",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "somoaudience.com",
+      "name" : "Somo Audience"
+    },
+    {
+      "seller_id" : "58c70759a0c36",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "teads.com",
+      "name" : "Teads"
+    },
+    {
+      "seller_id" : "58891da7aae0a",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "google.com",
+      "name" : "Google"
+    },
+    {
+      "seller_id" : "5da9f60e86531",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "x.fidelity-media.com",
+      "name" : "Fidelity Media LLC"
+    },
+    {
+      "seller_id" : "5d6692105be46",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "pubnative.net",
+      "name" : "Pubnative"
+    },
+    {
+      "seller_id" : "5b16abb414ea2",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "dudeineedthis.com",
+      "name" : "Verity Publishing Network"
+    },
+    {
+      "seller_id" : "5b16abb414ea2",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "dudeineedthis.com",
+      "name" : "Verity Publishing Network"
+    },
+    {
+      "seller_id" : "5B875711Ceaa0",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "sega.com",
+      "name" : "Sega"
+    },
+    {
+      "seller_id" : "5C915B4Cd009D",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "velismedia.com",
+      "name" : "Velis Media"
+    },
+    {
+      "seller_id" : "5b8fe36e8ecc7",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "admixer.net",
+      "name" : "Ad Mixer"
+    },
+    {
+      "seller_id" : "5d4c76fa4dc08",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "fyber.com",
+      "name" : "Fyber"
+    },
+    {
+      "seller_id" : "5d49a05eacabb",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "mgid.com",
+      "name" : "MGID, Inc."
+    },
+    {
+      "seller_id" : "5c915f96da0dd",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "market-api.smrtb.com/api/",
+      "name" : "SmartRTB"
+    },
+    {
+      "seller_id" : "5da5e3bb801f4",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "tappx.com",
+      "name" : "TappX"
+    },
+    {
+      "seller_id" : "5b4dfcff1288d",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "zedo.com",
+      "name" : "Zedo"
+    },
+    {
+      "seller_id" : "5db09af1624ce",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "epom.com",
+      "name" : "EPOM"
+    },
+    {
+      "seller_id" : "5df8f971779b8",
+      "is_confidential" : 0,
+      "seller_type" : "PUBLISHER",
+      "domain" : "ads.bbgi.com",
+      "name" : "Beasley Media"
+    },
+    {
+      "seller_id" : "5cf53fa51b67b",
+      "is_confidential" : 0,
+      "seller_type" : "INTERMEDIARY",
+      "domain" : "thebrave.io",
+      "name" : "Brave"
+    }
+  ]
+}

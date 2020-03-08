@@ -1,0 +1,410 @@
+{
+    "identifiers": [],
+    "contact_email": "info@vidcrunch.com",
+    "contact_address": "VidCrunch LLC, 1716 Union Street, San Francisco, CA 94123, US",
+    "version": "1.0",
+    "sellers": [
+        {
+            "name": "RhythmOne",
+            "seller_id": "5e5e81df28a0610dea013bdc",
+            "seller_type": "BOTH",
+            "domain": "rhythmone.com"
+        },
+        {
+            "name": "Nygiantsrush.com",
+            "seller_id": "5e57f16628a0612b276e50a7",
+            "seller_type": "PUBLISHER",
+            "domain": "Nygiantsrush.com"
+        },
+        {
+            "name": "AirFind",
+            "seller_id": "5e3294cc28a0610c1b30969a",
+            "seller_type": "BOTH",
+            "domain": "https:\/\/www.airfind.com\/"
+        },
+        {
+            "name": "Whizzco",
+            "seller_id": "5e0b681228a0613b6d5d6e7a",
+            "seller_type": "INTERMEDIARY",
+            "domain": "incomeworth.com"
+        },
+        {
+            "name": "Popculthq.com",
+            "seller_id": "5da5b2b628a06116c72d6152",
+            "seller_type": "PUBLISHER",
+            "domain": "popculthq.com"
+        },
+        {
+            "name": "Kuwaitlocal.com",
+            "seller_id": "5d9cb21428a06163fa67ce9f",
+            "seller_type": "PUBLISHER",
+            "domain": "kuwaitlocal.com"
+        },
+        {
+            "name": "Scamadviser.com",
+            "seller_id": "5d94704c28a06129210f1ba0",
+            "seller_type": "PUBLISHER",
+            "domain": "scamadviser.com"
+        },
+        {
+            "name": "Zenithnovels.com",
+            "seller_id": "5d90834e28a0611cf944c806",
+            "seller_type": "PUBLISHER",
+            "domain": "zenithnovels.com"
+        },
+        {
+            "name": "livenewsmag.com",
+            "seller_id": "5d89e06c28a06173a036ca3d",
+            "seller_type": "PUBLISHER",
+            "domain": "livenewsmag.com"
+        },
+        {
+            "name": "Eenadu.net",
+            "seller_id": "5d8384ee28a061330632ad98",
+            "seller_type": "PUBLISHER",
+            "domain": "eenadu.net"
+        },
+        {
+            "name": "Livenewsnow.com",
+            "seller_id": "5d837b6328a06163a11fe2b9",
+            "seller_type": "PUBLISHER",
+            "domain": "livenewsnow.com"
+        },
+        {
+            "name": "Andhrajyothy",
+            "seller_id": "5d8341c428a06125b67ac9a0",
+            "seller_type": "PUBLISHER",
+            "domain": "andhrajyothy.com"
+        },
+        {
+            "name": "Prime Publishing",
+            "seller_id": "5d7a286528a06154dd502d26",
+            "seller_type": "PUBLISHER",
+            "domain": "primecp.com"
+        },
+        {
+            "name": "Sanjeevkapoor.com",
+            "seller_id": "5d78c3b328a0613fb57ca146",
+            "seller_type": "PUBLISHER",
+            "domain": "sanjeevkapoor.com"
+        },
+        {
+            "name": "PlanetFem.com",
+            "seller_id": "5d5a8e9028a06175470680f3",
+            "seller_type": "PUBLISHER",
+            "domain": "planetfem.com"
+        },
+        {
+            "name": "Russia-insider.com",
+            "seller_id": "5d5a4df228a0610d44240510",
+            "seller_type": "PUBLISHER",
+            "domain": "russia-insider.com"
+        },
+        {
+            "name": "Thefamouspeople.com",
+            "seller_id": "5d52d66328a0615c1a56fc3d",
+            "seller_type": "PUBLISHER",
+            "domain": "thefamouspeople.com"
+        },
+        {
+            "name": "Bright mountain media",
+            "seller_id": "5d4bda4228a0612d8359b499",
+            "seller_type": "PUBLISHER",
+            "domain": "brightmountainmedia.com"
+        },
+        {
+            "name": "IndianExpress.com",
+            "seller_id": "5d38412728a0612364417dd0",
+            "seller_type": "PUBLISHER",
+            "domain": "indianexpress.com"
+        },
+        {
+            "name": "Diversify Media",
+            "seller_id": "5d2dbc5828a061140009ec0c",
+            "seller_type": "PUBLISHER",
+            "domain": "diversifymedia.com"
+        },
+        {
+            "name": "Ricardo Unidad Editorial",
+            "seller_id": "5d1dfaa728a0615f2131422d",
+            "seller_type": "PUBLISHER",
+            "domain": "unidadeditorial.es"
+        },
+        {
+            "name": "Bigthink.Com",
+            "seller_id": "5d1cae6128a0610e7c2a525f",
+            "seller_type": "PUBLISHER",
+            "domain": "bigthink.com"
+        },
+        {
+            "name": "NZN brazil",
+            "seller_id": "5d1ca75728a06164487028d2",
+            "seller_type": "PUBLISHER",
+            "domain": "nzn.io"
+        },
+        {
+            "name": "Football media",
+            "seller_id": "5d1ca5e028a0610bca7cbb16",
+            "seller_type": "PUBLISHER",
+            "domain": "redrants.com"
+        },
+        {
+            "name": "Deccanherald.com",
+            "seller_id": "5d0ca9ee28a06145562d1232",
+            "seller_type": "PUBLISHER",
+            "domain": "deccanherald.com"
+        },
+        {
+            "name": "Philstar.com",
+            "seller_id": "5d0a162d28a06106f038a1c1",
+            "seller_type": "PUBLISHER",
+            "domain": "philstar.com"
+        },
+        {
+            "name": "Inquirer.net",
+            "seller_id": "5d020487073ef47fa561b1d6",
+            "seller_type": "PUBLISHER",
+            "domain": "inquirer.net"
+        },
+        {
+            "name": "Volantis",
+            "seller_id": "5cef8dd928a061350573b813",
+            "seller_type": "PUBLISHER",
+            "domain": "bollywoodhungama.com"
+        },
+        {
+            "name": "Raftaar.in",
+            "seller_id": "5ced378b28a0610139269662",
+            "seller_type": "PUBLISHER",
+            "domain": "raftaar.in"
+        },
+        {
+            "name": "Panlasangpinoy.com",
+            "seller_id": "5ce6b344073ef47f7106c0c8",
+            "seller_type": "PUBLISHER",
+            "domain": "panlasangpinoy.com"
+        },
+        {
+            "name": "Manorama Online",
+            "seller_id": "5ce6add5073ef4384060a65d",
+            "seller_type": "PUBLISHER",
+            "domain": "manoramaonline.com"
+        },
+        {
+            "name": "Revolvy.com",
+            "seller_id": "5ce10a42073ef4465d17bb36",
+            "seller_type": "PUBLISHER",
+            "domain": "revolvy.com"
+        },
+        {
+            "name": "Pinoyexchange.com",
+            "seller_id": "5cdd138e073ef45bb266c818",
+            "seller_type": "PUBLISHER",
+            "domain": "pinoyexchange.com"
+        },
+        {
+            "name": "wtxnews.com",
+            "seller_id": "5cdc3e4d28a0613924644524",
+            "seller_type": "PUBLISHER",
+            "domain": "wtxnews.com"
+        },
+        {
+            "name": "IBTtimes.co.in",
+            "seller_id": "5cd9913c073ef44cdc1d2705",
+            "seller_type": "PUBLISHER",
+            "domain": "ibtimes.co.in"
+        },
+        {
+            "name": "Mathrubhumi.com",
+            "seller_id": "5cd9900828a06122eb74f912",
+            "seller_type": "PUBLISHER",
+            "domain": "mathrubhumi.com"
+        },
+        {
+            "name": "maalaimalar.com",
+            "seller_id": "5ccbfe5628a0614aa4436a98",
+            "seller_type": "PUBLISHER",
+            "domain": "maalaimalar.com"
+        },
+        {
+            "name": "Varthabharati.in",
+            "seller_id": "5cc870dd073ef42e92115b3a",
+            "seller_type": "PUBLISHER",
+            "domain": "varthabharati.in"
+        },
+        {
+            "name": "Anandabazar.com",
+            "seller_id": "5cc08c21073ef45b1475f015",
+            "seller_type": "PUBLISHER",
+            "domain": "anandabazar.com"
+        },
+        {
+            "name": "Zeenews.india.com",
+            "seller_id": "5cc082c7073ef432387f557f",
+            "seller_type": "PUBLISHER",
+            "domain": "zeenews.india.com"
+        },
+        {
+            "name": "Vikatan",
+            "seller_id": "5cc05f23073ef436cc59ca0b",
+            "seller_type": "PUBLISHER",
+            "domain": "vikatan.com"
+        },
+        {
+            "name": "spotboye",
+            "seller_id": "5cbf1524073ef427327c4218",
+            "seller_type": "PUBLISHER",
+            "domain": "spotboye.com"
+        },
+        {
+            "name": "NIE",
+            "seller_id": "5cbdb13228a061487653df8f",
+            "seller_type": "PUBLISHER",
+            "domain": "newindianexpress.com"
+        },
+        {
+            "name": "Digsdigs.com",
+            "seller_id": "5c9cf22b073ef44cd17e899f",
+            "seller_type": "PUBLISHER",
+            "domain": "digsdigs.com"
+        },
+        {
+            "name": "a-z-animals.com",
+            "seller_id": "5c98cfd0073ef47303211e6d",
+            "seller_type": "PUBLISHER",
+            "domain": "a-z-animals.com"
+        },
+        {
+            "name": "Girlsaskguys.com",
+            "seller_id": "5c8e51bc073ef4606437d3ae",
+            "seller_type": "PUBLISHER",
+            "domain": "girlsaskguys.com"
+        },
+        {
+            "name": "Designrulz.com",
+            "seller_id": "5c87bd3e28a061035e456483",
+            "seller_type": "PUBLISHER",
+            "domain": "designrulz.com"
+        },
+        {
+            "name": "Needrom.com",
+            "seller_id": "5c87747b28a06123fd04792e",
+            "seller_type": "PUBLISHER",
+            "domain": "needrom.com"
+        },
+        {
+            "name": "watchcartoononline.io",
+            "seller_id": "5c80f650073ef41bb279b00e",
+            "seller_type": "PUBLISHER",
+            "domain": "wcostream.com"
+        },
+        {
+            "name": "Americanlisted.com",
+            "seller_id": "5c7e5a2e073ef41ab44ca829",
+            "seller_type": "PUBLISHER",
+            "domain": "americanlisted.com"
+        },
+        {
+            "name": "Homedit.com",
+            "seller_id": "5c6bf72c073ef456721078d4",
+            "seller_type": "PUBLISHER",
+            "domain": "homedit.com"
+        },
+        {
+            "name": "Goalsarena.org",
+            "seller_id": "5c69785428a06169aa1f747f",
+            "seller_type": "PUBLISHER",
+            "domain": "goalsarena.tv, Goalsarena.co"
+        },
+        {
+            "name": "Inspirock-New",
+            "seller_id": "5c0fb77a28a06161125e3a1b",
+            "seller_type": "PUBLISHER",
+            "domain": "inspirock.com"
+        },
+        {
+            "name": "gotceleb.com",
+            "seller_id": "5c079d8928a0615c5e2865eb",
+            "seller_type": "PUBLISHER",
+            "domain": "gotceleb.com"
+        },
+        {
+            "name": "Marunadanmalayali.com",
+            "seller_id": "5bdae0e5073ef4487a08b7a9",
+            "seller_type": "PUBLISHER",
+            "domain": "marunadanmalayali.com"
+        },
+        {
+            "name": "Thenationnetwork",
+            "seller_id": "5bdada9428a061508649bbde",
+            "seller_type": "PUBLISHER",
+            "domain": "thenationnetwork.com"
+        },
+        {
+            "name": "Publir",
+            "seller_id": "5bd1a47d28a06162c15b68a6",
+            "seller_type": "PUBLISHER",
+            "domain": "publir.com"
+        },
+        {
+            "name": "watchmecraft.com",
+            "seller_id": "5bcca01a073ef439ba3bd894",
+            "seller_type": "PUBLISHER",
+            "domain": "watchmecraft.com"
+        },
+        {
+            "name": "United Internet media",
+            "seller_id": "5bc48a5128a06129b025a078",
+            "seller_type": "PUBLISHER",
+            "domain": "united-internet.de"
+        },
+        {
+            "name": "TechFlow SRL",
+            "seller_id": "5bc06570073ef47029730a90",
+            "seller_type": "PUBLISHER",
+            "domain": "presslabs.com"
+        },
+        {
+            "name": "Quizzclub.com",
+            "seller_id": "5b99174a28a061379834f97e",
+            "seller_type": "PUBLISHER",
+            "domain": "quizzclub.com"
+        },
+        {
+            "name": "Ampliffy",
+            "seller_id": "5b9100eb28a061574048eecf",
+            "seller_type": "PUBLISHER",
+            "domain": "ampliffy.com"
+        },
+        {
+            "name": "Vuukle",
+            "seller_id": "5b8fcd2828a06104f5142e68",
+            "seller_type": "PUBLISHER",
+            "domain": "vuukle.com"
+        },
+        {
+            "name": "Sandesh.com",
+            "seller_id": "5b8cff1a28a06149a014c4b0",
+            "seller_type": "PUBLISHER",
+            "domain": "sandesh.com"
+        },
+        {
+            "name": "Spectacular Views Ltd",
+            "seller_id": "5b7d181d073ef4546e0a6989",
+            "seller_type": "PUBLISHER",
+            "domain": "bonventures.com"
+        },
+        {
+            "name": "Alohajam.net",
+            "seller_id": "5b68ff4c073ef46c2e604c6e",
+            "seller_type": "PUBLISHER",
+            "domain": "Alohajam.net"
+        },
+        {
+            "name": "Inspirock.com",
+            "seller_id": "5b68026a073ef404f16d02c9",
+            "seller_type": "PUBLISHER",
+            "domain": "inspirock.com"
+        }
+    ]
+}

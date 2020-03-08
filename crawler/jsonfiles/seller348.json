@@ -1,0 +1,13 @@
+{
+  "version": "1.0",
+  "contact_email": "info@mairdumont-netletix.com",
+  "contact_address": "MAIRDUMONT NETLETIX GmbH & Co. KG, Marco-Polo-Straße 1, 73760 Ostfildern",
+  "sellers": [
+    {
+      "seller_id": "c90784ba-0608-48a0-a925-eaada452dc81",
+      "seller_type": "PUBLISHER",
+      "name": "aeroTELEGRAPH GmbH",
+      "domain": "aerotelegraph.com"
+    }
+    ]
+}

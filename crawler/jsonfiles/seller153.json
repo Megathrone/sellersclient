@@ -1,0 +1,431 @@
+{
+    "contact_email": "hi@bidmachine.io",
+    "version": "1.0",
+    "sellers": [
+    {
+        "seller_id": "9",
+        "name": "Orbis",
+        "domain": "download.appsforboost.com",
+        "seller_type": "BOTH"
+    },
+    {
+        "seller_id": "35",
+        "name": "Algorix",
+        "domain": "algorix.co",
+        "seller_type": "BOTH"
+    },
+    {
+        "seller_id": "60",
+        "name": "Smaato",
+        "domain": "smaato.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "77",
+        "name": "Smaato",
+        "domain": "smaato.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "74",
+        "name": "Smaato",
+        "domain": "smaato.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "36",
+        "name": "Smaato",
+        "domain": "smaato.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "24",
+        "name": "X-Flow",
+        "domain": "x-flow.app",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "55",
+        "name": "Pubnative",
+        "domain": "pubnative.net",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "59",
+        "name": "Pubnative",
+        "domain": "pubnative.net",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "33",
+        "name": "Easybrain",
+        "domain": "easybrain.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "61",
+        "name": "Adview",
+        "domain": "adview.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "63",
+        "name": "Airpush",
+        "domain": "airpush.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "64",
+        "name": "Admixer",
+        "domain": "admixer.net",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "66",
+        "name": "Admixer",
+        "domain": "admixer.net",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "93",
+        "name": "Admixer",
+        "domain": "admixer.net",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "37",
+        "name": "Taboola",
+        "domain": "taboola.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "27",
+        "name": "Ask.fm",
+        "domain": "ask.fm",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "8",
+        "name": "Cootek",
+        "domain": "touchpal.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "6",
+        "name": "MobilityWare",
+        "domain": "mobilityware.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "28",
+        "name": "SmartyAds",
+        "domain": "smartyads.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "34",
+        "name": "Shareit",
+        "domain": "ushareit.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "57",
+        "name": "IVI.RU",
+        "domain": "ivi.ru",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "69",
+        "name": "AdExpertsMedia",
+        "domain": "adexpertsmedia.com/",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "70",
+        "name": "AdExpertsMedia",
+        "domain": "adexpertsmedia.com/",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "71",
+        "name": "CollectCent",
+        "domain": "collectcent.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "72",
+        "name": "Avazu",
+        "domain": "avazuinc.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "75",
+        "name": "Batads",
+        "domain": "bat-ads.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "68",
+        "name": "Batads",
+        "domain": "bat-ads.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "91",
+        "name": "Batads",
+        "domain": "bat-ads.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "76",
+        "name": "Batads",
+        "domain": "bat-ads.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "38942",
+        "name": "IEC",
+        "domain": "ieccorp.vn",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "79",
+        "name": "Adtelligent",
+        "domain": "adtelligent.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "84",
+        "name": "Adtelligent",
+        "domain": "adtelligent.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "67",
+        "name": "Mintegral",
+        "domain": "mintegral.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "65",
+        "name": "Gamoshi",
+        "domain": "www.gamoshi.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "94",
+        "name": "Clickaine",
+        "domain": "clickaine.com",
+        "seller_type": "INTERMEDIARY"
+    },
+    {
+        "seller_id": "494",
+        "name": "OpenMyGame",
+        "domain": "openmygame.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "49988",
+        "name": "Drug Vokrug",
+        "domain": "drugvokrug.ru",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "12471",
+        "name": "Tellurion Mobile Games",
+        "domain": "tellurionmobile.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "57524",
+        "name": "White Sharx",
+        "domain": "whitesharx.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "23138",
+        "name": "Fugo",
+        "domain": "fugo.com.tr",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "52147",
+        "name": "Voodoo",
+        "domain": "voodoo.io",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "54434",
+        "name": "IzumiArtisan",
+        "domain": "izumi-artisan.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "61754",
+        "name": "Tap Anywhere",
+        "domain": "tapanywhere.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "11376",
+        "name": "Mindmill Puzzle Games",
+        "domain": "mindmillpuzzles.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "19154",
+        "name": "Infinity Games",
+        "domain": "infinitygames.io",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "5471",
+        "name": "Smuttlewerk",
+        "domain": "smuttlewerk.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "28458",
+        "name": "Moje Letaky",
+        "domain": "mojeletaky.cz",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "26188",
+        "name": "jRustonApps",
+        "domain": "jrustonapps.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "11825",
+        "name": "Meet24",
+        "domain": "meet24.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "869",
+        "name": "AAStudio",
+        "domain": "aastudio.org",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "712",
+        "name": "Zaycev.net",
+        "domain": "zaycev.net",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "1848",
+        "name": "Zaycev.fm",
+        "domain": "zaycev.fm",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "20635",
+        "name": "Kraftwerk 9 Inc",
+        "domain": "kraftwerk9.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "30250",
+        "name": "Fiogonia games",
+        "domain": "fiogonia.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "32224",
+        "name": "Kiaora Games",
+        "domain": "kiaoragames.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "52604",
+        "name": "Crosstone",
+        "domain": "crosstone.com.au",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "44107",
+        "name": "FM Games",
+        "domain": "fmgames1.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "83210",
+        "name": "FM Games",
+        "domain": "fmgames1.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "31067",
+        "name": "Play365",
+        "domain": "play365.io",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "32085",
+        "name": "Solitaire Classic",
+        "domain": "solitaireclassic.ge",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "1466",
+        "name": "Aidana Kengbeiil",
+        "domain": "olzhas.net",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "26284",
+        "name": "Protey Apps",
+        "domain": "proteygames.github.io",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "618",
+        "name": "LitRes",
+        "domain": "litres.ru",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "67205",
+        "name": "Marco Fontana",
+        "domain": "esound.app",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "31673",
+        "name": "App Holdings",
+        "domain": "appholdings.org",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "2193",
+        "name": "JagPlay",
+        "domain": "jagplay.ru",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "37868",
+        "name": "Crozzle IVS",
+        "domain": "kryds.app",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "54480",
+        "name": "Jim Bonacci",
+        "domain": "totaljerkface.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "31666",
+        "name": "KRAFTWERK 9 LLC",
+        "domain": "kraftwerk9.com",
+        "seller_type": "PUBLISHER"
+    },
+    {
+        "seller_id": "22261",
+        "name": "Guts United",
+        "domain": "guts-united.com",
+        "seller_type": "PUBLISHER"
+    }]
+}

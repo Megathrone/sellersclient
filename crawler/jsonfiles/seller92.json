@@ -1,0 +1,583 @@
+{
+  "address": "WMG 2355 Westwood blvd #712, Los Angeles, CA, 90064 USA",
+  "email": "Maxim Kovalenko <ceo@wmgroup.us>",
+  "version": 1.0,
+  "identifiers": [
+    {
+      "name": "TAG-ID",
+      "value": "6d62403b188f2ace"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "87923",
+      "name": "Mail.Ru Group",
+      "domain": "mail.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "76573",
+      "name": "Mail.Ru Group",
+      "domain": "ok.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "84381",
+      "name": "Admediator",
+      "domain": "studme.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "84739",
+      "name": "Rbc.ru",
+      "domain": "rbc.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "47632",
+      "name": "Admediator",
+      "domain": "gdzputina.info",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "78965",
+      "name": "Admediator",
+      "domain": "studbooks.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "96315",
+      "name": "Positivo",
+      "domain": "mundopositivo.com.br",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "43213",
+      "name": "Terrikon.com",
+      "domain": "terrikon.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "34230",
+      "name": "Ixbt.com",
+      "domain": "ixbt.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "64532",
+      "name": "Fabiosa",
+      "domain": "fabiosa.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "92315",
+      "name": "Ivi.ru",
+      "domain": "ivi.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "56931",
+      "name": "Admediator",
+      "domain": "vuzlit.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "58934",
+      "name": "Philstar",
+      "domain": "philstar.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "95595",
+      "name": "Manorama",
+      "domain": "manoramaonline.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "63215",
+      "name": "Rutube.ru",
+      "domain": "rutube.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "85649",
+      "name": "1plus1",
+      "domain": "tsn.ua",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "88863",
+      "name": "Booksonline.com.ua",
+      "domain": "booksonline.com.ua",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "69295",
+      "name": "Svpressa.ru",
+      "domain": "svpressa.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "74265",
+      "name": "Liveinternet.ru",
+      "domain": "liveinternet.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "85246",
+      "name": "Sport-express.ru",
+      "domain": "sport-express.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "69731",
+      "name": "Newstube",
+      "domain": "mail.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "89369",
+      "name": "EAD",
+      "domain": "telekomsport.ro",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "85217",
+      "name": "Livelib.ru",
+      "domain": "liveelib.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "98563",
+      "name": "Coub.com",
+      "domain": "coub.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "64318",
+      "name": "Mgid",
+      "domain": "today.ua",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "74569",
+      "name": "Armfilm",
+      "domain": "armfilm.co",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "25863",
+      "name": "Roomidea",
+      "domain": "lolodu.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "46528",
+      "name": "Fishki.net",
+      "domain": "fishki.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "75631",
+      "name": "RAMBLER&Co",
+      "domain": "lenta.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "47561",
+      "name": "Admediator",
+      "domain": "pandia.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "74123",
+      "name": "RAMBLER&Co",
+      "domain": "gazeta.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "71893",
+      "name": "Kommersant",
+      "domain": "kommersant.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "89731",
+      "name": "Times Internet Limited",
+      "domain": "economictimes.indiatimes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "89642",
+      "name": "Kto-chto-gde.ru",
+      "domain": "kto-chto-gde.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "65971",
+      "name": "Admediator",
+      "domain": "vcevce.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "34521",
+      "name": "Grupo Anuntis Segundamano",
+      "domain": "segundamano.mx",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "91346",
+      "name": "Sarmady",
+      "domain": "filgoal.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "16663",
+      "name": "Tura",
+      "domain": "russian7.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "23166",
+      "name": "Copesa",
+      "domain": "latercera.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "51237",
+      "name": "RAMBLER&Co",
+      "domain": "rambler.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "82316",
+      "name": "Espreso.tv",
+      "domain": "espreso.tv",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "22178",
+      "name": "Admediator",
+      "domain": "reshak.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "61225",
+      "name": "Fandom",
+      "domain": "fandom.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21345",
+      "name": "Tvrain.ru",
+      "domain": "tvrain.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "56413",
+      "name": "Admediator",
+      "domain": "kto-chto-gde.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "63148",
+      "name": "Admediator",
+      "domain": "gastrotract.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "77761",
+      "name": "Sovsport.ru",
+      "domain": "sovsport.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "46631",
+      "name": "Admediator",
+      "domain": "designwiki.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "91238",
+      "name": "The New Indian Express",
+      "domain": "newindianexpress.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "64412",
+      "name": "Admediator",
+      "domain": "razmery.info",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "97122",
+      "name": "Admediator",
+      "domain": "vipgdz.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "14321",
+      "name": "Elnorte",
+      "domain": "elnorte.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "31288",
+      "name": "Belaruspartisan",
+      "domain": "belaruspartisan.by",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "51231",
+      "name": "RIAN",
+      "domain": "sputniknews.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "98462",
+      "name": "Admediator",
+      "domain": "instagrammi.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "53158",
+      "name": "Allcrimea.net",
+      "domain": "allcrimea.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "79851",
+      "name": "EAD(fanatik.ro)",
+      "domain": "fanatik.ro",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "56428",
+      "name": "HulKpop",
+      "domain": "hulkpop.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "79864",
+      "name": "Tura",
+      "domain": "cyrillitsa.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "45621",
+      "name": "EAD(divahair, qbebe, andreearaicu, business)",
+      "domain": "divahair.ro",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "54531",
+      "name": "Admediator",
+      "domain": "zefirka.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "62317",
+      "name": "News USA",
+      "domain": "stack.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "99631",
+      "name": "1plus1",
+      "domain": "unian.info",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "42582",
+      "name": "Armfilm",
+      "domain": "serialner.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "98713",
+      "name": "RAMBLER&Co",
+      "domain": "championat.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "75423",
+      "name": "Adme.ru",
+      "domain": "brightside.me",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "46413",
+      "name": "Sport-express.ru",
+      "domain": "m.sport-express.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "81235",
+      "name": "RAMBLER&Co",
+      "domain": "news.rambler.ru",
+      "seller_type": "PUBLISHER"
+    },  
+    {
+      "seller_id": "64512",
+      "name": "Admediator",
+      "domain": "vokrugsmeha.info",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "79412",
+      "name": "Showjet.ru",
+      "domain": "showjet.ru",
+      "seller_type": "PUBLISHER"
+    },    
+    {
+      "seller_id": "73654",
+      "name": "Ling.online",
+      "domain": "ling.online",
+      "seller_type": "PUBLISHER"
+    },   
+    {
+      "seller_id": "97135",
+      "name": "Roomidea",
+      "domain": "roomidea.ru",
+      "seller_type": "PUBLISHER"
+    },   
+    {
+      "seller_id": "56122",
+      "name": "Armfilm",
+      "domain": "turkserial.org",
+      "seller_type": "PUBLISHER"
+    },   
+    {
+      "seller_id": "41225",
+      "name": "News USA",
+      "domain": "sportstg.com",
+      "seller_type": "PUBLISHER"
+    }, 
+    {
+      "seller_id": "12355",
+      "name": "Bagnet.org",
+      "domain": "bagnet.org",
+      "seller_type": "PUBLISHER"
+    },     
+    {
+      "seller_id": "25111",
+      "name": "1plus1",
+      "domain": "glavred.info",
+      "seller_type": "PUBLISHER"
+    },   
+    {
+      "seller_id": "64212",
+      "name": "News USA",
+      "domain": "websites.sportstg.com",
+      "seller_type": "PUBLISHER"
+    },   
+    {
+      "seller_id": "65642",
+      "name": "EAD",
+      "domain": "suntmamica.ro",
+      "seller_type": "PUBLISHER"
+    },   
+    {
+      "seller_id": "74523",
+      "name": "Liga.net",
+      "domain": "liga.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "74128",
+      "name": "Adme.ru",
+      "domain": "genial.guru",
+      "seller_type": "PUBLISHER"
+    },      
+    {
+      "seller_id": "33364",
+      "name": "Admediator",
+      "domain": "delo-vcusa.ru",
+      "seller_type": "PUBLISHER"
+    },   
+    {
+      "seller_id": "27932",
+      "name": "RAMBLER&Co",
+      "domain": "passion.ru",
+      "seller_type": "PUBLISHER"
+    },  
+    {
+      "seller_id": "84563",
+      "name": "Rutube.ru",
+      "domain": "tnt-online.ru",
+      "seller_type": "PUBLISHER"
+    },  
+    {
+      "seller_id": "85461",
+      "name": "Gamak.tv",
+      "domain": "telek.top",
+      "seller_type": "PUBLISHER"
+    }, 
+    {
+      "seller_id": "25631",
+      "name": "Vesti",
+      "domain": "vesti.ua",
+      "seller_type": "PUBLISHER"
+    }, 
+    {
+      "seller_id": "14623",
+      "name": "Manorama",
+      "domain": "manoramanews.com",
+      "seller_type": "PUBLISHER"
+    }, 
+    {
+      "seller_id": "76423",
+      "name": "Copesa",
+      "domain": "lacuarta.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "17723",
+      "name": "Wot-news.com",
+      "domain": "wot-news.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "35478",
+      "name": "Admediator",
+      "domain": "gdz-putina.info",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "74445",
+      "name": "Adme.ru",
+      "domain": "adme.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "56314",
+      "name": "Adme.ru",
+      "domain": "sympa-sympa.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "65444",
+      "name": "The New Indian Express",
+      "domain": "dinamani.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "78913",
+      "name": "Eldinamo.cl",
+      "domain": "eldinamo.cl",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "96342",
+      "name": "RAMBLER&Co",
+      "domain": "m.lenta.ru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "54417",
+      "name": "Detaly",
+      "domain": "detaly.co.il",
+      "seller_type": "PUBLISHER"
+    }
+  ]
+}

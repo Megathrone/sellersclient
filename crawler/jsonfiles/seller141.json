@@ -1,0 +1,92 @@
+{
+  "contact_address":"SVG Media Pvt. Ltd., 426, Udyog Vihar Phase 3, Gurgaon - 122016",
+  "contact_email":"reforge@svgmedia.in",
+  "version":"1.0",
+  "sellers":[
+    {
+      "seller_id":"45",
+      "name":"SHAREit Technologies Co.Ltd",
+      "domain":"www.ushareit.com",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"107",
+      "name":"Unity Ads",
+      "domain":"unity.com",
+      "seller_type":"INTERMEDIARY"
+    },
+    {
+      "seller_id":"162",
+      "name":"Meitu Limited",
+      "domain":"www.beautyplus.com",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"189",
+      "name":"tunein.com",
+      "domain":"TuneIn Inc",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"194",
+      "name":"PeopleFun Inc",
+      "domain":"www.peoplefun.com",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"197",
+      "name":"Zynga Mobile",
+      "domain":"www.zynga.com",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"198",
+      "name":"X FLOW LTD",
+      "domain":"x-flow.app",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"201",
+      "name":"Wattpad Corp",
+      "domain":"www.wattpad.com",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"205",
+      "name":"MeetMe Inc",
+      "domain":"www.meetme.com",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"206",
+      "name":"iFunny Inc",
+      "domain":"ifunny.co",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"210",
+      "name":"Handcent",
+      "domain":"www.handcent.com",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"116",
+      "name":"EASY BRAIN LTD",
+      "domain":"easybrain.com",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id":"179",
+      "name":"BitMango",
+      "domain":"www.bitmango.com",
+      "seller_type":"PUBLISHER"
+    },
+    {
+      "seller_id": "reforge_269",
+      "name": "Reforge",
+      "domain": "bidswitch.com",
+      "seller_type": "INTERMEDIARY",
+      "is_passthrough": 1
+    }
+  ]
+}

@@ -1,0 +1,341 @@
+
+{
+
+    "contact_email": "contact@admicro.vn",
+    "contact_address": "20 Floor, Center Building Hapulico Complex Towner, No.1 Nguyễn Huy Tưởng, Thanh Xuân, Hà Nội",
+    "version": "1.0",
+    "sellers": [
+        {
+            "seller_id": 3785,
+            "name": "f319",
+            "domain": "f319.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "vneconomy",
+            "domain": "vneconomy.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "cafef",
+            "domain": "cafef.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "cafebiz",
+            "domain": "cafebiz.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "soha",
+            "domain": "soha.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "gamek",
+            "domain": "gamek.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "ttvnol",
+            "domain": "ttvnol.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "afamily",
+            "domain": "afamily.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "autopro",
+            "domain": "autopro.com.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "kenh14",
+            "domain": "kenh14.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "genk",
+            "domain": "genk.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "giadinh",
+            "domain": "giadinh.net.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "dantri",
+            "domain": "dantri.com.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "vtv",
+            "domain": "vtv.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "nld",
+            "domain": "nld.com.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "weball",
+            "domain": "weball.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "sport5",
+            "domain": "sport5.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "toquoc",
+            "domain": "toquoc.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "ttvn",
+            "domain": "ttvn.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "6giosang",
+            "domain": "6giosang.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "baodatviet",
+            "domain": "baodatviet.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "baomoi",
+            "domain": "baomoi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "baotintuc",
+            "domain": "baotintuc.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "bongdaplus",
+            "domain": "bongdaplus.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "docbao",
+            "domain": "docbao.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "doisongvietnam",
+            "domain": "doisongvietnam.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "eva",
+            "domain": "eva.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "guu",
+            "domain": "guu.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "go",
+            "domain": "go.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "iunauan",
+            "domain": "iunauan.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "laodong",
+            "domain": "laodong.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "phapluatplus",
+            "domain": "phapluatplus.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "tapchitaichinh",
+            "domain": "tapchitaichinh.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "thanhnien",
+            "domain": "thanhnien.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "thethao247",
+            "domain": "thethao247.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "thethaovanhoa",
+            "domain": "thethaovanhoa.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "thongtintuyensinh",
+            "domain": "thongtintuyensinh.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "tienphong",
+            "domain": "tienphong.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "tuoitre",
+            "domain": "tuoitre.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "vietnambiz",
+            "domain": "vietnambiz.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "vietnamfinance",
+            "domain": "vietnamfinance.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "vietnammoi",
+            "domain": "vietnammoi.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "zing",
+            "domain": "zing.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "bongdanet",
+            "domain": "bongdanet.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "bongda24h",
+            "domain": "bongda24h.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "viettimes",
+            "domain": "viettimes.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "plo",
+            "domain": "plo.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "infonet",
+            "domain": "infonet.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "ictnews",
+            "domain": "ictnews.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "doisongphapluat",
+            "domain": "doisongphapluat.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "tintucvietnam",
+            "domain": "tintucvietnam.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "webthethao",
+            "domain": "webthethao.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "baophapluat",
+            "domain": "baophapluat.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "nhipcaudautu",
+            "domain": "nhipcaudautu.vn",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": 3785,
+            "name": "vietnamnet",
+            "domain": "vietnamnet.vn",
+            "seller_type": "PUBLISHER"
+        }
+    ],
+    "identifiers": [ ]
+
+}

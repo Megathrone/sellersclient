@@ -1,0 +1,1469 @@
+{
+    "contact_address": "Cedato Inc, 1460 Broadway, New York, NY 10036, US",
+    "contact_email": "support@cedato.com",
+    "version": "1.0",
+    "identifiers": {
+        "name": "TAG-ID",
+        "value": "609e732d22edadf4"
+    },
+    "sellers": [
+        {
+            "seller_id": "1316834021",
+            "name": "3Blue Media",
+            "domain": "3bluemedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "557111985",
+            "name": "ADMG",
+            "domain": "admgonline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "393123694",
+            "name": "Adop",
+            "domain": "adop.cc",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "643180473",
+            "name": "Apester",
+            "domain": "apester.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "440606201",
+            "name": "Ask.fm",
+            "domain": "ask.fm",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1434611806",
+            "name": "bRealTime",
+            "domain": "emxdigital.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "563411508",
+            "name": "Bright Mountain",
+            "domain": "brightmountainmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "302005531",
+            "name": "BruleeMedia",
+            "domain": "bruleepublishing.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1681688578",
+            "name": "Buzzworthy",
+            "domain": "buzzworthy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1881606642",
+            "name": "Cascadia Games",
+            "domain": "cascadiagames.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "856262479",
+            "name": "CBS Local",
+            "domain": "cbslocal.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "1512118108",
+            "name": "Celltick",
+            "domain": "thestartmagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "183290387",
+            "name": "Core_Purchase",
+            "domain": "corepurchase.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "442867701",
+            "name": "Crazy Days And Nights",
+            "domain": "crazydaysandnights.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "490733702",
+            "name": "Digital Trends",
+            "domain": "digitaltrends.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1858938653",
+            "name": "dw.com",
+            "domain": "dw.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "310384381",
+            "name": "epochtimes.de",
+            "domain": "epochtimes.de",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1264329612",
+            "name": "Exent",
+            "domain": "exent.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "120821461",
+            "name": "FocusTimesHK",
+            "domain": "focustimeshk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "8697286",
+            "name": "Forepeak",
+            "domain": "forepeak.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1780016511",
+            "name": "Helmkin",
+            "domain": "helmkin.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "563743102",
+            "name": "HollywoodHeavy.com",
+            "domain": "hollywoodheavynews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "84323610",
+            "name": "HotelUp",
+            "domain": "hotelup.gimdesign.eu",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "756281239",
+            "name": "Hypable",
+            "domain": "hypable.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1292125755",
+            "name": "Inquisitr.com",
+            "domain": "inquisitr.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "800083359",
+            "name": "Insticator",
+            "domain": "insticator.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1942075022",
+            "name": "Investing.com",
+            "domain": "investing.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1835131115",
+            "name": "lepton",
+            "domain": "leptonexchange.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "623978701",
+            "name": "LiftCreek",
+            "domain": "liftcreek.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2094470091",
+            "name": "Liquor.com",
+            "domain": "liquor.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1427274659",
+            "name": "Lupon",
+            "domain": "lupon.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "284376962",
+            "name": "MGID",
+            "domain": "mgid.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "847525402",
+            "name": "Ned.CL",
+            "domain": "nedmedia.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "107368374",
+            "name": "NorvicaMedia",
+            "domain": "norvicamedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "876283755",
+            "name": "OpenBinacle",
+            "domain": "openbinacle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "410006851",
+            "name": "RTK",
+            "domain": "rtk.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "405330751",
+            "name": "Shandy Media",
+            "domain": "shandymedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "492130539",
+            "name": "Snigel",
+            "domain": "snigelweb.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "121100127",
+            "name": "Spot.IM",
+            "domain": "spot.im",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "764633425",
+            "name": "SWAAY",
+            "domain": "swaay.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "914727097",
+            "name": "ThirdFloor",
+            "domain": "www.thirdfloor.it",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2056064734",
+            "name": "V12Society",
+            "domain": "v12society.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "301098622",
+            "name": "Vixi.tv",
+            "domain": "vixi.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "524940783",
+            "name": "XOgroup",
+            "domain": "theknotww.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2035018321",
+            "name": "Yieldbird",
+            "domain": "yieldbird.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1370995956",
+            "name": "sfgate",
+            "domain": "sfgate.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1370995956",
+            "name": "chron",
+            "domain": "chron.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1370995956",
+            "name": "timesunion",
+            "domain": "timesunion.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1370995956",
+            "name": "mysanantonio",
+            "domain": "mysanantonio.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1370995956",
+            "name": "ctpost",
+            "domain": "ctpost.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "65687074",
+            "name": "Brain-Sharper",
+            "domain": "brain-sharper.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "77217650",
+            "name": "Encyclopedia Britannica",
+            "domain": "britannica.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "98737076",
+            "name": "bussolaperfeita",
+            "domain": "bussolaperfeita.com.br",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "119723388",
+            "name": "ebony",
+            "domain": "ebony.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "156843630",
+            "name": "GRV_Media",
+            "domain": "rangersnews.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "211012868",
+            "name": "COS",
+            "domain": "cosstores.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "215994247",
+            "name": "Pubplus",
+            "domain": "moviepredators.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "226125965",
+            "name": "Salon",
+            "domain": "salon.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "254849661",
+            "name": "Publir",
+            "domain": "ballotpedia.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "904605170",
+            "name": "bridalpulse",
+            "domain": "bridalpulse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "287217173",
+            "name": "MinuteMedia",
+            "domain": "minutemedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "318853938",
+            "name": "InvestingChannel",
+            "domain": "investingchannel.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "435032225",
+            "name": "thebuzzer.tv",
+            "domain": "thebuzzer.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "982103176",
+            "name": "Zippor",
+            "domain": "populareverything.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "468296302",
+            "name": "Inform",
+            "domain": "inform.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "475380056",
+            "name": "PubPlus",
+            "domain": "parential.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "480427619",
+            "name": "PubPlus",
+            "domain": "pensandpatron.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "987149697",
+            "name": "Editorchoice",
+            "domain": "editorchoice.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "550277496",
+            "name": "Inform",
+            "domain": "thehill.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "612514191",
+            "name": "ThisOldHouse",
+            "domain": "thisoldhouse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "630926500",
+            "name": "PubPlus",
+            "domain": "ninjajournalist.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "669565690",
+            "name": "thebuzzer",
+            "domain": "thebuzzer.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "680152203",
+            "name": "RTK",
+            "domain": "brainly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "714044753",
+            "name": "Abramas Media",
+            "domain": "abrams-media.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "751578028",
+            "name": "RTK",
+            "domain": "worldlifestyle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "766790034",
+            "name": "PubPlus",
+            "domain": "sportinal.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "767518779",
+            "name": "GoPointMedia",
+            "domain": "traileraddict.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "841140668",
+            "name": "ThisOldHouse",
+            "domain": "thisoldhouse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "888406883",
+            "name": "adapex.io",
+            "domain": "inquisitr.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1845114974",
+            "name": "adapex.io",
+            "domain": "inquisitr.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "897637049",
+            "name": "PubPlus",
+            "domain": "bridesblush.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "904605170",
+            "name": "Glam",
+            "domain": "glam.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1055476803",
+            "name": "Ranker",
+            "domain": "ranker.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1149007359",
+            "name": "PubPlus",
+            "domain": "bigglobaltravel.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1220235589",
+            "name": "RTK",
+            "domain": "grizly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1294773679",
+            "name": "PubPlus",
+            "domain": "Drivepedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1344856772",
+            "name": "RTK",
+            "domain": "proprofs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1470321567",
+            "name": "PubPlus",
+            "domain": "hyperactivz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1522977858",
+            "name": "Den of Geek",
+            "domain": "denofgeek.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1538470473",
+            "name": "GoPointMedia",
+            "domain": "dudeshq.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1584917904",
+            "name": "Shmoop",
+            "domain": "shmoop.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1230076136",
+            "name": "PubPlus",
+            "domain": "iqreaders.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1605491383",
+            "name": "GoPointMedia",
+            "domain": "gamehighlights.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1640927270",
+            "name": "SonyCrackle",
+            "domain": "sonycrackle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1661127573",
+            "name": "RTK",
+            "domain": "drugs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1737806093",
+            "name": "PubPlus",
+            "domain": "noteabley.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1753659848",
+            "name": "GoPointMedia",
+            "domain": "sportxe.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1837349415",
+            "name": "PubPlus",
+            "domain": "pineappler.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1903505092",
+            "name": "PubPlus",
+            "domain": "historymates.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1952005390",
+            "name": "CBSLocal",
+            "domain": "cbslocal.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1957756713",
+            "name": "Intent ",
+            "domain": "uinterview.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2080786149",
+            "name": "Britannica",
+            "domain": "britannica.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2080786149",
+            "name": "Britannica",
+            "domain": "merriam-webster.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1175753198",
+            "name": "Ymonetize",
+            "domain": "feriaseviagem.com.br",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1798491850",
+            "name": "Ymonetize",
+            "domain": "1segundo.com.br",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2011113572",
+            "name": "Ymonetize",
+            "domain": "Jornalfinanceiro.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2040085924",
+            "name": "Ymonetize",
+            "domain": "frasesparainsta.com.br",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1300010505",
+            "name": "adapex.io",
+            "domain": "sweetyhigh.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "610851851",
+            "name": "GRV_Media",
+            "domain": "hitc.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "807358963",
+            "name": "GRV_Media",
+            "domain": "tbrfootball.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "826775643",
+            "name": "GRV_Media",
+            "domain": "spurs-web.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1195119130",
+            "name": "GRV_Media",
+            "domain": "rousingthekop.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1126297789",
+            "name": "GRV_Media",
+            "domain": "realitytitbit.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1046621378",
+            "name": "GRV_Media",
+            "domain": "67hailhail.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "407813205",
+            "name": "GRV_Media",
+            "domain": "geordiebootboys.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1953616549",
+            "name": "GRV_Media",
+            "domain": "hammers.news",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1549977413",
+            "name": "GRV_Media",
+            "domain": "nottheoldfirm.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1645087640",
+            "name": "GRV_Media",
+            "domain": "seatpitch.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4389883",
+            "name": "GRV_Media",
+            "domain": "unitedinfocus.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "462416836",
+            "name": "adapex.io",
+            "domain": "glaminati.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1707423991",
+            "name": "Vuukle ",
+            "domain": "deccanchronicle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1328644031",
+            "name": "Vuukle ",
+            "domain": "hellobeautiful.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2082836564",
+            "name": "Buzzworthy",
+            "domain": "buzzworthy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6122549",
+            "name": "Maven",
+            "domain": "mtonews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "468296302",
+            "name": "Inform",
+            "domain": "rasmussenreports.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "489454248",
+            "name": "Fullab",
+            "domain": "metropoles.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "772612739",
+            "name": "Fullab",
+            "domain": "infoescola.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "907668620",
+            "name": "QZ",
+            "domain": "qz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1129382225",
+            "name": "COS",
+            "domain": "consequenceofsound.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1137419662",
+            "name": "DotEsport",
+            "domain": "dotesports.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1122928481",
+            "name": "Ardent ",
+            "domain": "upliftingtoday.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1118802922",
+            "name": "Ardent ",
+            "domain": "lifezette.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1761398823",
+            "name": "Maven",
+            "domain": "si.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "459143992",
+            "name": "Maven",
+            "domain": "thestreet.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1513179641",
+            "name": "SendToNews",
+            "domain": "newstimes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1513179641",
+            "name": "SendToNews",
+            "domain": "seattlepi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1513179641",
+            "name": "SendToNews",
+            "domain": "stamfordadvocate.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1513179641",
+            "name": "SendToNews",
+            "domain": "nhregister.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1513179641",
+            "name": "SendToNews",
+            "domain": "lmtonline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "canyonnews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "muleshoejournal.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "ctbulletin.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "dolphin-news.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "shorelinetimes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "countytimes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "ctpostchronicle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "westhartfordnews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "connecticutmag.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "sellitlaredo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "southeasttexas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "gametimect.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "michiganworshipdirectory.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "greenstate.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "lakecountystar.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "Theheraldreview.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "recordpatriot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "beaumontenterprise.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "greenwichtime.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "thehour.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "middletownpress.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "registercitizen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "myjournalcourier.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "thetelegraph.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "Darientimes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "fairfieldcitizenonline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "NCadvertiser.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "newmilfordspectrum.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "westport-news.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "bigrapidsnews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "manisteenews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "michigansthumb.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "mrt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "myplainview.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "ourmidland.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "theintelligencer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1428741542",
+            "name": "SendToNews",
+            "domain": "yourconroenews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1175834754",
+            "name": "DotEsport",
+            "domain": "gamepur.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1303726673",
+            "name": "COS",
+            "domain": "metalinjection.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1813299983",
+            "name": "COS",
+            "domain": "metalsucks.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "466715065",
+            "name": "COS",
+            "domain": "thehardtimes.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1814468656",
+            "name": "Ardent ",
+            "domain": "huskermax.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "490980802",
+            "name": "Maven",
+            "domain": "history.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "748547224",
+            "name": "Maven",
+            "domain": "biography.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "807358963",
+            "name": "GRV_Media",
+            "domain": "tbrfootball.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1852569522",
+            "name": "Snigel",
+            "domain": "aternos.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "487137403",
+            "name": "Snigel",
+            "domain": "visihow.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "862185922",
+            "name": "Snigel",
+            "domain": "wordhelp.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1412026373",
+            "name": "Snigel",
+            "domain": "maketecheasier.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "520750283",
+            "name": "InvestingChannel",
+            "domain": "kitco.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "971579471",
+            "name": "Snack Media",
+            "domain": "surlyhorns.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1422605840",
+            "name": "Snack Media",
+            "domain": "sixpackspeak.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1515234487",
+            "name": "Snack Media",
+            "domain": "realcavsfans.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1597882883",
+            "name": "Snack Media",
+            "domain": "nhltraderumors.me",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1705064871",
+            "name": "Snack Media",
+            "domain": "nationalclubgolfer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "621272099",
+            "name": "Ardent ",
+            "domain": "waynedupree.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "344096338",
+            "name": "Ardent ",
+            "domain": "politicalflare.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1168306861",
+            "name": "VDO.ai",
+            "domain": "techcola.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "843350938",
+            "name": "VDO.ai",
+            "domain": "viralplot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1044290845",
+            "name": "VDO.ai",
+            "domain": "gardenmanage.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1390768612",
+            "name": "VDO.ai",
+            "domain": "livestly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1792292917",
+            "name": "VDO.ai",
+            "domain": "dailyholics.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "519076993",
+            "name": "VDO.ai",
+            "domain": "upbeatnews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "154464820",
+            "name": "VDO.ai",
+            "domain": "bestmensthings.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1174322354",
+            "name": "Shandy Media",
+            "domain": "obsev.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "211012868",
+            "name": "Publir",
+            "domain": "americanthinker.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "529926032",
+            "name": "BCM",
+            "domain": "thestatuslife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "972276965",
+            "name": "BCM",
+            "domain": "notore.us",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1148749827",
+            "name": "BCM",
+            "domain": "alloutkings.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1194784842",
+            "name": "BCM",
+            "domain": "techandgeek.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1481716872",
+            "name": "BCM",
+            "domain": "recipepair.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1504687797",
+            "name": "BCM",
+            "domain": "autowise.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1714949415",
+            "name": "BCM",
+            "domain": "trillmag.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "saucyrecipes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "wisedime.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "chictrends.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "dailymulligan.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "uncached.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "whoabella.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "medios1.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "redlinerev.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "thedailywobble.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "prosperterelive.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1259790733",
+            "name": "Ardent ",
+            "domain": "themoderncookie.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1371686638",
+            "name": "VDO.ai",
+            "domain": "unfinishedman.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2128607416",
+            "name": "VDO.ai",
+            "domain": "geekextreme.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1262423833",
+            "name": "VDO.ai",
+            "domain": "tidbitsofexperience.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "708401061",
+            "name": "VDO.ai",
+            "domain": "automobilenews.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1002224780",
+            "name": "VDO.ai",
+            "domain": "lifebru.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1644425056",
+            "name": "Ardent ",
+            "domain": "theamericanmirror.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1821865887",
+            "name": "Ardent ",
+            "domain": "twistity.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "570912861",
+            "name": "VDO.ai",
+            "domain": "jetlaggin.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1002224780",
+            "name": "VDO.ai",
+            "domain": "lifebru.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "48972157",
+            "name": "Zippor",
+            "domain": "hypegalore.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "90921618",
+            "name": "Ardent ",
+            "domain": "objectivist.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1676804793",
+            "name": "taskandpurpose",
+            "domain": "taskandpurpose.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2133165423",
+            "name": "VDO.ai",
+            "domain": "cyclingentertainment.stream",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2074948900",
+            "name": "VDO.ai",
+            "domain": "gearculture.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "321192073",
+            "name": "VDO.ai",
+            "domain": "fintechzoom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "68088528",
+            "name": "crictracker",
+            "domain": "crictracker.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2055677964",
+            "name": "creativedestructionmedia",
+            "domain": "creativedestructionmedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "710497154",
+            "name": "Glam ",
+            "domain": "fark.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "824621805",
+            "name": "Maven",
+            "domain": "Maxim.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1652730692",
+            "name": "Maven",
+            "domain": "BringMeTheNews.com",
+            "seller_type": "PUBLISHER"
+        }
+    ]
+}

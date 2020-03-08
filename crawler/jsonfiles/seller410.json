@@ -1,0 +1,22 @@
+{  
+   "contact_email":"dispo@audio-cc.com",
+   "contact_address":"audio content & control GmbH, Münsterstr. 246, 40470 Düsseldorf, Germany",
+   "version":"1.0",
+   "identifiers":[  
+
+   ],
+   "sellers":[  
+      {  
+         "seller_id":"myhitmusic",
+         "name":"MyHitMusic",
+         "domain":"myhitmusic.de",
+         "seller_type":"PUBLISHER"
+      },
+      {  
+         "seller_id":"audiocc",
+         "name":"audio CC",
+         "domain":"audio-cc.com",
+         "seller_type":"INTERMEDIARY"
+      }
+   ]
+}

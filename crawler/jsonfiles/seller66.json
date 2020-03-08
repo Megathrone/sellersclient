@@ -1,0 +1,2762 @@
+{
+  "contact_email": "adx@ucfunnel.com",
+  "contact_address": "",
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "par-7E66AAE39278929CB362AA9388886A2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "adGeek",
+      "domain": "adgeek.com"
+    },
+    {
+      "seller_id": "par-7E63747944BBBDAFB3793473E44D383",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "sitetag",
+      "domain": "feebee.com.tw"
+    },
+    {
+      "seller_id": "par-B3B382BADE4BE4EF7962E29EA2BD337",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "qooza",
+      "domain": "qooza.hk"
+    },
+    {
+      "seller_id": "par-4898B9A883248E6F62963BE44BE79B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "wmoov",
+      "domain": "wmoov.com"
+    },
+    {
+      "seller_id": "par-D7D9E329BB4D3D6FDD2E928B7262499",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "sitebro",
+      "domain": "sitebro.com"
+    },
+    {
+      "seller_id": "par-7E63A83284A96890B63AA3D46B3D283",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "salesfrontier",
+      "domain": "sales-frontier.com"
+    },
+    {
+      "seller_id": "par-4892479DDD9B24A0EE89222BBEA7364",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "HAUCHI",
+      "domain": "weblisher.com.tw"
+    },
+    {
+      "seller_id": "par-AE3E7364A6286331848AB42E99396A2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ShareJunction",
+      "domain": "sharejunction.com"
+    },
+    {
+      "seller_id": "par-B33E78B38E4669307D37AAEA99894AD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "axisconnection",
+      "domain": "axismedia.com.hk"
+    },
+    {
+      "seller_id": "par-B3BBB429B6B2ABB16AD698667A7376",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "zoneonezone",
+      "domain": "zoneonezone.com"
+    },
+    {
+      "seller_id": "par-488766626237D2BFE83D42729D992EE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "indiaresults",
+      "domain": "indiaresults.com"
+    },
+    {
+      "seller_id": "par-D772BD4433B68D70D38D9A28B87799B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "firehare95",
+      "domain": "bazzfly.com"
+    },
+    {
+      "seller_id": "par-2EE6798EA72D4261977474D6734B63",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "unimhk",
+      "domain": "unimhk.com"
+    },
+    {
+      "seller_id": "par-2EE668EE77E4483F82AB769282BD23E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Devendra Singhal",
+      "domain": "eserviceshelp.in"
+    },
+    {
+      "seller_id": "par-6AAD476D483BD671EE87398B3286A27",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "techocean_dr",
+      "domain": "techocean.tw"
+    },
+    {
+      "seller_id": "par-EAA483DADB6E267074DB76227BD8EA4",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "aastocks",
+      "domain": "aastocks.com"
+    },
+    {
+      "seller_id": "par-9889D6DAABEA4D204ADB87D93976B84",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "koimoi",
+      "domain": "koimoi.com"
+    },
+    {
+      "seller_id": "par-488DBEE32448744CE84E4422D4EEE96",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "JustSoFun",
+      "domain": "justsofun.com"
+    },
+    {
+      "seller_id": "par-EAA66BBBB283B3A073A49EA226DBBA8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Jerusalem Post",
+      "domain": "jpost.com"
+    },
+    {
+      "seller_id": "par-988677EA366228404E4D2EAA6E222E2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Top1 post",
+      "domain": "top1post.ru"
+    },
+    {
+      "seller_id": "par-333ADAEAB677DE2C33D9294D8AD6A8B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "sportsmonster",
+      "domain": "sportsmonster.us"
+    },
+    {
+      "seller_id": "par-833E8D33BDB39A40B2A33BE3672D997",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Dailymotion",
+      "domain": "dailymotion.com"
+    },
+    {
+      "seller_id": "par-488DE38B39B94391ED9467246EE4D7E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Mainstream",
+      "domain": "actiondroid.com"
+    },
+    {
+      "seller_id": "par-D77E894AED22A6A0DD4BA2ED886BD23",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "popyard",
+      "domain": "popyard.com"
+    },
+    {
+      "seller_id": "par-EAA6DEA72437799F76A47773B986B33",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "thirdrose",
+      "domain": "healthyforkids.com"
+    },
+    {
+      "seller_id": "par-EAA338B69899BDAF74E39A84883BDA6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "lackmail.ru",
+      "domain": "lackmail.ru"
+    },
+    {
+      "seller_id": "par-333E22326DE2E67F87BD8BD769EB7E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "shoppinglife",
+      "domain": "shoppinglifestyle.com"
+    },
+    {
+      "seller_id": "par-7EE9364ABE496A20B99E48779A4BDE3",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "usamediaholdings",
+      "domain": "usamediaholdings.com"
+    },
+    {
+      "seller_id": "par-2EEB2E2EB4B4B7E08AD94744E477A73",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "99jun",
+      "domain": "99jun.cn"
+    },
+    {
+      "seller_id": "par-833D4A763726B9413D99846E6A92AE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "review33",
+      "domain": "review33.com"
+    },
+    {
+      "seller_id": "par-48869D298A6679B03ED67727B83E84",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "networld",
+      "domain": "nwonline.net"
+    },
+    {
+      "seller_id": "par-D776DED7747949408B3B94644B7AA3",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ON.CC",
+      "domain": "on.cc"
+    },
+    {
+      "seller_id": "par-EAA3736BD86B32EC7AA38B99AD8AAB6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "stcodev",
+      "domain": "quizfun.co"
+    },
+    {
+      "seller_id": "par-AEE2326B8D726DEF723B73B2E6D773",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "HKGolden",
+      "domain": "hkgolden.com"
+    },
+    {
+      "seller_id": "par-7EE964DA64B73B9F8737A646673AE3",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "StreamTrack Media",
+      "domain": "radioloyalty.com"
+    },
+    {
+      "seller_id": "par-2EEBEBE979ABA4A03B37A6E98BD47B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ETNET",
+      "domain": "etnet.com.hk"
+    },
+    {
+      "seller_id": "par-333E323D77349DA13EB3DA79A3EE936",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Cavain",
+      "domain": "zarapk.com"
+    },
+    {
+      "seller_id": "par-AEE477D3A824883C8942B278267E28E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Thomas  Isaksson",
+      "domain": "thesimsresource.com"
+    },
+    {
+      "seller_id": "par-3339BD949EE8ADA08333B7ED897A47",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "PIXNET",
+      "domain": "pixnet.net"
+    },
+    {
+      "seller_id": "par-3339B7BA29E84BEF3E2998DD9A43273",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "mintdots",
+      "domain": "mintdots.com"
+    },
+    {
+      "seller_id": "par-EAA846AE647B627C7A4796BD67A3A32",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "dcfever",
+      "domain": "dcfever.com"
+    },
+    {
+      "seller_id": "par-B336A72B938B9E8072B7A96497237DE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Vidillion",
+      "domain": "vidillion.tv"
+    },
+    {
+      "seller_id": "par-D77BED862E79AEDCADDD287BA9AB42",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "KoreaStarDaily",
+      "domain": "koreastardaily.com"
+    },
+    {
+      "seller_id": "par-7EE498D8EB2ABEDCB69E83E2EE8EB67",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 1
+    },
+    {
+      "seller_id": "par-6AA98D7A6EE86E7CEAE63274ADB62B9",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "WhoScored",
+      "domain": "whoscored.com"
+    },
+    {
+      "seller_id": "par-EAA8D99B78773DBFEE24974A62EA2B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "gmobi",
+      "domain": "generalmobi.com"
+    },
+    {
+      "seller_id": "par-AEE46E9D82479BBF89DDBE6D47924E8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "28hse",
+      "domain": "28hse.com"
+    },
+    {
+      "seller_id": "par-D77BD382D27662DFBB6A2A9EA43EBB",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ClickForce",
+      "domain": "clickforce.com.tw"
+    },
+    {
+      "seller_id": "par-83363D4663DB437197229D8778B2E3",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "New Media Group",
+      "domain": "nmg.com.hk"
+    },
+    {
+      "seller_id": "par-AEE9DE487E94B74188B6AD2942E8977",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "文匯報",
+      "domain": "wenweipo.com"
+    },
+    {
+      "seller_id": "par-6AA3B84B87AA4DD0E83A822347B2ABD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "cool3c",
+      "domain": "cool3c.com"
+    },
+    {
+      "seller_id": "par-EAA986A38938A7AC77A8AE68D6EEAAB",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "cnYES",
+      "domain": "cnyes.com"
+    },
+    {
+      "seller_id": "par-EAA9DA228A82DEE1B796872338A699",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "zain.site",
+      "domain": "zain.site"
+    },
+    {
+      "seller_id": "par-AEE62927898A96BC844E2393333B999",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Kiwihk",
+      "domain": "kiwihk.net"
+    },
+    {
+      "seller_id": "par-8337893BE7773421B2D3B9ED3B27E43",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Baby Kingdom",
+      "domain": "baby-kingdom.com"
+    },
+    {
+      "seller_id": "par-33366826D24B64B03BEDE7B4E3224ED",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Sub HD",
+      "domain": "subhd.com"
+    },
+    {
+      "seller_id": "par-D77933DB326BB9DCD3A47876AA2A3DA",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "iqdigitalmedia",
+      "domain": "iqm.de"
+    },
+    {
+      "seller_id": "par-6AA638B726E64B806A97DD22382EAD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "creativehope",
+      "domain": "creativehope.co.jp"
+    },
+    {
+      "seller_id": "par-2EE24E279D28D7E194B7A329E37394",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "SCMP",
+      "domain": "scmp.com"
+    },
+    {
+      "seller_id": "par-D77976BE3449E261A77A432A692343",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Them",
+      "domain": "mentalkhk.com"
+    },
+    {
+      "seller_id": "par-D7797A6E4A38973FD782DB83748D2A2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Sitemaji",
+      "domain": "sitemaji.com"
+    },
+    {
+      "seller_id": "par-3337EE8EBA8B8E7F8738AB76723A34",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "汇景信息科技",
+      "domain": "1kxun.com"
+    },
+    {
+      "seller_id": "par-988B37B68EB2EBBC4E4D7AD463DBD86",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "bezetta",
+      "domain": "bezetta.com"
+    },
+    {
+      "seller_id": "par-EAA78EBE6984BD317278B8AA6A79EBA",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Reddoor Media Group Co.,Ltd",
+      "domain": "bloggerads.net"
+    },
+    {
+      "seller_id": "par-988BE9D33473D9817847BD898A2ABE",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "宇匯知識科技股份有限公司",
+      "domain": "scupio.com"
+    },
+    {
+      "seller_id": "par-33376948E9D3E9D03AE44AE629D7223",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Traffic.Club",
+      "domain": "liteurl.com"
+    },
+    {
+      "seller_id": "par-988BEB9AD349BA304BEBA6D2A77A683",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "8sian Media",
+      "domain": "singpoli.com"
+    },
+    {
+      "seller_id": "par-33372A4286D8A7703EBD89286D23372",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "VPPGamingNetwork",
+      "domain": "vppgamingnetwork.com"
+    },
+    {
+      "seller_id": "par-2EEEB83BB2A6D36188326A777D4987D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "I-Mei",
+      "domain": "hellokids.com"
+    },
+    {
+      "seller_id": "par-488836B7D9E983DCEE7D8B4D4E762B8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "unwire",
+      "domain": "unwire.hk"
+    },
+    {
+      "seller_id": "par-6AAA8B64EE29BA40EAB648BE8692D23",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Adpone",
+      "domain": "adpone.com"
+    },
+    {
+      "seller_id": "par-AEEE848DB47AB82089ADA2D3E9E9DE3",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "Admaru",
+      "domain": "admaru.com"
+    },
+    {
+      "seller_id": "par-83334B7294A7D47C93D63D982BABB9",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "increaserev",
+      "domain": "increaserev.com"
+    },
+    {
+      "seller_id": "par-8A222BE7396A7EEB1BBAE3E6B3ED7373",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "adzwn",
+      "domain": "adzwn.com"
+    },
+    {
+      "seller_id": "par-47BBB932B9D86BE71EE29397E39B7B49",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "PicSee",
+      "domain": "pics.ee"
+    },
+    {
+      "seller_id": "par-9A222B444B27D74D14B9E778A36AE298",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "golfwrx",
+      "domain": "golfwrx.com"
+    },
+    {
+      "seller_id": "par-2733737D883828B708794B482BBDD6B4",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "SETN",
+      "domain": "setn.com"
+    },
+    {
+      "seller_id": "par-9A22AAE4D2382A4B14A6A28E4DD8B8EE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Phoneix",
+      "domain": "gingerbottom.com"
+    },
+    {
+      "seller_id": "par-273378AD48D7438318AAA7369EE4B337",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ekukhar",
+      "domain": "hi.ru"
+    },
+    {
+      "seller_id": "par-9A2292AE8499392AF846E46D8DD28A6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Afmobi",
+      "domain": "afmobi.com"
+    },
+    {
+      "seller_id": "par-6277D2E872924A2906B489BBABA79D9",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Hotmob",
+      "domain": "hotmob.com"
+    },
+    {
+      "seller_id": "par-8A229EDE29D3BD3A03B77E96DA67BB7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "OneAd",
+      "domain": "onead.com"
+    },
+    {
+      "seller_id": "par-77228947DADE49B7C2227BB8947EB46",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "9MediaOnline",
+      "domain": "9mediaonline.com"
+    },
+    {
+      "seller_id": "par-8A2298D443A63442FB729783DD98B778",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "HINET",
+      "domain": "hinet.net"
+    },
+    {
+      "seller_id": "par-47BB433993266847CEA23D4E4ABA4A7D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "OVO media",
+      "domain": "ovotv.com"
+    },
+    {
+      "seller_id": "par-34BB826EE4EB36BDF838A8822948672",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Leader Summaries",
+      "domain": "leadersummaries.com"
+    },
+    {
+      "seller_id": "par-D2334D97989D2BA21B2E97B2B4ED8B2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "snopes",
+      "domain": "snopes.com"
+    },
+    {
+      "seller_id": "par-BE77839D4264D6EA0ABE42ABA93B389",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Kumma",
+      "domain": "kumma.com"
+    },
+    {
+      "seller_id": "par-8A22E22D3B83E6B7CB77D47D93A2EB47",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "antsabi",
+      "domain": "antsabi.com"
+    },
+    {
+      "seller_id": "par-627742292797EE221E99D39D678B4BDB",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Streamlyn",
+      "domain": "streamlyn.com"
+    },
+    {
+      "seller_id": "par-E2BB626329ED6E66C7AAD6ADE93B66EE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "keywordtech",
+      "domain": "pptv.com"
+    },
+    {
+      "seller_id": "par-9A226AB267382727C4B4AD9DD89ABAE6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Botasot",
+      "domain": "botasot.info"
+    },
+    {
+      "seller_id": "par-627742ED778996620E9684AA34E476B6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "TVB",
+      "domain": "tvb.com"
+    },
+    {
+      "seller_id": "par-D233E4A86B8AD846CD779479AB944E43",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ADOP Inc.",
+      "domain": "adop.cc"
+    },
+    {
+      "seller_id": "par-34BBA87273E9E9A8CD7966AD2A63ABD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "LiTV",
+      "domain": "litv.tv"
+    },
+    {
+      "seller_id": "par-2733A94E3686EBAD0983B3AB4839EE6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "nextbuzzmedia.com",
+      "domain": "nextbuzzmedia.com"
+    },
+    {
+      "seller_id": "par-34BBA3ADAD633E62FDA93363B989A94",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Acqua Media Limited",
+      "domain": "acquamedia.com.hk"
+    },
+    {
+      "seller_id": "par-E2BB3B7BE9D4239EF7A27D964E27E43B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "jer2ychen",
+      "domain": "qno.com.tw"
+    },
+    {
+      "seller_id": "par-6277B2B64B78AD4DCEA4E77A7BA9D3DA",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "softbrix",
+      "domain": "milleniamediagroup.com"
+    },
+    {
+      "seller_id": "par-BE7728398A23E27DC79E7A2B89283869",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Jojo5",
+      "domain": "jojo5.com"
+    },
+    {
+      "seller_id": "par-9A2273BE2D8EAB92F4EE88D8DE38A67E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "AirPush",
+      "domain": "airpush.com"
+    },
+    {
+      "seller_id": "par-2733B8834D34866808244AD2B7BB3D3A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "tumangaonline.com",
+      "domain": "tumangaonline.com"
+    },
+    {
+      "seller_id": "par-BE77248AB773386AF7D64A893298B3B6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "sioot.com",
+      "domain": "sioot.com"
+    },
+    {
+      "seller_id": "par-9A227E6663ED8E8304EE88D8DE3883A8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Crist CDL Training Center",
+      "domain": "ceistcdl.com"
+    },
+    {
+      "seller_id": "par-6277B8438A84D79E0E9A78DEAE68D448",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "881903.com",
+      "domain": "881903.com"
+    },
+    {
+      "seller_id": "par-47BB62E8B3B82466FE76B4497BD96436",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "HK01",
+      "domain": "hk01.com"
+    },
+    {
+      "seller_id": "par-7722936BEB279B69FB986672937BA942",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "hktester.com",
+      "domain": "hktester.com"
+    },
+    {
+      "seller_id": "par-9A22748D78889B4D04E8BB67EA643739",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Swadubalak",
+      "domain": "swadubalak.weebly.com"
+    },
+    {
+      "seller_id": "par-8A22D4A2899B7A221B77EE6E67D3879D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "LineTV",
+      "domain": "linetv.tw"
+    },
+    {
+      "seller_id": "par-D233672DD744287DCD7E2439B82494AD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "AdView",
+      "domain": "adview.com"
+    },
+    {
+      "seller_id": "par-6277BA38B4E27AD9F78E4D7E8926AB7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "公視+",
+      "domain": "ptsplus.tv"
+    },
+    {
+      "seller_id": "par-8A22628EDAB68699CB62DD6DA626D2E8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Intowow",
+      "domain": "intowow.com"
+    },
+    {
+      "seller_id": "par-9A22328E462DEE66F636A978687428A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "KMPlayer",
+      "domain": "kmplayer.com"
+    },
+    {
+      "seller_id": "par-8A226A4A4EB4B42EFB26E7D6A23D369A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Zimedia",
+      "domain": "zi.media"
+    },
+    {
+      "seller_id": "par-8A2266EA86798AEBCB67A26D86E47E72",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "JOOX",
+      "domain": "joox.com"
+    },
+    {
+      "seller_id": "par-9A223364DDDE8773F786B872E48EA67",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Adstir",
+      "domain": "ad-stir.com"
+    },
+    {
+      "seller_id": "par-E2BB888DDD7A42D9FEB79B2846B9A99",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "OpenRice",
+      "domain": "openrice.com"
+    },
+    {
+      "seller_id": "par-E2BB89976A32BD2AC746364D663463D2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "adpie",
+      "domain": "adpies.com"
+    },
+    {
+      "seller_id": "par-273392AED4BA989DF9B83D8976EBE97",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Maximizer",
+      "domain": "maximizer.hk"
+    },
+    {
+      "seller_id": "par-E2BB9496D826EE6AC74EAD9BAA76E367",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "TVB Anywhere",
+      "domain": "tvbanywhere.com"
+    },
+    {
+      "seller_id": "par-AA7799AB76A3384912A32D8AA487898",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "mobikok",
+      "domain": "mobikok.com"
+    },
+    {
+      "seller_id": "par-AA7799E8686BEE88184A6D7379A23AB8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "四季線上影視",
+      "domain": "4gtv.tv"
+    },
+    {
+      "seller_id": "par-BE7794D3864B2238CAA387BA866947B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "UDN",
+      "domain": "udn.com"
+    },
+    {
+      "seller_id": "par-AA779874B2DA6766C8DBBE32D897834A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Focus Times HK",
+      "domain": "focustimeshk.com"
+    },
+    {
+      "seller_id": "par-2733823D7D4962490963A69AD2A28BD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "TAmedia",
+      "domain": "tamedia.com.tw"
+    },
+    {
+      "seller_id": "par-47BBE26AA343D22806327386AD299ED",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ichacha.net",
+      "domain": "ichacha.net"
+    },
+    {
+      "seller_id": "par-47BBE96EE3A6E96DC32979AE7822AEB",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "lkf.tv",
+      "domain": "lkf.tv"
+    },
+    {
+      "seller_id": "par-D233AD8B43B3B28E1D73DE9384EDDB83",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "advandmedia.com",
+      "domain": "advandmedia.com"
+    },
+    {
+      "seller_id": "par-8A227A68D7443B43FE8664EE6A89927",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Brightcom.com",
+      "domain": "brightcom.com"
+    },
+    {
+      "seller_id": "par-BE774A8E7732422816B4BE8A77E3997",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "RocketStaff",
+      "domain": "rocketstaff.com"
+    },
+    {
+      "seller_id": "par-BE774242B9789829077283AE47E688D6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 1
+    },
+    {
+      "seller_id": "par-627789A43686AEE80EAD8B9EBD239BE6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Blavity.com",
+      "domain": "blavity.com"
+    },
+    {
+      "seller_id": "par-E2BBDD63BB97ADE219D72AEB6D637EA",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "truyenfull.vn",
+      "domain": "truyenfull.vn"
+    },
+    {
+      "seller_id": "par-8A2277E3E4B77739136A89D46BD69A4",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "www.brightcom.com",
+      "domain": "brightcom.com"
+    },
+    {
+      "seller_id": "par-627788342E433A731EE44DD92E268479",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ultimate-guitar.com",
+      "domain": "ultimate-guitar.com"
+    },
+    {
+      "seller_id": "par-AA77669DED6B4789C84AD8A2A67434D3",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "impactify.io",
+      "domain": "impactify.io"
+    },
+    {
+      "seller_id": "par-9A22EEE67A93DE6914DBB74BE2967AB3",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "quickbooks",
+      "domain": "quickbooks.com"
+    },
+    {
+      "seller_id": "par-D23389826B3BBE37FD7D2823B96E7D46",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "nw loans",
+      "domain": "nw-loans.com"
+    },
+    {
+      "seller_id": "par-47BB39BEE7AD6ED30E7E37478E8BEED2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "newborntown.com",
+      "domain": "newborntown.com"
+    },
+    {
+      "seller_id": "par-8A22BEBE7886A3EBFBBA4DE9B6497A29",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "minglecash.com",
+      "domain": "minglecash.com"
+    },
+    {
+      "seller_id": "par-BE77D268DAA27623CAE6D98EB74BAEE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "finance.ka-soft.com",
+      "domain": "finance.ka-soft.com"
+    },
+    {
+      "seller_id": "par-62776B9899B923841782A3684ED4782",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "HellHorror.com",
+      "domain": "hellhorror.com"
+    },
+    {
+      "seller_id": "par-E2BBED9BB89B698BC7A7B33A86777277",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "dable.io",
+      "domain": "dable.io"
+    },
+    {
+      "seller_id": "par-34BB23DAB6A4ADAECD38B8429A2EA96",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "puffinbrowser.com",
+      "domain": "puffinbrowser.com"
+    },
+    {
+      "seller_id": "par-9A22B223277D4AE4C4D444728886B3DE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Efasand.blogspot.com",
+      "domain": "efasand.blogspot.com"
+    },
+    {
+      "seller_id": "par-BE77B88979986ABA08A436B39D4A8B9",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Veuhub.com",
+      "domain": "veuhub.com"
+    },
+    {
+      "seller_id": "par-AA773B3799B9978B08E94E7E44D927E2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "moceantech",
+      "domain": "moceantech.com"
+    },
+    {
+      "seller_id": "par-772268623ED7626D1B9D466489DB92D7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "FPT",
+      "domain": "fpt.com.vn"
+    },
+    {
+      "seller_id": "par-AA773D7BBD6A6AA9C89DB84B88AE7AA6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "www.moceanteach.com",
+      "domain": "moceanteach.com"
+    },
+    {
+      "seller_id": "par-9A22B6D2E6423D2204ED2BB28ED4E792",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "generalmobi.com",
+      "domain": "generalmobi.com"
+    },
+    {
+      "seller_id": "par-77226497D6697E791B3766EE22834742",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "interqube",
+      "domain": "interqube.com"
+    },
+    {
+      "seller_id": "par-E2BB78373428E996177D7A6A9DE3E9D6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "jaewinter.net",
+      "domain": "jaewinter.net"
+    },
+    {
+      "seller_id": "par-34BB7966836D7672C3638827D43AED92",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "howtodo.rocks",
+      "domain": "howtodo.rocks"
+    },
+    {
+      "seller_id": "par-8A224792E97B6476FBBDB946782E36E9",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "iCook",
+      "domain": "icook.tw"
+    },
+    {
+      "seller_id": "par-2733DD7D2388B8440866E4B399B2977D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Clickky",
+      "domain": "clickky.biz"
+    },
+    {
+      "seller_id": "par-9A22BB477A8978EAF87489A7639A2E6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "apusapps.com",
+      "domain": "apusapps.com"
+    },
+    {
+      "seller_id": "par-BE77BBD47E7A764607993E48AA4DA228",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Meitu",
+      "domain": "meitu.com"
+    },
+    {
+      "seller_id": "par-47BB998E89EB73991ED9ABA8D97334D6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "遊戲群助手",
+      "domain": "gamebot.app"
+    },
+    {
+      "seller_id": "par-8A224364AE896BAD0B4D87629A46E73D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "relappro.com",
+      "domain": "relappro.com"
+    },
+    {
+      "seller_id": "par-47BB8BD9482B62AD1E824EA8898AE486",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Rocktek",
+      "domain": "rocktek.com.tw"
+    },
+    {
+      "seller_id": "par-D2337B42BA884D77CD786A7E26AB9683",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Viewdeos",
+      "domain": "viewdeos.com"
+    },
+    {
+      "seller_id": "par-8A2236D27942EAB4F36473D83484399",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "AdPlayer",
+      "domain": "adplayer.pro"
+    },
+    {
+      "seller_id": "par-47BB8A2B99E374A2C9373E7D8A3E6B8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Bectero",
+      "domain": "bectero.com"
+    },
+    {
+      "seller_id": "par-2733E8D2D8E94A8A18A87AE2D4E8334B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "adstacks.in",
+      "domain": "adstacks.in"
+    },
+    {
+      "seller_id": "par-8A2237EED49499B91ED66A3ABE38E86",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Launcher",
+      "domain": "iservernetwork.com"
+    },
+    {
+      "seller_id": "par-7722E624A64B79E407A266E8948AB98",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "freegames66.com",
+      "domain": "freegames66.com"
+    },
+    {
+      "seller_id": "par-9A228BD22AD7D488C66A783A83634B7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Parallel Digital",
+      "domain": "paralleldigital.com"
+    },
+    {
+      "seller_id": "par-7727229B89292E72CBB8EAB446E8DA74",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "YouCam Perfect",
+      "domain": "perfectcorp.com"
+    },
+    {
+      "seller_id": "par-E2B2BBD338B329DB0B4786E38E4E884",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "sanook.com",
+      "domain": "sanook.com"
+    },
+    {
+      "seller_id": "par-BE7E7E43A894BDD21A9E3722B69DA7D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "stheadline.com",
+      "domain": "stheadline.com"
+    },
+    {
+      "seller_id": "par-E2B2B43EA334BE2AC96387AA4B6297D",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "tpmn.co.kr",
+      "domain": "tpmn.co.kr"
+    },
+    {
+      "seller_id": "par-AA7A7BEAE68497BAF2EBB77EB829E64",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Manorama online",
+      "domain": "manoramaonline.com"
+    },
+    {
+      "seller_id": "par-D2323E2AB26E6E861D3A62A8B37EA693",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Komikindo",
+      "domain": "komikindo.web.id"
+    },
+    {
+      "seller_id": "par-47B7BD24D3ABA3DBFEEB966EB279B322",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "kiwihk.net",
+      "domain": "kiwihk.net"
+    },
+    {
+      "seller_id": "par-BE7E7ADB8D34EE2BF7BBD2899BB62A77",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "insticator.com",
+      "domain": "insticator.com"
+    },
+    {
+      "seller_id": "par-9A2A2799D2933492149BA9376ABAAD36",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "とある男子の趣味",
+      "domain": "xn--6oqx6c301allufxcm23a7sm.com"
+    },
+    {
+      "seller_id": "par-D2323A237A99D4ADCB4798BBA8AB7E7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "1 World Online",
+      "domain": "1worldonline.com"
+    },
+    {
+      "seller_id": "par-8A2A28BBA6784978CB2E444643228EAD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "mgid.com",
+      "domain": "mgid.com"
+    },
+    {
+      "seller_id": "par-34B4B7E66D836A77CDB3AE6DDED8864",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "qwertize.com",
+      "domain": "qwertize.com"
+    },
+    {
+      "seller_id": "par-AA7A733A864762D6F89A4E4BEB3346AE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "doubleclick.asiaray.com",
+      "domain": "doubleclick.asiaray.com"
+    },
+    {
+      "seller_id": "par-34B44B44AA7E77A40D242B4B492A77A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "gomlab.com",
+      "domain": "gomlab.com"
+    },
+    {
+      "seller_id": "par-AA7AA792A2A8DB8D1BE8EE7E4D9ABED",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "PIXmarketing",
+      "domain": "pixnet.net"
+    },
+    {
+      "seller_id": "par-9A2AA973974D6E6304A6B426BAA32A2A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "VuiVui",
+      "domain": "vuivui.tv"
+    },
+    {
+      "seller_id": "par-2EDDB423AA24474188B843EE4842932",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 1
+    },
+    {
+      "seller_id": "par-627224233ED2DE8DCEA82A2DE98EE9B8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "zum",
+      "domain": "zum.com"
+    },
+    {
+      "seller_id": "par-BE7EEA887A99DB2EF726B22237E382E6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "streetvoice.com",
+      "domain": "streetvoice.com"
+    },
+    {
+      "seller_id": "par-AA7AADD29B66A4B2C2D34426EA76D3B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "stories",
+      "domain": "ojaspatwardhan01.gq"
+    },
+    {
+      "seller_id": "par-D2322ED4A4DE63471A2A293E444D4A7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "NXT Sports",
+      "domain": "nxtsports.xyz"
+    },
+    {
+      "seller_id": "par-AA7AA2DA3E4E9274FB742489E8D3D74",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "TDN",
+      "domain": "thenextpaper.com"
+    },
+    {
+      "seller_id": "par-8A2AAD734366A827CB2AE2EDB7ABB734",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "LiteShop",
+      "domain": "liteshop.tw"
+    },
+    {
+      "seller_id": "par-8A2AAD733D6B9A8BF9864AB8AD929DD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Pansci shop",
+      "domain": "pansci.asia"
+    },
+    {
+      "seller_id": "par-34B44E6336BE7739F3382AA286946E8B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Cyberbiz",
+      "domain": "cyberbiz.co"
+    },
+    {
+      "seller_id": "par-34B44E6337DB64B8C3E7BEEE43648E4B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "TripNotice",
+      "domain": "tripnotice.com"
+    },
+    {
+      "seller_id": "par-AA7AA9B296A66EA20842DB36DD3723BD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Ait",
+      "domain": "gomtv.com"
+    },
+    {
+      "seller_id": "par-BE7EE4944736DA66C726B6B687329284",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "affinity.com",
+      "domain": "affinity.com"
+    },
+    {
+      "seller_id": "par-AA7AA8386A94BB8BF882679EA6A78496",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Biggo",
+      "domain": "biggo.com"
+    },
+    {
+      "seller_id": "par-AA7AAE26426EA789F83E2EA374B4E4B9",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ask.fm",
+      "domain": "ask.fm"
+    },
+    {
+      "seller_id": "par-8A2A9D969EA23669036BE934878ABD8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "AfreecaTV",
+      "domain": "afreecatv.com"
+    },
+    {
+      "seller_id": "par-E2B249239D3BAA490776A63244AB224D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "MirrorMedia",
+      "domain": "mirrormedia.mg"
+    },
+    {
+      "seller_id": "par-E2B24DB88A4E7B731E89844423742B6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "disp.cc",
+      "domain": "disp.cc"
+    },
+    {
+      "seller_id": "par-8A2A97B9947DA7E4C98386662AB62E3",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 1
+    },
+    {
+      "seller_id": "par-6272D63DE38AA2E4CE333A72D63BD48E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "中時電子報",
+      "domain": "chinatimes.com"
+    },
+    {
+      "seller_id": "par-2737622EA66E7EB3088E78262BA729BE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Chocolateplatform.com",
+      "domain": "chocolateplatform.com"
+    },
+    {
+      "seller_id": "par-8A2A93B4864D4BA4FBAB6EE938423E99",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "chiasenhac.com",
+      "domain": "chiasenhac.com"
+    },
+    {
+      "seller_id": "par-9A2A6A236E87BABDF494D88762BA66B7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Dofun",
+      "domain": "dofunapps.com"
+    },
+    {
+      "seller_id": "par-BE7EAEAAAB7D67640AB768A9323E297",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "mobikok",
+      "domain": "mobikok.com"
+    },
+    {
+      "seller_id": "par-34B4A8EED98A7972F3272632AE9B8749",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "theboy.love",
+      "domain": "theboy.love"
+    },
+    {
+      "seller_id": "par-9A2A66E8A7AEA7D417D333B2BBABB32",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "jmytech.dlinkddns.com",
+      "domain": "dlinkddns.com"
+    },
+    {
+      "seller_id": "par-47B7DD97A847DD6D093D6D8AB976A24",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Nossa Política",
+      "domain": "nossapolitica.net"
+    },
+    {
+      "seller_id": "par-8A2AEE3E3B4D7B2A13B9DDE4D4D3BD9",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "adsolut.in",
+      "domain": "adsolut.in"
+    },
+    {
+      "seller_id": "par-8A2AED9A282338641B6A82A9EA48A9E7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "92TV",
+      "domain": "92drama.com"
+    },
+    {
+      "seller_id": "par-BE7EA2AB233B898817BE3DE86E93E866",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ck101.com",
+      "domain": "Ck101"
+    },
+    {
+      "seller_id": "par-62724B3E73BB387316328B38A94E6E2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "hkanime",
+      "domain": "hkanime.com"
+    },
+    {
+      "seller_id": "par-7727ABD7233A864A1BDD4DD3DA37784B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Senzacionalno",
+      "domain": "senzacionalno.me"
+    },
+    {
+      "seller_id": "par-7727AD27E8286D6ACB688E333747A24D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "adseed.ru",
+      "domain": "adseed.ru"
+    },
+    {
+      "seller_id": "par-7727A3DDBADBD7AA1BB73AE664838BDD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "viadsmedia.com",
+      "domain": "viadsmedia.com"
+    },
+    {
+      "seller_id": "par-6272B74962E3AAE90E98336EBDD2A344",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Cathay Bank",
+      "domain": "cathaybank.com.tw"
+    },
+    {
+      "seller_id": "par-E2B23B967792686E17A948B79A634929",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Cosmopolitan Taiwan",
+      "domain": "cosmopolitan.com.tw"
+    },
+    {
+      "seller_id": "par-47B767BD79D248A3FEDE79A6EA2B874E",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "Bidsopt Media",
+      "domain": "bidsopt.com"
+    },
+    {
+      "seller_id": "par-9A2A7A366E76E769C82832EE333A4DD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "modinomics.in",
+      "domain": "modinomics.in"
+    },
+    {
+      "seller_id": "par-772798A8BBB2AE640BB4A3EA6D64E47B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Techbang",
+      "domain": "techbang.com"
+    },
+    {
+      "seller_id": "par-7727983EB92E9B3A12E6B397B69988B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "關鍵評論網集團",
+      "domain": "thenewslens.com"
+    },
+    {
+      "seller_id": "par-77279A22378483EA1BDBB7B6B7E9D979",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "DailyView 網路溫度計",
+      "domain": "dailyview.tw"
+    },
+    {
+      "seller_id": "par-77279A8B73E289B2CB9B6283AD63B99A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Novoroll",
+      "domain": "novoroll.com"
+    },
+    {
+      "seller_id": "par-47B76DAD9ABD3873C62DEA83ED88993",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Download",
+      "domain": "23dy.info"
+    },
+    {
+      "seller_id": "par-2737BA8B39822BDE034682798677D98",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "iptv4sat",
+      "domain": "iptv4sat.com"
+    },
+    {
+      "seller_id": "par-77279AB93B228972FB6DE8447D8D983D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "men's uno Taiwan",
+      "domain": "tw.mensuno.asia"
+    },
+    {
+      "seller_id": "par-9A2A76D44DAAD742144DBA8E9734E64D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "9 MediaOnline",
+      "domain": "9mediaonline.com"
+    },
+    {
+      "seller_id": "par-2737BB3BE33A372318A2E7E43AA48448",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Dongtw",
+      "domain": "dongtw.com"
+    },
+    {
+      "seller_id": "par-34B4EEA6A2D6A787C339D46EE29949B3",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "KDRTV",
+      "domain": "kdrtv.com"
+    },
+    {
+      "seller_id": "par-47B76692E663AAE313D4D7E97399332",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "cms.rapidsignage.com",
+      "domain": "cms.rapidsignage.com"
+    },
+    {
+      "seller_id": "par-2737B936EAAA76AAF86389B7D36B4AEE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "PubWise",
+      "domain": "pubwise.io"
+    },
+    {
+      "seller_id": "par-772794726AA4DBBBCB3EA69844483D76",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "JUKSY",
+      "domain": "juksy.com"
+    },
+    {
+      "seller_id": "par-BE7E26E6D774BB960774A3E22D4434BD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Cashwalk",
+      "domain": "cashtalk.tw"
+    },
+    {
+      "seller_id": "par-AA7A26A4ADB7B37907E7A8894D6E7A2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "hk.goop.ai",
+      "domain": "hk.goop.ai"
+    },
+    {
+      "seller_id": "par-AA7A26A3A99BEAD9C27E7EA476E3679",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "glewed.tv",
+      "domain": "glewed.tv"
+    },
+    {
+      "seller_id": "par-6272B8A28B298A3E1686B32A78EB4E6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "cts.com.tw",
+      "domain": "cts.com.tw"
+    },
+    {
+      "seller_id": "par-8A2ADB888EB247BB13B797BE37AA943",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Mobile01",
+      "domain": "mobile01.com"
+    },
+    {
+      "seller_id": "par-772793664E9AD77B1B92E4A832632B84",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ALL-WORLD-NEWS",
+      "domain": "all-world-news.ru"
+    },
+    {
+      "seller_id": "par-2737BD99AEAA3D9618872AE698D36928",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "TEEPR",
+      "domain": "teepr.com"
+    },
+    {
+      "seller_id": "par-BE7E2BD863DE92DD18A8A6DD6294227",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "DramasGO 線上看",
+      "domain": "dramasgo.com"
+    },
+    {
+      "seller_id": "par-47B769982B38B976FEDBA96669886AB6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "RedLotus",
+      "domain": "redlotus.com"
+    },
+    {
+      "seller_id": "par-E2B237A377A44DEDCE9E9B22BA6DAAD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "GilaCloud",
+      "domain": "gliacloud.com"
+    },
+    {
+      "seller_id": "par-E2B23A24BD244489F9A66D2D6E8E9B2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Anypoint Media",
+      "domain": "anypoint.tv"
+    },
+    {
+      "seller_id": "par-2737BEAD2EBBA6D9088B8B6A2E947E99",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Mingpao",
+      "domain": "mingpao.com"
+    },
+    {
+      "seller_id": "par-9A2A392A49B83D7AC4A39274A9A33B2D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Mfun",
+      "domain": "mfun.io"
+    },
+    {
+      "seller_id": "par-62729D2E26393AEBFEE6BE62E46838B6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "新頭殼 Newtalk",
+      "domain": "newtalk.tw"
+    },
+    {
+      "seller_id": "par-D232B6D242B6E4A6FD76AA8E93D388A4",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "indianexpress.com",
+      "domain": "indianexpress.com"
+    },
+    {
+      "seller_id": "par-77274429ADB38377FBD4863624987B36",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "www.iavatarz.com",
+      "domain": "iavatarz.com"
+    },
+    {
+      "seller_id": "par-34B499D397293923F332867D62EE639E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Watchtv24",
+      "domain": "watchtv24.com"
+    },
+    {
+      "seller_id": "par-47B7AA22ABE9A2EB0E8323A473776444",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Life money maker",
+      "domain": "aromacoklatswiss.blogspot.com"
+    },
+    {
+      "seller_id": "par-77274B9A266D6BD20BD6849D8EB7DD2A",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "aniview",
+      "domain": "aniview.com"
+    },
+    {
+      "seller_id": "par-273798D3E967AAB2F866E8B74DEED627",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "FanPiece",
+      "domain": "fanpiece.com"
+    },
+    {
+      "seller_id": "par-AA7A467D83ADE34BF882D3A668B974BB",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "欧乐影院",
+      "domain": "olevod.com"
+    },
+    {
+      "seller_id": "par-8A2A6BA9AABEBE3EFB6392B3BD66D448",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Baby-Kingdom",
+      "domain": "baby-kingdom.com"
+    },
+    {
+      "seller_id": "par-E2B28E2AA62384A91E2D98EEBE9AB8B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "infothinker.com",
+      "domain": "infothinker.com"
+    },
+    {
+      "seller_id": "par-BE7E6D2BAD89BE3EF7DE93B286494694",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Host Pic",
+      "domain": "hostpic.org"
+    },
+    {
+      "seller_id": "par-47B7A9BD289E7B8DFE8ED4E84EDE679B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "chefblogging.com",
+      "domain": "chefblogging.com"
+    },
+    {
+      "seller_id": "par-AA7A9A7D3BB324EDC24E936BE87B8A6",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "lover.ne.kr",
+      "domain": "lover.ne.kr"
+    },
+    {
+      "seller_id": "par-E2B292B3E8B3B24ECE798B77BA2B3E8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "EduGovt",
+      "domain": "madlr.com"
+    },
+    {
+      "seller_id": "par-47B7E786E3998632F93ED6632AD92B4",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "遊戲大亂鬥",
+      "domain": "league-funny.com"
+    },
+    {
+      "seller_id": "par-AA7A9B77D34AA8D70264DE2AAA9E248",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "vidoomy.com",
+      "domain": "vidoomy.com"
+    },
+    {
+      "seller_id": "par-E2B2942848E44EB4CB82BB63DD9278D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "mobismarter",
+      "domain": "mobismarter.com"
+    },
+    {
+      "seller_id": "par-8A2A89426AA642E80BBD698E332AB973",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "zhekapps.com",
+      "domain": "zhekapps.com"
+    },
+    {
+      "seller_id": "par-273786EE3DE94A82F88BD987764B73AE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ETNET",
+      "domain": "etnet.com.hk"
+    },
+    {
+      "seller_id": "par-E2B29362E87EE6BAC996A446EED2D4D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "4Gamers",
+      "domain": "4gamers.com.tw"
+    },
+    {
+      "seller_id": "par-7727B93A83EA8A7417646BE3727987E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Foody 吃貨",
+      "domain": "foodytw.com"
+    },
+    {
+      "seller_id": "par-AA7A944733886967C27D34A2896A24E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "MoShuiPing",
+      "domain": "moshuiping.com"
+    },
+    {
+      "seller_id": "par-E2B29963466DDE47F7A82373A8B763E8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "overwolf.com",
+      "domain": "overwol.com"
+    },
+    {
+      "seller_id": "par-E2B29EDAE363A3B4FB88AE26D8DD8D8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "popcornhell",
+      "domain": "popcornhell.com"
+    },
+    {
+      "seller_id": "par-8A2A84E9A436997DF324DBBEAEB4848",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "MOD",
+      "domain": "cht.com.tw"
+    },
+    {
+      "seller_id": "par-AA7A6A29E2993E6B189A934669BB47AA",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "數位時代",
+      "domain": "bnext.com.tw"
+    },
+    {
+      "seller_id": "par-AA7A6B4AE7B93437C7AED73D9DBD676",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Investing.com",
+      "domain": "investing.com"
+    },
+    {
+      "seller_id": "par-27374A7326B6636BC8747E3362B394B8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "vividad.net",
+      "domain": "vividad.net"
+    },
+    {
+      "seller_id": "par-AA7A62DA4B298ED7F89D2663AE83B683",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "tikilive",
+      "domain": "tikilive.com"
+    },
+    {
+      "seller_id": "par-7727D473D27833E9F2A6A2ED4E8DEA2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "celebjar",
+      "domain": "celebjar.com"
+    },
+    {
+      "seller_id": "par-9A2AEE93737B6E77F4BB2E2D237EDE68",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "www.heran.com.tw",
+      "domain": null
+    },
+    {
+      "seller_id": "par-47B732BB37E3DD430EA2327DA4BB97B3",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "HYFR",
+      "domain": "roku.com"
+    },
+    {
+      "seller_id": "par-BE7E4D768AD763A717DEAEB9D3446B32",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "kvsrodelhi.org",
+      "domain": "kvsrodelhi.org"
+    },
+    {
+      "seller_id": "par-47B732A3B4988A320EDED2E43AD2A9A9",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "QDN",
+      "domain": "otbstudios.biz"
+    },
+    {
+      "seller_id": "par-34B462D2EABEB4ED132E89772E938AA4",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Biggerpan",
+      "domain": "biggerpan.com"
+    },
+    {
+      "seller_id": "par-34B467863D9B3BD3032B3E8D98EB9E84",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "imp.center",
+      "domain": "mpcnews.in"
+    },
+    {
+      "seller_id": "par-2737238D6642238D036689ADB9BB4D8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "hopemobi-uc",
+      "domain": "actiongameshub.com"
+    },
+    {
+      "seller_id": "par-62726782E499932706B4E36226EAB27",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Toonily",
+      "domain": "toonily.com"
+    },
+    {
+      "seller_id": "par-62726764484D98B21EE2A32B6A43A362",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "blitz.gg",
+      "domain": "blitz.gg"
+    },
+    {
+      "seller_id": "par-627267EBE2678237C637E67B869B437",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Dcard",
+      "domain": "dcard.tw"
+    },
+    {
+      "seller_id": "par-AA7A8ABE4B89B266CBBDB7DAB4A6822",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "FreakOut Taiwan",
+      "domain": "freakout.net"
+    },
+    {
+      "seller_id": "par-772737946948AE8A1BDB8EB2AB72E87E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "https://traasgpu.com",
+      "domain": "traasgpu.com"
+    },
+    {
+      "seller_id": "pub-34B4D2BB94A4E86AF3A746EA44E63BB4",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Buzzvil (HSTW)",
+      "domain": "buzzvil.com"
+    },
+    {
+      "seller_id": "pub-E2B2DBA86BD4AE3617668E889389646D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "vixi.tv",
+      "domain": "vixi.tv"
+    },
+    {
+      "seller_id": "pub-7727D8D66D6E2429079496B4229ADE9",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Webtoons",
+      "domain": "webtoons.com"
+    },
+    {
+      "seller_id": "pub-8A2A7892BEA9DB78198489E6E8DD43E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "newdaily",
+      "domain": "newdaily.co.kr"
+    },
+    {
+      "seller_id": "pub-627288A448D4E39A0E3BB4A2E4789626",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ML_zdnet",
+      "domain": "zdnet.co.kr"
+    },
+    {
+      "seller_id": "pub-BE7ED777EB2B7492C7E9B247E29E6A9E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "IGAWorks",
+      "domain": "adpopcornssp.com"
+    },
+    {
+      "seller_id": "pub-8A2ABAA23D7A3A690BB4DB797B4924B7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Hangame",
+      "domain": "hangame.com"
+    },
+    {
+      "seller_id": "pub-E2B2E269474964B8177D423977A439E2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Republic World",
+      "domain": "www.republicworld.com"
+    },
+    {
+      "seller_id": "par-9A222B7DD87ADEA71449B68E78A493A7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Youku",
+      "domain": "youku.com"
+    },
+    {
+      "seller_id": "par-AA774AAE3DEA4E96F8D769B3623B8DEB",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "Airnow",
+      "domain": "airnow.com"
+    },
+    {
+      "seller_id": "par-E2BBD24D2828D79E0BD44ED77934767",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "New Born Town",
+      "domain": "newborntown.com"
+    },
+    {
+      "seller_id": "par-AA77DE974B2AB778FB49AD287E43A6A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "IQIYI",
+      "domain": "iqiyi.com"
+    },
+    {
+      "seller_id": "par-6272B92A28D87A77CE3E44D466486424",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "CJ NET",
+      "domain": "cj.net"
+    },
+    {
+      "seller_id": "par-BE7E29B3ADDD77BE1AD3328A4B88B23",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "ileopard",
+      "domain": "ileopard.com"
+    },
+    {
+      "seller_id": "par-AA7A293E273AEBDD184336BE64B9482D",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "mobiexchanger",
+      "domain": "mobiexchanger.com"
+    },
+    {
+      "seller_id": "par-BE7E29B3266279DACAD3328A4B88B26",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "decenterads",
+      "domain": "decenterads.com"
+    },
+    {
+      "seller_id": "par-9A2A7DB87EA6BEE704ADD3693A6BA48A",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "fyber",
+      "domain": "fyber.com"
+    },
+    {
+      "seller_id": "par-2737B8DEB2D4E8D60826B687BA368A7A",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "gameberry",
+      "domain": "revlift.io"
+    },
+    {
+      "seller_id": "par-2737B8DE936DA2BEF92EE739BA33A79",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "solomath",
+      "domain": "solomath.com"
+    },
+    {
+      "seller_id": "par-E2B2397A8474E877F726D67AD4E674A3",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "filex",
+      "domain": "filextech.com"
+    },
+    {
+      "seller_id": "par-8A2AD8436DD3B9D4FB22237DAE7EBAB8",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "bizzclick",
+      "domain": "bizzclick.com"
+    },
+    {
+      "seller_id": "par-77279B6E44E683B91B36A6B9AD26BD9A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "smartyads",
+      "domain": "smartyads.com"
+    },
+    {
+      "seller_id": "par-AA7A293E6E7E4A47F8444BD6E2D28E82",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "webeye",
+      "domain": "webeye.eu"
+    },
+    {
+      "seller_id": "par-AA7A293E8AE39443C849698D637983DA",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "flashlight",
+      "domain": "ihandygroup.com"
+    },
+    {
+      "seller_id": "par-34B4ED732A387A68C3222DE967E7363D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "dapp",
+      "domain": "dapp.com"
+    },
+    {
+      "seller_id": "par-8A2AD843B76A2B93CB24D4B7D694B67E",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "aerserv",
+      "domain": "aerserv.com"
+    },
+    {
+      "seller_id": "par-9A2A7DB8B9243A4614AAA6E398E84947",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "amber",
+      "domain": "gamehouseoriginalstories.com"
+    },
+    {
+      "seller_id": "par-BE7E29B3B48DE66BC7DDDA24E6267E29",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "gcmob",
+      "domain": "www.cpplusworld.com"
+    },
+    {
+      "seller_id": "par-6272B3EAA76A83990EA3D3E9D463E497",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "cheetah",
+      "domain": "cmcm.com"
+    },
+    {
+      "seller_id": "par-AA7A293EEBD4B9B7F8444BD6E2D28ED8",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "pubng",
+      "domain": "pubng.com"
+    },
+    {
+      "seller_id": "par-6272B3EAAB6A24BE0EA3D3E9D463E496",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "filex",
+      "domain": "filextech.com"
+    },
+    {
+      "seller_id": "par-77279B6EEBA2824BFB33379AE898BE99",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "solomath",
+      "domain": "solomath.com"
+    },
+    {
+      "seller_id": "par-9A2A7DB88EE94EABC4AB3B4E3D7B4DAB",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "TPMN",
+      "domain": "tpmn.co.kr"
+    },
+    {
+      "seller_id": "par-6272B3EAA6A8AB64CEAAA79D8292E89A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Mfun",
+      "domain": "mfun.io"
+    },
+    {
+      "seller_id": "par-9A2A7D829E39AB8D14AB3B4E3D7B4DA4",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "mobfox",
+      "domain": "mobfox.com"
+    },
+    {
+      "seller_id": "par-BE7E24E6E69A63B8C7B9B83B8DEE867B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "My Mixtapez",
+      "domain": "mymixtapez.com"
+    },
+    {
+      "seller_id": "par-6272B82944E8A62BFE4346B46A8862E8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Narcade",
+      "domain": "narcade.com"
+    },
+    {
+      "seller_id": "par-2737B479A47B483713E468AAE266B22",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Voodoo",
+      "domain": "voodoo.io"
+    },
+    {
+      "seller_id": "par-2737B479A2E327B4F8A6A3EA32443D8B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Qihoo360",
+      "domain": "360.cn"
+    },
+    {
+      "seller_id": "par-34B4E649EB266D48F846A3BB42AA92B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Accuweather",
+      "domain": "accuweather.com"
+    },
+    {
+      "seller_id": "par-E2B23D28742738E2FE8367448266D23",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Audiomack",
+      "domain": "audiomack.com"
+    },
+    {
+      "seller_id": "par-2737B479DBBB7E8918A6A3EA32443D8E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Glu Games",
+      "domain": "glu.com"
+    },
+    {
+      "seller_id": "par-AA7A26A439D7BE4E07AE9833A499646",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Ketch App Games",
+      "domain": "ketchappgames.com"
+    },
+    {
+      "seller_id": "par-BE7E24E6B4238ABEF7D3238669248E8E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "MLB",
+      "domain": "mlb.com"
+    },
+    {
+      "seller_id": "par-D232682BD9827EDAFD242A62A3EEA8D8",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Slacker",
+      "domain": "blumax-slacker.netlify.com"
+    },
+    {
+      "seller_id": "par-6272B829EA26DA3E06B83E44BA33DAB",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Wkrg",
+      "domain": "wkrg.com"
+    },
+    {
+      "seller_id": "par-34B4E6493B322268F3BAB84B8266873D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Easybrain",
+      "domain": "easybrain.com"
+    },
+    {
+      "seller_id": "par-77279D74E483B2A60B349428869A2E2A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Playsimple",
+      "domain": "playsimple.in"
+    },
+    {
+      "seller_id": "par-D232682B7A8DA893FD242A62A3EEA8DA",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Bitmango",
+      "domain": "bitmango.com"
+    },
+    {
+      "seller_id": "par-E2B23D28AEB7B3BB0E8367448266D2B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Etermax",
+      "domain": "etermax.com"
+    },
+    {
+      "seller_id": "par-6272B829AEB3B7A60E4346B46A886293",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Fox news",
+      "domain": "foxnews.com"
+    },
+    {
+      "seller_id": "par-E2B23D28AA3B923E0E8367448266D29",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Vexigo",
+      "domain": "vexigo.com"
+    },
+    {
+      "seller_id": "par-6272B8237BDE38A7FE4346B46A88629E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Modooplay",
+      "domain": "modooplay.com"
+    },
+    {
+      "seller_id": "par-9A2A7EAD2D7727991729B4DD2ABB3A7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Orbis",
+      "domain": "appsforboost.com"
+    },
+    {
+      "seller_id": "par-47B763D2437DB393FEA484699D8B6264",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "X-Flow",
+      "domain": "x-flow.app"
+    },
+    {
+      "seller_id": "par-77279DA367ED747B124E6BDD4366ADB",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Matomy Media",
+      "domain": "matomy.com"
+    },
+    {
+      "seller_id": "par-77279DA6BEE82DA81726E86B6923626",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "TapFunStudio",
+      "domain": "tapfunstudio.blogspot.com"
+    },
+    {
+      "seller_id": "par-6272B84E82EB77A3F6B83E44BA33D49",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "RedemptionStudio",
+      "domain": "redemptiongamestudio.blogspot.com"
+    },
+    {
+      "seller_id": "par-6272B84E84769EA61763823E396A36E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Happy Winner Inc",
+      "domain": "snowcold.github.io"
+    },
+    {
+      "seller_id": "par-E2B23E37E3474A22F743886627BD82EE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Taurus",
+      "domain": "findyourfate.com"
+    },
+    {
+      "seller_id": "par-D232696D9B9BA6461DD79687429BA369",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "DYWX",
+      "domain": "larkplayerapp.com"
+    },
+    {
+      "seller_id": "par-AA7A4283E7E3DDEBF8D464229BB97D96",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Transsion",
+      "domain": "mobadvent.com"
+    },
+    {
+      "seller_id": "par-BE7E667E3339AD6BC7BA2887D6E7227A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "unity",
+      "domain": "unity.com"
+    },
+    {
+      "seller_id": "par-6272997D742EBBBB1E4B8B6D9EA8D3B7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Mintegral",
+      "domain": "mintegral.com"
+    },
+    {
+      "seller_id": "par-9A2A3468A38EAB4806A2379927E667E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Amber",
+      "domain": "amberweather.com"
+    },
+    {
+      "seller_id": "par-34B4977A69797624C327993B73AB4342",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "Unity",
+      "domain": "unity.com"
+    },
+    {
+      "seller_id": "par-7727B78E3BD72D721BDB628E6326B343",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Melozen",
+      "domain": "melodong.com"
+    },
+    {
+      "seller_id": "par-E2B2927D63937378C73A77B6478EE82E",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "Adcounty",
+      "domain": "adcountymedia.com"
+    },
+    {
+      "seller_id": "par-7727B872E484746DFBE9BB86DB4224DA",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "PT2_JP",
+      "domain": "kingsoft.jp"
+    },
+    {
+      "seller_id": "par-D232AE4B8A364D97F82BB87473E2699",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Smarter"
+    },
+    {
+      "seller_id": "par-47B7ED4A3889999ECEEA4D74639B9E33",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Meitu",
+      "domain": "beautyplus.com"
+    },
+    {
+      "seller_id": "par-7727B9399827E9731BE988A9D7474222",
+      "seller_type": "INTERMEDIARY",
+      "is_confidential": 0,
+      "name": "Gameberry",
+      "domain": "revlift.io"
+    },
+    {
+      "seller_id": "par-9A2AD87646AA298AF44988338DD289DD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Mobiuspace",
+      "domain": "mobiuspace.com"
+    },
+    {
+      "seller_id": "par-34B464788D423A94C327428288E84469",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "BigoLive",
+      "domain": "bigo.tv"
+    },
+    {
+      "seller_id": "par-AA7A6A3BBE3429B7F842A47477D7AAEA",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Meitu",
+      "domain": "beautyplus.com"
+    },
+    {
+      "seller_id": "par-627282ED43D8AA7E0E83AB93E737ABB7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "VNNgay",
+      "domain": "vngaynay.vn"
+    },
+    {
+      "seller_id": "par-34B46478A23EE733C3637A7289ED27AD",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Detik",
+      "domain": "detik.id"
+    },
+    {
+      "seller_id": "par-BE7E484B862DD294F7E7DA29892A4E37",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "HAWK",
+      "domain": "ehawk.com"
+    },
+    {
+      "seller_id": "par-273742883BD92937C87A7DDD3286739E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "naver",
+      "domain": "webtoons.com"
+    },
+    {
+      "seller_id": "par-9A2AE4438AD4749BC4E8882338B8E844",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Meitu",
+      "domain": "beautyplus.com"
+    },
+    {
+      "seller_id": "par-E2B2DEE8ADEBD66DC7A4ABBBE276AEE3",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "imo",
+      "domain": "imo.im"
+    },
+    {
+      "seller_id": "par-8A2A7BB82A9D326ECB62D784D9DAB27E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "SHAREit",
+      "domain": "ushareit.com"
+    },
+    {
+      "seller_id": "par-AA7A688972EB3AE9C8DA3328E3B3D882",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "appairbrush",
+      "domain": "appairbrush.com"
+    },
+    {
+      "seller_id": "par-7727D33B2637B6D6FB98884AA86898B2",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "bigo",
+      "domain": "likee.com"
+    },
+    {
+      "seller_id": "par-34B4622D483A4BD4C3EBE777823A2A3A",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "jumpraw",
+      "domain": "newsbox-inc.jp"
+    },
+    {
+      "seller_id": "par-AA7A6889B46EA389C8DA3328E3B3D88B",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "smater",
+      "domain": "mobpals.com"
+    },
+    {
+      "seller_id": "par-34B4622D8724297AF3B29E4A98963229",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "melodong",
+      "domain": "melodong.com"
+    },
+    {
+      "seller_id": "par-9A2AEB942B9AAB4DF4E8882338B8E8EE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "VNTT",
+      "domain": "vngaynay.vn"
+    },
+    {
+      "seller_id": "par-47B739AE49638727C6437669D2D6DA4",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Samsung Mobile",
+      "domain": "samsung.com"
+    },
+    {
+      "seller_id": "par-7727DE7A42E6B4B7CBBBA88A9A9B233E",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Vidmate",
+      "domain": "vidmateapp.com"
+    },
+    {
+      "seller_id": "par-AA7A6EAD9A6977AAC84D333D33AD37BA",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "OperaSoftwareIrelandLimited",
+      "domain": "opera.com"
+    },
+    {
+      "seller_id": "par-9A2AE8A6E27D9EA6F4AEDDDEDD2ED779",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "HKSMARTERMOBITechnology",
+      "domain": "mobpals.com"
+    },
+    {
+      "seller_id": "par-47B7387D3DA24E361EA6D33D2A2DB82D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Meitu",
+      "domain": "beautyplus.com"
+    },
+    {
+      "seller_id": "par-AA7A6EAD6876368BC8886226D6D874E9",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "DYWXHK",
+      "domain": "snaptube.com"
+    },
+    {
+      "seller_id": "par-BE7E43EA43379768F777466424278DE7",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Bigo",
+      "domain": "bigo.sg"
+    },
+    {
+      "seller_id": "par-27374E7A249AD6EB03E9A33D64636AB",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Cloubmobi",
+      "domain": "newsbox-in.jp"
+    },
+    {
+      "seller_id": "par-47B7387D97234878CEEEB99B8B8E6A28",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "LBEMobiTechnology",
+      "domain": "lbesec.com"
+    },
+    {
+      "seller_id": "par-E2B2DA2678B92233172A444A448A3676",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Kingsoft",
+      "domain": "wps.com"
+    },
+    {
+      "seller_id": "par-BE7E43EABD349A9607D89AA9EDE9423D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "JointMedia",
+      "domain": "1kxun.mobi"
+    },
+    {
+      "seller_id": "par-8A2A73AE399E23A91983699E4A49468",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "MOBCHANG",
+      "domain": "mobchang.com"
+    },
+    {
+      "seller_id": "par-AA7A6EADE43A8B3217AB37729E979EE",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "HopemobiTechnology",
+      "domain": "hopemobi.net"
+    },
+    {
+      "seller_id": "par-BE7E43D634737D93C7D2BBB2BB32E97D",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Airbrush",
+      "domain": "appairbrush.com"
+    },
+    {
+      "seller_id": "par-AA7A6E84EEE28E23F7AB37729E979AB",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Photogrid",
+      "domain": "photogrid.app"
+    },
+    {
+      "seller_id": "par-BE7E43D9789B244A1777466424278D32",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "360"
+    },
+    {
+      "seller_id": "par-8A2A73B826822683FBBBDEED7D7B9282",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Veraxen",
+      "domain": "veraxen.com"
+    },
+    {
+      "seller_id": "par-8A2AB983AD3DA99E0983699E4A49499",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "KMY",
+      "domain": "mobpals.com"
+    },
+    {
+      "seller_id": "par-E2B2E47BB3739B3DCE894EEB636E7A4",
+      "seller_type": "PUBLISHER",
+      "is_confidential": 0,
+      "name": "Cauly",
+      "domain": "fsn.co.kr"
+    }
+  ]
+}

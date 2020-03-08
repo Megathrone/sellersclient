@@ -1,0 +1,199 @@
+{
+	"contact_email": "adops@bidstreammedia.com",
+	"contact_address": "1084 N El Camino Real, Ste B-518, Encinitas, CA 92024",
+	"version": "1.0",
+	"sellers": [
+		{
+			"seller_id": "",
+			"name": "",
+			"domain": "",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "45",
+			"name": "Motorsport Network",
+			"domain": "insideevs.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "36",
+			"name": "Motorsport Network",
+			"domain": "motor1.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "69",
+			"name": "Motorsport Network",
+			"domain": "motorsport.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "52",
+			"name": "Motorsport Network",
+			"domain": "rideapart.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "82",
+			"name": "Motorsport Network",
+			"domain": "es.motor1.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "91",
+			"name": "Motorsport Network",
+			"domain": "it.motor1.com ",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "87",
+			"name": "Motorsport Network",
+			"domain": "fr.motor1.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "148",
+			"name": "Motorsport Network",
+			"domain": "de.motor1.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "147",
+			"name": "Motorsport Network",
+			"domain": "insideevsforum.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "146",
+			"name": "Motorsport Network",
+			"domain": "ferrarichat.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "150",
+			"name": "Motorsport Network",
+			"domain": "autoclassics.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "16",
+			"name": "Mindtank Media",
+			"domain": "autooverload.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "43",
+			"name": "Collector Car Network, Inc.",
+			"domain": "classiccars.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "98",
+			"name": "Sports Publishers Group",
+			"domain": "huskermax.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "105",
+			"name": "Sports Publishers Group",
+			"domain": "cyclonefanatic.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "110",
+			"name": "Sports Publishers Group",
+			"domain": "mgoblog.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "104",
+			"name": "Sports Publishers Group",
+			"domain": "ndnation.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "145",
+			"name": "LiveXLive",
+			"domain": "livexlive.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "135",
+			"name": "Top Speed",
+			"domain": "topspeed.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "149",
+			"name": "Publishers Clearing House",
+			"domain": "pch.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "143",
+			"name": "Sporcle Inc",
+			"domain": "sporcle.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "151",
+			"name": "The Daily Dot, LLC",
+			"domain": "dailydot.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "171",
+			"name": "Cox",
+			"domain": "cox.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "178",
+			"name": "Cox",
+			"domain": "cox.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "176",
+			"name": "Xfinity",
+			"domain": "xfinity.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "156",
+			"name": "Andrew Mcmeel Universal",
+			"domain": "dilbert.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "154",
+			"name": "Andrew Mcmeel Universal",
+			"domain": "gocomics.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "155",
+			"name": "Andrew Mcmeel Universal",
+			"domain": "uexpress.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "165",
+			"name": "Yellow Pages",
+			"domain": "yellowpages.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "167",
+			"name": "Super Pages",
+			"domain": "superpages.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "185",
+			"name": "J.D. Power",
+			"domain": "nadaguides.com",
+			"seller_type": "PUBLISHER"
+		}
+	]
+}

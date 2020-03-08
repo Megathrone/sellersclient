@@ -1,0 +1,776 @@
+{
+    "contact_email": "info@betweendigital.com",
+    "contact_address": "Diagorou, 4, KERMIA BUILDING, 6th floor, office 601, 1097, Nicosia",
+    "version": "1.0",
+    "identifiers": [],
+    "sellers": [
+        {
+            "seller_id": "32357",
+            "name": "Relevant Media",
+            "domain": "relevantmedia.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "32454",
+            "name": "Euro-football",
+            "domain": "euro-football.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "32473",
+            "name": "Ilibrary.ru",
+            "domain": "ilibrary.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "32494",
+            "name": "PH CMedia",
+            "domain": "cmedia-online.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "32544",
+            "name": "Advideo",
+            "domain": "advideo.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "32598",
+            "name": "Setup",
+            "domain": "setup.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "32937",
+            "name": "Rare",
+            "domain": "rare.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "33058",
+            "name": "PH Komsomolskaya Pravda",
+            "domain": "kp.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "33100",
+            "name": "Pulsplus",
+            "domain": "xn----utbbnckdk6fya.xn--p1ai",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "33275",
+            "name": "President Media",
+            "domain": "kolesa.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "33303",
+            "name": "Allboxing",
+            "domain": "allboxing.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "33356",
+            "name": "PH Toloka",
+            "domain": "toloka.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "33565",
+            "name": "IHolding",
+            "domain": "ixbt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "33587",
+            "name": "Dota2",
+            "domain": "dota2.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "33854",
+            "name": "Sape",
+            "domain": "sape.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "33880",
+            "name": "CMedia",
+            "domain": "cmedia-online.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "33882",
+            "name": "Drive",
+            "domain": "drive2.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34047",
+            "name": "Jino.ru",
+            "domain": "jino.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34085",
+            "name": "Kinoafisha.ru",
+            "domain": "kinoafisha.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34099",
+            "name": "Impression",
+            "domain": "impression.by",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34178",
+            "name": "PH Za Rulyom",
+            "domain": "zr.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34307",
+            "name": "PH Burda",
+            "domain": "burda.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34348",
+            "name": "Skyadvert",
+            "domain": "skyadvert.net",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34423",
+            "name": "Glav",
+            "domain": "glav.su",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34462",
+            "name": "MoeVideo",
+            "domain": "moevideo.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34463",
+            "name": "Videoroll",
+            "domain": "videoroll.net",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34498",
+            "name": "SmartMedia",
+            "domain": "smartmd.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34502",
+            "name": "Vihub",
+            "domain": "vihub.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34557",
+            "name": "Videonow",
+            "domain": "videonow.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34631",
+            "name": "Market-place",
+            "domain": "market-place.su",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34707",
+            "name": "Deima",
+            "domain": "advmaker.net",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34736",
+            "name": "IMHO",
+            "domain": "imho.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34771",
+            "name": "3dnews",
+            "domain": "3dnews.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34844",
+            "name": "Netpost.ru",
+            "domain": "netpost.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34864",
+            "name": "PH Seven days",
+            "domain": "7days.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34876",
+            "name": "Seven dach",
+            "domain": "7dach.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34899",
+            "name": "Gazprom Media Digital",
+            "domain": "gpm-digital.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34909",
+            "name": "Zvezda Armed Forces Teleradio Company",
+            "domain": "tvzvezda.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34934",
+            "name": "Gismeteo",
+            "domain": "gismeteo.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "34951",
+            "name": "DM LLC",
+            "domain": "baby.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34977",
+            "name": "Adwise",
+            "domain": "adwise.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "34981",
+            "name": "SovSport",
+            "domain": "sovsport.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "35031",
+            "name": "Yabbi",
+            "domain": "yabbi.me",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35049",
+            "name": "ALFAKOM EXPORT LTD.",
+            "domain": "vadideo.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35055",
+            "name": "Quadroboards.ru",
+            "domain": "quadroboards.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "35081",
+            "name": "SIA Setupad LLC",
+            "domain": "setupad.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35151",
+            "name": "PH Forward Media Group",
+            "domain": "forwardmg.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35161",
+            "name": "VGTRK",
+            "domain": "vgtrk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "35253",
+            "name": "PH Hearst Shkulev Media",
+            "domain": "hearst-shkulev-media.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "35288",
+            "name": "MEDIAWAYSS Sp.z o.o.",
+            "domain": "mediawayss.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35546",
+            "name": "Adviora",
+            "domain": "adviora.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35566",
+            "name": "\u0421lickio",
+            "domain": "clickio.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35701",
+            "name": "OTM",
+            "domain": "otm-r.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35769",
+            "name": "SVF",
+            "domain": "kintavr.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "35774",
+            "name": "VideoCap",
+            "domain": "videocap.org",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35809",
+            "name": "Taggify",
+            "domain": "taggify.net",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35891",
+            "name": "Kinostream",
+            "domain": "kinostream.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35918",
+            "name": "Target",
+            "domain": "instreamvideo.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "35963",
+            "name": "Fotostrana",
+            "domain": "fotostrana.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "35972",
+            "name": "Appo.click",
+            "domain": "appo.click",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "36052",
+            "name": "Zetcat",
+            "domain": "goinform.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "36195",
+            "name": "PH Moscowskiy Komsomoletch",
+            "domain": "ok.mk.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "36309",
+            "name": "I-Trailer",
+            "domain": "i-trailer.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "39916",
+            "name": "MediaMetrics",
+            "domain": "mediametrics.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40037",
+            "name": "Briefly",
+            "domain": "briefly.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40078",
+            "name": "Lentainform",
+            "domain": "lentainform.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40178",
+            "name": "Regnum",
+            "domain": "regnum.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40181",
+            "name": "Cond\u00e9 Nast Russia",
+            "domain": "condenast.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40230",
+            "name": "Everest LLC",
+            "domain": "ctcmedia.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40233",
+            "name": "FestMediaInvest",
+            "domain": "newizv.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40258",
+            "name": "Diletant Media",
+            "domain": "diletant.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40274",
+            "name": "Pikabu",
+            "domain": "pikabu.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40282",
+            "name": "Adtelligent Inc",
+            "domain": "adtelligent.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "40389",
+            "name": "PH Argumenti I Facts",
+            "domain": "aif.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40517",
+            "name": "Mediaforce",
+            "domain": "mediaforce.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "40550",
+            "name": "Orion Sales",
+            "domain": "orion.sale",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "40621",
+            "name": "AlphaDart",
+            "domain": "gramant.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "40684",
+            "name": "Car.ru",
+            "domain": "car.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40889",
+            "name": "Ardis Media",
+            "domain": "novayagazeta.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40942",
+            "name": "Bufernaya Bukhta",
+            "domain": "lifehacker.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40950",
+            "name": "RUSSIAN NEWS AGENCY ITAR-TASS",
+            "domain": "tass.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "40964",
+            "name": "MonteMedia",
+            "domain": "montemedia.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "41183",
+            "name": "VO-media",
+            "domain": "topwar.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41232",
+            "name": "Babyblog",
+            "domain": "babyblog.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41278",
+            "name": "RIA news",
+            "domain": "ria.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41283",
+            "name": "Adtech Digital",
+            "domain": "adtech-digital.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "41284",
+            "name": "Ask.fm Europe Limited",
+            "domain": "ask.fm",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41316",
+            "name": "MT-technologies",
+            "domain": "maximatelecom.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41319",
+            "name": "JV Media",
+            "domain": "jv.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41341",
+            "name": "Irecommend",
+            "domain": "irecommend.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41355",
+            "name": "Sport-express",
+            "domain": "sport-express.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41365",
+            "name": "RG",
+            "domain": "rg.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41373",
+            "name": "Echo.msk",
+            "domain": "echo.msk.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41429",
+            "name": "Argumenti",
+            "domain": "argumenti.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41430",
+            "name": "Moneytizer",
+            "domain": "themoneytizer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41487",
+            "name": "PH Kommersant",
+            "domain": "kommersant.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41526",
+            "name": "Znak",
+            "domain": "znak.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41581",
+            "name": "Creativ media",
+            "domain": "spletnik.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41717",
+            "name": "Moirody",
+            "domain": "moirody.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41771",
+            "name": "MIA Rossia segodnya",
+            "domain": "ria.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41773",
+            "name": "SIA ALP-MEDIA",
+            "domain": "alp.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "41778",
+            "name": "Lixil graphics",
+            "domain": "adme.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41818",
+            "name": "360tv",
+            "domain": "360tv.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "41834",
+            "name": "Action Media",
+            "domain": "action-mcfr.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "41985",
+            "name": "Digital Caramel",
+            "domain": "digitalcaramel.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "41992",
+            "name": "BRAINLY SPOLKA Z OGRANICZONA ODPOWIEDZIALNOSCIA",
+            "domain": "brainly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42083",
+            "name": "LLC InterMedia Company",
+            "domain": "eva.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42159",
+            "name": "Mirtesen",
+            "domain": "info.mirtesen.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42240",
+            "name": "Freegames66",
+            "domain": "freegames66.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "42297",
+            "name": "Spacepush",
+            "domain": "spacepush.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "42410",
+            "name": "Mart-co",
+            "domain": "mart-co.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "42462",
+            "name": "Region Media",
+            "domain": "r.media.ru",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "42565",
+            "name": "AdFinity",
+            "domain": "adfinity.pro",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "42589",
+            "name": "Moneytag",
+            "domain": "moneytag.fr",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "42617",
+            "name": "ROXOT LLC",
+            "domain": "roxot.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "42629",
+            "name": "Viads",
+            "domain": "viads.co",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "42666",
+            "name": "AdPone",
+            "domain": "adpone.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "42754",
+            "name": "Independent Media",
+            "domain": "imedia.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42824",
+            "name": "RAMBLER&Co",
+            "domain": "ramblergroup.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42825",
+            "name": "\u0420\u0411\u041a",
+            "domain": "rbc.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42826",
+            "name": "1Mediainvest",
+            "domain": "1mediainvest.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42827",
+            "name": "Moscow Times",
+            "domain": "themoscowtimes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42828",
+            "name": "Pravda.Ru",
+            "domain": "Pravda.Ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42829",
+            "name": "\u0424\u0435\u0434\u0435\u0440\u0430\u043b\u041f\u0440\u0435\u0441\u0441",
+            "domain": "fedpress.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42830",
+            "name": "\u0418\u043d\u0442\u0435\u0440\u043d\u0435\u0442-\u0438\u0437\u0434\u0430\u0442\u0435\u043b\u044c\u0441\u0442\u0432\u043e PDG",
+            "domain": "pdg.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42831",
+            "name": "\u041c\u0443\u043b\u044c\u0442\u0438\u043c\u0435\u0434\u0438\u0430 \u0425\u043e\u043b\u0434\u0438\u043d\u0433",
+            "domain": "multimediaholding.ru",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "42837",
+            "name": "Moevideo",
+            "domain": "moevideo.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "42841",
+            "name": "Adnet media",
+            "domain": "adnetmedia.lt",
+            "seller_type": "INTERMEDIARY"
+        }
+    ]
+}

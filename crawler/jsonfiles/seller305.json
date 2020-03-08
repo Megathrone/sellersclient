@@ -1,0 +1,992 @@
+{
+	"version": "1.0",
+	"identifiers": [
+		{
+			"name": "TAG-ID",
+			"value": "19b4454d0b87b58b"
+		}
+	],
+	"sellers": [
+		{
+			"seller_id": "12083",
+			"name": "Entercom Operations Inc.",
+			"domain": "https://radio.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "10649",
+			"name": "Cumulus Media Holdings Inc",
+			"domain": "https://www.cumulusmedia.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "9243",
+			"name": "Urban One, Inc.",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "273",
+			"name": "Beasley Mezzanine Holdings, LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "25853",
+			"name": "Entravision Communications Corporation",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "6673",
+			"name": "Salem Communications Corporation",
+			"domain": "http://salemmedia.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "803",
+			"name": "Emmis Operating Company",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "7853",
+			"name": "Prisa Radio SA",
+			"domain": "https://www.prisa.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "11713",
+			"name": "SummitMedia LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "25043",
+			"name": "One Media Sales B.V.",
+			"domain": "http://oms.fm",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "3353",
+			"name": "Deezer S.A.",
+			"domain": "https://deezer.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "7533",
+			"name": "Midwest Communications Incorporated",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "15833",
+			"name": "Bonneville International Corporation",
+			"domain": "http://bonneville.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "10059",
+			"name": "NRG Media, LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "2193",
+			"name": "Pamal Broadcasting Ltd",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "10863",
+			"name": "CRP Medios y Entretenimiento s.a.c.",
+			"domain": "https://www.crpweb.pe",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "8933",
+			"name": "Bloomberg L.P.",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "18643",
+			"name": "Lotus Communications Corporation",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "9313",
+			"name": "Local Media San Diego, LLC ",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "6633",
+			"name": "Sociedad Nacional de Radio, S.A. de C.V.",
+			"domain": "https://grupoacir.com.mx",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "24223",
+			"name": "Gamma Gaana Limited",
+			"domain": "https://www.gaana.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "25803",
+			"name": "Adams Radio Group, LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "633",
+			"name": "Curtis Media Group",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "25503",
+			"name": "Radio Panamericana S/A",
+			"domain": "https://jovempan.uol.com.br",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "853",
+			"name": "ESPN Radio, a division of ABC Radio Networks Assets, LLC",
+			"domain": "https://www.espn.com/espnradio/",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "9433",
+			"name": "Guaranty Broadcasting Company of Baton Rouge LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "8433",
+			"name": "Stereorey Mexico S.A.",
+			"domain": "https://mvsradio.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "21913",
+			"name": "IVoox Global Podcasting Service S.L.",
+			"domain": "https://www.ivoox.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "10609",
+			"name": "Producciones Wilvin SA",
+			"domain": "https://www.radiopolis.fm",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "26843",
+			"name": "Hungama Digital Media Entertainment Pvt. Ltd.",
+			"domain": "https://www.hungama.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "3393",
+			"name": "NRJ GLOBAL S.A.S.",
+			"domain": "https://nrj.fr",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "25053",
+			"name": "ZenoAds LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "11253",
+			"name": "Gow Communications LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "10729",
+			"name": "GTB Radiodifusores SRL",
+			"domain": "https://z101digital.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "14603",
+			"name": "Slacker, Inc.",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "23943",
+			"name": "Grupo Radio Centro, S.A.B. de C.V.",
+			"domain": "https://radiocentro.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "6783",
+			"name": "Liberman Broadcasting Inc",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "7353",
+			"name": "Delmarva Broadcasting Company, Inc.",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "19943",
+			"name": "GRUPO RPP S.A.C",
+			"domain": "https://www.gruporpp.com.pe",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "12893",
+			"name": "Southern Cross Austereo Pty Ltd",
+			"domain": "https://www.southerncrossaustereo.com.au",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "19863",
+			"name": "Voxnest, Inc.",
+			"domain": "https://spreaker.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "9353",
+			"name": "Karnaval Medya Labs Internet Hizmetleri Tic, A.S.",
+			"domain": "https://karnaval.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "10249",
+			"name": "Rádio Monte da Gávea Ltda",
+			"domain": "https://jb.fm",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "19613",
+			"name": "Primedia Broadcasting, a division of Primedia (Proprietary) Limited",
+			"domain": "http://primediabroadcasting.co.za",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "21633",
+			"name": "8K Miles Media Group, Inc.",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "38923",
+			"name": "Linq Ventures LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "22003",
+			"name": "Nova Entertainment Pty Ltd",
+			"domain": "https://www.novaentertainment.com.au",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "36323",
+			"name": "Totally Media Pty Ltd",
+			"domain": "https://totallyradio.com.au",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "15533",
+			"name": "Tyler Media, LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "29183",
+			"name": "Radio Cadena Nacional S.A.S.",
+			"domain": "https://www.rcnradio.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "27593",
+			"name": "8tracks Inc.",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "28563",
+			"name": "Tirkel S.A.",
+			"domain": "https://audio.ad",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "10459",
+			"name": "Club 977 Inc.",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "37383",
+			"name": "Stingray Digital Media Group",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "11233",
+			"name": "Caracol Television S.A.",
+			"domain": "https://www.bluradio.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "21393",
+			"name": "Sinclair Telecable Inc",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "17653",
+			"name": "Alpha Media",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "7833",
+			"name": "NRM.WEB S.A DE C.V.",
+			"domain": "https://www.nrm.com.mx",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "3173",
+			"name": "GI DIGITAL S.A. DE C.V.",
+			"domain": "https://www.imagen.com.mx",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "15343",
+			"name": "Rubber City Radio Group Incorporated",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "39973",
+			"name": "IMC Radios S.A.",
+			"domain": "https://www.fmaspen.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "28113",
+			"name": "Meme Video LTD",
+			"domain": "https://memevideo.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "26453",
+			"name": "Dial Brasil Empressa interativa de Radio S/A.",
+			"domain": "https://www.dialbrasil.com.br",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "20123",
+			"name": "Radio Vermont Group Inc",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "25263",
+			"name": "Digital Media Services FZ LLC",
+			"domain": "https://anghami.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "25023",
+			"name": "GateHouse Media, LLC",
+			"domain": "http://gatehousemedia.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "1543",
+			"name": "Max Media, LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "37033",
+			"name": "Sistema Vida Colombia S.A.",
+			"domain": "https://cadenaradialvida.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "11993",
+			"name": "Audio Video S.A. DE C.V.",
+			"domain": "https://www.americamultimedios.net",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "35773",
+			"name": "Radio Panamericana S/A",
+			"domain": "https://jovempan.uol.com.br",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "11873",
+			"name": "Estereo Azul S.A.",
+			"domain": "https://www.grupograda.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "23513",
+			"name": "Zemeho Oy Ltd",
+			"domain": "https://zemeho.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "9889",
+			"name": "Mapleton Communications LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "34563",
+			"name": "Nippon Broadcasting System, Inc.",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "1683",
+			"name": "Multimedios SA de CV",
+			"domain": "https://www.multimedios.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "19063",
+			"name": "Macquarie Radio Network Limited",
+			"domain": "https://www.macquariemedia.com.au",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "15453",
+			"name": "VerStandig Broadcasting",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "26283",
+			"name": "Now! Media, LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "17823",
+			"name": "Rádios Grupo Globo",
+			"domain": "https://globoradio.globo.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "34743",
+			"name": "Mediacorp Pte Ltd",
+			"domain": "https://www.meradio.sg",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "9163",
+			"name": "TV ACCION S.A",
+			"domain": "https://telefuturo.com.py",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "1113",
+			"name": "Radio Renascenca Lda",
+			"domain": "https://rr.sapo.pt",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "10769",
+			"name": "MK Publicita Propaganda e Publicidade Ltda",
+			"domain": "https://radio93.com.br",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "23803",
+			"name": "Rede Central de Comunicaçäo LTDA",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "7823",
+			"name": "Grupo Radio Alegria S.A.",
+			"domain": "https://www.epsilonmedia.mx",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "20783",
+			"name": "Radioline S.A.S",
+			"domain": "https://www.radioline.co",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "38193",
+			"name": "ACAIABA EMISSORAS INTEGRADAS LTDA EPP",
+			"domain": "https://www.blink102.com.br",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "9173",
+			"name": "LIGHT FM S.A.L.",
+			"domain": "https://www.radiolightfm.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "16533",
+			"name": "Grupo Radiodifusoras Capital S.A. de C.V.",
+			"domain": "https://www.capitalmedia.mx",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "14943",
+			"name": "Radio Zocalo, S.A. de C.V.",
+			"domain": "https://www.radiozocalo.com.mx",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "17083",
+			"name": "Neuhoff Communications Inc",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "24903",
+			"name": "Radio Kerry Holding Limited",
+			"domain": "https://www.radiokerry.ie",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "10589",
+			"name": "Kagiso.OI a division of Kagiso Media (Pty) Ltd",
+			"domain": "https://www.kagisomedia.co.za",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "38083",
+			"name": "Radio Net Media Limited",
+			"domain": "https://www.adtonos.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "37493",
+			"name": "Sociedade Radio Alvorada LTDA",
+			"domain": "https://www.alvoradafm.com.br",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "11473",
+			"name": "Wicca E.U.",
+			"domain": "https://radiokronos.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "18853",
+			"name": "Beyond Publishing LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "15683",
+			"name": "Cadena Radial Costarricense",
+			"domain": "https://crc.cr",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "31213",
+			"name": "NumeriQ Inc",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "16803",
+			"name": "Greeley Broadcasting Corporation",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "36953",
+			"name": "Studio Sol Comunicação Digital Ltda",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "11593",
+			"name": "Ricardo Teles Gomes",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "25683",
+			"name": "Commonwealth Broadcasting Corporation",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "14693",
+			"name": "Nobex Technologies, Inc",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "28623",
+			"name": "Futbol de Primera Inc.",
+			"domain": "https://www.fdpradio.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "16243",
+			"name": "Radiodifusora Querétaro S.A. de C.V.",
+			"domain": "https://respuestaradiofonica.com.mx",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "36503",
+			"name": "SISTEMA O POVO DE RÁDIOS S/C LTDA",
+			"domain": "https://www.opovo.com.br",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "37953",
+			"name": "Televisão Atalaia Ltda",
+			"domain": "https://a8se.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "40513",
+			"name": "Audiomob LTD",
+			"domain": "https://www.jukeboxadtech.co.uk",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "30393",
+			"name": "Mexico Radio S.A. DE C.V.",
+			"domain": "https://www.abcradio.com.mx",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "35903",
+			"name": "Grant Broadcasters Pty Ltd",
+			"domain": "https://www.grantbroadcasters.com.au",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "30193",
+			"name": "Inove Midia Digital Ltda",
+			"domain": "https://www.mobradio.com.br",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "27443",
+			"name": "Go Alive Media House Co. W.L.L.",
+			"domain": "https://www.goalivemedia.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "21543",
+			"name": "AMBI SERVICOS DE INTERNET LTDA",
+			"domain": "https://www.suamusica.com.br",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "26353",
+			"name": "M&M Media Inc",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "37473",
+			"name": "AXR PTE LTD",
+			"domain": "https://www.axr.online",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "37643",
+			"name": "BFM Media Sdn Bhd",
+			"domain": "https://www.bfm.my",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "36573",
+			"name": "Biznews Limited",
+			"domain": "https://www.biznews.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "12863",
+			"name": "Cardinal FM S.A",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "9183",
+			"name": "Queen B Radio, Inc.",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "28463",
+			"name": "Medialaan NV",
+			"domain": "https://www.dpgmedia.be/nl",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "18633",
+			"name": "SoundCloud Limited",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "28753",
+			"name": "Mister Kite Entertainment Corp",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "38633",
+			"name": "Dante Interactive, LLC",
+			"domain": "https://mowplayer.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "26623",
+			"name": "Songville, Inc.",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "28323",
+			"name": "Meplaylist Classic Entertainment LTD",
+			"domain": "http://meplaylist.com",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "31023",
+			"name": "Gay SA Radio",
+			"domain": "https://www.gaysaradio.co.za",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "40353",
+			"name": "Ride Home Media, LLC",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		},
+		{
+			"seller_id": "15353",
+			"name": "Africa Business Radio",
+			"seller_type": "PUBLISHER",
+			"is_confidential": 0,
+			"is_passthrough": 0
+		}
+	]
+}

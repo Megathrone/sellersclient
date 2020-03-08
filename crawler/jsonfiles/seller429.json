@@ -1,0 +1,357 @@
+{
+  "contact_email" : "contact@adverty.com",
+  "contact_address" : "Magnus Ladulåsgatan 3, 118 65 Stockholm, Sweden",
+  "version" : "1.0",
+  "identifiers" : [
+    {
+      "name" : "TAG-ID",
+      "value" : "2b1a2f9cd997fcab"
+    }
+  ],
+  "sellers" : [
+    {
+      "seller_id" : 1,
+      "is_confidential" : 0,
+      "name" : "Sampsa Kuha",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 2,
+      "is_confidential" : 0,
+      "name" : "Simon Hultgren",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 3,
+      "is_confidential" : 0,
+      "name" : "Miikka Harjuntausta",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 4,
+      "is_confidential" : 0,
+      "name" : "Elena",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 5,
+      "is_confidential" : 0,
+      "name" : "yosun",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 6,
+      "is_confidential" : 0,
+      "name" : "Drazen Dodik",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 7,
+      "is_confidential" : 0,
+      "name" : "Jousef Gabro",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 8,
+      "is_confidential" : 0,
+      "name" : "Fredrik Edström",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 9,
+      "is_confidential" : 0,
+      "name" : "Tomi Toikka",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 11,
+      "is_confidential" : 0,
+      "name" : "Jan Hursti",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 12,
+      "is_confidential" : 0,
+      "name" : "Alexey Ezhikov",
+      "domain" : "http://planoplan.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 13,
+      "is_confidential" : 0,
+      "name" : "Jozsef Trencsenyi",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 14,
+      "is_confidential" : 0,
+      "name" : "hideyuki shoda",
+      "domain" : "http://vrize.io",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 15,
+      "is_confidential" : 0,
+      "name" : "Parth",
+      "domain" : "www.timeloop.in",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 16,
+      "is_confidential" : 0,
+      "name" : "Advrty",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 17,
+      "is_confidential" : 0,
+      "name" : "Ari Nikula",
+      "domain" : "www.outokone.fi",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 23,
+      "is_confidential" : 0,
+      "name" : "José Mourarias",
+      "domain" : "https://www.holoboo.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 24,
+      "is_confidential" : 0,
+      "name" : "Adverty Stockholm",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 25,
+      "is_confidential" : 0,
+      "name" : "Isao Ohta",
+      "domain" : "https://www.oculus.com/experiences/rift/isao-ohta-mirror/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 26,
+      "is_confidential" : 0,
+      "name" : "Jordan Brighton",
+      "domain" : "www.virtro.ca",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 29,
+      "is_confidential" : 0,
+      "name" : "Richard Hazenberg",
+      "domain" : "http://www.rabbitmountain.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 30,
+      "is_confidential" : 0,
+      "name" : "Martin Moen",
+      "domain" : "https://www.ovrshot.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 31,
+      "is_confidential" : 0,
+      "name" : "Vedant Saxena",
+      "domain" : "http://www.ensoimmersive.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 33,
+      "is_confidential" : 0,
+      "name" : "Adverty_test",
+      "domain" : "www.test.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 35,
+      "is_confidential" : 0,
+      "name" : "Anshul",
+      "domain" : "http://zatun.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 36,
+      "is_confidential" : 0,
+      "name" : "Nuno Folhadela",
+      "domain" : "http://bicastudios.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 37,
+      "is_confidential" : 0,
+      "name" : "Harold Mintah",
+      "domain" : "http://mintah.com/games/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 38,
+      "is_confidential" : 0,
+      "name" : "Sotiris Gyftopoulos",
+      "domain" : "https://www.anothercircus.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 39,
+      "is_confidential" : 0,
+      "name" : "Kemal",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 40,
+      "is_confidential" : 0,
+      "name" : "Kaaren Kaer",
+      "domain" : "www.skyfront.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 41,
+      "is_confidential" : 0,
+      "name" : "Rodney White",
+      "domain" : "twitter.com/rjdoesvr",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 50,
+      "is_confidential" : 0,
+      "name" : "Joe Grant",
+      "domain" : "www.eutopiastudios.net",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 56,
+      "is_confidential" : 0,
+      "name" : "Miikka Lehtonen",
+      "domain" : "https://criticalforce.fi/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 58,
+      "is_confidential" : 0,
+      "name" : "Christian Rønde",
+      "domain" : "www.kiloogames.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 72,
+      "is_confidential" : 0,
+      "name" : "Eutopia Studios",
+      "domain" : "http://eutopiastudios.net",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 77,
+      "is_confidential" : 0,
+      "domain" : "https://www.antlerinteractive.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 80,
+      "is_confidential" : 0,
+      "domain" : "www.woozworld.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 82,
+      "is_confidential" : 0,
+      "domain" : "http://www.hojeen.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 83,
+      "is_confidential" : 0,
+      "domain" : "",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 84,
+      "is_confidential" : 0,
+      "domain" : "resolutiongames.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 85,
+      "is_confidential" : 0,
+      "domain" : "www.wizardgames.ca",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 86,
+      "is_confidential" : 0,
+      "domain" : "www.casualmonster.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 89,
+      "is_confidential" : 0,
+      "name" : "Tadej Prijatelj",
+      "domain" : "https://outfit7.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 90,
+      "is_confidential" : 0,
+      "name" : "Kiloo",
+      "domain" : "https://www.kiloogames.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 92,
+      "is_confidential" : 0,
+      "domain" : "www.arblox.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 97,
+      "is_confidential" : 0,
+      "domain" : "www.arcadiaxr.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 98,
+      "is_confidential" : 0,
+      "name" : "Pubmatic",
+      "domain" : "-",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 112,
+      "is_confidential" : 0,
+      "domain" : "www.sensearena.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 115,
+      "is_confidential" : 0,
+      "domain" : "http://www.flying-squirrel-games.com/",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 118,
+      "is_confidential" : 0,
+      "domain" : "http://test.com",
+      "seller_type" : "PUBLISHER"
+    },
+    {
+      "seller_id" : 125,
+      "is_confidential" : 0,
+      "domain" : "",
+      "seller_type" : "PUBLISHER"
+    }
+  ]
+}

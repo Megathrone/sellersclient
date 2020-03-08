@@ -1,0 +1,133 @@
+{
+  "contact_email": "contact@vidstart.com",
+  "contact_address": "Rothschild Blvd 3, Tel Aviv-Yafo, Israel, 6688106",
+  "version": "1.0",
+  "identifiers": [
+    {
+      "name": "DUNS",
+      "value": "532370494"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "20351334",
+      "seller_type": "PUBLISHER",
+      "name": "TuneIn, Inc.",
+      "domain": "tunein.com"
+    },
+    {
+      "seller_id": "20351335",
+      "seller_type": "PUBLISHER",
+      "name": "WeatherBug",
+      "domain": "weatherbug.com"
+    },
+    {
+      "seller_id": "20351336",
+      "seller_type": "PUBLISHER",
+      "name": "Mobilityware",
+      "domain": "Mobilityware.com"
+    },
+    {
+      "seller_id": "20351337",
+      "seller_type": "PUBLISHER",
+      "name": "Games2win",
+      "domain": "games2winmedia.com"
+    },
+    {
+      "seller_id": "20351338",
+      "seller_type": "PUBLISHER",
+      "name": "X-flow",
+      "domain": "x-flow.app"
+    },
+    {
+      "seller_id": "20351339",
+      "seller_type": "PUBLISHER",
+      "name": "Outfit7 Limited",
+      "domain": "outfit7.com"
+    },
+    {
+      "seller_id": "20351340",
+      "seller_type": "PUBLISHER",
+      "name": "Easybrain Ltd.",
+      "domain": "easybrain.com"
+    },
+    {
+      "seller_id": "20351341",
+      "seller_type": "PUBLISHER",
+      "name": "Peoplefun",
+      "domain": "Peoplefun.com"
+    },
+    {
+      "seller_id": "20351342",
+      "seller_type": "PUBLISHER",
+      "name": "PlaySimple Games.",
+      "domain": "playsimple.in"
+    },
+    {
+      "seller_id": "20351343",
+      "seller_type": "PUBLISHER",
+      "name": "Scopely",
+      "domain": "scopely.com"
+    },
+    {
+      "seller_id": "20351344",
+      "seller_type": "PUBLISHER",
+      "name": "Gram Games Limited",
+      "domain": "gram.gs"
+    },
+    {
+      "seller_id": "20351345",
+      "seller_type": "PUBLISHER",
+      "name": "GameCircus",
+      "domain": "gamecircus.com"
+    },
+    {
+      "seller_id": "22282",
+      "seller_type": "INTERMEDIARY",
+      "name": "Adcolony, Inc",
+     "domain": "adcolony.com"
+    },
+    {
+      "seller_id": "22287",
+      "seller_type": "INTERMEDIARY",
+      "name": "Fyber GmbH",
+     "domain": "fyber.com"
+    },
+    {
+      "seller_id": "22289",
+      "seller_type": "INTERMEDIARY",
+      "name": "Acuity",
+     "domain": "acuityads.com"
+    },
+    {
+      "seller_id": "22285",
+      "seller_type": "INTERMEDIARY",
+      "name": "Tappx",
+     "domain": "tappx.com"
+    },
+    {
+      "seller_id": "694871",
+      "seller_type": "INTERMEDIARY",
+      "name": "Appodeal, INC",
+     "domain": "appodeal.com"
+    },
+    {
+      "seller_id": "22288",
+      "seller_type": "INTERMEDIARY",
+      "name": "VRTCAL Markets, Inc",
+     "domain": "vrtcal.com"
+    },
+    {
+      "seller_id": "22284",
+      "seller_type": "INTERMEDIARY",
+      "name": "Matomy UK Ltd",
+     "domain": "mobfox.com"
+    },
+    {
+      "seller_id": "22286",
+      "seller_type": "INTERMEDIARY",
+      "name": "InMobi Pte. Ltd.",
+      "domain": "inmobi.com"
+    }
+  ]
+}

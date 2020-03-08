@@ -1,0 +1,2322 @@
+{
+    "contact_email": "info@sunmedia.tv",
+    "contact_address": "Principe de Vergara 112 3rd floor, 28002, Madrid, Spain",
+    "version": "1.0",
+    "identifiers": [
+        {
+            "name": "DUNS",
+            "value": "467086528"
+        }
+    ],
+    "sellers": [
+        {
+            "seller_id": "020ced63-897e-49ce-b990-611b1206a61f",
+            "seller_type": "PUBLISHER",
+            "name": "El Diestro Editorial S.L.",
+            "domain": "temascuriosos.com"
+        },
+        {
+            "seller_id": "0256c223-6a43-4f77-9ee7-94fb75ea070c",
+            "seller_type": "PUBLISHER",
+            "name": "Pedro Angel Rosado Sánchez",
+            "domain": "lavozdetalavera.com"
+        },
+        {
+            "seller_id": "02bbb02b-54e7-4cae-bcbe-df1b5ad1d6e2",
+            "seller_type": "PUBLISHER",
+            "name": "La Voz de Galicia S.A.",
+            "domain": "lavozdegalicia.es"
+        },
+        {
+            "seller_id": "03aee2cd-89f9-4511-9da5-e7a501088854",
+            "seller_type": "PUBLISHER",
+            "name": "FROMTO & CO",
+            "domain": "relappro.com/es"
+        },
+        {
+            "seller_id": "04ca279b-d3e5-403c-811f-365f91f61523",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "marktcom.de"
+        },
+        {
+            "seller_id": "0587b222-0be4-4a7a-bf8a-19d91a3f2547",
+            "seller_type": "PUBLISHER",
+            "name": "Greynium Information Technologies Pvt. Ltd",
+            "domain": "mykhel.com"
+        },
+        {
+            "seller_id": "061ff36b-2f40-4319-8848-f3174c15e060",
+            "seller_type": "PUBLISHER",
+            "name": "Pilar Salsamendi Martín",
+            "domain": "Infohispania.es"
+        },
+        {
+            "seller_id": "068d71f3-cfb6-49dc-b48d-9cc55289b46c",
+            "seller_type": "PUBLISHER",
+            "name": "Test AMP",
+            "domain": "sunmedia.tv"
+        },
+        {
+            "seller_id": "06bc430c-4bbf-4fe2-9dd1-1fe39a5b9be4",
+            "seller_type": "PUBLISHER",
+            "name": "Weblogs S.L",
+            "domain": "webedia.es"
+        },
+        {
+            "seller_id": "071f072c-8413-4c44-b7ed-e1a2f0c4f435",
+            "seller_type": "PUBLISHER",
+            "name": "INFORMADORCHILE",
+            "domain": "elinformadorchile.cl"
+        },
+        {
+            "seller_id": "07e4c01e-8f94-47d8-915d-1e174331f4fb",
+            "seller_type": "PUBLISHER",
+            "name": "El Economista Grupo Editorial S.A. de C.V.",
+            "domain": "eleconomista.es"
+        },
+        {
+            "seller_id": "0a59b4e3-2a55-4771-b2fc-d1815a5c9336",
+            "seller_type": "PUBLISHER",
+            "name": "Papaya Holdings, LLC",
+            "domain": "fandango.com"
+        },
+        {
+            "seller_id": "0a66af2c-ac35-43c9-97e7-f65af88fe5e6",
+            "seller_type": "PUBLISHER",
+            "name": "Luca Sartorelli",
+            "domain": "howtodofor.com"
+        },
+        {
+            "seller_id": "0aa4887c-83c4-4914-8444-9bde41c8b55d",
+            "seller_type": "PUBLISHER",
+            "name": "Canpre, S.A.",
+            "domain": "eldiarioalerta.com"
+        },
+        {
+            "seller_id": "0aab522d-68d8-4d03-9992-ce5fc68d67b4",
+            "seller_type": "PUBLISHER",
+            "name": "Sergio Torres Castillo",
+            "domain": "recursos1clic.es"
+        },
+        {
+            "seller_id": "0ab35ec6-93d7-442c-8dee-2a2dde35b4d2",
+            "seller_type": "PUBLISHER",
+            "name": "Web Consultas Healthcare S.A.",
+            "domain": "webconsultas.com"
+        },
+        {
+            "seller_id": "0affcec4-d0ac-44d4-831c-285f64eee3b2",
+            "seller_type": "PUBLISHER",
+            "name": "Periodista Digital S.L.",
+            "domain": "periodistadigital.com"
+        },
+        {
+            "seller_id": "0b10d15a-e5a2-4117-9fbb-e521978a2f5b",
+            "seller_type": "PUBLISHER",
+            "name": "Webedia Mexico SA DE CV",
+            "domain": "webedia.lat"
+        },
+        {
+            "seller_id": "0b325553-b49b-457b-8310-9291c6a0bf7f",
+            "seller_type": "PUBLISHER",
+            "name": "El Quinto Beatle",
+            "domain": "elquintobeatle.com"
+        },
+        {
+            "seller_id": "0c0c240f-a70e-43e3-a897-afd317baee56",
+            "seller_type": "PUBLISHER",
+            "name": "Majadahonda Magazin S.L.",
+            "domain": "majadahondamagazin.es"
+        },
+        {
+            "seller_id": "0c21d510-71e8-448a-a32c-837386064aef",
+            "seller_type": "PUBLISHER",
+            "name": "FUTBOLETE MEDIA LAB SAS",
+            "domain": "futbolete.com"
+        },
+        {
+            "seller_id": "0c8e817e-0379-46a3-88a5-8c98da6cf05a",
+            "seller_type": "PUBLISHER",
+            "name": "Global Notícias- Media Group S.A.",
+            "domain": "globalmediagroup.pt"
+        },
+        {
+            "seller_id": "0e19dfbb-eda3-4e0d-a66c-df8a2536d930",
+            "seller_type": "PUBLISHER",
+            "name": "Advantage Media Sp. z o. o.",
+            "domain": "napiprojekt.pl"
+        },
+        {
+            "seller_id": "0fbf5b10-88a4-48d6-a9b8-204af69e9622",
+            "seller_type": "PUBLISHER",
+            "name": "Televisión Autonómica de Aragón S.A.U.",
+            "domain": "aragontelevision.es"
+        },
+        {
+            "seller_id": "107421ca-7fef-46f2-b933-54594c2cc1cc",
+            "seller_type": "PUBLISHER",
+            "name": "Greynium Information Technologies Pvt. Ltd",
+            "domain": "filmibeat.com"
+        },
+        {
+            "seller_id": "1086c1d9-3c92-4b03-ad1d-2ee7453488b5",
+            "seller_type": "PUBLISHER",
+            "name": "Trucos y Astucias",
+            "domain": "trucosyastucias.com"
+        },
+        {
+            "seller_id": "11f798c1-6cf0-470c-99dd-140e7c425a9f",
+            "seller_type": "PUBLISHER",
+            "name": "Mobusi mobile advertising SL",
+            "domain": "noticiariodirecto.com"
+        },
+        {
+            "seller_id": "12855074-36f3-4506-97a9-8468186754f2",
+            "seller_type": "PUBLISHER",
+            "name": "Sabias",
+            "domain": "sabias.es"
+        },
+        {
+            "seller_id": "128bb5b8-9b60-4531-8f67-c3092af0639b",
+            "seller_type": "PUBLISHER",
+            "name": "Schnauzi",
+            "domain": "schnauzi.com"
+        },
+        {
+            "seller_id": "134a8bd2-c2ca-4703-a035-5468ead2bfb4",
+            "seller_type": "PUBLISHER",
+            "name": "David Fernandes",
+            "domain": "foradejogo08.blogspot.com"
+        },
+        {
+            "seller_id": "13881694-cdb2-41a9-9c6d-7d7258372b6f",
+            "seller_type": "PUBLISHER",
+            "name": "Rafael Escudero Sánchez",
+            "domain": "bricoblog.eu"
+        },
+        {
+            "seller_id": "14a181e9-e212-4e8b-8e7f-8e71aded1258",
+            "seller_type": "PUBLISHER",
+            "name": "Alta Densidad S.A.",
+            "domain": "depo.com.ar"
+        },
+        {
+            "seller_id": "14ad717f-e82a-4219-854c-1dc6a683c7e3",
+            "seller_type": "PUBLISHER",
+            "name": "Zinet Media Global, S.L.",
+            "domain": "zinetmedia.es"
+        },
+        {
+            "seller_id": "14e8dbaf-b44e-41d7-94f4-7716dcf2a85b",
+            "seller_type": "PUBLISHER",
+            "name": "Miarroba Networks, S.L.",
+            "domain": "subefotos.com"
+        },
+        {
+            "seller_id": "1514054c-78cb-48fe-9098-4cf85171a539",
+            "seller_type": "PUBLISHER",
+            "name": "Ivoox Global Podcasting Service SL",
+            "domain": "ivoox.com"
+        },
+        {
+            "seller_id": "1544b2f8-5359-4e13-ab60-54e90654f6bd",
+            "seller_type": "PUBLISHER",
+            "name": "Axel Spronger España S.L.",
+            "domain": "axelspringer.es"
+        },
+        {
+            "seller_id": "15628319-5e8b-47ef-93a2-7290c48067df",
+            "seller_type": "PUBLISHER",
+            "name": "El Semanal Digital SL",
+            "domain": "esdiario.com/elsemanaldigital"
+        },
+        {
+            "seller_id": "1598dde9-7b73-4724-88ba-ebb7afda7b08",
+            "seller_type": "PUBLISHER",
+            "name": "Godó Media Strategies, S.L.U",
+            "domain": "grupogodo.com"
+        },
+        {
+            "seller_id": "15e7ee9d-b151-45d9-a719-b1461518f455",
+            "seller_type": "PUBLISHER",
+            "name": "NARROI WEBS SC",
+            "domain": "lacuerda.net"
+        },
+        {
+            "seller_id": "1710cf3d-27f1-4e50-b26b-a8f2d29113e5",
+            "seller_type": "PUBLISHER",
+            "name": "José María Barroso Olmeda",
+            "domain": "bromasaparte.com"
+        },
+        {
+            "seller_id": "17405613-b309-48f5-8bcc-1d9e13c4fd53",
+            "seller_type": "PUBLISHER",
+            "name": "Slim Mansouri",
+            "domain": "babnet.net"
+        },
+        {
+            "seller_id": "174c7ffa-bb9c-445e-9d16-5729675b2a15",
+            "seller_type": "PUBLISHER",
+            "name": "Hadoq SL",
+            "domain": "hadoq.com"
+        },
+        {
+            "seller_id": "1753edfd-8cfa-49e2-833a-77e8c5307642",
+            "seller_type": "PUBLISHER",
+            "name": "Entretenimiento",
+            "domain": "entretenimiento.com"
+        },
+        {
+            "seller_id": "175a736f-90a1-4d17-8470-5deceb078686",
+            "seller_type": "PUBLISHER",
+            "name": "Alta Densidad S.A.",
+            "domain": "diarioshow.com"
+        },
+        {
+            "seller_id": "17cd11e6-3eaf-42e8-b2f9-5ac4ad4ece7f",
+            "seller_type": "PUBLISHER",
+            "name": "CABSODISA, S.R.L.",
+            "domain": "culturaurbana.net"
+        },
+        {
+            "seller_id": "17feac43-78fe-45ea-bfd3-e742879954b8",
+            "seller_type": "PUBLISHER",
+            "name": "Publinserciones S.L.",
+            "domain": "kiosko.net"
+        },
+        {
+            "seller_id": "18a2bbd1-75cc-43e8-aa17-be423b58b752",
+            "seller_type": "PUBLISHER",
+            "name": "Armando Robles Valenzuela",
+            "domain": "alertadigital.com"
+        },
+        {
+            "seller_id": "1a876def-dca2-4098-8b7d-1053107b3d07",
+            "seller_type": "PUBLISHER",
+            "name": "CMC Online s.r.o.",
+            "domain": "superhry.cz"
+        },
+        {
+            "seller_id": "1ab038fc-1ef3-4376-8531-23039a05ed50",
+            "seller_type": "PUBLISHER",
+            "name": "Juan Luis Jara Miranda",
+            "domain": "futubandera.cl"
+        },
+        {
+            "seller_id": "1c37d8f4-3342-459c-93ef-7a65f7c2903b",
+            "seller_type": "PUBLISHER",
+            "name": "Comunicación Social y Digital S.L.",
+            "domain": "granadadigital.es"
+        },
+        {
+            "seller_id": "1c67729b-7d4f-4adf-8142-44e5302fcf4f",
+            "seller_type": "PUBLISHER",
+            "name": "Tendenzias Media SL",
+            "domain": "tendenziasmedia.com"
+        },
+        {
+            "seller_id": "1e53288f-d450-458d-81e0-b69a4cc4ab29",
+            "seller_type": "PUBLISHER",
+            "name": "Fluiddo Interactive",
+            "domain": "adeptosdebancada.com"
+        },
+        {
+            "seller_id": "1e7e7ca9-16e0-4243-bf0e-202110dd9f84",
+            "seller_type": "PUBLISHER",
+            "name": "El Diestro Editorial S.L.",
+            "domain": "hispanidadcatolica.com"
+        },
+        {
+            "seller_id": "1f3f69be-c9ab-4a04-a8ed-acacdd5d1524",
+            "seller_type": "PUBLISHER",
+            "name": "LS Digital Activities OÜ",
+            "domain": "hommedumatch.fr"
+        },
+        {
+            "seller_id": "1faada2c-0a13-4705-bcfa-713b5914da56",
+            "seller_type": "PUBLISHER",
+            "name": "Publicaciones Digitales Albacete, S.L.",
+            "domain": "eldigitaldealbacete.com"
+        },
+        {
+            "seller_id": "20bbde05-c59b-4b40-8c9f-949527097da3",
+            "seller_type": "PUBLISHER",
+            "name": "Add Value media",
+            "domain": "bebesybiberones.es"
+        },
+        {
+            "seller_id": "217cc5ad-38c8-42d9-bd78-eed0875d7ccd",
+            "seller_type": "PUBLISHER",
+            "name": "Robledo Milani",
+            "domain": "papodecinema.com.br"
+        },
+        {
+            "seller_id": "21a7fb05-b9c9-41e8-a5ba-2a9be8fb5cd0",
+            "seller_type": "PUBLISHER",
+            "name": "Julian Reick und Mikael Tas GbR",
+            "domain": "schlafzimmer.de"
+        },
+        {
+            "seller_id": "21d59bad-6ed2-4a81-a742-b71a242144dd",
+            "seller_type": "PUBLISHER",
+            "name": "Grupo Joly, S.A.",
+            "domain": "grupojoly.com"
+        },
+        {
+            "seller_id": "21ffda3b-c07f-4e92-aa62-9cdbb552c677",
+            "seller_type": "PUBLISHER",
+            "name": "EDITORA DEMAR SA DE CV",
+            "domain": "latarde.com.mx"
+        },
+        {
+            "seller_id": "22a1664c-ce68-4aa5-86ea-b0e367d90f29",
+            "seller_type": "PUBLISHER",
+            "name": "Intervoz Publicidade SA",
+            "domain": "intervoz.pt"
+        },
+        {
+            "seller_id": "22cdd68b-32ab-4707-bb87-b0d5af198d13",
+            "seller_type": "PUBLISHER",
+            "name": "Cronista",
+            "domain": "cronista.com"
+        },
+        {
+            "seller_id": "2450d8c8-4d71-43d9-9b1b-5497ccb0e3f8",
+            "seller_type": "PUBLISHER",
+            "name": "Carlos de Miguel Pinto",
+            "domain": "avilared.com"
+        },
+        {
+            "seller_id": "256a6941-d43c-4610-aaf7-bd73e1537e19",
+            "seller_type": "PUBLISHER",
+            "name": "E BUSINESS CENTRAL AMERICA  -  EBCA",
+            "domain": "guatevision.com"
+        },
+        {
+            "seller_id": "258d47ff-4e73-4c15-a060-1e46375c39c1",
+            "seller_type": "PUBLISHER",
+            "name": "Prensa y medios santafesinos del sur S.A.",
+            "domain": "casildaplus.com"
+        },
+        {
+            "seller_id": "26c38af5-b0e7-4b21-8f94-a5a411ecbff7",
+            "seller_type": "PUBLISHER",
+            "name": "PROMONET COMUNICACIONES S.L.",
+            "domain": "gestion.org"
+        },
+        {
+            "seller_id": "275b68ab-2ae5-41b2-9d01-f63795db08c2",
+            "seller_type": "PUBLISHER",
+            "name": "Mobusi mobile advertising SL",
+            "domain": "yourselectednews.com"
+        },
+        {
+            "seller_id": "29916ed1-41c8-48f4-9181-fa98bad7e2cd",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "clmpress.com"
+        },
+        {
+            "seller_id": "29e194f2-13ac-4491-ad37-779783693ce1",
+            "seller_type": "PUBLISHER",
+            "name": "Blue Media SL",
+            "domain": "bluemedia.es"
+        },
+        {
+            "seller_id": "2a69d087-c8d0-48e5-946a-ad0d8eb5d220",
+            "seller_type": "PUBLISHER",
+            "name": "Plaza San Juan de la Cruz 7,oficina 2",
+            "domain": "extramotor.com"
+        },
+        {
+            "seller_id": "2ad7772f-5418-44b8-924b-d2336e386dee",
+            "seller_type": "PUBLISHER",
+            "name": "Fluiddo Interactive",
+            "domain": "11titular.pt"
+        },
+        {
+            "seller_id": "2ca28a24-7d22-4325-909e-1168d387d092",
+            "seller_type": "PUBLISHER",
+            "name": "Riber Shopping S.L",
+            "domain": "seriesycine.com"
+        },
+        {
+            "seller_id": "2cec13f7-edc0-4569-8673-2ea5bc369acb",
+            "seller_type": "PUBLISHER",
+            "name": "ERIKA FLORES",
+            "domain": "lasillarota.com"
+        },
+        {
+            "seller_id": "2e7f3ce4-cce4-4e6e-bba1-3a5530772c62",
+            "seller_type": "PUBLISHER",
+            "name": "Javier Vegas",
+            "domain": "espiritudeportivo.es"
+        },
+        {
+            "seller_id": "2e9b662a-4d74-4815-a1a4-94da9e893ce3",
+            "seller_type": "PUBLISHER",
+            "name": "Sérgio Dorivaldo Alliend",
+            "domain": "lapadalapada.com.br"
+        },
+        {
+            "seller_id": "2ec12f08-dcd7-432c-91b0-12a7429357d6",
+            "seller_type": "PUBLISHER",
+            "name": "RBA PUBLIVENTAS, S.A.",
+            "domain": "rbarevistas.com"
+        },
+        {
+            "seller_id": "30224e7d-f242-47c1-a67c-38179c9711f9",
+            "seller_type": "PUBLISHER",
+            "name": "FULL COLOR PRODUCCIONES, S.A. DE C.V.",
+            "domain": "tvpacifico.mx"
+        },
+        {
+            "seller_id": "3041f07a-a484-4265-9e48-8a1a9660a195",
+            "seller_type": "PUBLISHER",
+            "name": "Jesus Angel Chomon Noriega",
+            "domain": "recetasparathermomix.com"
+        },
+        {
+            "seller_id": "30f4f424-c222-46f6-93cc-863681b0d56f",
+            "seller_type": "PUBLISHER",
+            "name": "Radio TV de Andalucía",
+            "domain": "canalsur.es"
+        },
+        {
+            "seller_id": "31b72c61-e60a-4d38-8ec9-2d214c7bc6bd",
+            "seller_type": "PUBLISHER",
+            "name": "Juan Pumarino",
+            "domain": "escaladenotas.cl"
+        },
+        {
+            "seller_id": "32ec91a8-a390-44e2-a51a-cca706fca941",
+            "seller_type": "PUBLISHER",
+            "name": "E BUSINESS CENTRAL AMERICA  -  EBCA",
+            "domain": "prensalibre.com"
+        },
+        {
+            "seller_id": "34d3e055-572b-414a-91e6-a28ca2d006b8",
+            "seller_type": "PUBLISHER",
+            "name": "Pablo Perez Wlasiuk",
+            "domain": "Lyricsfeast.com"
+        },
+        {
+            "seller_id": "353f41dd-1f6f-4f21-b6f3-3b2832e482db",
+            "seller_type": "PUBLISHER",
+            "name": "Dos Mil Palabras S.L.",
+            "domain": "okdiario.com"
+        },
+        {
+            "seller_id": "364bb98c-022f-4914-a451-0d6b8b6bf37a",
+            "seller_type": "PUBLISHER",
+            "name": "ZURIGUEL VENTURES, SL",
+            "domain": "todoconsejos.net"
+        },
+        {
+            "seller_id": "372787ef-423f-4fea-97aa-04107414b7cf",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "colombia.com"
+        },
+        {
+            "seller_id": "38661b56-03a8-430e-a8b9-f70d8a16a494",
+            "seller_type": "PUBLISHER",
+            "name": "Jose Alejandro Vejar Niño (Argumento Politico)",
+            "domain": "argumentopolitico.org"
+        },
+        {
+            "seller_id": "38831dff-c896-49f9-a9eb-b2bb55b22597",
+            "seller_type": "PUBLISHER",
+            "name": "Diogo Cruz",
+            "domain": "dioguinho.pt"
+        },
+        {
+            "seller_id": "38f82975-8781-4268-91bc-98b163128184",
+            "seller_type": "PUBLISHER",
+            "name": "CORPORATE COMMUNICATOR, SL",
+            "domain": "elplural.com"
+        },
+        {
+            "seller_id": "39939469-111e-4e36-ae3d-76b8da26f84e",
+            "seller_type": "PUBLISHER",
+            "name": "BALDE MAMADOU SALIOU",
+            "domain": "africaguinee.com"
+        },
+        {
+            "seller_id": "3a160464-02a8-43c8-a026-d0c1b95115ec",
+            "seller_type": "PUBLISHER",
+            "name": "ARGERT, Lda",
+            "domain": "futebol365.pt"
+        },
+        {
+            "seller_id": "3a68d37a-78db-4fb5-b5e9-4f28c86e9829",
+            "seller_type": "PUBLISHER",
+            "name": "Digital Sports Group",
+            "domain": "footymad.net"
+        },
+        {
+            "seller_id": "3accd309-cd38-4a31-84bc-4a37a9659192",
+            "seller_type": "PUBLISHER",
+            "name": "CARLOS ALBERTO ROJAS AVILA",
+            "domain": "uncafeconletras.es"
+        },
+        {
+            "seller_id": "3bb84cc6-a3fa-44ce-b41b-0769081f422b",
+            "seller_type": "PUBLISHER",
+            "name": "Vozpopuli Digital SA",
+            "domain": "vozpopuli.com"
+        },
+        {
+            "seller_id": "3bc213a8-746b-4650-9231-1940ceea0176",
+            "seller_type": "PUBLISHER",
+            "name": "El Diestro Editorial S.L.",
+            "domain": "eldiestro.es"
+        },
+        {
+            "seller_id": "3cf11857-afdc-434a-b7ca-479608ea3a88",
+            "seller_type": "PUBLISHER",
+            "name": "Nathalie Feliu",
+            "domain": "i24mujer.com"
+        },
+        {
+            "seller_id": "3d1cc2a4-c1cc-4dfa-9ea7-cb19fe6b2205",
+            "seller_type": "PUBLISHER",
+            "name": "CMC Online s.r.o.",
+            "domain": "mahee.es"
+        },
+        {
+            "seller_id": "3e84da59-63a6-4894-b631-1f50fb3a78d7",
+            "seller_type": "PUBLISHER",
+            "name": "Softonic International, S.A.",
+            "domain": "softonic.com"
+        },
+        {
+            "seller_id": "3ec5bb97-adda-43fa-b521-0e58945c75c7",
+            "seller_type": "PUBLISHER",
+            "name": "EMPRESA EDITORA EL COMERCIO S.A.",
+            "domain": "grupoelcomercio.com.pe"
+        },
+        {
+            "seller_id": "3f458c8a-5dc7-44f4-bfa9-bab2b485bf77",
+            "seller_type": "PUBLISHER",
+            "name": "Vocento SA",
+            "domain": "vocento.com"
+        },
+        {
+            "seller_id": "3fe24581-a407-4dc2-b898-567ec446611c",
+            "seller_type": "PUBLISHER",
+            "name": "Menorca al Día Diario Digital",
+            "domain": "menorcaaldia.com"
+        },
+        {
+            "seller_id": "40c8bfd6-a8ee-43eb-b405-01093388355c",
+            "seller_type": "PUBLISHER",
+            "name": "Neon multimedia S.L.",
+            "domain": "guiadelocio.com"
+        },
+        {
+            "seller_id": "411c372d-1911-4541-b6ab-d9175b3aee57",
+            "seller_type": "PUBLISHER",
+            "name": "Crismar Dinaura Guerra de Segnini",
+            "domain": "movilesdualsim.com"
+        },
+        {
+            "seller_id": "4204636b-dde3-4ad2-85ef-238e90f61a3a",
+            "seller_type": "PUBLISHER",
+            "name": "Varomeando",
+            "domain": "varomeando.com"
+        },
+        {
+            "seller_id": "422e0da8-8f51-4779-897b-e20596f55fa2",
+            "seller_type": "PUBLISHER",
+            "name": "SummonPress S.L.",
+            "domain": "milejemplos.com"
+        },
+        {
+            "seller_id": "429e24b3-6fcf-484e-98f4-025aa10dab02",
+            "seller_type": "PUBLISHER",
+            "name": "3DGames",
+            "domain": "3dgames.com"
+        },
+        {
+            "seller_id": "43b74699-481e-43a6-bf0a-2320b4d096fd",
+            "seller_type": "PUBLISHER",
+            "name": "Organización Editorial Mexicana",
+            "domain": "oem.com.mx/oem"
+        },
+        {
+            "seller_id": "43d065c4-4017-4646-aa0f-4c0c5be1686d",
+            "seller_type": "PUBLISHER",
+            "name": "Economia Digital S.L.",
+            "domain": "economiadigital.es"
+        },
+        {
+            "seller_id": "455be357-ad46-4f10-8872-701656980003",
+            "seller_type": "PUBLISHER",
+            "name": "Adpone S.L.",
+            "domain": "adpone.com"
+        },
+        {
+            "seller_id": "46b6e5ba-4674-499d-8355-8c1ecd24ad04",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "lereaprender.com.br"
+        },
+        {
+            "seller_id": "46bb9f83-a165-4b6e-aa98-8685716ad734",
+            "seller_type": "PUBLISHER",
+            "name": "Nathalie Feliu",
+            "domain": "recetasparavivirmejor.com"
+        },
+        {
+            "seller_id": "4780090f-519f-4597-941b-4ca8d7fc4aab",
+            "seller_type": "PUBLISHER",
+            "name": "Advantage Media Sp. z o. o.",
+            "domain": "jbzdy.cc"
+        },
+        {
+            "seller_id": "47ac1192-f478-493f-b2c5-31f8247216d3",
+            "seller_type": "PUBLISHER",
+            "name": "We Lover Size SL",
+            "domain": "weloversize.com"
+        },
+        {
+            "seller_id": "48af71e6-721a-410b-afa2-0dce25c1e88a",
+            "seller_type": "PUBLISHER",
+            "name": "EXTRADVERTISING SL",
+            "domain": "historia.com"
+        },
+        {
+            "seller_id": "4a09d8dc-873d-4da5-adcb-25f92ce1ccf8",
+            "seller_type": "PUBLISHER",
+            "name": "Radio e Televisio de Portugal",
+            "domain": "rtp.pt"
+        },
+        {
+            "seller_id": "4b2b3bc7-3c2d-4f16-86f1-5a8d6b2bdbd0",
+            "seller_type": "PUBLISHER",
+            "name": "TotMedia SL",
+            "domain": "totmedia.cat"
+        },
+        {
+            "seller_id": "4ba888ca-8f8b-49ce-9ec2-8ccb8b0205f5",
+            "seller_type": "PUBLISHER",
+            "name": "Valencia Información y noticias SL",
+            "domain": "vlcnoticias.com"
+        },
+        {
+            "seller_id": "4bb5b2b1-5c66-4592-8675-f01eadb05bb7",
+            "seller_type": "PUBLISHER",
+            "name": "RUBÉN YAGÜE GÓMEZ",
+            "domain": "intentarlo.com"
+        },
+        {
+            "seller_id": "4bdea4f6-59cd-4cfa-9033-52f4ddbfc7e3",
+            "seller_type": "PUBLISHER",
+            "name": "Prisca Dumas",
+            "domain": "rincondeltibet.com"
+        },
+        {
+            "seller_id": "4d5afebe-1e2b-48eb-8424-fb43e12d0562",
+            "seller_type": "PUBLISHER",
+            "name": "Karen Arzumanyan",
+            "domain": "timesoccer.net"
+        },
+        {
+            "seller_id": "4d851cea-6c8f-4489-8844-9e29bfd95489",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 1
+        },
+        {
+            "seller_id": "4ef6a1d9-9e5c-4794-8abf-d9932aaf4eb9",
+            "seller_type": "PUBLISHER",
+            "name": "NBC Universal",
+            "domain": "telemundo.com"
+        },
+        {
+            "seller_id": "4f1dac4f-17e5-45cf-b656-afb698883ae3",
+            "seller_type": "PUBLISHER",
+            "name": "Maria Rosa Arda Mallo",
+            "domain": "velocidadcuchara.com"
+        },
+        {
+            "seller_id": "50a3f270-ef40-447c-bef2-e42d084cb45f",
+            "seller_type": "PUBLISHER",
+            "name": "Ideatic Development SLU",
+            "domain": "wikiapuntes.net"
+        },
+        {
+            "seller_id": "50e1be0d-b94d-46a0-8f38-1b38c9bb6983",
+            "seller_type": "PUBLISHER",
+            "name": "JUAN CARLOS TORRES BUENO",
+            "domain": "prensaperu.online"
+        },
+        {
+            "seller_id": "51cb7d1a-eff0-40c9-b588-c340f257911c",
+            "seller_type": "PUBLISHER",
+            "name": "Maxim Popenker",
+            "domain": "modernfirearms.net"
+        },
+        {
+            "seller_id": "524d4171-b161-44ad-ba8b-75d13ebcf6cc",
+            "seller_type": "PUBLISHER",
+            "name": "Alberto Guaranda Suárez",
+            "domain": "aficioncentral.com"
+        },
+        {
+            "seller_id": "535c4eb2-98ad-4738-ab73-0360cf5b57e6",
+            "seller_type": "PUBLISHER",
+            "name": "Motor Internet SL",
+            "domain": "motor.es"
+        },
+        {
+            "seller_id": "53b8e629-a02e-4457-b36d-b3bd7a48307f",
+            "seller_type": "PUBLISHER",
+            "name": "Danilo Fritzler",
+            "domain": "decaracteristicas.com"
+        },
+        {
+            "seller_id": "544bae59-d66b-46c5-8621-58ccb79d6025",
+            "seller_type": "PUBLISHER",
+            "name": "GOYANIR SA",
+            "domain": "bioguia.com"
+        },
+        {
+            "seller_id": "56cd15b3-9f23-4266-ad72-ac36201c472b",
+            "seller_type": "PUBLISHER",
+            "name": "NovoMomento portal de notícias",
+            "domain": "novomomento.com.br"
+        },
+        {
+            "seller_id": "570817cb-110b-437b-9bb6-be3b2da6099d",
+            "seller_type": "PUBLISHER",
+            "name": "Caffeine Comunicação Ltda",
+            "domain": "pipocamoderna.com.br"
+        },
+        {
+            "seller_id": "5712c474-1284-483a-913a-3dd473c083f2",
+            "seller_type": "PUBLISHER",
+            "name": "Linicom Ltd",
+            "domain": "linicom.com"
+        },
+        {
+            "seller_id": "577c80d7-0575-4d5a-9cc2-6dc9ccf19d06",
+            "seller_type": "PUBLISHER",
+            "name": "Rosa María Bermúdez Garrido",
+            "domain": "futbolenlatv.es"
+        },
+        {
+            "seller_id": "579c2c77-5ff8-4444-84d5-c1a2a954aa7f",
+            "seller_type": "PUBLISHER",
+            "name": "Cronica Global Info",
+            "domain": "cronicaglobal.elespanol.com"
+        },
+        {
+            "seller_id": "59acba6c-2dff-404d-af24-490b3303f773",
+            "seller_type": "PUBLISHER",
+            "name": "Digital Sports Group",
+            "domain": "football.co.uk"
+        },
+        {
+            "seller_id": "59faf1f8-1b8a-4c5e-a89c-7bffd0fa48a7",
+            "seller_type": "PUBLISHER",
+            "name": "Danilo Vieira Andrade",
+            "domain": "eotimedopovo.com.br"
+        },
+        {
+            "seller_id": "5a739400-4c81-41c5-be77-670a7a62e1c1",
+            "seller_type": "PUBLISHER",
+            "name": "Juan José Rodríguez Cortijo",
+            "domain": "elplacerdelalectura.com"
+        },
+        {
+            "seller_id": "5a7b3997-9d65-402a-bbbc-973a9a4b2654",
+            "seller_type": "PUBLISHER",
+            "name": "MIRA COMUNICACIÓN SL",
+            "domain": "elmira.es"
+        },
+        {
+            "seller_id": "5ab7ca53-c0e0-44c6-b7c0-a70898a10488",
+            "seller_type": "PUBLISHER",
+            "name": "DIARIO DE NAVARRA DIGITAL, S.L.",
+            "domain": "diariodenavarra.com"
+        },
+        {
+            "seller_id": "5c47ee89-7f73-475a-8ab6-f28274df2cf0",
+            "seller_type": "PUBLISHER",
+            "name": "Francisco Calvo Herrera",
+            "domain": "alcachondeo.com"
+        },
+        {
+            "seller_id": "5d2fb596-63f1-4f2b-80bb-3c98462e7db7",
+            "seller_type": "PUBLISHER",
+            "name": "PyPGamers Network S.L.",
+            "domain": "wowchakra.com"
+        },
+        {
+            "seller_id": "5e84c770-2868-4132-95d5-c24c93152e98",
+            "seller_type": "PUBLISHER",
+            "name": "Narrativa Breve",
+            "domain": "narrativabreve.com"
+        },
+        {
+            "seller_id": "5ebf6a9f-d160-4f11-8897-75078df66722",
+            "seller_type": "PUBLISHER",
+            "name": "Noticia Hoje",
+            "domain": "noticiahoje.net"
+        },
+        {
+            "seller_id": "600e1806-9a37-4cc1-b944-470652cd1c1c",
+            "seller_type": "PUBLISHER",
+            "name": "Semseoymas Online Marketing SL",
+            "domain": "calle.es"
+        },
+        {
+            "seller_id": "60f5d97a-27da-4712-948c-2a64099def2e",
+            "seller_type": "PUBLISHER",
+            "name": "Hola SL",
+            "domain": "hola.com"
+        },
+        {
+            "seller_id": "63323d35-a08c-4b41-b09a-4fe3df4eb713",
+            "seller_type": "PUBLISHER",
+            "name": "Michail Mangasarov",
+            "domain": "kindersport-wissen.de"
+        },
+        {
+            "seller_id": "64186de1-57ca-430b-b743-eb3f1887eccf",
+            "seller_type": "PUBLISHER",
+            "name": "AMERICA DIGITAL LLC.",
+            "domain": "americadigital.com"
+        },
+        {
+            "seller_id": "649e59fb-e48b-471b-8f90-c77ee2569391",
+            "seller_type": "PUBLISHER",
+            "name": "Advantage Media Sp. z o. o.",
+            "domain": "stylunio.pl"
+        },
+        {
+            "seller_id": "66f0c4a9-9f2e-4863-a964-359f0378cddd",
+            "seller_type": "PUBLISHER",
+            "name": "Ignacio Cuesta Bores",
+            "domain": "calculadoraconversor.com"
+        },
+        {
+            "seller_id": "6a10e973-4bd8-461e-94b0-c2ba8fc6b2c6",
+            "seller_type": "PUBLISHER",
+            "name": "Sven Sanchez",
+            "domain": "deguate.com"
+        },
+        {
+            "seller_id": "6b36a6e3-4ba9-4270-97ff-1981c73d1933",
+            "seller_type": "PUBLISHER",
+            "name": "Angel Penalonga",
+            "domain": "futbolistos.es"
+        },
+        {
+            "seller_id": "6b4471c4-985e-4785-931a-fb399386acd8",
+            "seller_type": "PUBLISHER",
+            "name": "Mexicanos y Americanos, Sistemas de Comunicación, S.A de C.V",
+            "domain": "mascomunicacion.com.mx"
+        },
+        {
+            "seller_id": "6ba0b43a-0342-4a70-9c48-f4b471402c0c",
+            "seller_type": "PUBLISHER",
+            "name": "Magazinespain, S.L",
+            "domain": "magazinespain.com"
+        },
+        {
+            "seller_id": "6bf545ea-df32-4388-9189-63e32ebd3523",
+            "seller_type": "PUBLISHER",
+            "name": "Kidealia Media SL",
+            "domain": "pequerecetas.com"
+        },
+        {
+            "seller_id": "6c5d3cae-5a02-4e34-b0bc-b881c721fd2a",
+            "seller_type": "PUBLISHER",
+            "name": "Ediçöes Plural, Lda",
+            "domain": "teleculinaria.pt"
+        },
+        {
+            "seller_id": "6c8c5e18-3cdb-408f-962a-3ff04afca7e6",
+            "seller_type": "PUBLISHER",
+            "name": "Epoch Times Europe GmbH",
+            "domain": "epochtimes.de"
+        },
+        {
+            "seller_id": "6e73178b-9502-434a-8933-08c4ac25594d",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "landwirt.com"
+        },
+        {
+            "seller_id": "6f3aa54a-261d-462d-a741-ab840b3d3b77",
+            "seller_type": "PUBLISHER",
+            "name": "DIGITAL GREEN SL",
+            "domain": "queapetito.com"
+        },
+        {
+            "seller_id": "6fdb0a09-983b-4a03-af32-2d6182406f37",
+            "seller_type": "PUBLISHER",
+            "name": "WEBEDIA ESPAÑA S.L",
+            "domain": "webedia.es"
+        },
+        {
+            "seller_id": "70400ed6-84f1-4d05-a33e-df60ece3e085",
+            "seller_type": "PUBLISHER",
+            "name": "GLOCAL INFLUENCE SL",
+            "domain": "navarra.elespanol.com"
+        },
+        {
+            "seller_id": "70b98f30-645b-4d48-81cb-aafc1bd7a5f8",
+            "seller_type": "PUBLISHER",
+            "name": "Fabian Aaron",
+            "domain": "puntofape.com"
+        },
+        {
+            "seller_id": "70cdf9f8-0243-4a31-b039-1344dc3b77f6",
+            "seller_type": "PUBLISHER",
+            "name": "UNIVERSITAS CREACIONES S.L",
+            "domain": "aulamagna.net"
+        },
+        {
+            "seller_id": "70d9df27-7494-4545-a5c4-ef843486928c",
+            "seller_type": "PUBLISHER",
+            "name": "Alta Densidad S.A.",
+            "domain": "cronica.com.ar"
+        },
+        {
+            "seller_id": "717637e5-26fd-4629-8216-e145483de757",
+            "seller_type": "PUBLISHER",
+            "name": "ZEROA MULTIMEDIA S.A.",
+            "domain": "noticiasdenavarra.com"
+        },
+        {
+            "seller_id": "727f3263-179c-4bb4-8ea5-7326e04c5932",
+            "seller_type": "PUBLISHER",
+            "name": "Prensa y medios santafesinos del sur S.A.",
+            "domain": "rosarioplus.com"
+        },
+        {
+            "seller_id": "73247d74-e9b0-4415-83ab-f5496d8dbb24",
+            "seller_type": "PUBLISHER",
+            "name": "GRUPO MULTIMEDIOS, S.A DE C.V",
+            "domain": "multimedios.com"
+        },
+        {
+            "seller_id": "7356eea8-1150-4c4c-8acf-da5ac1ed63f1",
+            "seller_type": "PUBLISHER",
+            "name": "EXTRADVERTISING SL",
+            "domain": "odsc.es"
+        },
+        {
+            "seller_id": "74f003b9-8bd4-4cb7-a566-55006579955b",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "revistazero.es"
+        },
+        {
+            "seller_id": "763f5794-c93c-4d70-96b0-8dc3ff78704a",
+            "seller_type": "PUBLISHER",
+            "name": "Dani Alcalà Mund",
+            "domain": "yavendras.com"
+        },
+        {
+            "seller_id": "76635448-1ce7-458d-a7b6-595a0cf21671",
+            "seller_type": "PUBLISHER",
+            "name": "Caracol Televisión S.A",
+            "domain": "caracoltv.com"
+        },
+        {
+            "seller_id": "77e30496-c62c-4002-8581-73570286b817",
+            "seller_type": "PUBLISHER",
+            "name": "Antevenio SA",
+            "domain": "antevenio.com"
+        },
+        {
+            "seller_id": "7850c3c2-6d57-4c52-91c6-df9be73a203b",
+            "seller_type": "PUBLISHER",
+            "name": "Associados.com",
+            "domain": "superesportes.com.br"
+        },
+        {
+            "seller_id": "7850ca3f-d570-43c1-8219-72e50fab4466",
+            "seller_type": "PUBLISHER",
+            "name": "MEDIA BUSINESS GENERATORS SA DE CV",
+            "domain": "forbes.com.mx"
+        },
+        {
+            "seller_id": "78ed8706-7fdc-4368-bb6d-f1e84d2db558",
+            "seller_type": "PUBLISHER",
+            "name": "LUIS MARTIN CHAVERO GARCIA",
+            "domain": "rotativo.com.mx"
+        },
+        {
+            "seller_id": "78f503be-6809-45c4-aaa4-bcfe5a26403c",
+            "seller_type": "PUBLISHER",
+            "name": "Mi No Dieta SL.",
+            "domain": "minodieta.com"
+        },
+        {
+            "seller_id": "78f86fc2-9980-42f7-ae4d-541800233c12",
+            "seller_type": "PUBLISHER",
+            "name": "Marcos André Pires Coelho",
+            "domain": "comunidadeculturaearte.com"
+        },
+        {
+            "seller_id": "792ef05c-2f99-490d-b38f-76d55a5777d8",
+            "seller_type": "PUBLISHER",
+            "name": "Francisco Javier Cabello Moreno",
+            "domain": "comparterecetas.com"
+        },
+        {
+            "seller_id": "79d57c06-1c46-4fa6-ae88-bb0154f3f21c",
+            "seller_type": "PUBLISHER",
+            "name": "TECNO MEDIA COMUNICACIÓN S.L.",
+            "domain": "educaciontrespuntocero.com"
+        },
+        {
+            "seller_id": "7d0ef749-751b-443e-9a2a-4a0bc854910e",
+            "seller_type": "PUBLISHER",
+            "name": "Noxvo SLU",
+            "domain": "zonared.com"
+        },
+        {
+            "seller_id": "7dd50f73-e201-4890-824e-babd81fa504c",
+            "seller_type": "PUBLISHER",
+            "name": "INVENT MX SAPI DE CV",
+            "domain": "imagendigital.com"
+        },
+        {
+            "seller_id": "7dd7edce-1302-44f2-9043-41aa75297dac",
+            "seller_type": "PUBLISHER",
+            "name": "Pedro Armindo",
+            "domain": "eusouandroid.co"
+        },
+        {
+            "seller_id": "7f130261-d052-4ea6-b1c7-891cbd43db2c",
+            "seller_type": "PUBLISHER",
+            "name": "GFH Corporation",
+            "domain": "documaniatv.com"
+        },
+        {
+            "seller_id": "7f8f24ee-ff47-464c-860c-0709d6d81ad9",
+            "seller_type": "PUBLISHER",
+            "name": "Kalgan Game System S.L.",
+            "domain": "pcbolsa.com"
+        },
+        {
+            "seller_id": "7f962fec-1a3c-4877-977e-d478451b46cd",
+            "seller_type": "PUBLISHER",
+            "name": "Informaciones Canarias SA",
+            "domain": "canarias7.es"
+        },
+        {
+            "seller_id": "8064689a-ecea-4bff-9a8d-b0a90e170c4b",
+            "seller_type": "PUBLISHER",
+            "name": "SERGIO BARRIO GOMEZ",
+            "domain": "profesor10demates.com"
+        },
+        {
+            "seller_id": "8193fcab-ae85-4408-88b9-edbd81adfd21",
+            "seller_type": "PUBLISHER",
+            "name": "Sergio Vega Palazuelos",
+            "domain": "totalfantasy.es"
+        },
+        {
+            "seller_id": "81f0b222-bc15-46be-8517-638494494f10",
+            "seller_type": "PUBLISHER",
+            "name": "Jose Miguel Ibáñez Conesa",
+            "domain": "apkingdom.com"
+        },
+        {
+            "seller_id": "823ea499-88cc-4dd6-8f3c-4de45dda1987",
+            "seller_type": "PUBLISHER",
+            "name": "MEDIA BUSINESS GENERATORS SA DE CV",
+            "domain": "foodandwineespanol.com"
+        },
+        {
+            "seller_id": "82c47ba8-5fed-46c1-add4-fe85da5dc942",
+            "seller_type": "PUBLISHER",
+            "name": "Publicaciones Fernandez Pichardo S.A. de C.V",
+            "domain": "imparcialoaxaca.mx"
+        },
+        {
+            "seller_id": "82dc2f43-6f61-48b5-a4b4-b7d150da3d0b",
+            "seller_type": "PUBLISHER",
+            "name": "Alfonso Bueno Serrano",
+            "domain": "malgusto.com"
+        },
+        {
+            "seller_id": "8373c8a0-4142-4105-b447-cddf39166fc2",
+            "seller_type": "PUBLISHER",
+            "name": "Audiovisual Española 2.000, S.A",
+            "domain": "larazon.es"
+        },
+        {
+            "seller_id": "83920a31-7d2e-4591-aafe-368a7a83e5d1",
+            "seller_type": "PUBLISHER",
+            "name": "Blog - Não leve por trás",
+            "domain": "naoleveportras.net"
+        },
+        {
+            "seller_id": "84323f54-e7d9-4baa-b2b5-a41d4e2a011b",
+            "seller_type": "PUBLISHER",
+            "name": "Adan Soares",
+            "domain": "osprofanos.com"
+        },
+        {
+            "seller_id": "85238ea0-9762-4027-8e3b-588e93b67cd2",
+            "seller_type": "PUBLISHER",
+            "name": "Radio Cadena Nacional S.A.S.(RCN Radio)",
+            "domain": "rcnradio.com"
+        },
+        {
+            "seller_id": "8623ecdc-a2df-47a6-b32a-03e279352852",
+            "seller_type": "PUBLISHER",
+            "name": "LINK WORLD NETWORK SL",
+            "domain": "forocoches.com"
+        },
+        {
+            "seller_id": "877b69ce-9582-453b-8d0c-2ce2d6344f25",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "casadaptada.com.br"
+        },
+        {
+            "seller_id": "877f53cc-ecfd-4df2-97c3-2be7f6aae06b",
+            "seller_type": "PUBLISHER",
+            "name": "Web Financial Group, S.A",
+            "domain": "webfinancialgroup.com"
+        },
+        {
+            "seller_id": "87f80996-2c75-406f-8d13-671cba0b1164",
+            "seller_type": "PUBLISHER",
+            "name": "Media Capital Digital S.A",
+            "domain": "mediacapital.pt"
+        },
+        {
+            "seller_id": "881447e9-eeba-45aa-b688-b3f38551f786",
+            "seller_type": "PUBLISHER",
+            "name": "Hector Atalo Ramos Gomez",
+            "domain": "songstraducidas.com"
+        },
+        {
+            "seller_id": "89fcabad-e1b2-426f-b749-c56efdbab296",
+            "seller_type": "PUBLISHER",
+            "name": "Mobusi mobile advertising SL",
+            "domain": "rechingon.com"
+        },
+        {
+            "seller_id": "8abe1898-df96-4dd4-856c-afe7615234c8",
+            "seller_type": "PUBLISHER",
+            "name": "Africatopsports",
+            "domain": "africatopsports.com"
+        },
+        {
+            "seller_id": "8b27a46e-e8d7-4737-ab4b-3c99269483b4",
+            "seller_type": "PUBLISHER",
+            "name": "Dipluripsa SL",
+            "domain": "teinteresa.es"
+        },
+        {
+            "seller_id": "8b6bd09f-0b45-4288-95ce-6f2cb5794199",
+            "seller_type": "PUBLISHER",
+            "name": "EUROPA PRESS NOTICIAS S.A.",
+            "domain": "https://www.europapress.es/"
+        },
+        {
+            "seller_id": "8b933b42-9a29-4737-8281-92d38f9989e1",
+            "seller_type": "PUBLISHER",
+            "name": "Minuto 30 S.A.S",
+            "domain": "minuto30.com"
+        },
+        {
+            "seller_id": "8b9b005f-e342-4bb6-9a50-161fefd709b5",
+            "seller_type": "PUBLISHER",
+            "name": "EL LEON DE EL ESPAÑOL PUBLICACIONES, S.A.",
+            "domain": "elespanol.com"
+        },
+        {
+            "seller_id": "8c184ba5-4b7b-43ec-a742-b1709a430120",
+            "seller_type": "PUBLISHER",
+            "name": "Editora de Comunicación Digital, S.L.",
+            "domain": "eldigitaldeciudadreal.com"
+        },
+        {
+            "seller_id": "8c35e9d5-d0ab-45ab-8b3c-6f794ffe59e2",
+            "seller_type": "PUBLISHER",
+            "name": "Mobusi Mobile Advertising S.L.",
+            "domain": "mobusi.com"
+        },
+        {
+            "seller_id": "8c87af69-95e7-499c-a711-fc612fed27a4",
+            "seller_type": "PUBLISHER",
+            "name": "El Tiempo Previsto S.L.",
+            "domain": "eltiempo.es"
+        },
+        {
+            "seller_id": "8ce363f0-5195-4f30-b4de-ff282676f044",
+            "seller_type": "PUBLISHER",
+            "name": "Paradigma Terrestre",
+            "domain": "paradigmaterrestre.com"
+        },
+        {
+            "seller_id": "8ee544c0-c589-4c68-a3cd-163e78054ec9",
+            "seller_type": "PUBLISHER",
+            "name": "Alfonso Somoza Márquez",
+            "domain": "todocircuito.com"
+        },
+        {
+            "seller_id": "8f79c02f-1c4a-4858-917e-fa6793c221fb",
+            "seller_type": "PUBLISHER",
+            "name": "IMPRESIONES AEREAS, S.A. DE C.V.",
+            "domain": "g21.com.mx"
+        },
+        {
+            "seller_id": "8fc82042-47d2-45ae-8186-4bcfe82a6f9f",
+            "seller_type": "PUBLISHER",
+            "name": "Future Champion, Organizaçao Eventos Desportivos Unip.",
+            "domain": "blogvisaodemercado.pt"
+        },
+        {
+            "seller_id": "8feafe7c-84ef-4e62-a151-83fa377baa41",
+            "seller_type": "PUBLISHER",
+            "name": "Sin Embargo MX",
+            "domain": "sinembargo.mx"
+        },
+        {
+            "seller_id": "9064d8e5-f46e-44e0-acd2-cc6c0e55de3f",
+            "seller_type": "PUBLISHER",
+            "name": "Juan Valentin Garcia Sanchez",
+            "domain": "miasiapop.com.mx"
+        },
+        {
+            "seller_id": "9082a213-5cb1-44a8-a5a0-bcfb22461777",
+            "seller_type": "PUBLISHER",
+            "name": "Alta Densidad S.A.",
+            "domain": "baenegocios.com"
+        },
+        {
+            "seller_id": "91a71c40-f6a2-44e2-8442-c66a3287642a",
+            "seller_type": "PUBLISHER",
+            "name": "Gabriel Hernando",
+            "domain": "planetagrandt.com.ar"
+        },
+        {
+            "seller_id": "91b80b8a-5fe5-48f3-bbd4-144e73cfdb63",
+            "seller_type": "PUBLISHER",
+            "name": "Danilo Fritzler",
+            "domain": "haytipos.com"
+        },
+        {
+            "seller_id": "91c6000b-582a-4478-80e4-64cdaf800d21",
+            "seller_type": "PUBLISHER",
+            "name": "Noxvo SLU",
+            "domain": "bekia.es"
+        },
+        {
+            "seller_id": "931d0411-397b-44f2-b7cb-11a5ff8cc0b2",
+            "seller_type": "PUBLISHER",
+            "name": "Comunicaciones Fotech Ltda.",
+            "domain": "fotech.cl"
+        },
+        {
+            "seller_id": "93dd8e95-05e0-4e8f-b18d-40df19ae4dcc",
+            "seller_type": "PUBLISHER",
+            "name": "URGULL 2004 S.A.",
+            "domain": "noticiasdegipuzkoa.eus"
+        },
+        {
+            "seller_id": "94bd8497-54fe-494b-9302-a9bcfa49ac58",
+            "seller_type": "PUBLISHER",
+            "name": "Alejandro Arana Navarrete",
+            "domain": "yucatan.com.mx"
+        },
+        {
+            "seller_id": "95ab1ba8-b1a7-4264-af40-8c2b0184969b",
+            "seller_type": "PUBLISHER",
+            "name": "EME TRES ONLINE",
+            "domain": "Agrodiario.com"
+        },
+        {
+            "seller_id": "95cf4529-1ee7-41f5-8d58-192c340f45e2",
+            "seller_type": "PUBLISHER",
+            "name": "LUIKE IBEROAMERICANA DE REVISTAS SL",
+            "domain": "autofacil.es"
+        },
+        {
+            "seller_id": "9751364f-6938-4edb-9805-a7ea4b61c8f2",
+            "seller_type": "PUBLISHER",
+            "name": "GRUPO ZETA, S.A.U.",
+            "domain": "grupozeta.es"
+        },
+        {
+            "seller_id": "97808342-0684-4130-8515-8a2a31c15115",
+            "seller_type": "PUBLISHER",
+            "name": "Cuartel del Metal",
+            "domain": "cuarteldelmetal.com"
+        },
+        {
+            "seller_id": "9bd04280-04be-468c-abd5-6ec142f56caa",
+            "seller_type": "PUBLISHER",
+            "name": "DEIA. EDITORIAL IPARRAGUIRRE S.A. - GRUPO NOTICIAS",
+            "domain": "deia.eus"
+        },
+        {
+            "seller_id": "9c706dc7-efa9-4292-8df4-00bf347aaa21",
+            "seller_type": "PUBLISHER",
+            "name": "ZANA INVESTMENTS 2018 SL",
+            "domain": "wemass.com"
+        },
+        {
+            "seller_id": "9e90f5ad-9ce4-48d5-a383-4bcba9f20a60",
+            "seller_type": "PUBLISHER",
+            "name": "Carlos Alexandre Melo de Oliveira",
+            "domain": "humordaterra.com"
+        },
+        {
+            "seller_id": "9e9c3a08-803c-45ff-9812-41d1bbc2620b",
+            "seller_type": "PUBLISHER",
+            "name": "Javier Maestro Bermejo",
+            "domain": "encestando.es"
+        },
+        {
+            "seller_id": "9ea70004-251b-4725-989f-51290da7597a",
+            "seller_type": "PUBLISHER",
+            "name": "CABSODISA, S.R.L.",
+            "domain": "cabroworld.com"
+        },
+        {
+            "seller_id": "9eb298fe-520b-446d-bc81-65dc1c73289b",
+            "seller_type": "PUBLISHER",
+            "name": "Miguel Torres Zavala",
+            "domain": "juegodetronos.club"
+        },
+        {
+            "seller_id": "9ededcb5-d293-4a76-98d3-12b995cb2f23",
+            "seller_type": "PUBLISHER",
+            "name": "ANA MARIA DURAN SANTIAGO",
+            "domain": "comuniate.com"
+        },
+        {
+            "seller_id": "9f3d15ec-ea3c-4c92-8174-0bf3c84d1024",
+            "seller_type": "PUBLISHER",
+            "name": "Más Interesante, SL.",
+            "domain": "alertanacional.es"
+        },
+        {
+            "seller_id": "9f9a42ed-4e3c-4cf1-8f0c-e75fd2b2fe75",
+            "seller_type": "PUBLISHER",
+            "name": "Francisco Montes SACIF",
+            "domain": "diariodecuyo.com.ar"
+        },
+        {
+            "seller_id": "9fef776b-575d-4102-8503-a56817e269a6",
+            "seller_type": "PUBLISHER",
+            "name": "Danilo Fritzler",
+            "domain": "culturacion.com"
+        },
+        {
+            "seller_id": "a044c15f-0e37-46fd-921c-53f4261fa6de",
+            "seller_type": "PUBLISHER",
+            "name": "Rafael M. Martos",
+            "domain": "noticiasdealmeria.com"
+        },
+        {
+            "seller_id": "a09a9c95-c790-46dc-b939-1240a92335d4",
+            "seller_type": "PUBLISHER",
+            "name": "Joehan Lallemant Bolaga y Romero",
+            "domain": "ecultura.net"
+        },
+        {
+            "seller_id": "a16f4b3e-7eb6-4964-a51f-7237014d475c",
+            "seller_type": "PUBLISHER",
+            "name": "Greynium Information Technologies Pvt. Ltd",
+            "domain": "boldsky.com"
+        },
+        {
+            "seller_id": "a268d0d2-66a6-489d-98b7-73938dabd4a5",
+            "seller_type": "PUBLISHER",
+            "name": "Fernando Távara",
+            "domain": "codigooculto.com"
+        },
+        {
+            "seller_id": "a376b866-6d38-4a15-8040-648ac15b2aab",
+            "seller_type": "PUBLISHER",
+            "name": "Fernando Alves",
+            "domain": "vortexmag.net"
+        },
+        {
+            "seller_id": "a476d03e-13e4-4459-8048-af6f9b061f3f",
+            "seller_type": "PUBLISHER",
+            "name": "ATelevisao",
+            "domain": "atelevisao.com"
+        },
+        {
+            "seller_id": "a68deb57-5ca5-4a47-b766-a027a36407aa",
+            "seller_type": "PUBLISHER",
+            "name": "Mundo Positivo",
+            "domain": "mundopositivo.com.br"
+        },
+        {
+            "seller_id": "a6c290c5-5f88-4df7-84cb-206aea714a5b",
+            "seller_type": "PUBLISHER",
+            "name": "Noxvo SLU",
+            "domain": "formulatv.com"
+        },
+        {
+            "seller_id": "a6cade4b-0d96-4f0d-bbb6-3b022f61b66f",
+            "seller_type": "PUBLISHER",
+            "name": "Publialbor SL",
+            "domain": "salamanca24horas.com"
+        },
+        {
+            "seller_id": "a70dfa91-c046-469c-8289-2ee03a7078fc",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "elmatinal.com"
+        },
+        {
+            "seller_id": "a72269e2-b9c8-48fe-a2f3-96bd12815a21",
+            "seller_type": "PUBLISHER",
+            "name": "FENTUDROID, S.L.",
+            "domain": "musica.com"
+        },
+        {
+            "seller_id": "a731a9d9-51c1-4433-8636-a6f14a8ce2a8",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "woxikon.com"
+        },
+        {
+            "seller_id": "a73a0f35-ba42-49dd-aeba-be057148570e",
+            "seller_type": "PUBLISHER",
+            "name": "Miguel Cardoso Pereira da Costa / Fluiddo Interactive",
+            "domain": "emdireto.pt"
+        },
+        {
+            "seller_id": "a7d49b72-6494-4de1-bf4a-b4d7ccf34d77",
+            "seller_type": "PUBLISHER",
+            "name": "Agencia EFE",
+            "domain": "efe.com"
+        },
+        {
+            "seller_id": "a7dbbde6-0ac0-4c17-b4c7-b0eb7953e278",
+            "seller_type": "PUBLISHER",
+            "name": "Contenidos Digitales K S.A.S. (Kien y Ke)",
+            "domain": "kienyke.com"
+        },
+        {
+            "seller_id": "a7fb2c94-d3ee-4ce6-bf94-51adcdf6b97d",
+            "seller_type": "PUBLISHER",
+            "name": "María Natividad Amundarain Urquijo",
+            "domain": "lacasadeel.net"
+        },
+        {
+            "seller_id": "a7fe9c2e-bdcb-47dc-80a0-28e1cc52bc04",
+            "seller_type": "PUBLISHER",
+            "name": "Semseoymas Online Marketing SL",
+            "domain": "semseoymas.com"
+        },
+        {
+            "seller_id": "a8819a20-22e9-4a08-833a-06d27a5c4826",
+            "seller_type": "PUBLISHER",
+            "name": "Rui Manuel Figuedeiro Videira",
+            "domain": "ncultura.pt"
+        },
+        {
+            "seller_id": "a95a8a7e-d691-4af7-b8a9-1614b122d3fe",
+            "seller_type": "PUBLISHER",
+            "name": "Red Social Crecer SL",
+            "domain": "redcrecer.com"
+        },
+        {
+            "seller_id": "ab0e2619-e18d-45a6-bb3c-a8441d784133",
+            "seller_type": "PUBLISHER",
+            "name": "CEIZAMORA 69 S.L. Fco José Colmenero Rojo",
+            "domain": "zamoranews.com"
+        },
+        {
+            "seller_id": "ab21e6cc-e6c3-4fbc-bd6d-36dcd601da17",
+            "seller_type": "PUBLISHER",
+            "name": "CONOCE LA CAPITAL, SAPI DE CV",
+            "domain": "mxcity.mx"
+        },
+        {
+            "seller_id": "acc0e1df-1b57-475c-ae61-bf81feb478f4",
+            "seller_type": "PUBLISHER",
+            "name": "Solange Teresinha Girelli Maciel",
+            "domain": "ppnewsfb.com.br"
+        },
+        {
+            "seller_id": "ad82be05-b068-4925-ba70-7222ad8a276e",
+            "seller_type": "PUBLISHER",
+            "name": "SummonPress S.L.",
+            "domain": "modelocurriculum.net"
+        },
+        {
+            "seller_id": "ae991bd6-bc63-47ec-9a10-a123d60f3de6",
+            "seller_type": "PUBLISHER",
+            "name": "Asociación Tercera Información",
+            "domain": "tercerainformacion.es"
+        },
+        {
+            "seller_id": "af6f3441-b8cf-4f79-b8bf-d20f640e98ca",
+            "seller_type": "PUBLISHER",
+            "name": "Philippe Portes",
+            "domain": "calaveras-literarias.com"
+        },
+        {
+            "seller_id": "b27878b7-6b9e-47c6-9825-c06baa2f7795",
+            "seller_type": "PUBLISHER",
+            "name": "Jaime Ahumada",
+            "domain": "celeb411.com"
+        },
+        {
+            "seller_id": "b446e362-4065-4ec8-b4d1-427fe486caca",
+            "seller_type": "PUBLISHER",
+            "name": "Pulsomed S.A",
+            "domain": "pulsomed.com"
+        },
+        {
+            "seller_id": "b55a4985-9dee-4903-bf12-bd44dbbdeb6e",
+            "seller_type": "PUBLISHER",
+            "name": "Miarroba Networks, S.L.",
+            "domain": "miarroba.com"
+        },
+        {
+            "seller_id": "b6e8b283-b45f-4a67-89a5-674ccad23e11",
+            "seller_type": "PUBLISHER",
+            "name": "Prensa Iberica",
+            "domain": "prensaiberica.es"
+        },
+        {
+            "seller_id": "b73b2b7b-c9f0-494c-8ad2-09d4d8a2532e",
+            "seller_type": "PUBLISHER",
+            "name": "Film-Scan S.L.",
+            "domain": "unisima.com"
+        },
+        {
+            "seller_id": "b74e81f0-3788-435b-bbf7-64f6a91ddcdf",
+            "seller_type": "PUBLISHER",
+            "name": "SunMedia",
+            "domain": "sunmedia.tv"
+        },
+        {
+            "seller_id": "b77edaef-3a1a-4a46-b8f0-71089d074bb7",
+            "seller_type": "",
+            "name": "COMUNICACIÓN DIGITAL CORDOBESA S.L",
+            "domain": null
+        },
+        {
+            "seller_id": "b78d2fc9-5c35-4654-a375-337ec903bf67",
+            "seller_type": "PUBLISHER",
+            "name": "ZURIGUEL VENTURES, SL",
+            "domain": "saludymemente.net"
+        },
+        {
+            "seller_id": "b7d89490-ed13-4584-ad51-1508a9e56cb1",
+            "seller_type": "PUBLISHER",
+            "name": "Matias Elian Callone",
+            "domain": "101lugaresincreibles.com"
+        },
+        {
+            "seller_id": "b830f925-8e7d-45cb-9f50-14d3186d1c95",
+            "seller_type": "PUBLISHER",
+            "name": "Ricardo Sánchez Fenández",
+            "domain": "segoviaaldia.es"
+        },
+        {
+            "seller_id": "b909360d-0101-4c76-a545-0dad054c0c16",
+            "seller_type": "PUBLISHER",
+            "name": "LUIKE IBEROAMERICANA DE REVISTAS SL",
+            "domain": "formulamoto.es"
+        },
+        {
+            "seller_id": "b90f802c-cbc7-4512-8c5c-8ec1e7ad0474",
+            "seller_type": "PUBLISHER",
+            "name": "Greynium Information Technologies Pvt. Ltd",
+            "domain": "drivespark.com"
+        },
+        {
+            "seller_id": "ba513670-fab4-4d0e-a829-c3c1d9d4335e",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "escolaeducacao.com.br"
+        },
+        {
+            "seller_id": "badd70e5-c333-4fd5-a4e9-c9ca55dc64f5",
+            "seller_type": "PUBLISHER",
+            "name": "Mondo Core SL",
+            "domain": "futmondo.com"
+        },
+        {
+            "seller_id": "bb2557b7-ae28-440c-8f83-4bd1fb5d7fb0",
+            "seller_type": "PUBLISHER",
+            "name": "La Fábrica de la Comedia S.C.",
+            "domain": "thereisnews.com"
+        },
+        {
+            "seller_id": "bc06ae6f-1968-4bf8-b1c7-343c3d645494",
+            "seller_type": "PUBLISHER",
+            "name": "ORGANIZACIÓN PUBLICITARIA, S. A.",
+            "domain": "diez.hn"
+        },
+        {
+            "seller_id": "bd06d725-c090-4535-823e-8cf262c9c16c",
+            "seller_type": "PUBLISHER",
+            "name": "EDITORIAL  GUADALMENA SL",
+            "domain": "guitarraviva.com"
+        },
+        {
+            "seller_id": "bd8b844e-e3fb-4c6f-afda-b164b82f444d",
+            "seller_type": "PUBLISHER",
+            "name": "Grupo AGEA S.A.",
+            "domain": "grupoclarin.com"
+        },
+        {
+            "seller_id": "bddfb9a7-1936-42a5-ac05-b6882eb3e7f6",
+            "seller_type": "PUBLISHER",
+            "name": "ChatHispano SL",
+            "domain": "chathispano.com"
+        },
+        {
+            "seller_id": "bfaa14e8-3643-4a54-92e3-15e4ab32491a",
+            "seller_type": "PUBLISHER",
+            "name": "PUBLICACIONES Y EDICIONES BARACA 208 SL",
+            "domain": "diarioya.es"
+        },
+        {
+            "seller_id": "bfbfaa06-5600-4346-8f33-2ef4ff851fa1",
+            "seller_type": "PUBLISHER",
+            "name": "Ideatic Development SLU",
+            "domain": "xuletas.es"
+        },
+        {
+            "seller_id": "bfd36824-9ff7-4733-aae1-7ee5fe220fc1",
+            "seller_type": "PUBLISHER",
+            "name": "Tomás Gavaldá Adsuara",
+            "domain": "futbolfantasy.com"
+        },
+        {
+            "seller_id": "c02153d4-88dd-40a7-a53b-2501706ad5d0",
+            "seller_type": "PUBLISHER",
+            "name": "EL DESMARQUE PORTAL DEPORTIVO SL",
+            "domain": "eldesmarque.com"
+        },
+        {
+            "seller_id": "c0290de7-dbd1-445e-9201-e79b0755fcb9",
+            "seller_type": "PUBLISHER",
+            "name": "SummonPress S.L.",
+            "domain": "elembarazo.net"
+        },
+        {
+            "seller_id": "c0f05603-1056-4430-b31c-50ffaf17ad5e",
+            "seller_type": "PUBLISHER",
+            "name": "Moisés Yoldi",
+            "domain": "xeudeportes.mx"
+        },
+        {
+            "seller_id": "c0f85c32-5f77-4c0d-81c6-0f2c7e2cd7b4",
+            "seller_type": "PUBLISHER",
+            "name": "Grupo Radio Centro",
+            "domain": "radiocentro.com"
+        },
+        {
+            "seller_id": "c159bd05-22ee-45b3-a742-fce2436fcfe8",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "lafichaquefaltaba.com"
+        },
+        {
+            "seller_id": "c22a3d79-94d8-40ef-a9ae-b0dd6f031c0d",
+            "seller_type": "PUBLISHER",
+            "name": "El Diario de Prensa Digital S.L.",
+            "domain": "eldiario.es"
+        },
+        {
+            "seller_id": "c4789b9a-6020-46e4-a9ad-edc6f5bf6b41",
+            "seller_type": "PUBLISHER",
+            "name": "Empresas El Debate S. A. de C. V",
+            "domain": "debate.com.mx"
+        },
+        {
+            "seller_id": "c4ec083e-eb5c-4604-9d65-5356ba66c3c6",
+            "seller_type": "PUBLISHER",
+            "name": "Jetlaging S.L.",
+            "domain": "elconfidencial.com"
+        },
+        {
+            "seller_id": "c6071519-4137-431d-8ae8-5ec11651ca82",
+            "seller_type": "PUBLISHER",
+            "name": "GRUPO EDITORIAL MEDITERRÁNEO DIGITAL, S.L.U.",
+            "domain": "mediterraneodigital.com"
+        },
+        {
+            "seller_id": "c69ffbcb-f894-4880-8672-2bfdf71a195c",
+            "seller_type": "PUBLISHER",
+            "name": "Advantage Media Sp. z o. o.",
+            "domain": "cgm.pl"
+        },
+        {
+            "seller_id": "c7045a03-2832-4316-bda6-f6f38abcc694",
+            "seller_type": "PUBLISHER",
+            "name": "JOT Internet Media, S.L.",
+            "domain": "thenextcontent.com"
+        },
+        {
+            "seller_id": "c7d3d3af-d9d7-4098-9084-9d09a98ae668",
+            "seller_type": "PUBLISHER",
+            "name": "Faytre Lea",
+            "domain": "parlerdamour.fr"
+        },
+        {
+            "seller_id": "c8e26560-66e6-447c-9dda-df7a6862796d",
+            "seller_type": "PUBLISHER",
+            "name": "COMUNICAN S.A.",
+            "domain": "https://www.elespectador.com"
+        },
+        {
+            "seller_id": "c911ce11-39ef-4dd0-ae3e-5bb0d6a08d70",
+            "seller_type": "PUBLISHER",
+            "name": "EXPANSION SMART SERVICES SL",
+            "domain": "elgoldigital.com"
+        },
+        {
+            "seller_id": "ca0101b3-c0b3-4251-8659-655d9def6475",
+            "seller_type": "PUBLISHER",
+            "name": "Delivery Media S.L.",
+            "domain": "deliverymedia.es"
+        },
+        {
+            "seller_id": "ca453478-14bc-4380-96af-e9626dd0fa12",
+            "seller_type": "PUBLISHER",
+            "name": "Melilla Hoy",
+            "domain": "melillahoy.es"
+        },
+        {
+            "seller_id": "caeb79f9-6774-410b-b032-e5303e61ae34",
+            "seller_type": "PUBLISHER",
+            "name": "KCN MULTIMEDIA MANAGER SL",
+            "domain": "horoscoponegro.com"
+        },
+        {
+            "seller_id": "cb382391-22a0-41f0-a619-18d15683aebf",
+            "seller_type": "PUBLISHER",
+            "name": "Jaime Ahumada",
+            "domain": "crushthat.com"
+        },
+        {
+            "seller_id": "cc39c1ff-a640-4990-b680-d017662a36bd",
+            "seller_type": "PUBLISHER",
+            "name": "Kalooga HQ",
+            "domain": "kalooga.com/es"
+        },
+        {
+            "seller_id": "cd6ee695-01e3-4aca-9ea0-5f22139addd7",
+            "seller_type": "PUBLISHER",
+            "name": "Sebastian Peña",
+            "domain": "elpais.com.co"
+        },
+        {
+            "seller_id": "cd84659f-3d2f-46fb-8022-101fae09c07d",
+            "seller_type": "PUBLISHER",
+            "name": "Smile&Think, SLU",
+            "domain": "ampliffy.com"
+        },
+        {
+            "seller_id": "cde78679-cd23-4288-9470-429db44d7bd8",
+            "seller_type": "PUBLISHER",
+            "name": "Saio Servicios SA",
+            "domain": "aristeguinoticias.com"
+        },
+        {
+            "seller_id": "ce8b3a76-eda4-4d35-9a09-69bc1f69f5f5",
+            "seller_type": "PUBLISHER",
+            "name": "MB-21 DE Ediciones 2010 S.L.",
+            "domain": "madrid-barcelona.com"
+        },
+        {
+            "seller_id": "cec70e83-4b3c-4e5d-b988-6447a8a844ce",
+            "seller_type": "PUBLISHER",
+            "name": "Ideatic Development SLU",
+            "domain": "nombra.me"
+        },
+        {
+            "seller_id": "cf422e37-56b6-4d21-b00f-4b769eeb16e0",
+            "seller_type": "PUBLISHER",
+            "name": "SOLVETIC INTERNET, S.L",
+            "domain": "solvetic.com"
+        },
+        {
+            "seller_id": "cfa8619e-fd99-40a0-baf1-d4e381d43023",
+            "seller_type": "PUBLISHER",
+            "name": "Expressive Media Proyects",
+            "domain": "eitb.eus/es"
+        },
+        {
+            "seller_id": "cffb145b-058d-4df3-b811-0e723ba5a309",
+            "seller_type": "PUBLISHER",
+            "name": "Radio Televisión Castilla y León S.A.",
+            "domain": "rtvcyl.es"
+        },
+        {
+            "seller_id": "d016e9d3-4952-4a44-ba5e-be5ecf64eb74",
+            "seller_type": "PUBLISHER",
+            "name": "Corporacion Radio e Television de Galicia",
+            "domain": "crtvg.es"
+        },
+        {
+            "seller_id": "d14224db-4a81-47e2-8bc0-ec22a8d6f862",
+            "seller_type": "PUBLISHER",
+            "name": "EDICIONES IZORIA 2004 SL",
+            "domain": "noticiasdealava.eus"
+        },
+        {
+            "seller_id": "d27f2488-a58a-4758-b408-1f6210430396",
+            "seller_type": "PUBLISHER",
+            "name": "Danilo Fritzler",
+            "domain": "ejemplosde.com"
+        },
+        {
+            "seller_id": "d415f5d7-609c-4724-865e-2eeef5981e42",
+            "seller_type": "PUBLISHER",
+            "name": "WR EDITORA E PUBLICIDADE LTDA ME",
+            "domain": "fanoticias.com.br"
+        },
+        {
+            "seller_id": "d4a1c4c1-61a0-458f-b6e3-f26a5a92c816",
+            "seller_type": "PUBLISHER",
+            "name": "ALNUAR 2000 S.L.",
+            "domain": "lanuevacronica.com"
+        },
+        {
+            "seller_id": "d4b5fb61-ab17-4f9c-8a21-98454bb68f0a",
+            "seller_type": "PUBLISHER",
+            "name": "Editorial Catedral",
+            "domain": "noreste.com.mx"
+        },
+        {
+            "seller_id": "d53b20ac-6924-4684-9585-2fd88f64e1a5",
+            "seller_type": "PUBLISHER",
+            "name": "Centro de Formacion ACN S.L.",
+            "domain": "educapeques.com"
+        },
+        {
+            "seller_id": "d5555260-58e5-4db5-816c-b62d801ed016",
+            "seller_type": "PUBLISHER",
+            "name": "Comunicación e Información, SA de CV",
+            "domain": "proceso.com.mx"
+        },
+        {
+            "seller_id": "d5d6b973-a506-4466-8485-bb6c6780a680",
+            "seller_type": "PUBLISHER",
+            "name": "Rosa María Bermúdez Garrido",
+            "domain": "futbolenvivo.com"
+        },
+        {
+            "seller_id": "d6332e9c-fff6-49b0-b1c5-62cf476a47f4",
+            "seller_type": "PUBLISHER",
+            "name": "Unidad Editorial S.A.",
+            "domain": "unidadeditorial.es"
+        },
+        {
+            "seller_id": "d6c2bb5e-e338-408b-b2d1-8d6d0298a95c",
+            "seller_type": "PUBLISHER",
+            "name": "De Dvdes SL",
+            "domain": "liberaldecastilla.com"
+        },
+        {
+            "seller_id": "d7ae6f12-bd58-4710-8af1-745fda1d2955",
+            "seller_type": "PUBLISHER",
+            "name": "Advantage Media Sp. z o. o.",
+            "domain": "kresy.pl"
+        },
+        {
+            "seller_id": "d8828573-52bc-474e-991b-f52eb54a7d3f",
+            "seller_type": "PUBLISHER",
+            "name": "Pomu Network LLC",
+            "domain": "pomu.com"
+        },
+        {
+            "seller_id": "d8ca040a-5784-464a-94db-12c2aa5771b1",
+            "seller_type": "PUBLISHER",
+            "name": "Noxvo SLU",
+            "domain": "enbuenasmanos.com"
+        },
+        {
+            "seller_id": "d92f4b55-2c77-4dc2-81b3-8acd10175a68",
+            "seller_type": "PUBLISHER",
+            "name": "Publicaciones del Sur SA",
+            "domain": "andaluciainformacion.es"
+        },
+        {
+            "seller_id": "d970bcf1-ea15-4452-a00a-c5ce727162bb",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "pequeocio.com"
+        },
+        {
+            "seller_id": "d973c5a5-6b7f-402a-bb57-f7c88efb9b0e",
+            "seller_type": "PUBLISHER",
+            "name": "GLOBAL FISTERRA, S.L.U.",
+            "domain": "digitaldeleon.com"
+        },
+        {
+            "seller_id": "da718089-f9ea-46d1-9fef-22e41c2f29f3",
+            "seller_type": "PUBLISHER",
+            "name": "Jaime Ahumada",
+            "domain": "recipepair.com"
+        },
+        {
+            "seller_id": "dc237232-12b0-4b6d-b8af-202ac0930821",
+            "seller_type": "PUBLISHER",
+            "name": "EDITORA DEMAR SA DE CV",
+            "domain": "elmanana.com"
+        },
+        {
+            "seller_id": "dc452377-c474-4145-a5f0-900c37abdac2",
+            "seller_type": "PUBLISHER",
+            "name": "Fundacion Las Dos Orillas",
+            "domain": "las2orillas.co"
+        },
+        {
+            "seller_id": "dd39707e-f0f6-4753-9824-158483905831",
+            "seller_type": "PUBLISHER",
+            "name": "ATMHD Media Contents LDA",
+            "domain": "magazine-hd.com/apps/wp"
+        },
+        {
+            "seller_id": "dd561c0a-4e82-4204-afa5-ab25c6b76fa1",
+            "seller_type": "PUBLISHER",
+            "name": "Andrea Calabrò",
+            "domain": "socialup.it"
+        },
+        {
+            "seller_id": "dd56c52b-ec68-4f71-8926-82261095fdf5",
+            "seller_type": "PUBLISHER",
+            "name": "CABSODISA SRL",
+            "domain": "culturalol.com"
+        },
+        {
+            "seller_id": "ddad5817-cbb7-4340-bf6c-01d15c13aaee",
+            "seller_type": "PUBLISHER",
+            "name": "INVESTIGACION Y DESARROLLO INICIATIVAS EMPRESARIALES S.L.",
+            "domain": "carreraspopulares.com"
+        },
+        {
+            "seller_id": "ddedecd6-c47b-4b7b-8f10-0fa4dae8f1c6",
+            "seller_type": "PUBLISHER",
+            "name": "ZURIGUEL VENTURES, SL",
+            "domain": "thismagazine.net"
+        },
+        {
+            "seller_id": "de3b1e60-22e8-408d-8cd8-e16dd8b83f0c",
+            "seller_type": "PUBLISHER",
+            "name": "Publialbor SL",
+            "domain": "zamora24horas.com"
+        },
+        {
+            "seller_id": "df09239f-0e5a-4e5c-ae6a-c7a45afbe6ee",
+            "seller_type": "PUBLISHER",
+            "name": "GRUPO DE MEDIOS DIGITALES Y ENTRETENIMIENTO S.A. DE C.V",
+            "domain": "thehappening.com"
+        },
+        {
+            "seller_id": "df324df6-f524-4b81-8826-38c7c67c0960",
+            "seller_type": "PUBLISHER",
+            "name": "Noxvo SLU",
+            "domain": "ecartelera.com"
+        },
+        {
+            "seller_id": "df9cce8b-de1a-4a07-b3ed-c313d7e7b1c6",
+            "seller_type": "PUBLISHER",
+            "name": "Fabian Antonio Ramirez Zugaide",
+            "domain": "freim.tv"
+        },
+        {
+            "seller_id": "df9f1664-1f26-45c8-8123-44f776f8dcf2",
+            "seller_type": "PUBLISHER",
+            "name": "Titanium Gourmet SL",
+            "domain": "que.es"
+        },
+        {
+            "seller_id": "e2c02e88-6de1-4a89-bf7e-e20e083e0855",
+            "seller_type": "PUBLISHER",
+            "name": "Mobusi mobile advertising SL",
+            "domain": "donconsejo.com"
+        },
+        {
+            "seller_id": "e37c3b40-3742-492d-a44c-5d4f42b49aea",
+            "seller_type": "PUBLISHER",
+            "name": "Economipedia S.L.",
+            "domain": "economipedia.com"
+        },
+        {
+            "seller_id": "e3d6e043-9cd5-4523-8061-e0e0f9259e21",
+            "seller_type": "PUBLISHER",
+            "name": "Ricardo Nuno Oliveira Uniperssoal LDA",
+            "domain": "mestredodesporto.com"
+        },
+        {
+            "seller_id": "e40a7ab0-4079-49b7-b6ee-6a46cfd09273",
+            "seller_type": "PUBLISHER",
+            "name": "Silvia Iglesias Gracia",
+            "domain": "miscosillasdecocina.com"
+        },
+        {
+            "seller_id": "e4cae22f-98bc-43d7-abc5-fa1728b45766",
+            "seller_type": "PUBLISHER",
+            "name": "XGN B.V.",
+            "domain": "refinery89.com"
+        },
+        {
+            "seller_id": "e4f88a58-7383-49b1-8021-75ed0d98c488",
+            "seller_type": "PUBLISHER",
+            "name": "SAUCE LABS",
+            "domain": "saucelabs.com"
+        },
+        {
+            "seller_id": "e535db17-26a4-48bb-ab23-3e27916e8730",
+            "seller_type": "PUBLISHER",
+            "name": "EL CRONISTA COMERCIAL S.A",
+            "domain": "infotechnology.com"
+        },
+        {
+            "seller_id": "e545b4fb-7b16-4f03-bcd9-fa054326f8bb",
+            "seller_type": "PUBLISHER",
+            "name": "Manuel Ramos Giráldez",
+            "domain": "espiaenelcongreso.com"
+        },
+        {
+            "seller_id": "e5d577cc-8c32-4c18-910d-cb050a30b7da",
+            "seller_type": "PUBLISHER",
+            "name": "Collectiu Kaosenlared",
+            "domain": "kaosenlared.net"
+        },
+        {
+            "seller_id": "e63c6318-442b-4be0-8276-ea4ba2ac81b4",
+            "seller_type": "PUBLISHER",
+            "name": "asociados.com",
+            "domain": "uai.com.br"
+        },
+        {
+            "seller_id": "e7e988bf-ff21-4659-b196-3e146cff3e97",
+            "seller_type": "PUBLISHER",
+            "name": "PUBLIESPAÑA, S.A.U.",
+            "domain": "publiesp.es"
+        },
+        {
+            "seller_id": "e946838d-412c-4cbf-ae4f-d04cc02f0c73",
+            "seller_type": "PUBLISHER",
+            "name": "E-planning",
+            "domain": "sunmedia.tv"
+        },
+        {
+            "seller_id": "ea2bae8b-1b3d-41db-a360-af9079c88694",
+            "seller_type": "PUBLISHER",
+            "name": "Vortex Magazine",
+            "domain": "vortexmag.net"
+        },
+        {
+            "seller_id": "ea968583-fbd3-496c-9853-42edaef2af54",
+            "seller_type": "PUBLISHER",
+            "name": "Stylient",
+            "domain": "stylient.es"
+        },
+        {
+            "seller_id": "eb1d994f-479c-4ac1-8b09-b28439bb3fc1",
+            "seller_type": "PUBLISHER",
+            "name": "Neon multimedia S.L.",
+            "domain": "guiadelnino.com"
+        },
+        {
+            "seller_id": "eb28232a-c43c-4699-824a-1ff3802c1186",
+            "seller_type": "PUBLISHER",
+            "name": "DIARIO EL PUEBLO, S.L.",
+            "domain": "elpueblodeceuta.es"
+        },
+        {
+            "seller_id": "ebb8771c-1319-43d6-9914-5d8531201e01",
+            "seller_type": "PUBLISHER",
+            "name": "Ligapro Manager SL",
+            "domain": "ligapromanager.com"
+        },
+        {
+            "seller_id": "ec12cb71-1831-44b3-a6b0-ee777d54e17f",
+            "seller_type": "PUBLISHER",
+            "name": "Radio Televisión Madrid SAU",
+            "domain": "telemadrid.es"
+        },
+        {
+            "seller_id": "ecff74c7-332a-4af6-970d-4c1a30d5663d",
+            "seller_type": "PUBLISHER",
+            "name": "Grupo de Comunicación El Cierre SL",
+            "domain": "elcierredigital.com"
+        },
+        {
+            "seller_id": "ed46f157-f54d-4c34-a8e3-85b692aad217",
+            "seller_type": "PUBLISHER",
+            "name": "Emprendimientos Corporativos S.A.",
+            "domain": "iprofesional.com"
+        },
+        {
+            "seller_id": "edb3d64c-d3dd-4974-9575-0e51b3cc6cc2",
+            "seller_type": "PUBLISHER",
+            "name": "HAPPY FM, S.L.",
+            "domain": "happyfm.es"
+        },
+        {
+            "seller_id": "edc0fd3a-ca63-40b1-bb67-ebe566790bef",
+            "seller_type": "PUBLISHER",
+            "name": "MIRACORREDOR, S.L.",
+            "domain": "miracorredor.tv"
+        },
+        {
+            "seller_id": "ee3ce6ed-3d18-4201-9845-0c1985921f61",
+            "seller_type": "PUBLISHER",
+            "name": "Centro de Formacion ACN S.L.",
+            "domain": "escuelaenlanube.com"
+        },
+        {
+            "seller_id": "f0070b28-e8d3-46aa-af96-4d5efa7fcd34",
+            "seller_type": "PUBLISHER",
+            "name": "TV3 CCMA",
+            "domain": "ccma.cat"
+        },
+        {
+            "seller_id": "f09d47f0-ed2b-4712-93b7-9c18ea22e88a",
+            "seller_type": "PUBLISHER",
+            "name": "ADMAN MEDIA INTERACTIVE SLU",
+            "domain": "admanmedia.com"
+        },
+        {
+            "seller_id": "f0f8ffa0-2ab8-45ec-be11-4f77c57c12db",
+            "seller_type": "PUBLISHER",
+            "name": "Scale Advertising Unipessoal Lda",
+            "domain": "motorguia.net"
+        },
+        {
+            "seller_id": "f3b572b9-94b4-4505-9734-e46f8089f5e0",
+            "seller_type": "PUBLISHER",
+            "name": null,
+            "domain": "editalconcursosbrasil.com.br"
+        },
+        {
+            "seller_id": "f40e0f8a-8639-462a-ba59-8650f667c515",
+            "seller_type": "PUBLISHER",
+            "name": "Capital Radio Economia SL",
+            "domain": "capitalradio.es"
+        },
+        {
+            "seller_id": "f490e788-c1dd-492f-b7d3-6eb89264efc7",
+            "seller_type": "PUBLISHER",
+            "name": "Ecomm Movadgency",
+            "domain": "consejosysecretos.com"
+        },
+        {
+            "seller_id": "f49301f4-5895-41c3-a39f-23dd6e3cca54",
+            "seller_type": "PUBLISHER",
+            "name": "SummonPress S.L.",
+            "domain": "calcuworld.com"
+        },
+        {
+            "seller_id": "f53ef185-3657-44bd-84c0-6c5ec65f6d2a",
+            "seller_type": "PUBLISHER",
+            "name": "Televisión Autonómica de Castilla-La Mancha SA",
+            "domain": "cmmedia.es"
+        },
+        {
+            "seller_id": "f681de14-55d3-4f13-bbe6-618c8471bf17",
+            "seller_type": "PUBLISHER",
+            "name": "SOCIEDAD PÚBLICA DE RADIODIFUSIÓN Y TELEVISIÓN EXTREMEÑA SAU",
+            "domain": "canalextremadura.es"
+        },
+        {
+            "seller_id": "f768fce5-76e8-45c9-b9bd-4636b8d7310e",
+            "seller_type": "PUBLISHER",
+            "name": "FULL COLOR PRODUCCIONES, S.A. DE C.V.",
+            "domain": "tvpacifico.mx"
+        },
+        {
+            "seller_id": "f7e4a683-0dd0-4657-b51f-e87faf2fc89a",
+            "seller_type": "PUBLISHER",
+            "name": "Codigo Digital S.A",
+            "domain": "soy502.com"
+        },
+        {
+            "seller_id": "f914c8f6-8e6e-4543-928b-51cbc75d92f3",
+            "seller_type": "PUBLISHER",
+            "name": "JORGE OCAMPO",
+            "domain": "superluchas.com"
+        },
+        {
+            "seller_id": "f927c3e5-95bc-4b0d-bd09-e3fbcc814045",
+            "seller_type": "PUBLISHER",
+            "name": "DiligentPixel Unipessoal LDA",
+            "domain": "diligentpixel.pt"
+        },
+        {
+            "seller_id": "f9ec4baf-794d-41fd-bda4-32a489e625a9",
+            "seller_type": "PUBLISHER",
+            "name": "Ideas que Mejoran tu Vida, S.L.",
+            "domain": "facilisimo.com"
+        },
+        {
+            "seller_id": "fad368c9-ab92-4d0d-8880-cbb254b15f5a",
+            "seller_type": "PUBLISHER",
+            "name": "Cofina Media, S.A",
+            "domain": "cofina.pt"
+        },
+        {
+            "seller_id": "fb438c2f-fddb-45bf-bf47-784a61217f25",
+            "seller_type": "PUBLISHER",
+            "name": "Televisión Litoral S.A.",
+            "domain": "rosario3.com"
+        },
+        {
+            "seller_id": "fbbb8d9c-434e-43c3-a569-dee028be8b85",
+            "seller_type": "PUBLISHER",
+            "name": "Miarroba Networks, S.L.",
+            "domain": "webcindario.com"
+        },
+        {
+            "seller_id": "fd1b6435-0249-47ed-88c1-09cc27650360",
+            "seller_type": "PUBLISHER",
+            "name": "MEDIA BUSINESS GENERATORS SA DE CV",
+            "domain": "instyle.mx"
+        },
+        {
+            "seller_id": "fdae6361-71b9-462f-944f-43967ff921c0",
+            "seller_type": "PUBLISHER",
+            "name": "Ricardo Natalichio",
+            "domain": "ecoportal.net"
+        },
+        {
+            "seller_id": "fdcafd8a-6782-4ca6-bc59-8c3162819285",
+            "seller_type": "PUBLISHER",
+            "name": "Luis Fontes Perez",
+            "domain": "mibrujula.com"
+        },
+        {
+            "seller_id": "ff5bc420-51db-4283-a428-409641fd375a",
+            "seller_type": "PUBLISHER",
+            "name": "RAFAEL GONZALEZ BORREGO",
+            "domain": "diablorock.com"
+        },
+        {
+            "seller_id": "ffdeb0e9-ae81-4943-8bcb-eb4bfa376b19",
+            "seller_type": "PUBLISHER",
+            "name": "Kierke Desarrollo Web, S.L.",
+            "domain": "Solowrestling.com"
+        },
+        {
+            "seller_id": "ffe6607e-ef74-4d6c-b140-89bd16ac7918",
+            "seller_type": "PUBLISHER",
+            "name": "BROS COMUNICACIÓN SL",
+            "domain": "diariodeltriatlon.es"
+        }
+    ]
+}

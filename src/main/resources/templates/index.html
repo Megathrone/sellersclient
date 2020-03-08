@@ -2,11 +2,11 @@
 <html lang="en" xmlns:th="http://www.thymeleaf.org">
 <head>
   <meta charset="UTF-8">
-  <title>Index</title>
+  <title>Main page</title>
 </head>
 <body>
 <div>
-  <h3><p>This is Sellers.json JSON Processing</p></h3>
+  <h3><p>This is Sellers.json JSON Processing Application</p></h3>
   <h4>Type into your sellers.json url then click the button</h4>
   <form th:action="@{/loadfromurl}" th:method="POST">
     <input th:name="jsonurl" th:type="text" th:size="100"><br>

@@ -1,0 +1,451 @@
+{
+    "contact_email": "pubops@datawrkz.com", 
+    "contact_address": "583,Orchard road, #06-01 Forum,Singapore,238884", 
+    "version": "1.0", 
+    "identifiers": [
+        {
+            "name": "TAG-ID", 
+            "value": "7842df1d2fe2db34"
+        }
+    ], 
+    "sellers": [
+        {
+            "seller_id": "1201", 
+            "name": "Manoramaonline", 
+            "domain": "manoramaonline.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1202", 
+            "name": "Taiwannews", 
+            "domain": "taiwannews.com.tw", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1203", 
+            "name": "Vikatan", 
+            "domain": "vikatan.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1204", 
+            "name": "Anandabazar", 
+            "domain": "anandabazar.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1205", 
+            "name": "Ajitjalandhar", 
+            "domain": "ajitjalandhar.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1206", 
+            "name": "123 Greetings", 
+            "domain": "123greetings.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1207", 
+            "name": "Gulte", 
+            "domain": "gulte.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1208", 
+            "name": "Mangalam", 
+            "domain": "mangalam.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1209", 
+            "name": "Madhyamam", 
+            "domain": "madhyamam.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1210", 
+            "name": "British malayali", 
+            "domain": "britishmalayali.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1211", 
+            "name": "Marunadan Malayali", 
+            "domain": "marunadanmalayali.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1212", 
+            "name": "Keralakaumudi", 
+            "domain": "keralakaumudi.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1213", 
+            "name": "Boxofficeindia", 
+            "domain": "boxofficeindia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1214", 
+            "name": "Sanook", 
+            "domain": "sanook.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1215", 
+            "name": "Geeksmate", 
+            "domain": "geeksmate.io", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1216", 
+            "name": "Deepika", 
+            "domain": "deepika.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1217", 
+            "name": "Asianparent", 
+            "domain": "id.theasianparent.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1218", 
+            "name": "DailyPakistan", 
+            "domain": "dailypakistan.com.pk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1219", 
+            "name": "Theindependent", 
+            "domain": "theindependent.sg", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1220", 
+            "name": "SportsKeeda", 
+            "domain": "sportskeeda.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1221", 
+            "name": "iluminasi", 
+            "domain": "iluminasi.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1222", 
+            "name": "Bartamanpatrika", 
+            "domain": "bartamanpatrika.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1223",
+            "name": "OrientalDaily", 
+            "domain": "orientaldaily.com.my", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1224", 
+            "name": "Baituljannah", 
+            "domain": "baituljannah.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1225", 
+            "name": "Basketball biji", 
+            "domain": "basketball.biji.co", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1226", 
+            "name": "Hungrygowhere", 
+            "domain": "hungrygowhere.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1227", 
+            "name": "Tribune India", 
+            "domain": "tribuneindia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1228", 
+            "name": "Express com pk", 
+            "domain": "express.com.pk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1229", 
+            "name": "Dramaqueen", 
+            "domain": "dramaqueen.com.tw", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1230", 
+            "name": "Ragalahari", 
+            "domain": "ragalahari.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1231", 
+            "name": "Juksy", 
+            "domain": "juksy.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1232", 
+            "name": "Rashtradeepika", 
+            "domain": "rashtraDeepika.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1233", 
+            "name": "Teepr", 
+            "domain": "teepr.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1234", 
+            "name": "Aliffchannel", 
+            "domain": "aliffchannel.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1235", 
+            "name": "Girlstyle", 
+            "domain": "girlstyle.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1236", 
+            "name": "More Tv Time", 
+            "domain": "moretvtime.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1237", 
+            "name": "Andhrajyothy", 
+            "domain": "andhrajyothy.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1238", 
+            "name": "SavageHumans", 
+            "domain": "savagehumans.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1239", 
+            "name": "Teluguone", 
+            "domain": "teluguone.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1240", 
+            "name": "Factsonly", 
+            "domain": "factsonly.me", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1241", 
+            "name": "Tribune", 
+            "domain": "tribune.com.pk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1242", 
+            "name": "Gma network", 
+            "domain": "gmanetwork.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1243", 
+            "name": "ZiMedia", 
+            "domain": "zi.media", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1244", 
+            "name": "Kwongwah", 
+            "domain": "kwongwah.com.my", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1245", 
+            "name": "Abouluowang", 
+            "domain": "aboluowang.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1246", 
+            "name": "Ejan", 
+            "domain": "ejan.co", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1247", 
+            "name": "Lalatai", 
+            "domain": "lalatai.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1248", 
+            "name": "Gagatai", 
+            "domain": "gagatai.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1249", 
+            "name": "Webdunia", 
+            "domain": "webdunia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1250", 
+            "name": "Cool Style", 
+            "domain": "cool-style.com.tw", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "1251", 
+            "name": "Applealmond", 
+            "domain": "applealmond.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1252", 
+            "name": "TTshow", 
+            "domain": "ttshow.tw", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1253", 
+            "name": "Blink", 
+            "domain": "blink.com.tw", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1254", 
+            "name": "Catchnews", 
+            "domain": "catchnews.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1255", 
+            "name": "The Popple", 
+            "domain": "ThePopple.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1256", 
+            "name": "CPBL", 
+            "domain": "cpbl.com.tw", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1257", 
+            "name": "Thenewslens", 
+            "domain": "thenewslens.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1258", 
+            "name": "Missyusa", 
+            "domain": "missyusa.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1259", 
+            "name": "Pollen", 
+            "domain": "pollen.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1260", 
+            "name": "UDN", 
+            "domain": "udn.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1261", 
+            "name": "Nakkheeran", 
+            "domain": "nakkheeran.in", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1262", 
+            "name": "Lokmat", 
+            "domain": "lokmat.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1263", 
+            "name": "DailyMirror", 
+            "domain": "dailymirror.lk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1264", 
+            "name": "Hamariweb", 
+            "domain": "hamariweb.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1265", 
+            "name": "Mathrubhumi", 
+            "domain": "mathrubhumi.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "1266", 
+            "name": "ManagerToday", 
+            "domain": "managertoday.com.tw", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1267", 
+            "name": "Pixnet", 
+            "domain": "Pixnet.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1268", 
+            "name": "Reporter live", 
+            "domain": "reporter.live", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1269", 
+            "name": "Lankaenews", 
+            "domain": "lankaenews.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1270", 
+            "name": "Dailynayadiganta", 
+            "domain": "dailynayadiganta.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1271", 
+            "name": "NMK", 
+            "domain": "nmk.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1272", 
+            "name": "Oiihk", 
+            "domain": "oiihk.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "1273", 
+            "name": "Pudhari", 
+            "domain": "pudhari.news", 
+            "seller_type": "PUBLISHER"
+        }      
+    ]
+}

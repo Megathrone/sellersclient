@@ -1,0 +1,101 @@
+{
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "01BYK28ENND8X5G8K0AJ2DPK2B",
+      "seller_type": "PUBLISHER",
+      "name": "20 minutes",
+      "domain": "20minutes.fr"
+    },
+    {
+      "seller_id": "01BYK28ENND8X5G8K0AJ2DPK3C",
+      "seller_type": "PUBLISHER",
+      "name": "Slate",
+      "domain": "slate.fr"
+    },
+    {
+      "seller_id": "01BYK28ENND8X5G8K0AJ2DPK4E",
+      "seller_type": "PUBLISHER",
+      "name": "NextRadioTV",
+      "domain": "bfmtv.com"
+    },
+    {
+      "seller_id": "01BYK28ENND8X5G8K0AJ2DPK4E",
+      "seller_type": "PUBLISHER",
+      "name": "SFR",
+      "domain": "sfr.fr"
+    },
+    {
+      "seller_id": "01BYK28ENND8X5G8K0AJ2DPK5Q",
+      "seller_type": "PUBLISHER",
+      "name": "Prisma Media",
+      "domain": "programme-tv.net"
+    },
+    {
+      "seller_id": "01BYK28ENND8X5G8K0AJ2DPK7E",
+      "seller_type": "PUBLISHER",
+      "name": "LesEchosLeParisien",
+      "domain": "lesechos.fr"
+    },
+    {
+      "seller_id": "01BYK28ENND8X5G8K0AJ2DPK9E",
+      "seller_type": "PUBLISHER",
+      "name": "Media.Figaro",
+      "domain": "figaro.fr"
+    },
+    {
+      "seller_id": "01CA60A3AJ4KTRJF1Y3M824M47",
+      "seller_type": "PUBLISHER",
+      "name": "La Provence",
+      "domain": "laprovence.com"
+    },
+    {
+      "seller_id": "01CA60KCE4Y257GA00FJ1QVX8Q",
+      "seller_type": "PUBLISHER",
+      "name": "Se Loger",
+      "domain": "seloger.com"
+    },
+    {
+      "seller_id": "01CFQG9YB2CYN3FK638693B6GF",
+      "seller_type": "PUBLISHER",
+      "name": "Boursorama",
+      "domain": "boursorama.com"
+    },
+    {
+      "seller_id": "01CJS9BT574SDCRWQHEKXS6HXX",
+      "seller_type": "PUBLISHER",
+      "name": "Groupe Rossel",
+      "domain": "lesoir.be"
+    },
+    {
+      "seller_id": "01CYEVTV5RRYPS3750W0B5JPV7",
+      "seller_type": "PUBLISHER",
+      "name": "Groupe La Voix",
+      "domain": "lavoixdunord.fr"
+    },
+    {
+      "seller_id": "01D18JVSX1Y15YJ2ZPV1EMXC7D",
+      "seller_type": "PUBLISHER",
+      "name": "3W.relevanC",
+      "domain": "cdiscount.com"
+    },
+    {
+      "seller_id": "01D31WCYTKYX1SK1MJF9Y3VWZ7",
+      "seller_type": "PUBLISHER",
+      "name": "Le Point",
+      "domain": "lepoint.fr"
+    },
+    {
+      "seller_id": "01D6X4Y50DGHQY1A2QJ063SAF4",
+      "seller_type": "PUBLISHER",
+      "name": "Solocal Group",
+      "domain": "pagesjaunes.fr"
+    },
+    {
+      "seller_id": "01D8GVDX8B3A458J9TTH67A7CK",
+      "seller_type": "PUBLISHER",
+      "name": "TF1",
+      "domain": "tf1.fr"
+    }
+  ]
+}

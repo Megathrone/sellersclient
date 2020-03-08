@@ -1,0 +1,891 @@
+{
+    "contact_email": "publishers@admanmedia.com",
+    "contact_address": "Aribau 230 - 240, 6a planta, Oficina CDE, 08006 Barcelona (+34) 936 28 93 92",
+    "version": "1.0",
+    "identifiers": [
+  
+    ],
+    "sellers": [{
+        "name": "152 Media LLC",
+        "seller_id": "fca1b951",
+        "domain": "152media.com",
+        "seller_type": "INTERMEDIARY"
+      },
+      {
+        "name": "180gradosquindio",
+        "seller_id": "212a12fd",
+        "domain": "180gradosquindio.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "3DJuegos Publiaciones On Line Media S.L.",
+        "seller_id": "e5e4d28f",
+        "domain": "3djuegos.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "ADD VALUE MEDIA S.L.",
+        "seller_id": "9caf4078",
+        "domain": "addvaluemedia.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "ADDOOR LATINMARKETS S.L.",
+        "seller_id": "106aa3c1",
+        "domain": "addoor.net",
+        "seller_type": "INTERMEDIARY"
+      },
+      {
+        "name": "ADPV ADVERTISING PROVIDER S.L.",
+        "seller_id": "854a5604",
+        "domain": "adpv.com",
+        "seller_type": "INTERMEDIARY"
+      },
+      {
+        "name": "Adriano Rosa",
+        "seller_id": "1d28d354",
+        "domain": "ficarbonita.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "AGENCIA SMILE LIMITADA",
+        "seller_id": "21f3ed69",
+        "domain": "ilustrado.cl",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Alex Serey",
+        "seller_id": "bce11d90",
+        "domain": "portalnet.cl",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "ALRIGHT COMUNICA�AO E MIDIA Ltda",
+        "seller_id": "62b30b3d",
+        "domain": "alright.com.br",
+        "seller_type": "INTERMEDIARY"
+      },
+      {
+        "name": "Andre Filipe Silverio",
+        "seller_id": "eb5d5a35",
+        "domain": "espantoso.org",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "ARTE GRAFICO EDITORIAL ARGENTINO S.A.",
+        "seller_id": "ad8f2b7c",
+        "domain": "grupoclarin.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Asociaci�n United Explanations",
+        "seller_id": "f29e61c1",
+        "domain": "muhimu.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "BAE NEGOCIOS S.A",
+        "seller_id": "c9b25866",
+        "domain": "baenegocios.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "BIOGUIA",
+        "seller_id": "6896abeb",
+        "domain": "labioguia.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "BITBOL SA",
+        "seller_id": "7d06690c",
+        "domain": "bitbol.la",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "BLUE MEDIA COMUNICACI�N S.L.U.",
+        "seller_id": "b55cbe98",
+        "domain": "bluemedia.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Carlos Alberto Rojas Avila",
+        "seller_id": "38759e8a",
+        "domain": "uncafeconletras.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "CARLOS VALLADOLID TORRES",
+        "seller_id": "ab6e2d41",
+        "domain": "bazzinga.info",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "CASA EDITORIAL EL TIEMPO S.A.",
+        "seller_id": "d4888d3c",
+        "domain": "eltiempocasaeditorial.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "CGN",
+        "seller_id": "0215b088",
+        "domain": "cgn.inf.br",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "CLUBTURE ADVERTISING S.L",
+        "seller_id": 38396196,
+        "domain": "clubture.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "COMERCIAL MULTIMEDIA VOCENTO",
+        "seller_id": "273ba763",
+        "domain": "vocento.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Cristian P�rez Ortiz",
+        "seller_id": "9f5cfd51",
+        "domain": "natursan.net",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Cros Digital SL",
+        "seller_id": "11d0df5f",
+        "domain": "crosdigital.com",
+        "seller_type": "INTERMEDIARY"
+      },
+      {
+        "name": "DIARIO DE NAVARRA DIGITAL S.L.",
+        "seller_id": "7e2fd97f",
+        "domain": "diariodenavarra.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Diego Valladolid Torres",
+        "seller_id": "618b7132",
+        "domain": "elegimaldia.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Difoosion S.L.",
+        "seller_id": "db0d0c86",
+        "domain": "difoosion.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "DIGITAL TOGINAMA SL",
+        "seller_id": "b67b12e2",
+        "domain": "xcatalunya.cat",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Edicions de Premsa Peri�dica ARA, SL",
+        "seller_id": "c3235beb",
+        "domain": "ara.cat",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "EDITORIAL ECOPRENSA, S.A.",
+        "seller_id": "d53cde64",
+        "domain": "eleconomista.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "El Androide Libre SL",
+        "seller_id": "d2518405",
+        "domain": "elandroidelibre.elespanol.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "ESTRELLA ONLINE",
+        "seller_id": "4264f9aa",
+        "domain": "elbebe.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "EUROPA PRESS COMUNICACI�N S.A.",
+        "seller_id": "9946c16d",
+        "domain": "europapress.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Edicions digitals Del Camp S.L.",
+        "seller_id": "a2a90db3",
+        "domain": "tarragonadigital.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "DURTO4 S.L.",
+        "seller_id": "0df327a3",
+        "domain": "estovalelapena.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "DIARIO LOS ANDES HNOS. CALLE S.A",
+        "seller_id": "992d99d7",
+        "domain": "losandes.com.ar",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Francisco Javier S�nchez Lemus",
+        "seller_id": 45072384,
+        "domain": "emprenderalia.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Fundaci�n Las Dos Orillas",
+        "seller_id": "6dc2d288",
+        "domain": "las2orillas.co",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "GODO STRATEGIES, S.L.U.",
+        "seller_id": "87142ac3",
+        "domain": "grupogodo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Grup Les Noticies de Catalunya SLU",
+        "seller_id": "bef34f65",
+        "domain": "elnacional.cat",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Grupo M Contigo, S.L",
+        "seller_id": "47ca38a8",
+        "domain": "mcontigo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "HADOQ IT S.L.",
+        "seller_id": "63d4cf6d",
+        "domain": "hadoq.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Hermes Comunicacions S.A.",
+        "seller_id": "7c46afb7",
+        "domain": "elpuntavui.cat",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Hipertextual SL",
+        "seller_id": "0d1faee2",
+        "domain": "hipertextual.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "HISPANIC EXCHANGE, LLC",
+        "seller_id": "e1cafe3c",
+        "domain": "allsiteshex.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "JAVIER MAESTRO BERMEJO",
+        "seller_id": "e255e078",
+        "domain": "encestando.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "LABARBER MULTIMEDIA S.L.",
+        "seller_id": "2a00289a",
+        "domain": "revistaelbalon.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Luis Fontes P�rez",
+        "seller_id": "192dcbec",
+        "domain": "mibrujula.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Made In Work",
+        "seller_id": "ed66823f",
+        "domain": "ptitchef.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "NETSONIC CORPORATION",
+        "seller_id": "97f2801f",
+        "domain": "netsonic.tv",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Ocio Media Interactiva, S.L.",
+        "seller_id": "41c3130b",
+        "domain": "ociomedia.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "OCIOCRITICO, S.L.",
+        "seller_id": "8d1b1735",
+        "domain": "diariocritico.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "ONTECNIA MEDIA INTERMEDIARYS S.L.",
+        "seller_id": "cb958b8b",
+        "domain": "ontecnia.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Optima INTERMEDIARY SL",
+        "seller_id": "5f02d6f9",
+        "domain": "optimaINTERMEDIARY.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "PlayGround Comunicaci�n S.L.",
+        "seller_id": "2b96505e",
+        "domain": "playgroundmag.net",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Prensa Ib�rica 360, S.L.",
+        "seller_id": "8748551b",
+        "domain": "prensaiberica.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "PRISA DIGITAL INC",
+        "seller_id": "8b60feb1",
+        "domain": "prisa.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Raimundo Robledo Arroyo",
+        "seller_id": "a51f27ca",
+        "domain": "cuantodanio.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "SALIR Y OCIO SL",
+        "seller_id": "f1549850",
+        "domain": "linktomedia.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Zeta Gesti�n de medios, S.A.",
+        "seller_id": "098d9d45",
+        "domain": "grupozeta.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "RESULTADOS DE FUTBOL SL",
+        "seller_id": "21c50846",
+        "domain": "besoccer.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Smile&Think, SLU",
+        "seller_id": "d1582b11",
+        "domain": "elmundotoday.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "ZANA INVESTMENTS 2018 SL",
+        "seller_id": "56d6e5e3",
+        "domain": "wemass.com",
+        "seller_type": "INTERMEDIARY"
+      },
+      {
+        "name": "SCG Aquit�nia SL.",
+        "seller_id": "2562e4ea",
+        "domain": "naciodigital.cat",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "We Lover Size, S.L.",
+        "seller_id": "15bf6bd1",
+        "domain": "weloversize.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Web Consultas Healthcare S.A.",
+        "seller_id": "6d474d34",
+        "domain": "webconsultas.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Uncommon Point SL",
+        "seller_id": "3b8b2c12",
+        "domain": "culturaencadena.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Unidad Editorial, S.A.",
+        "seller_id": 38995046,
+        "domain": "unidadeditorial.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Vandal INTERMEDIARYs SL",
+        "seller_id": "5e43e438",
+        "domain": "vandal.elespanol.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "VLN Servicios Publicitarios Integrales",
+        "seller_id": "f85eeb2e",
+        "domain": "sunmedia.tv",
+        "seller_type": "INTERMEDIARY"
+      },
+      {
+        "name": "Softonic International S.A",
+        "seller_id": "f7c33831",
+        "domain": "softonic.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Cedato Technologies Inc",
+        "seller_id": "6f89c874",
+        "domain": "cedato.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "COMERCIALIZADORA DE MEDIOS DEL INTERIOR S A",
+        "seller_id": "f28fd109",
+        "domain": "cmi.com.ar",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "COMPAÑIA TIPOGRAFICA YUCATECA, S.A. DE C.V.",
+        "seller_id": "b9af6146",
+        "domain": "yucatan.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Comunicaci�n E Informaci�n, S.A. de C.V.",
+        "seller_id": "8dd0011e",
+        "domain": "proceso.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Conde Nast de Mexico S.A de C.V.",
+        "seller_id": "1ed42520",
+        "domain": "condenastmexico-latam.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Dalai Group, LLC",
+        "seller_id": "37f48d02",
+        "domain": "dalaigroup.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "DAZN",
+        "seller_id": "cbe09ae1",
+        "domain": "watch.dazn.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "DIGITAL ADVERTISING DISTRIBUTION TO YOU, S.L",
+        "seller_id": "e96bdf55",
+        "domain": "haynoticia.es",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Digital News Software LLC",
+        "seller_id": "aba0e589",
+        "domain": "mendozapost.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Ediciones Globo Conde Nast",
+        "seller_id": "6611b240",
+        "domain": "casavogue.globo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Editora de mar SA",
+        "seller_id": "4ada8f00",
+        "domain": "eluniversal.com.co",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "EDITORA DEMAR S.A DE C.V",
+        "seller_id": "8f02fbc6",
+        "domain": "elmanana.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Editora Globo",
+        "seller_id": "7e184be9",
+        "domain": "oglobo.globo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "EDITORIAL ATLANTIDA SA",
+        "seller_id": "c1a5f0a5",
+        "domain": "atlantida.com.ar",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "EDITORIAL MARTINICA",
+        "seller_id": 897765,
+        "domain": "am.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Editorial Perfil S.A",
+        "seller_id": "5fd3389f",
+        "domain": "perfil.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "EL FINANCIERO MARKETING SA DE CV",
+        "seller_id": "aca9ace9",
+        "domain": "elfinanciero.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "El Pilon S.A.",
+        "seller_id": "8645bb9f",
+        "domain": "elpilon.com.co",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "ELCOLOMBIANOS.AYCIAS.C.A.",
+        "seller_id": "a8b991fc",
+        "domain": "elcolombiano.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Empresa Baiana de Jornalismo S/A",
+        "seller_id": "dfebecac",
+        "domain": "correio24horas.com.br",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Empresa Editora El Comercio SA",
+        "seller_id": "7f8efa3b",
+        "domain": "grupoelcomercio.com.pe",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Empresas el Debate SA de CV",
+        "seller_id": "7293faec",
+        "domain": "debate.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Galgarpia Empreendimentos Ltda",
+        "seller_id": "7ca9a51e",
+        "domain": "mundoboaforma.com.br",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "GI DIGITAL S.A DE C.V.",
+        "seller_id": "9c254d96",
+        "domain": "excelsior.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "goodlymedia de Mauro Alberto A. Brunetti",
+        "seller_id": "662ee64e",
+        "domain": "bigbangnews.com",
+        "seller_type": "INTERMEDIARY"
+      },
+      {
+        "name": "GRUPO LA REPUBLICA DIGITAL",
+        "seller_id": "caae36ae",
+        "domain": "larepublica.pe",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Grupo Medios, S.A. de C.V.",
+        "seller_id": "333490c1",
+        "domain": "ginmedia.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "GRUPO PERISCOPIO COMUNICACIONES SPA",
+        "seller_id": "e34a88f3",
+        "domain": "grupoperiscopio.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "GRUPO�PROA�S.A.S",
+        "seller_id": 83063064,
+        "domain": "terecomiendo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "GRUPORPP S.A.C.",
+        "seller_id": "b4299a2a",
+        "domain": "rpp.pe",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "GUIDA COMUNICACIONES LIMITADA",
+        "seller_id": "29aebfb3",
+        "domain": "mujerypunto.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "HEALY NEWSPAPER. INC",
+        "seller_id": "82ec2fa4",
+        "domain": "elimparcial.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "INVENTMX.COM",
+        "seller_id": "f08486b3",
+        "domain": "imagen.com.mx",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "IMPRESIONES AEREAS S.A. DE C.V",
+        "seller_id": 62654045,
+        "domain": "entrepreneur.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "La Naci�n",
+        "seller_id": "cccc4671",
+        "domain": "lanacion.com.ar",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "La Opinion S.A",
+        "seller_id": "ed9c414a",
+        "domain": "laopinion.com.co",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Latin America Media & Soft S.A.",
+        "seller_id": "2bcce6e0",
+        "domain": "taringa.net",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "LHM",
+        "seller_id": "c58ac5f0",
+        "domain": "leshommesmodernes.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Marc Armengou Portell",
+        "seller_id": "1ea75b46",
+        "domain": "minecrafteo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "MC REDES Y PUBLICIDAD LIMITADA",
+        "seller_id": "0cffbeb1",
+        "domain": "tecache.cl",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "MDI Nacion Digital SA de CV",
+        "seller_id": "ce91107c",
+        "domain": "nacion321.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "MEDIA TRADE SPA",
+        "seller_id": "fbec1191",
+        "domain": "cronicachile.cl",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Miami Post Corp",
+        "seller_id": 44861978,
+        "domain": "infobae.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "MINUTO 30 S.A.S",
+        "seller_id": "c06f1e7b",
+        "domain": "minuto30.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Mobusi Mobile Advertising S.L.",
+        "seller_id": "3bfed881",
+        "domain": "noticiariodirecto.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "MONEYTAG",
+        "seller_id": "caa0a7f4",
+        "domain": "mcetv.fr",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Montiel LLC",
+        "seller_id": "a362cff2",
+        "domain": "embi-media.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "MOOSITE SL",
+        "seller_id": "9ff5897f",
+        "domain": "minijuegos.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Moshi Inc",
+        "seller_id": "7fbd129f",
+        "domain": "Eslamoda.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Mundo Hispano Digital",
+        "seller_id": "cf074cdd",
+        "domain": "mundohispanico.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "NDN",
+        "seller_id": "857df412",
+        "domain": "infonews.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Nestor Sneider Ferreira Rodriguez",
+        "seller_id": "66f6276e",
+        "domain": "larepublica.co",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "No Zebra INTERMEDIARY S.A.",
+        "seller_id": "96b8679f",
+        "domain": "megacurioso.com.br",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Now New Media SAPI de CV",
+        "seller_id": "1dedb463",
+        "domain": "eldeforma.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Plural Comunicaciones SAS",
+        "seller_id": "81fb6ca4",
+        "domain": "canal1.com.co",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Oscar David Garces Gomez",
+        "seller_id": "1791a135",
+        "domain": "las2rodillas.co",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "PDA (SAS)",
+        "seller_id": "ff1200da",
+        "domain": "parlerdamour.fr",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "PLATAFORMA DIGITAL S.A",
+        "seller_id": "6382c70d",
+        "domain": "mendozapost.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "PUBLICACIONES SEMANA, S.A",
+        "seller_id": "88ae282a",
+        "domain": "semana.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "R 360 S.A.S",
+        "seller_id": "00525f57",
+        "domain": "pulzo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "RADIO MITRE SA",
+        "seller_id": "45b7c4a7",
+        "domain": "radiomitre.cienradios.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Red de Television Chilevision S.A.",
+        "seller_id": "f23299ee",
+        "domain": "chilevision.cl",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "REVENUE BROTHERS, INC",
+        "seller_id": "941d9313",
+        "domain": "animalpolitico.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Revista Sentido de Mujer",
+        "seller_id": "eb27dbe8",
+        "domain": "sentidodemujer.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "RUMBERT S.A.",
+        "seller_id": "65a19de2",
+        "domain": "fayerwayer.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "SBG Médias SARL",
+        "seller_id": "15e8e6b9",
+        "domain": "sobusygirls.fr",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Sergio Daza Quintero",
+        "seller_id": "b37ae72e",
+        "domain": "rptnoticias.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Social Media S.L.",
+        "seller_id": "c2cf0e28",
+        "domain": "motorpasionfuturo.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Sociedad Period�stica El Ciudadano Ltda",
+        "seller_id": "a89f1a1c",
+        "domain": "elciudadano.cl",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "SPACEFOOT SAS",
+        "seller_id": "b5cd1fb4",
+        "domain": "foot01.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Thirdfloor SRL",
+        "seller_id": "a860236f",
+        "domain": "amigaironica.com.br",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Tiempo26 Comunicaciones E.I.R.L.",
+        "seller_id": "1932d59a",
+        "domain": "tiempo26.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "WEBPROFIT LTDA",
+        "seller_id": "183f9431",
+        "domain": "gestiopolis.net",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Wunoa S.L.",
+        "seller_id": "2211ad7f",
+        "domain": "guiainfantil.com",
+        "seller_type": "PUBLISHER"
+      },
+      {
+        "name": "Zonekey S.A",
+        "seller_id": "7adaec45",
+        "domain": "e-planning.net",
+        "seller_type": "INTERMEDIARY"
+      }
+    ]
+  }

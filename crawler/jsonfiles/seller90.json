@@ -1,0 +1,511 @@
+{
+    "contact_email": "sellers.json@mars.media", 
+    "contact_address": "2 Maskit St, Hertzeliya Pituah Business Park, 46140 , Israel ", 
+    "version": "1.0",
+    "identifiers": [
+        {
+            "name": "TAG-ID",
+            "value": "8624339f102fb076"
+        }],
+    "sellers": [
+        {
+            "seller_id": "108",
+            "name": "Empire Media Network Ltd",
+            "domain": "fxempire.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10620",
+            "name": "BitTorrent Inc.",
+            "domain": "bt.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102688",
+            "name": "Softtonic international SA",
+            "domain": "softonic.com",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "102672",
+            "name": "Diversify Media, Inc",
+            "domain": "diversifymedia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102671",
+            "name": "EverestCrypto.com",
+            "domain": "everestcrypto.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102669",
+            "name": "travelerdoor.com",
+            "domain": "travelerdoor.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102668",
+            "name": "Action Gaming, Inc",
+            "domain": "actiongaming.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102666",
+            "name": "TouchPal HK Co.",
+            "domain": "touchpal.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "16055",
+            "name": "Ask.fm Europe Limited",
+            "domain": "ask.fm",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10636",
+            "name": "GVU Technologies",
+            "domain": "moretvtime.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "109",
+            "name": "RhythmOne, LLC",
+            "domain": "360daily.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10627",
+            "name": "Doppelganger Entertainment Ltd.",
+            "domain": "cliphash.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10626",
+            "name": "Australian Clearing Pty Ltd",
+            "domain": "timebucks.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1048",
+            "name": "99 Coins ltd",
+            "domain": "99bitcoins.co.il",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1075",
+            "name": "xscores",
+            "domain": "xscores.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10137",
+            "name": "Viewlorium ",
+            "domain": "viewlorium.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10146",
+            "name": "AMX Content SA de CV",
+            "domain": "americamovil.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10629",
+            "name": "Ultimate Guitar USA LLC",
+            "domain": "ultimate-guitar.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10",
+            "name": "Living Media (India Today group)",
+            "domain": "indiatodaygroup.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104",
+            "name": "Travian Games GmbH",
+            "domain": "travian.com",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "10142",
+            "name": "Empower Sports AG",
+            "domain": "mycujoo.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10148",
+            "name": "Mindspark Interactive",
+            "domain": "iac.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10171",
+            "name": "ABP Pvt Ltd",
+            "domain": "abp.in",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10282",
+            "name": "CNN Newsource",
+            "domain": "cnnnewsource.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "10608",
+            "name": "Minute Spoteam Ltd",
+            "domain": "minute.ly",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "10609",
+            "name": "Vatsana Technologies Pvt. Ltd",
+            "domain": "vatsana.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10624",
+            "name": "wowkeren",
+            "domain": "wowkeren.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10625",
+            "name": "saambaa LLC",
+            "domain": "saambaa.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "15",
+            "name": "Smaato Inc.",
+            "domain": "smaato.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "76",
+            "name": "Fyber",
+            "domain": "fyber.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "373",
+            "name": "Epom",
+            "domain": "epom.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "361",
+            "name": "Brave",
+            "domain": "thebrave.io",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "173",
+            "name": "GothamAds",
+            "domain": "gothamads.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "86",
+            "name": "AdColony",
+            "domain": "adcolony.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "59",
+            "name": "Smarty ads",
+            "domain": "smartyads.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "282",
+            "name": "Bizzclick",
+            "domain": "bizzclick.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "384",
+            "name": "Mobfox US LLC",
+            "domain": "mobfox.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "279",
+            "name": "Geniee Inc",
+            "domain": "geniee.co.jp",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "405",
+            "name": "Acuity Ads",
+            "domain": "acuityads.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "389",
+            "name": "KaiOS",
+            "domain": "kaiostech.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "119",
+            "name": "PulsePoint",
+            "domain": "pulsepoint.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "426",
+            "name": "Unity",
+            "domain": "unity.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "160",
+            "name": "SSPHWY",
+            "domain": "ssphwy.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "204",
+            "name": "Imonomy",
+            "domain": "imonomy.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "10631",
+            "name": "News-Press & Gazette Company",
+            "domain": "npgco.com",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "102828",
+            "name": "House of Pub's studio",
+            "domain": "hop-studio.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103036",
+            "name": "Mobile Agenda FZE LLC",
+            "domain": "download.appsforboost.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103048",
+            "name": "Absolutist Ltd",
+            "domain": "absolutist.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102754",
+            "name": "Shanghai Shalltry Technology Limited",
+            "domain": "toolgroup.shalltry.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102751",
+            "name": "Azerion",
+            "domain": "azerion.com",
+            "seller_type": "PUBLISHER"
+        },
+
+        {
+            "seller_id": "102677",
+            "name": "365Scores Ltd",
+            "domain": "365scores.com",
+            "seller_type": "BOTH"
+        },
+        {
+            "seller_id": "102824",
+            "name": "Mobpals",
+            "domain": "mobpals.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103112",
+            "name": "Perfect365",
+            "domain": "perfect365.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103124",
+            "name": "Gold Finger",
+            "domain": "my-goldfinger.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102749",
+            "name": "VNL entertainment games",
+            "domain": "vnlentertainment.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "107682",
+            "name": "NAVER WEBTOON Corp",
+            "domain": "webtoons.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102695",
+            "name": "Daily News Gallery",
+            "domain": "dailynewsgallery.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "10632",
+            "name": "CARI Internet Sdn Bhd",
+            "domain": "cari.com.my",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102825",
+            "name": "Nox Joy",
+            "domain": "noxjoy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "107",
+            "name": "ESPN Australia Pty Ltd",
+            "domain": "footytips.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "107",
+            "name": "ESPN Australia Pty Ltd",
+            "domain": "footytips.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103085",
+            "name": "Cinema noire",
+            "domain": "cinemanoire.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102834",
+            "name": "SmartyAds",
+            "domain": "smartyads.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "102825",
+            "name": "GothamAds",
+            "domain": "gothamads.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "102818",
+            "name": "Mobiexchanger",
+            "domain": "mobiexchanger.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "102752",
+            "name": "Newborn Town",
+            "domain": "newborntown.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "107589",
+            "name": "Geniee Inc",
+            "domain": "geniee.co.jp",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "103221",
+            "name": "FreakOut Holdings, inc",
+            "domain": "fout.co.jp",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "103220",
+            "name": "Mobfox US LLC",
+            "domain": "mobfox.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "103122",
+            "name": "DigitalSkyGames",
+            "domain": "digitalskygames.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103116",
+            "name": "Fyber",
+            "domain": "fyber.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "103113",
+            "name": "Admixer technologies",
+            "domain": "admixer.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "103081",
+            "name": "Bright Mountain Media, Inc",
+            "domain": "brightmountainmedia.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "102824",
+            "name": "Decenterads",
+            "domain": "decenterads.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "102823",
+            "name": "Bizzclick",
+            "domain": "bizzclick.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "102823",
+            "name": "Whildey",
+            "domain": "whildey.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "102822",
+            "name": "Acuity Ads",
+            "domain": "acuityads.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "102816",
+            "name": "Airpush, Inc",
+            "domain": "airpush.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "102753",
+            "name": "SHANGYOUJIA TECHNOLOGY (HK) LIMITED",
+            "domain": "adview.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "481",
+            "name": "Beachfront Media LLC",
+            "domain": "beachfront.com",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "445",
+            "name": "AdTonic",
+            "domain": "adtonic.net",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "461",
+            "name": "ACEEX",
+            "domain": "aceex.io",
+            "seller_type": "INTERMEDIARY"
+        },
+        {
+            "seller_id": "107588",
+            "name": "KaiOS",
+            "domain": "kaiostech.com",
+            "seller_type": "PUBLISHER"
+        }
+    ]
+}

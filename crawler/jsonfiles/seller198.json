@@ -1,0 +1,113 @@
+{
+    "version": "1.0",
+    "identifiers": [
+        {
+            "name": "DUNS",
+            "value": "040681061"
+        }
+    ],
+    "sellers": [
+        {
+            "seller_id": "ark-0001",
+            "seller_type": "PUBLISHER",
+            "domain": "mobileposse.com",
+            "name": "Mobile Posse"
+        },
+        {
+            "seller_id": "ark-0002",
+            "seller_type": "PUBLISHER",
+            "domain": "puzzles.ca",
+            "name": "Puzzles CA"
+        },
+        {
+            "seller_id": "ark-0003",
+            "seller_type": "PUBLISHER",
+            "domain": "reachplc.com",
+            "name": "Reach PLC"
+        },
+        {
+            "seller_id": "ark-0004",
+            "seller_type": "PUBLISHER",
+            "domain": "hsn.com",
+            "name": "Home Shopping Network"
+        },
+        {
+            "seller_id": "ark-0005",
+            "seller_type": "PUBLISHER",
+            "domain": "msn.com",
+            "name": "Home Shopping Network"
+        },
+        {
+            "seller_id": "ark-0006",
+            "seller_type": "PUBLISHER",
+            "domain": "metv.com",
+            "name": "MeTV"
+        },
+        {
+            "seller_id": "ark-0007",
+            "seller_type": "PUBLISHER",
+            "domain": "bestforpuzzles.com",
+            "name": "Best For Puzzles"
+        },
+        {
+            "seller_id": "ark-0008",
+            "seller_type": "PUBLISHER",
+            "domain": "chicagotribune.com",
+            "name": "Chicago Tribune"
+        },
+        {
+            "seller_id": "ark-0009",
+            "seller_type": "PUBLISHER",
+            "domain": "mirror.co.uk",
+            "name": "Daily Mirror"
+        },
+        {
+            "seller_id": "ark-0010",
+            "seller_type": "PUBLISHER",
+            "domain": "elpais.com",
+            "name": "El Pais"
+        },
+        {
+            "seller_id": "ark-0011",
+            "seller_type": "PUBLISHER",
+            "domain": "readersdigest.ca",
+            "name": "Reader's Digest CA"
+        },
+        {
+            "seller_id": "ark-0012",
+            "seller_type": "PUBLISHER",
+            "domain": "usatoday.com",
+            "name": "USA Today"
+        },
+        {
+            "seller_id": "ark-0013",
+            "seller_type": "PUBLISHER",
+            "domain": "lemonde.fr",
+            "name": "Le Monde"
+        },
+        {
+            "seller_id": "ark-0014",
+            "seller_type": "PUBLISHER",
+            "domain": "nj.com",
+            "name": "NJ.com"
+        },
+        {
+            "seller_id": "ark-0015",
+            "seller_type": "PUBLISHER",
+            "domain": "independent.co.uk",
+            "name": "The Independent"
+        },
+        {
+            "seller_id": "ark-0081",
+            "seller_type": "PUBLISHER",
+            "domain": "dailymail.co.uk",
+            "name": "Daily Mail"
+        },
+        {
+            "seller_id": "ark-0082",
+            "seller_type": "PUBLISHER",
+            "domain": "xfinity.com",
+            "name": "Comcast - xfinity"
+        }
+    ]
+}

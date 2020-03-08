@@ -1,0 +1,917 @@
+{
+    "contact_email": "sales@emoona.co",
+    "contact_address": "Emoona, Klausner Street, Sharon District, 43367 Raanana",
+    "version": 1,
+    "sellers": [
+        {
+            "seller_id": "3550",
+            "name": "Indiatimes",
+            "domain": "indiatiames.com",
+            "directness": "DIRECT",
+            "comment": "APAC & NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Times of India",
+            "domain": "timesofindia.com",
+            "directness": "DIRECT",
+            "comment": "APAC & NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Gadgetsnow",
+            "domain": "gadgetsnow.com",
+            "directness": "DIRECT",
+            "comment": "APAC & NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Economic Times",
+            "domain": "economictimes.com",
+            "directness": "DIRECT",
+            "comment": "APAC & NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Maharashtra Times",
+            "domain": "maharashtratimes.com",
+            "directness": "DIRECT",
+            "comment": "APAC & NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Samayan",
+            "domain": "samayan.com",
+            "directness": "DIRECT",
+            "comment": "APAC & NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Cricbuzz",
+            "domain": "cricbuzz.com",
+            "directness": "DIRECT",
+            "comment": "APAC & NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Iamgujarat",
+            "domain": "iamgujarat.com",
+            "directness": "DIRECT",
+            "comment": "APAC & NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "MensXP",
+            "domain": "mensxp.com",
+            "directness": "DIRECT",
+            "comment": "APAC & NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Idiva",
+            "domain": "idiva.com",
+            "directness": "DIRECT",
+            "comment": "APAC & NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Business Insider India",
+            "domain": "businessinsider.in",
+            "directness": "BOTH",
+            "comment": "APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Momspresso",
+            "domain": "momspresso.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Sakshi",
+            "domain": "sakshi.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Prokerala",
+            "domain": "prokerala.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Newspointapp",
+            "domain": "newspointapp.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Punjabkesari",
+            "domain": "punjabkesari.in",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Sandesh",
+            "domain": "sandesh.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Sportskeeda",
+            "domain": "sportskeeda.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Vijaykarnataka",
+            "domain": "vijaykarnataka.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Webdunia",
+            "domain": "webdunia.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Prabhatkhabar",
+            "domain": "prabhatkhabar.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Pudhari",
+            "domain": "pudhari.news",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Sambad",
+            "domain": "sambad.in",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Raftaar",
+            "domain": "raftaar.in",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Kanaknews",
+            "domain": "kanaknews.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Ibtimes India",
+            "domain": "ibtimes.co.in",
+            "directness": "BOTH",
+            "comment": "India O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Newstracklive",
+            "domain": "newstracklive.com",
+            "directness": "BOTH",
+            "comment": "O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3550",
+            "name": "Techradar",
+            "domain": "techradar.com",
+            "directness": "BOTH",
+            "comment": "NorthAmerica O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3552",
+            "name": "Twistity",
+            "domain": "twistity.com",
+            "directness": "DIRECT",
+            "comment": "Worldwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3552",
+            "name": "Saucyrecipes",
+            "domain": "saucyrecipes.com",
+            "directness": "DIRECT",
+            "comment": "Worldwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3552",
+            "name": "Wisedime",
+            "domain": "WiseDime.com",
+            "directness": "DIRECT",
+            "comment": "Worldwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3552",
+            "name": "Chictrends.Co",
+            "domain": "ChicTrends.co.uk",
+            "directness": "DIRECT",
+            "comment": "Worldwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3552",
+            "name": "Dailymulligan",
+            "domain": "DailyMulligan.com",
+            "directness": "DIRECT",
+            "comment": "Worldwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3552",
+            "name": "Uncached",
+            "domain": "UnCached.com",
+            "directness": "DIRECT",
+            "comment": "Worldwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3552",
+            "name": "Whoabella",
+            "domain": "WhoaBella.com",
+            "directness": "DIRECT",
+            "comment": "Worldwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3561",
+            "name": "Inquisitr",
+            "domain": "inquisitr.com",
+            "directness": "DIRECT",
+            "comment": "NorthAmerica & Tier 1 O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3565",
+            "name": "Mentalfloss",
+            "domain": "mentalfloss.com",
+            "directness": "DIRECT",
+            "comment": "Worlwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3565",
+            "name": "12Up",
+            "domain": "12up.com",
+            "directness": "DIRECT",
+            "comment": "Worlwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3565",
+            "name": "90Min",
+            "domain": "90min.com",
+            "directness": "DIRECT",
+            "comment": "Worlwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3565",
+            "name": "Dbltap",
+            "domain": "dbltap.com",
+            "directness": "DIRECT",
+            "comment": "Worlwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3565",
+            "name": "Fanduel",
+            "domain": "fanduel.com",
+            "directness": "DIRECT",
+            "comment": "Worlwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3565",
+            "name": "Floor8",
+            "domain": "floor8.com",
+            "directness": "DIRECT",
+            "comment": "Worlwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3565",
+            "name": "Thebiglead",
+            "domain": "thebiglead.com",
+            "directness": "DIRECT",
+            "comment": "Worlwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "3952",
+            "name": "Hollywoodheavynews",
+            "domain": "hollywoodheavynews.com",
+            "directness": "DIRECT",
+            "comment": "Worlwide O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4013",
+            "name": "360 Daily",
+            "domain": "360daily.com",
+            "directness": "DIRECT",
+            "comment": "NorthAmerica & Tier 1 O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4026",
+            "name": "Prosportsdaily",
+            "domain": "prosportsdaily.com",
+            "directness": "DIRECT",
+            "comment": "NorthAmerica & Tier 1 O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4105",
+            "name": "Lemonde",
+            "domain": "lemonde.fr",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4105",
+            "name": "Huffingtonpost",
+            "domain": "huffingtonpost.fr",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4105",
+            "name": "Nouvelobs",
+            "domain": "nouvelobs.com",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4105",
+            "name": "Telerama",
+            "domain": "telerama.fr",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4105",
+            "name": "Courrierinternational",
+            "domain": "courrierinternational.com",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4118",
+            "name": "Corsematin",
+            "domain": "corsematin.com",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4118",
+            "name": "Laprovence",
+            "domain": "laprovence.com",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4121",
+            "name": "Ouest-France",
+            "domain": "ouest-france.fr",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4121",
+            "name": "Courrierdelouest",
+            "domain": "courrierdelouest.fr",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4121",
+            "name": "Maville",
+            "domain": "maville.com",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4126",
+            "name": "20Minutes",
+            "domain": "20minutes.fr",
+            "directness": "DIRECT",
+            "comment": "France & Europe O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "News Zing",
+            "domain": "news.zing.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Vnexpress Net",
+            "domain": "vnexpress.net",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Ngoisao Net",
+            "domain": "ngoisao.net",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Ione Vnexpress",
+            "domain": "ione.vnexpress.net",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Doisongphapluat Com",
+            "domain": "doisongphapluat.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Thethao247",
+            "domain": "thethao247.vn ",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Tinmoi Vn",
+            "domain": "tinmoi.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Tienphong Vn",
+            "domain": "tienphong.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Vietnamnet Vn",
+            "domain": "vietnamnet.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Bongdaplus Vn",
+            "domain": "bongdaplus.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Phunutoday Vn",
+            "domain": "phunutoday.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Baodatviet Vn",
+            "domain": "baodatviet.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Bilutv Com",
+            "domain": "bilutv.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Phim14",
+            "domain": "phim14.net",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Phimmoi Net",
+            "domain": "phimmoi.net",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Cauthu Com",
+            "domain": "cauthu.com.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Cungcau Vn",
+            "domain": "cungcau.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Buzzheat Com",
+            "domain": "buzzheat.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Tuoitre Vn",
+            "domain": "tuoitre.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "2Sao",
+            "domain": "2sao.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Kienthuc Net",
+            "domain": "kienthuc.net.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Sstruyen Com",
+            "domain": "sstruyen.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Tailieu Vn",
+            "domain": "tailieu.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Thanhnien Vn",
+            "domain": "thanhnien.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Lamchame Vn",
+            "domain": "lamchame.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Lichchieu Net",
+            "domain": "lichchieu.net",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Lichthidau Com",
+            "domain": "lichthidau.com.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Webtruyen Com",
+            "domain": "webtruyen.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Bongda Wap",
+            "domain": "bongda.wap.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Bongdanet Vn",
+            "domain": "bongdanet.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Animevsub Tv",
+            "domain": "animevsub.tv",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Xoso Wap",
+            "domain": "xoso.wap.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Tiepthitieudung Com",
+            "domain": "tiepthitieudung.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Motthegioi Vn",
+            "domain": "motthegioi.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Xecuatui Vn",
+            "domain": "xecuatui.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Baoduhoc Vn",
+            "domain": "baoduhoc.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Hay Tv",
+            "domain": "hay.tv",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Xskt Com",
+            "domain": "xskt.com.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Thegioitruyen Com",
+            "domain": "thegioitruyen.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Truyenfull Vn",
+            "domain": "truyenfull.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Giadinhvietnam Com",
+            "domain": "giadinhvietnam.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Thethaovanhoa Vn",
+            "domain": "thethaovanhoa.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Lichvansu Wap",
+            "domain": "lichvansu.wap.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Hoc24",
+            "domain": "hoc24.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Sinhvienit Net",
+            "domain": "sinhvienit.net",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Truyencuatui Net",
+            "domain": "truyencuatui.net",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Chatvl Com",
+            "domain": "chatvl.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Conlatatca Vn",
+            "domain": "conlatatca.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Congdongtruyen Com",
+            "domain": "congdongtruyen.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Thegioitiepthi Vn",
+            "domain": "thegioitiepthi.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Me Phununet",
+            "domain": "me.phununet.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Xsmb Vn",
+            "domain": "xsmb.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Marrybaby Vn",
+            "domain": "marrybaby.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Vietq Vn",
+            "domain": "vietq.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Docbao Vn",
+            "domain": "docbao.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Truyentranhtuan Com",
+            "domain": "truyentranhtuan.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Emdep Vn",
+            "domain": "emdep.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Xem Vn",
+            "domain": "xem.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Vietgiaitri Com",
+            "domain": "vietgiaitri.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Marryliving Vn",
+            "domain": "marryliving.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Woohay Com",
+            "domain": "woohay.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Bestie Vn",
+            "domain": "bestie.vn",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Kenhvideo Com",
+            "domain": "kenhvideo.com",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Bongdacuocsong Net",
+            "domain": "bongdacuocsong.net",
+            "directness": "BOTH",
+            "comment": "Vietnam & APAC O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4150",
+            "name": "Youm7",
+            "domain": "youm7.com",
+            "directness": "BOTH",
+            "comment": "MENA O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4150",
+            "name": "Filgoal",
+            "domain": "filgoal.com",
+            "directness": "BOTH",
+            "comment": "MENA O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4150",
+            "name": "Nmisr",
+            "domain": "nmisr.com",
+            "directness": "BOTH",
+            "comment": "MENA O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4150",
+            "name": "Elbalad",
+            "domain": "elbalad.news",
+            "directness": "BOTH",
+            "comment": "MENA O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4150",
+            "name": "Elfagr",
+            "domain": "elfagr.com",
+            "directness": "BOTH",
+            "comment": "MENA O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4150",
+            "name": "Eremnews",
+            "domain": "eremnews.com",
+            "directness": "BOTH",
+            "comment": "MENA O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4150",
+            "name": "Elwatannews",
+            "domain": "elwatannews.com",
+            "directness": "BOTH",
+            "comment": "MENA O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4150",
+            "name": "Vanguardngr",
+            "domain": "vanguardngr.com",
+            "directness": "BOTH",
+            "comment": "MENA O&O Video inventory managed"
+        },
+        {
+            "seller_id": "4150",
+            "name": "Punchng",
+            "domain": "punchng.com",
+            "directness": "BOTH",
+            "comment": "MENA O&O Video inventory managed"
+        }
+    ]
+}

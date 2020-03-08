@@ -1,0 +1,4334 @@
+{
+  "sellers" : [ {
+    "name" : "Proff.no",
+    "domain" : "proff.no",
+    "seller_id" : "1537",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "152 Media LLC",
+    "seller_id" : "1499",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "1881.no",
+    "domain" : "1881.no",
+    "seller_id" : "711",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "20 Minutes",
+    "domain" : "20minutes.fr",
+    "seller_id" : "1125",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "24i/Mautilus",
+    "seller_id" : "1168",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "2dehands via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1615",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "2dehands.be",
+    "domain" : "2dehands.be",
+    "seller_id" : "485",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "366 (1400) - EBDA- 31755961 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1400",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "3wregie (1302) -EBDA- 7190 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1302",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "495Communications",
+    "seller_id" : "1064",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "495Communications (OLD 2.0)",
+    "seller_id" : "1061",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "495Communications OLD",
+    "seller_id" : "1060",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "4StrokeMedia",
+    "seller_id" : "1088",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "4strokemedia (1309) - EBDA - 316816995 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1309",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "4StrokeMedia(Old)",
+    "domain" : "4strokemedia.com",
+    "seller_id" : "479",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "4WMarketPlace",
+    "domain" : "4wmarketplace.com",
+    "seller_id" : "410",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "9 MediaOnline.com",
+    "seller_id" : "1153",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "9MediaOnline.com (Sellbranch)",
+    "domain" : "9mediaonline.com",
+    "seller_id" : "1154",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "A-lehdet",
+    "seller_id" : "1528",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AboutMedia Internetmarketing GmbH - AT",
+    "domain" : "aboutmedia.at",
+    "seller_id" : "559",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ad.Up",
+    "domain" : "improvedigital.com",
+    "seller_id" : "944",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ad6 Media",
+    "domain" : "ad6media.fr",
+    "seller_id" : "271",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adasta Media (former Webperformance)",
+    "domain" : "adasta.it",
+    "seller_id" : "902",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "AdCompass",
+    "domain" : "adcompass.co.uk",
+    "seller_id" : "529",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Addoor",
+    "domain" : "addoor.nl",
+    "seller_id" : "303",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Addoox Ltd",
+    "domain" : "addoox.com",
+    "seller_id" : "1266",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adequant",
+    "domain" : "adequant.com",
+    "seller_id" : "922",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "adex media UG",
+    "domain" : "adexmedia.de",
+    "seller_id" : "653",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AdFactor (Sellbranch)",
+    "domain" : "9292ov.nl",
+    "seller_id" : "81",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AdFirst Media Ltd (former Addvantage Media)",
+    "domain" : "addvantagemedia.com",
+    "seller_id" : "945",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adhese",
+    "domain" : "adhese.eu",
+    "seller_id" : "825",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adikteev",
+    "seller_id" : "1195",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AdIntend",
+    "domain" : "adintend.com",
+    "seller_id" : "930",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adkaora",
+    "domain" : "adkaora.com",
+    "seller_id" : "1634",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Adkaora (1476)-EBDA-21625262017 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1476",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "AdLabz (Agora)",
+    "domain" : "cxense.com",
+    "seller_id" : "882",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adlane LTD",
+    "domain" : "adlane.info",
+    "seller_id" : "1628",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "AdLantic Online Advertising B.V.",
+    "domain" : "adlantic.nl",
+    "seller_id" : "461",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adleave",
+    "domain" : "adleave.fr",
+    "seller_id" : "787",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adlive",
+    "domain" : "adlive.io",
+    "seller_id" : "1159",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AdMatic",
+    "domain" : "admatic.com.tr",
+    "seller_id" : "912",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ADMAX",
+    "domain" : "admaxmedia.io",
+    "seller_id" : "1237",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Admeira AG",
+    "domain" : "swisscom.ch",
+    "seller_id" : "707",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Admotion",
+    "seller_id" : "1029",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AdMySports",
+    "domain" : "admysports.com",
+    "seller_id" : "1056",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adnet.com",
+    "seller_id" : "1098",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adnuntius Services AS",
+    "domain" : "cxense.com",
+    "seller_id" : "705",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adnuro",
+    "domain" : "adnuro.com",
+    "seller_id" : "1084",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adprofit (sellbranch)",
+    "domain" : "adprofit.se",
+    "seller_id" : "857",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "adspushup via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1617",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Westcoast Technology Company DBA - Adreact",
+    "domain" : "adreact.com",
+    "seller_id" : "1641",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Adrequest B.V. (Sellbranch)",
+    "seller_id" : "1178",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adrock.tv",
+    "domain" : "adrock.tv",
+    "seller_id" : "1089",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AdserverPub",
+    "domain" : "adserverpub.com",
+    "seller_id" : "167",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adshare (AT)",
+    "domain" : "adshare.at",
+    "seller_id" : "917",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AdSpace",
+    "seller_id" : "1158",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adsparc - Starts at 60 - EBDA - 21875548389 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1580",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "AdSparc Pty Ltd",
+    "domain" : "adsparc.com",
+    "seller_id" : "1461",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AdSparc-not use",
+    "domain" : "adsparc.com",
+    "seller_id" : "827",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AdSpirit GmbH",
+    "domain" : "adspirit.com",
+    "seller_id" : "1539",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Adtelligent (ex-Verta Media)",
+    "domain" : "vertamedia.com",
+    "seller_id" : "954",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adternity GmbH",
+    "domain" : "adternity.net",
+    "seller_id" : "1",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adthink",
+    "domain" : "adaccess.fr",
+    "seller_id" : "1205",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adthink (1570)-EBDA-21810758172 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1570",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "AdUX BE (Sellbranch)",
+    "seller_id" : "1186",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adux Spain (1379)- EBDA-195078209 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1379",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Advand Media",
+    "seller_id" : "1557",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Advant Technology",
+    "domain" : "advanttechnology.com",
+    "seller_id" : "876",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adverline",
+    "domain" : "adverline.com",
+    "seller_id" : "55",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adverline new",
+    "domain" : "adverline.com",
+    "seller_id" : "133",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adverserve",
+    "domain" : "adverserve.com",
+    "seller_id" : "884",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ADVERSPORT",
+    "domain" : "footmercato.net",
+    "seller_id" : "1044",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adversport (1365)- EBDA- 45503615 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1365",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "AdView（SHANGYOUJIA TECHNOLOGY (HK) LIMITED）",
+    "domain" : "adview.com",
+    "seller_id" : "1331",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Advinteo",
+    "domain" : "advinteo.com",
+    "seller_id" : "1099",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Adviser",
+    "seller_id" : "1516",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Advista",
+    "seller_id" : "1535",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Agencia Orquidea",
+    "seller_id" : "1524",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ajaska GmbH",
+    "seller_id" : "1271",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Alchemy Advertising",
+    "seller_id" : "1522",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AlgorithMedia",
+    "domain" : "test.it",
+    "seller_id" : "943",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "All in Views",
+    "domain" : "allinviews.com",
+    "seller_id" : "962",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Allenby (Sellbranch)",
+    "seller_id" : "1226",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Aller Media",
+    "domain" : "allermedia.no",
+    "seller_id" : "888",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Aller Media DK - EBDA - 159150954 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1313",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Aller Media NO (1402) - EBDA -",
+    "seller_id" : "1402",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Aller Media via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1630",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Amedia",
+    "domain" : "amedia.no",
+    "seller_id" : "741",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Amedia (Nettavisen)",
+    "domain" : "nettavisen.no",
+    "seller_id" : "793",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AMG VIDEO LTD (Sellbranch)",
+    "domain" : "adzonemediagroup.com",
+    "seller_id" : "1223",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Amity Digital",
+    "domain" : "amitydigital.com",
+    "seller_id" : "1251",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ampliffy (1358) - EBDA - 43606300 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1358",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Andrea Media",
+    "domain" : "andreamedia.com",
+    "seller_id" : "1085",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Aniview",
+    "domain" : "aniview.com",
+    "seller_id" : "1581",
+    "seller_type" : "BOTH"
+  }, {
+    "name" : "Anschlusstor",
+    "domain" : "anschlusstor.de",
+    "seller_id" : "979",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Antevenio (Agora)",
+    "domain" : "antevenio.com",
+    "seller_id" : "411",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Anyclip LTD",
+    "domain" : "anyclip.com",
+    "seller_id" : "1468",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Anyclip LTD (1587) -EBDA-127641337 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1587",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Apester",
+    "domain" : "apester.com",
+    "seller_id" : "1041",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "AppStock LTD (Sellbranch)",
+    "domain" : "app-stock.com",
+    "seller_id" : "1225",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Aranzulla (1373) -EBDA- 1018461 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1373",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Ariase",
+    "domain" : "ariase.com",
+    "seller_id" : "880",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ask.fm",
+    "domain" : "ask.fm",
+    "seller_id" : "1257",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Assertive Communications (Sellbranch)",
+    "domain" : "hayday-forum.de",
+    "seller_id" : "1180",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Aswell Media",
+    "domain" : "aswellmedia.com",
+    "seller_id" : "1267",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Audiencias Premium (Agora)",
+    "domain" : "audienciaspremium.com",
+    "seller_id" : "831",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Aufeminin - EBDA -  229683329 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1562",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Aufeminin Group",
+    "seller_id" : "1268",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Austria Collective",
+    "domain" : "austriacollective.com",
+    "seller_id" : "281",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Autoscout24 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1606",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "AutoScout24 GmbH",
+    "domain" : "autoscout24.de",
+    "seller_id" : "1603",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Autoscout24.be (1349) -EBDA-19024548 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1349",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "AWG (Petilmat S.A)",
+    "seller_id" : "1416",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Axel Springer via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1638",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Aximus AG",
+    "seller_id" : "1081",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Azerion BE",
+    "seller_id" : "1269",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Azerion/ Tunnl B.V. - AdMob - pub-2316275586951220 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1421",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "AzerionBE (new)",
+    "seller_id" : "1589",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AZERION TECH PRODUCTIONS B.V.",
+    "seller_id" : "1595",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AZERION TECH PRODUCTIONS B.V.",
+    "seller_id" : "1594",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "AzerionNL",
+    "seller_id" : "1588",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Bauer Media OY",
+    "seller_id" : "1514",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Bazoom DK",
+    "domain" : "bazoom.dk",
+    "seller_id" : "621",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Beapup Solutions LTD",
+    "domain" : "beapup.com",
+    "seller_id" : "1647",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "BehrentzMedia ApS",
+    "domain" : "behrentzmedia.dk",
+    "seller_id" : "931",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Beintoo (Sellbranch)",
+    "domain" : "beintoo.com",
+    "seller_id" : "1224",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Belgium Marketplace",
+    "seller_id" : "1067",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Belkind",
+    "domain" : "stipat.com",
+    "seller_id" : "1092",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Berlingske Media",
+    "domain" : "berlingskemedia.dk",
+    "seller_id" : "1404",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Berlingske Media",
+    "domain" : "b.dk",
+    "seller_id" : "383",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Berlingske Media (ID 1288) - EBDA - 135050247 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1288",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Bidsopt Pte Ltd.",
+    "domain" : "bidsopt.com",
+    "seller_id" : "1351",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Big Mobile",
+    "seller_id" : "1252",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "BitaBeats Media LTD CORP",
+    "domain" : "bitabeats.com",
+    "seller_id" : "1631",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "BitTorrent inc",
+    "seller_id" : "1007",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Blasting News Inc.-US (1354) - EBDA - 119452265 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1354",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Blasting News Ltd.-UK (1355) -EBDA - 220126972 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1355",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Blasting News-IT (1353) -EBDA - 11450147 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1353",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "BLIINK",
+    "domain" : "bliink.io",
+    "seller_id" : "1633",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Bluemedia (1385) -EBDA -34616581 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1385",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Bol.com",
+    "domain" : "bol.com",
+    "seller_id" : "637",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Bold.dk",
+    "domain" : "bold.dk",
+    "seller_id" : "997",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Bold.dk - EBDA - 3695096 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1559",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Boldwin LTD",
+    "seller_id" : "1458",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "bonbizin Trading",
+    "domain" : "fashionpaper.ch",
+    "seller_id" : "1517",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "The Bonnier Publications Group via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1598",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Branddeli",
+    "domain" : "braddeli.nl",
+    "seller_id" : "952",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Brave.io",
+    "seller_id" : "1408",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Bright Mountain Media",
+    "seller_id" : "1420",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Brightcom (Sellbranch) - Video",
+    "domain" : "brightcom.com",
+    "seller_id" : "1231",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Brightcom - Display",
+    "seller_id" : "1362",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Brightcom Media",
+    "domain" : "ybrantdigital.com",
+    "seller_id" : "657",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Buienalarm (1381) -EBDA - 95473973 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1381",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Burda Intermedia Publishing GmbH",
+    "domain" : "burda.de",
+    "seller_id" : "413",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Business Advertising (1497) -EBDA-4574 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1497",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Business Insider",
+    "domain" : "businessinsider.nl",
+    "seller_id" : "1008",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Business Insider International",
+    "domain" : "businessinsider.com",
+    "seller_id" : "1177",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Buya Media LTD",
+    "domain" : "adit-media.com",
+    "seller_id" : "1649",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "ByP Network (Agora)",
+    "domain" : "bypnetwork.com",
+    "seller_id" : "874",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Calciomercato (1344) -EBDA -36170957 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1344",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "CCM Benchmark",
+    "domain" : "ccmbenchmark.com",
+    "seller_id" : "1192",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Cedato Technologies Ltd.",
+    "domain" : "cedato.com",
+    "seller_id" : "1414",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Centrale Reclame Services (ORN)",
+    "domain" : "orn.nl",
+    "seller_id" : "1160",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Cerise Media (1357) - EBDA - 1077805 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1357",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Cheetah Mobile",
+    "domain" : "cmcm.com",
+    "seller_id" : "926",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ciao.leguide",
+    "domain" : "ciao.fr",
+    "seller_id" : "309",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Cibeles (Agora)",
+    "domain" : "cibeles.net",
+    "seller_id" : "747",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Circles Network",
+    "domain" : "circlesnetwork.it",
+    "seller_id" : "1227",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Client-side Dev Test Publisher Account",
+    "seller_id" : "950",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Client-side Dev Test Publisher Account (Smart Tags)",
+    "seller_id" : "1032",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Clist LTD",
+    "seller_id" : "1242",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "CMI (1506) -EBDA-12271007 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1506",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "CMM Publishing LTD",
+    "domain" : "chris.com",
+    "seller_id" : "986",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "CNT Interactive",
+    "seller_id" : "1165",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Cofina via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1646",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Cognegic Digital Media",
+    "seller_id" : "1445",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Cognitive Advertising Solutions LTD (Former: MetricsMonster)",
+    "domain" : "cognitiveadv.com",
+    "seller_id" : "908",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Compare Group",
+    "domain" : "comparegroup.eu",
+    "seller_id" : "541",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Concept CPH",
+    "domain" : "concept.dk",
+    "seller_id" : "1487",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Concept CPH (ID 1289) - EBDA - 5706918 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1289",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Connekt Media",
+    "domain" : "connekt.media",
+    "seller_id" : "1234",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Conversies UP (Sellbranch)",
+    "domain" : "conversies-up.nl",
+    "seller_id" : "1157",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Converto / HelveticoX: Swiss Performance SSP",
+    "domain" : "helveticox.ch",
+    "seller_id" : "909",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "CoolGames (Sellbranch)",
+    "domain" : "boostermedia.com",
+    "seller_id" : "661",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "CoolGames Publishing B.V. (Sellbranch)",
+    "domain" : "coolgames.com",
+    "seller_id" : "1184",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Coolmath LLC Display - EBDA - 45966600 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1494",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Cranberry Ads (Nerium Business LTD)",
+    "domain" : "cranberryads.com",
+    "seller_id" : "1395",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Crazy4media",
+    "domain" : "crazy4media.com",
+    "seller_id" : "975",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Crazygames - EBDA - 1004887 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1343",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Creative Clicks Audience B.V.",
+    "domain" : "creativeclicks.com",
+    "seller_id" : "1235",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "CRS (Centrale Reclame Services) (1378) - EBDA - 21832092231 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1378",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "csdigital media",
+    "seller_id" : "1255",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Culture G",
+    "seller_id" : "1052",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Dagsavisen",
+    "seller_id" : "1369",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Daily Motion",
+    "domain" : "dailymotion.com",
+    "seller_id" : "1086",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Data Team Integration Test Account (Regular)",
+    "domain" : "test.com",
+    "seller_id" : "1108",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Data Team Integration Test Account (Smart Tags)",
+    "domain" : "test.com",
+    "seller_id" : "1109",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "DAZN",
+    "domain" : "dazn.com",
+    "seller_id" : "394",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "De Persgroep",
+    "domain" : "dpgmedia.nl",
+    "seller_id" : "1076",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "De Persgroep (3rd Parties)",
+    "domain" : "dpgmedia.nl",
+    "seller_id" : "1213",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Deezer",
+    "domain" : "deezer.com",
+    "seller_id" : "267",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Demo Nordics",
+    "seller_id" : "1095",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Dennis (1367)  - EBDA - 359 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1367",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "DerStandard",
+    "domain" : "derstandard.at",
+    "seller_id" : "865",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Deutsche Welle",
+    "seller_id" : "1310",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Deutsche Welle - EBDA - 228556409 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1311",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Dexel",
+    "seller_id" : "1230",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Dexerto LTD via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1548",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Dexerto",
+    "domain" : "dexerto.com",
+    "seller_id" : "1597",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "DigiAds.tv",
+    "domain" : "digiads.tv",
+    "seller_id" : "1139",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Digital Bees Srl",
+    "domain" : "digitalbees.it",
+    "seller_id" : "875",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "DigitalGo (former Neomobile)",
+    "domain" : "neomobile.com",
+    "seller_id" : "898",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Digitize PMP",
+    "domain" : "digitize.ie",
+    "seller_id" : "589",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Division-D",
+    "domain" : "divisiond.com",
+    "seller_id" : "963",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Dohi Publishing",
+    "domain" : "dohi.se",
+    "seller_id" : "1080",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "DON'T Archive L´Agora - PAN",
+    "domain" : "pan-spain.com",
+    "seller_id" : "631",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Doubletrade",
+    "domain" : "doubletrade.ru",
+    "seller_id" : "823",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "DPG Belgium - EBDA - 7594 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1568",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "DPG Media NV",
+    "seller_id" : "1564",
+    "seller_type" : "BOTH"
+  }, {
+    "name" : "DQ&A - BDU - EBDA - 21832188041 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1544",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "DQ&A - eMense - EBDA - 21820366982 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1541",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "DQ&A - Hierhebikpijn - EBDA - 21824400336 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1546",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "DQ&A - iCulture - EBDA - 21827582859 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1542",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "DQ&A - Misset Uitgeverij - EBDA - 21805559310 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1547",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "DQ&A - Mycujoo - EBDA - 21800239744 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1540",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "DQ&A - NDC Mediagroep - EBDA - 7911 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1545",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "DQ&A - Teknologiens Mediehus - EBDA - 21827681695 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1543",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "CARBOATMEDIA",
+    "domain" : "carboatmedia.fr",
+    "seller_id" : "1621",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Drusimar S.A (House of Pubs) (Sellbranch)",
+    "domain" : "houseofpubs.com",
+    "seller_id" : "1209",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "E-Borealis",
+    "domain" : "e-borealis.com",
+    "seller_id" : "1253",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "E-planning",
+    "seller_id" : "1556",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "EADV SRL",
+    "seller_id" : "1533",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Eatsmarter - EBDA - 70719171 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1463",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "eBay Classified Italy",
+    "domain" : "ebayclassifieds.com",
+    "seller_id" : "523",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ebay Classifieds DK",
+    "domain" : "ebayclassifiedsgroup.dk",
+    "seller_id" : "775",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "eBay Kleinanzeigen GmbH",
+    "domain" : "ebay-kleinanzeigen.de",
+    "seller_id" : "1246",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ebner Media Group",
+    "domain" : "ebnermedia.de",
+    "seller_id" : "1453",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Ediciones RBA via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1618",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Egmont Publishing Digital AB",
+    "domain" : "egmontpublishing.se",
+    "seller_id" : "1551",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Egmont Publishing DK - EBDA - 49114284 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1521",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "El Comercio (Agora)",
+    "domain" : "elcomercio.pe",
+    "seller_id" : "815",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "El Desmarque (Agora)",
+    "domain" : "eldesmarque.com",
+    "seller_id" : "847",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "El Diario (Agora)",
+    "domain" : "eldiario.es",
+    "seller_id" : "587",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Elbebé (Agora)",
+    "domain" : "elbebe.com",
+    "seller_id" : "879",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ElDiario.es - EBDA - 123333327 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1474",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "ElEconomista - EBDA - 21768034058 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1571",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Embi Media",
+    "domain" : "embi-media.com",
+    "seller_id" : "1149",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Emoona",
+    "domain" : "emoona.co",
+    "seller_id" : "1538",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "EMOONA",
+    "domain" : "emoona.co",
+    "seller_id" : "1636",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Eniro",
+    "domain" : "enirogroup.com",
+    "seller_id" : "1110",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Eniro DK (1529) -EBDA-21829114275 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1529",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Eniro NO (1555) -EBDA-21842951927 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1555",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "ENIRO-SE (1406) -EBDA-21842931119 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1406",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "ENRIO_DK",
+    "seller_id" : "1405",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ericsson",
+    "seller_id" : "1031",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Erredue Communication",
+    "domain" : "erreduecomm.it",
+    "seller_id" : "691",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ESTADIO DEPORTIVO S.A.",
+    "seller_id" : "1427",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Euronews - EBDA - 6458 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1316",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "eValue AG",
+    "domain" : "evalue.de",
+    "seller_id" : "3",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Evolution ADV",
+    "domain" : "evolutionadv.it",
+    "seller_id" : "981",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Evolutionadv (1482) -EBDA-5966054 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1482",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Evothink Media",
+    "domain" : "evothink.com",
+    "seller_id" : "1112",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ExAring",
+    "domain" : "exaring.com",
+    "seller_id" : "972",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Exaring",
+    "domain" : "waipu.tv",
+    "seller_id" : "1003",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Exmarketplace (1503) -EBDA-42150330 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1503",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Exorigos (1466) -EBDA- 21869819039 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1466",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Expatica (Sellbranch)",
+    "domain" : "expatica.com",
+    "seller_id" : "1107",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Fagpressen (former Agora, Venditius)",
+    "domain" : "cxense.com",
+    "seller_id" : "833",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Famous Birthdays via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1599",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Fanpage - EBDA - 1010633 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1274",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "FeedAd GmbH",
+    "domain" : "google.com",
+    "seller_id" : "1259",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "FeedAd [not in use]",
+    "seller_id" : "1079",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "fernsehserien.de - EBDA - 47996587",
+    "domain" : "fernsehserien.de",
+    "seller_id" : "1305",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "FilmOn",
+    "domain" : "filmon.com",
+    "seller_id" : "759",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "finanzen.net GmbH-HB",
+    "domain" : "finanzen.net",
+    "seller_id" : "1575",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Finanznachrichten.de - EBDA - 5744216 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1591",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Findit",
+    "seller_id" : "1144",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Finya (1317) - EBDA- 1009650 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1317",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Finya - GWI Media Technologies GmbH",
+    "domain" : "gw-interactive.com",
+    "seller_id" : "1328",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Footytube",
+    "seller_id" : "1002",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Forebase",
+    "domain" : "forebase.com",
+    "seller_id" : "509",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Free Media Group/Finance Media Exchange",
+    "domain" : "freemediagroup.nl",
+    "seller_id" : "177",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Front Story-loanpride.com (1585)-EBDA-21819080324 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1585",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Front Story-medicalmatters.com (1586)-EBDA-21824457147 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1586",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Front Story-mortgageafterlife.com (1584) -EBDA-21823426285 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1584",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Front Story-tradingblvd.com (1583) -EBDA-21819184414 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1583",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Funda via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1620",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Funke (1508) -EBDA-39216077 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1508",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Funke Digital",
+    "domain" : "funkedigital.de",
+    "seller_id" : "1639",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Futbol Sites Network - EBDA - 63317524 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1448",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Future (1566) -EBDA-10518929 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1566",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Gaff Media",
+    "domain" : "gaffmedia.com",
+    "seller_id" : "1190",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Galaxie Media (1525) -EBDA-21805930009 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1525",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Gamoshi Ltd",
+    "seller_id" : "1275",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Gaysir AS",
+    "domain" : "gaysir.no",
+    "seller_id" : "851",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Geffen Digital LTD",
+    "seller_id" : "1629",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Generation Premium (Ultimate Guitar)",
+    "domain" : "ultimateguitar.com",
+    "seller_id" : "367",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Gestiofinances - Sublime Media",
+    "domain" : "sublimemedia.fr",
+    "seller_id" : "97",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Gitberry AS (Norway publisher network)",
+    "seller_id" : "1361",
+    "seller_type" : "BOTH"
+  }, {
+    "name" : "Givemesport - EBDA - 7134795 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1490",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "GLOMEX",
+    "seller_id" : "1077",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Glomex -EBDA- 5731",
+    "seller_id" : "1413",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Goby Labs",
+    "domain" : "goby.co.uk",
+    "seller_id" : "1094",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Godó (1504) -EBDA- 55964524 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1504",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "GoodMove",
+    "domain" : "goodmove.media",
+    "seller_id" : "801",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Gowithmedia - Tha Big M",
+    "domain" : "gowithmedia.com",
+    "seller_id" : "1409",
+    "seller_type" : "BOTH"
+  }, {
+    "name" : "GRANITE MEDIA",
+    "seller_id" : "1111",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Groupe Cerise",
+    "domain" : "groupecerise.fr",
+    "seller_id" : "1027",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Gruner + Jahr - EBDA - 6032 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1473",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Grupo El Comercio (1511)-EBDA-28253241 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1511",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Gruppo Finelco",
+    "domain" : "finelco.it",
+    "seller_id" : "569",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Guardian Media Group",
+    "domain" : "guardian.com",
+    "seller_id" : "995",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Guardian Media Group (995) - EBDA - 59666047 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1447",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Happy Pancake",
+    "domain" : "happypancake.com",
+    "seller_id" : "1100",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Harrenmedia (Sellbranch)",
+    "domain" : "harrenmedia.com",
+    "seller_id" : "1261",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Harry Test Publisher",
+    "seller_id" : "1025",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Hastnet.se (1281) - EBDA- 62911375 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1281",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Headerlift (545) - EBDA - 1015413 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1299",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Headway Digital",
+    "domain" : "headwaydigital.com",
+    "seller_id" : "1202",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Hearst via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1637",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Hearst Magazines",
+    "domain" : "hearst.com",
+    "seller_id" : "749",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Hegnar.no (Agora)",
+    "domain" : "hegnar.no",
+    "seller_id" : "889",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Heise Medien - EBDA - 6514 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1314",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "HeyMatic Srl (Sellbranch)",
+    "domain" : "heymatic.com",
+    "seller_id" : "1185",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Hi Media España Publicidad Online",
+    "seller_id" : "1465",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Hicmobile",
+    "domain" : "goby.co.uk",
+    "seller_id" : "1093",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "HIFI.DE GmbH",
+    "seller_id" : "1390",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "highfivve GmbH (former Gutefrage)",
+    "domain" : "gutefrage.de",
+    "seller_id" : "1004",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "highfivve GmbH (former Gutefrage) - EBDA via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1273",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Himedia",
+    "seller_id" : "1394",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "HIRO-Media ltd (Sellbranch)",
+    "domain" : "hiro-media.com",
+    "seller_id" : "1182",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "HOLA S.L. via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1605",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Holid.se",
+    "seller_id" : "1134",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "HomePal (Sellbranch)",
+    "domain" : "homepal.it",
+    "seller_id" : "1129",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Hora Nova S. A. (Agora)",
+    "domain" : "ultimahora.es",
+    "seller_id" : "869",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Humanoid - EBDA - 82864103 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1442",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "i-Jam",
+    "domain" : "ijam-media.co.uk",
+    "seller_id" : "940",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ID Exchange",
+    "domain" : "idx.com",
+    "seller_id" : "934",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "IDG Netherlands (Reshift)",
+    "domain" : "idg.nl",
+    "seller_id" : "763",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "IDG Tech Media (1291) - EBDA -8456 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1291",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "IDG Tech Media GmbH",
+    "domain" : "idg.com",
+    "seller_id" : "1204",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "IEX - EBDA - 4087761 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1346",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Ilgiornale",
+    "domain" : "ilgiornale.it",
+    "seller_id" : "1449",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "imfernsehen (1306) - EBDA-  47996587 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1306",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "imfernsehen GmbH",
+    "seller_id" : "1301",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Impactify",
+    "seller_id" : "1058",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Impressive Media",
+    "domain" : "sharepoint.com",
+    "seller_id" : "927",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Improve Digital (DEMO)",
+    "domain" : "improvedigital.com",
+    "seller_id" : "43",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Improve Digital Inpage",
+    "domain" : "improvedigital.com",
+    "seller_id" : "960",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Inch Media - inchtv.ai",
+    "domain" : "inchtv.ai",
+    "seller_id" : "1560",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Infinety Group",
+    "domain" : "infinety.hu",
+    "seller_id" : "1339",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Influent Media - EBDA - 21810795016 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1322",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Infobae - EBDA - 1058609 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1475",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Infoplaza BV (1380) - EBDA - 3789117 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1380",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Informa",
+    "domain" : "informa.com",
+    "seller_id" : "779",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Inside Intermedia - EBDA - 1051321 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1456",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Inside-intermedia Digital GmbH",
+    "seller_id" : "1429",
+    "seller_type" : "BOTH"
+  }, {
+    "name" : "Instal GMBH",
+    "seller_id" : "1500",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Insticator (1276) - EBDA - 2779416 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1276",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Insticator (HB)",
+    "domain" : "insticator.com",
+    "seller_id" : "1277",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Investing (1368) -EBDA-6938 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1368",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Investire Oggi",
+    "domain" : "investireoggi.it",
+    "seller_id" : "984",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "IP Belgium",
+    "seller_id" : "1290",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "IP Belgium",
+    "seller_id" : "1249",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "IP Belgium - EBDA -  8459 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1505",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "IPM Belgium",
+    "seller_id" : "1515",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ippen Digital (DE)",
+    "domain" : "ippen-digital-media.de",
+    "seller_id" : "918",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ippen Digital (Traffective 1) - EBDA - 5176 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1333",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "iq digital media marketing gmbh",
+    "domain" : "iqm.de",
+    "seller_id" : "355",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Irish Publisher Group",
+    "domain" : "ireland.ie",
+    "seller_id" : "283",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "IronSource",
+    "domain" : "ironsrc.com",
+    "seller_id" : "1114",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Italiaonline (1293) - EBDA - 5180​ via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1293",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Italiaonline - IOL",
+    "domain" : "italiaonline.it",
+    "seller_id" : "946",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Itavisen",
+    "domain" : "itavisen.no",
+    "seller_id" : "970",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Jaludo B.V. (Sellbranch)",
+    "domain" : "speeleiland.nl",
+    "seller_id" : "1183",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Jobrapido",
+    "domain" : "jobrapido.com",
+    "seller_id" : "965",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Jobrapido (1392) - EBDA - 23154429 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1392",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Jobrapido",
+    "domain" : "jobrapido.com",
+    "seller_id" : "1403",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Jubii -DK -EBDA-7733 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1593",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Jubii Denmark",
+    "seller_id" : "1048",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Justpremium",
+    "domain" : "justpremium.com",
+    "seller_id" : "185",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "JW Player",
+    "seller_id" : "1068",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Kaban Media",
+    "domain" : "kaban-media.com",
+    "seller_id" : "1485",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Kaleva",
+    "seller_id" : "1265",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Kaleva Oy",
+    "domain" : "kaleva.fi",
+    "seller_id" : "1214",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Kalooga (Sellbranch)",
+    "domain" : "kalooga.com",
+    "seller_id" : "817",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Kidoz Ltd.",
+    "domain" : "kidoz.net",
+    "seller_id" : "1604",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Kokaihop",
+    "seller_id" : "1047",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "kr3m.media GmbH",
+    "domain" : "kr3m.com",
+    "seller_id" : "685",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Krux Digital",
+    "domain" : "krux.com",
+    "seller_id" : "142",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Kurier (1590) -EBDA-39025507 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1590",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Kurier.at",
+    "domain" : "kurier.at",
+    "seller_id" : "929",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "La Nación AR - EBDA - 133919216 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1488",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "LA PROVENCE",
+    "domain" : "laprovence-medias.com",
+    "seller_id" : "1142",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "La Voz de Galicia (Agora)",
+    "domain" : "lavozdegalicia.es",
+    "seller_id" : "613",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Lad Bible Group - EBDA - 66393171 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1388",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Lad Bible Group - EBDA - 8493129 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1387",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Le Point (1467) -EBDA- 132876432 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1467",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Leeads",
+    "domain" : "leeads.com",
+    "seller_id" : "1407",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Leeads Denmark",
+    "seller_id" : "1113",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "LeFigaro via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1607",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Letssingit (Sellbranch)",
+    "domain" : "letssingit.com",
+    "seller_id" : "1164",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Letvertise GmbH",
+    "domain" : "letvertise.com",
+    "seller_id" : "687",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Level Up Media (Dingit.tv)",
+    "domain" : "levelupmedia.tv",
+    "seller_id" : "969",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "LHP Media Group",
+    "domain" : "lhpmedagoup.com",
+    "seller_id" : "813",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Limpid Technologies",
+    "seller_id" : "1256",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Line & Sight",
+    "domain" : "lineandsight.com",
+    "seller_id" : "1016",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Liverpool NO",
+    "domain" : "liverpool.no",
+    "seller_id" : "971",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Lo70s (Sellbranch)",
+    "domain" : "lo70s.com",
+    "seller_id" : "1196",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "LoopMe",
+    "domain" : "loopme.com",
+    "seller_id" : "1532",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Lupon Media",
+    "domain" : "luponmedia.com",
+    "seller_id" : "1635",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "M32 Media via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1653",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "M51 (IRCO TECHNOLOGIES LTD)",
+    "seller_id" : "1410",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "M6 (1334) - EBDA- 42159803 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1334",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Madmen (Synonymer.se)",
+    "domain" : "synonymer.se",
+    "seller_id" : "910",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MADSACK Market Solutions GmbH",
+    "seller_id" : "1254",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Madvertise (1363) - EBDA - 40369895 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1363",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Mail Online",
+    "domain" : "dailymail.co.uk",
+    "seller_id" : "923",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MailOnline (EMEA) - EBDA - 5765 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1432",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "MailOnline (USA) - EBDA - 424397508 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1433",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Malware Detection Publisher",
+    "seller_id" : "1097",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Manatee",
+    "seller_id" : "1496",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MannenMedia",
+    "domain" : "mannenmedia.nl",
+    "seller_id" : "261",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MannenMedia via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1655",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Marfeel  (1364) - EBDA - 22571134 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1364",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Marfeel Solutions S.L.",
+    "seller_id" : "1534",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Marinetraffic (1520) -EBDA-15222045 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1520",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Marktplaats via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1614",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Marktplaats Media",
+    "domain" : "marktplaatsmedia.nl",
+    "seller_id" : "64",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Mars Media Group (MMG)",
+    "domain" : "mars.media",
+    "seller_id" : "1210",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Massarius - EBDA - 13436254 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1512",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Massarius B.V.",
+    "domain" : "massarius.com",
+    "seller_id" : "115",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Matchads",
+    "seller_id" : "1023",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Matchads (former Agora, Venditius)",
+    "domain" : "cxense.com",
+    "seller_id" : "835",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Maxad",
+    "domain" : "maxad.co",
+    "seller_id" : "983",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Med1 Online Service GmbH",
+    "domain" : "med1.de",
+    "seller_id" : "1199",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Media Empire GmbH",
+    "domain" : "media-empire.com",
+    "seller_id" : "885",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Media Group Denmark ApS",
+    "domain" : "dagens.dk",
+    "seller_id" : "872",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Media-clic",
+    "domain" : "media-clic.com",
+    "seller_id" : "1021",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Mediamond",
+    "domain" : "mediamond.it",
+    "seller_id" : "625",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Mediamond - EBDA - 4758 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1561",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Mediamond S.p.A.",
+    "domain" : "mediamond.it",
+    "seller_id" : "1567",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Mediastay",
+    "domain" : "mediastay.com",
+    "seller_id" : "47",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Mediavine",
+    "domain" : "mediavine.com",
+    "seller_id" : "1625",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Medyanet (Agora)",
+    "domain" : "medyanet.net",
+    "seller_id" : "845",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Megadilla LLC",
+    "domain" : "megadilla.co",
+    "seller_id" : "1345",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Melty",
+    "domain" : "melty.fr",
+    "seller_id" : "1247",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Melty (1372) - EBDA -157792674 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1372",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Meteored (Agora)",
+    "domain" : "daswetter.com",
+    "seller_id" : "868",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Metroxpress",
+    "domain" : "mx.dk",
+    "seller_id" : "894",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MindAd Media",
+    "domain" : "mindadmedia.com",
+    "seller_id" : "1194",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Minute Media (1530) - EBDA-175840252 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1530",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Minute Spoteam Ltd.",
+    "domain" : "minute.ly",
+    "seller_id" : "1431",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Mita Media (Smud.no)",
+    "domain" : "smud.no",
+    "seller_id" : "843",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MOBIDECK",
+    "domain" : "wease.im",
+    "seller_id" : "1172",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Mobile Applied (Sellbranch)",
+    "domain" : "mobileapplied.com",
+    "seller_id" : "1272",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "mobile.de via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1608",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Mobimight",
+    "domain" : "mobimight.com",
+    "seller_id" : "1103",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MONDADORI",
+    "domain" : "mondadori.fr",
+    "seller_id" : "1152",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MONDADORI_INSIDEALL",
+    "domain" : "mondadori.fr",
+    "seller_id" : "1143",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Moneyhouse (DE)",
+    "domain" : "moneyhouse.de",
+    "seller_id" : "915",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Moneytag",
+    "domain" : "moneytag.fr",
+    "seller_id" : "1102",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Moneytag.fr via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1572",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Morningstar Europe",
+    "domain" : "morningstar.com",
+    "seller_id" : "623",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Motorvision",
+    "domain" : "motorvision.tv",
+    "seller_id" : "1019",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MovingUP (1426) -EBDA-150134580 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1426",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "MSO Digital GmbH",
+    "domain" : "mso-digital.de",
+    "seller_id" : "1262",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MTB News",
+    "domain" : "mtb-news.de",
+    "seller_id" : "1472",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MTV Fi",
+    "domain" : "mtv.fi",
+    "seller_id" : "839",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "MTV.fi - HB",
+    "seller_id" : "1049",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Muslim Assistant App Monetization (Sellbranch)",
+    "seller_id" : "1167",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Must Digital (Glestor Business )",
+    "seller_id" : "1389",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Must Mobile (Holywell S.A)",
+    "domain" : "mustmobile.com",
+    "seller_id" : "1536",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Mycujoo.tv",
+    "domain" : "mycujoo.tv",
+    "seller_id" : "1133",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "NA First Look LTD",
+    "seller_id" : "1486",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Nano Interactive GmbH",
+    "domain" : "nanointeractive.com",
+    "seller_id" : "1017",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Nano Interactive GmbH (don't use)",
+    "domain" : "nanointeractive.com",
+    "seller_id" : "939",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Native Ads",
+    "domain" : "nativeads.com",
+    "seller_id" : "998",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Nax Nordics (sellbranch)",
+    "domain" : "naxnordic.com",
+    "seller_id" : "942",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Net-A-Porter",
+    "domain" : "net-a-porter.com",
+    "seller_id" : "829",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Netaddiction (1370)  -EBDA- 9528481 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1370",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Netaddiction Srl",
+    "domain" : "netaddiction.it",
+    "seller_id" : "1616",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Netletix (former Netzathleten.net)",
+    "domain" : "netzathleten.de",
+    "seller_id" : "807",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Netletix - EBDA - 133475686 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1295",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "NetMediaClick",
+    "domain" : "netmediaclick.it",
+    "seller_id" : "1121",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Netpoint Media gmbh / berlin",
+    "domain" : "netpoint-media.de",
+    "seller_id" : "388",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Netzwelt - EBDA - 1020351 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1283",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Netzwelt GmbH",
+    "domain" : "netzwelt.de",
+    "seller_id" : "1218",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Neue Zürcher Zeitung AG (NZZ)",
+    "domain" : "nzz.ch",
+    "seller_id" : "873",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "new BeNeLux publisher",
+    "seller_id" : "1053",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "new UK pub",
+    "seller_id" : "1000",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "News Media",
+    "seller_id" : "1055",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "News UK",
+    "domain" : "news.co.uk",
+    "seller_id" : "1201",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Nexilia",
+    "domain" : "nexilia.it",
+    "seller_id" : "941",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Next Day Media B.V.",
+    "domain" : "nextdaymedia.nl",
+    "seller_id" : "755",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "NextRegie",
+    "seller_id" : "1006",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Nieuws.nl / Nort Groep (Sellbranch)",
+    "domain" : "nieuws.nl",
+    "seller_id" : "179",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Njuskalo (1513) -EBDA-1051610 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1513",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "NomNom Media",
+    "domain" : "nomnommedia.com",
+    "seller_id" : "1428",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "NOVOROLL",
+    "domain" : "novoroll.com",
+    "seller_id" : "1171",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "NRJ",
+    "seller_id" : "1070",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "NRJ Global (1308) - EBDA - 21715515940 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1308",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Oboxmedia (Sellbranch)",
+    "seller_id" : "1211",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "OCM Digital Media - EBDA - 75351959 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1452",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "OD Media",
+    "seller_id" : "990",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "OE24.at",
+    "seller_id" : "1090",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "OkDiario - EBDA - 95562950 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1450",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Olderiswiser Media",
+    "domain" : "olderiswiser.com",
+    "seller_id" : "673",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Omnivid",
+    "seller_id" : "988",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "OMP (Online Media Partners)",
+    "domain" : "ompgroup.de",
+    "seller_id" : "976",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "One Business",
+    "domain" : "newskoolmedia.com",
+    "seller_id" : "978",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "OPTI DIGITAL SAS",
+    "domain" : "optidigital.fr",
+    "seller_id" : "1469",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Orange Click Media & Commerce LTD (Sellbranch)",
+    "domain" : "orangeclickmedia.com",
+    "seller_id" : "1191",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ORF",
+    "seller_id" : "1035",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ORF-Enterprise GmbH & Co KG",
+    "seller_id" : "1073",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ouest France",
+    "seller_id" : "1383",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ouest-France (1307) - EBDA - 49926454 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1307",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "OZ Digital via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1652",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Ozone",
+    "domain" : "ozoneproject.com",
+    "seller_id" : "1451",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "PAN Programmatic (Agora)",
+    "domain" : "lagora-evolution.com",
+    "seller_id" : "913",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Paperblog",
+    "domain" : "paperblog.com",
+    "seller_id" : "897",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "PayClick IT",
+    "domain" : "payclick.it",
+    "seller_id" : "729",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Pebble Media",
+    "domain" : "pebblemedia.be",
+    "seller_id" : "1005",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Pelmorex (1495) -EBDA-21818248268 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1495",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Peppa Media",
+    "seller_id" : "1217",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Perform  Group UK",
+    "domain" : "performgroup.com",
+    "seller_id" : "269",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Perform ePlayer",
+    "domain" : "performgroup.com",
+    "seller_id" : "948",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Perform Group ES",
+    "domain" : "performgroup.co.uk",
+    "seller_id" : "919",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Perform Group FR",
+    "domain" : "statsperform.com",
+    "seller_id" : "881",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Perform Group Global / DAZN (1303) - EBDA - 67970281 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1303",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Perform Group IT",
+    "domain" : "performgroup.co.uk",
+    "seller_id" : "743",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Perform Group Nordics",
+    "domain" : "performgroup.com",
+    "seller_id" : "921",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Performatic",
+    "domain" : "performatic.io",
+    "seller_id" : "904",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Persgroep NL DPG - EBDA -  7455 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1483",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Persgroep RTL - EBDA - 21730500021 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1484",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Pharos Code LLC",
+    "seller_id" : "1415",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Phonearena - EBDA - 124260794 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1446",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Piemme",
+    "seller_id" : "1284",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Piemme (1280) - EBDA - 38681514 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1280",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Piemme Online OLD",
+    "domain" : "piemmeonline.it",
+    "seller_id" : "641",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Piemme S.p.A.",
+    "seller_id" : "1245",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "PLANET ADVERTISING",
+    "domain" : "planet.fr",
+    "seller_id" : "1127",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "PlantSnap via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1626",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Platform Integration",
+    "domain" : "improvedigital.com",
+    "seller_id" : "671",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Playad Media Group",
+    "domain" : "playadmediagroup.com",
+    "seller_id" : "1135",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Playbuzz (1382) - EBDA - 94166617 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1382",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "PlaySpace",
+    "domain" : "playspace.com",
+    "seller_id" : "791",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "PLAYTEM (Creative Research)",
+    "seller_id" : "1239",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Playwire",
+    "seller_id" : "1009",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "playwire -Barstoolsports.com () -EBDA 137548614",
+    "domain" : "barstoolsports.com",
+    "seller_id" : "1579",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Playwire Media Display - EBDA - 154013155 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1492",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Playwire Media Video - EBDA - 137548614 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1493",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Please rename for use /empty account",
+    "seller_id" : "1329",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Plexus",
+    "domain" : "plexusstudios.com",
+    "seller_id" : "1096",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Plinga GmbH",
+    "seller_id" : "1219",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "PM Tjenestesenter AS",
+    "domain" : "agderposten.no",
+    "seller_id" : "1574",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Populis SRL",
+    "domain" : "populis.com",
+    "seller_id" : "669",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Postr Media Ltd",
+    "domain" : "postr.co.nz",
+    "seller_id" : "1477",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Prensa Ibérica Zeta - EBDA - 138855687 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1518",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Prequel",
+    "domain" : "prequel.tv",
+    "seller_id" : "1150",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "PressCommTech",
+    "domain" : "presscommtech.com",
+    "seller_id" : "1022",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Pricerunner via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1632",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Pricerunner DK",
+    "domain" : "edbpriser.dk",
+    "seller_id" : "1020",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Primeroll Media Ltd",
+    "domain" : "primeroll.com",
+    "seller_id" : "1455",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Primis (former Sekindo)",
+    "seller_id" : "1065",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "prisma press (1300) - EBDA-228216569 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1300",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "ProAd",
+    "domain" : "proad.se",
+    "seller_id" : "767",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Product Team ONLY - Test Publisher",
+    "domain" : "improvedigital.com",
+    "seller_id" : "916",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Proff Sweden",
+    "domain" : "proff.se",
+    "seller_id" : "1128",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Proff.no",
+    "domain" : "proff.no",
+    "seller_id" : "1105",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Project ADV",
+    "domain" : "projectadv.it",
+    "seller_id" : "1241",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Project Limelight Ltd",
+    "domain" : "project-limelight.com",
+    "seller_id" : "1270",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Promille Media NL",
+    "domain" : "promillemedia.nl",
+    "seller_id" : "994",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Promipool (OLD - DO NOT USE)",
+    "domain" : "promipool.de",
+    "seller_id" : "906",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Promipool - EBDA - 35177027 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1315",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Promipool GmbH",
+    "seller_id" : "1386",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Pubgalaxy",
+    "domain" : "pubgalaxy.com",
+    "seller_id" : "1263",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Pubgalaxy (1352)- EBDA- 8095840 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1352",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "PubGalaxy (PhoneArena)",
+    "domain" : "phonearena.om",
+    "seller_id" : "597",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Public Test Account",
+    "seller_id" : "1054",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Publicaciones del Sur SA (Agora)",
+    "domain" : "ondaluz.tv",
+    "seller_id" : "777",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Publisher name",
+    "seller_id" : "719",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Publy",
+    "domain" : "publy.com",
+    "seller_id" : "905",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Publy (INT)",
+    "seller_id" : "1130",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Pubnative",
+    "seller_id" : "1366",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "PubOcean - EBDA - 440974391 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1491",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "PubStream Advertising LLC",
+    "domain" : "pubstream.co",
+    "seller_id" : "1260",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Pulpix",
+    "domain" : "pulpix.com",
+    "seller_id" : "1036",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Purpur Media",
+    "domain" : "purpur.media",
+    "seller_id" : "863",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Purpur Media (1396) - EBDA - 109114268 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1396",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Purpur Media (DO NOT USE! - OLD)",
+    "domain" : "purpurmedia.at",
+    "seller_id" : "371",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Quality Check Publisher (internal)",
+    "seller_id" : "1238",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "QUANTUM",
+    "domain" : "quantum-advertising.com",
+    "seller_id" : "1220",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Quarter Media - EBDA - 27763518 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1286",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "QUARTER MEDIA GmbH",
+    "domain" : "quartermedia.de",
+    "seller_id" : "1498",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Quefaire.be",
+    "seller_id" : "1489",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Radio.net - EBDA - 3414435 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1360",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "RBXXL GmbH DE",
+    "domain" : "rabattexxl.de",
+    "seller_id" : "459",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Reader's Digest",
+    "domain" : "readersdigest.com",
+    "seller_id" : "996",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ReadMe",
+    "domain" : "readme.it",
+    "seller_id" : "958",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Red Pineapple Media",
+    "domain" : "redpineapplemedia.com",
+    "seller_id" : "1147",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "RedZone LTD",
+    "domain" : "redzone.digital",
+    "seller_id" : "1648",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Reed Business Information (RBI)",
+    "domain" : "reedbusiness.nl",
+    "seller_id" : "697",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Refinery89 (Sellbranch)",
+    "domain" : "refinery89.com",
+    "seller_id" : "1236",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Regionalmedien Austria AG (RMA)",
+    "domain" : "regionalmedien.at",
+    "seller_id" : "855",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Reklamstore",
+    "domain" : "reklamstore.com",
+    "seller_id" : "1216",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Relevant FI",
+    "domain" : "relevant.fi",
+    "seller_id" : "745",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Results Media",
+    "domain" : "resultsmedia.com",
+    "seller_id" : "1221",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "RetailMeNot - EBDA - 31179041 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1430",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "reworld media (1348) - EBDA-46980923 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1348",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "ReworldMediaFactory",
+    "domain" : "reworldmedia.com",
+    "seller_id" : "1228",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Rhebus",
+    "domain" : "rhebus.works",
+    "seller_id" : "1510",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Right Route AB (news55.se) (sellbranch)",
+    "domain" : "news55.se",
+    "seller_id" : "932",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "RIVMEDIA",
+    "seller_id" : "1169",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Rome Publisher",
+    "seller_id" : "973",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Rootads Nordics",
+    "domain" : "rootads.nl",
+    "seller_id" : "1104",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "RP-Online (1417) -EBDA-1017380 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1417",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "RTK",
+    "seller_id" : "1327",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "RTL / Buienradar",
+    "domain" : "buienradar.nl",
+    "seller_id" : "107",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Rubrikkgroup",
+    "domain" : "newsnow.co.uk",
+    "seller_id" : "1330",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Rubrikkgroup (1320) - EBDA- 73534559 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1320",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Rubrikkgroup (1321) - EBDA- 311665311 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1321",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Rubrikkgroup (1323) - EBDA- 16306024 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1323",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Rubrikkgroup (1324) - EBDA- 180052813 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1324",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Rubrikkgroup (1325) - EBDA- 74217219 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1325",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Rubrikkgroup (1326) - EBDA- 79945059 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1326",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Russmedia (1318) - EBDA - 1044774 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1318",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Russmedia Digital GmbH/ Austria.com",
+    "domain" : "russmedia.com",
+    "seller_id" : "821",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Russmedia SDK Dev",
+    "seller_id" : "1046",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "SA IPM Group NV",
+    "seller_id" : "1549",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Saltycake",
+    "seller_id" : "1188",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Salzburg Digital",
+    "domain" : "salzburg24.at",
+    "seller_id" : "1034",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sanoma BE",
+    "domain" : "sanoma.be",
+    "seller_id" : "392",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sanoma Finland",
+    "domain" : "sanoma.fi",
+    "seller_id" : "347",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sanoma NL",
+    "domain" : "sanoma.nl",
+    "seller_id" : "73",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "SB Denmark",
+    "seller_id" : "1151",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Schaltplatz",
+    "domain" : "schaltplatz.de",
+    "seller_id" : "471",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Science Media Group",
+    "seller_id" : "1341",
+    "seller_type" : "BOTH"
+  }, {
+    "name" : "Scout24 (DE)",
+    "domain" : "immobilienscout.de",
+    "seller_id" : "1078",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Scout24 (NL)",
+    "domain" : "scout24.com",
+    "seller_id" : "901",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Scout24 DE - EBDA - 4467 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1454",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Seat PG",
+    "domain" : "seat.it",
+    "seller_id" : "677",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Segment Hub Ltd",
+    "seller_id" : "1337",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Select Media",
+    "domain" : "selectmedia.asia",
+    "seller_id" : "1091",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Select Media (not in use)",
+    "domain" : "selectmedia.com",
+    "seller_id" : "837",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sellbranch",
+    "domain" : "sellbranch.com",
+    "seller_id" : "227",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Semilo",
+    "domain" : "semilo.nl",
+    "seller_id" : "575",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sercanto (1578)-EBDA-9542613 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1578",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Server-to-Server Test Publisher (INTERNAL)",
+    "seller_id" : "1531",
+    "seller_type" : "BOTH"
+  }, {
+    "name" : "Setupad",
+    "domain" : "setupad.com",
+    "seller_id" : "803",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "SevenOne Media (1312) -EBDA - 5731 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1312",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "SFR Regie",
+    "domain" : "sfrregie.com",
+    "seller_id" : "567",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "SHE MEDIA - EBDA - 8352 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1507",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Sheology",
+    "domain" : "sheologydigital.com",
+    "seller_id" : "663",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ShinyStat",
+    "domain" : "shinystat.com",
+    "seller_id" : "731",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sinovum Media",
+    "domain" : "synonymer.se",
+    "seller_id" : "1569",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "SIXTYFOX (QWERTIZE)",
+    "domain" : "qwertize.com",
+    "seller_id" : "1028",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Skafidia SA-Mango",
+    "domain" : "mango.mp",
+    "seller_id" : "1294",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Skalden Media",
+    "domain" : "skalden-media.de",
+    "seller_id" : "655",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "SkiceLab SRL (Sellbranch)",
+    "domain" : "skicelab.com",
+    "seller_id" : "1161",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Skores Media",
+    "seller_id" : "1132",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Skyboard",
+    "domain" : "skyboard.fr",
+    "seller_id" : "1124",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Skyscanner",
+    "domain" : "skyscanner.com",
+    "seller_id" : "892",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Skyscanner - EBDA - 24268069 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1338",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Slmads (Spacefoot / Sportslocalmedia)",
+    "domain" : "slmads.com",
+    "seller_id" : "1082",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Smart Clip (Agora)",
+    "domain" : "smartclip.com",
+    "seller_id" : "771",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "HK SMARTER MOBI TECHNOLOGY CO",
+    "domain" : "mobismarter.com",
+    "seller_id" : "1601",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "SmartyContent",
+    "domain" : "smartycontent.com",
+    "seller_id" : "1075",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Smile Wanted Group",
+    "domain" : "smilewanted.com",
+    "seller_id" : "1010",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Smiling Web",
+    "domain" : "smilingweb.it",
+    "seller_id" : "785",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Snack Media",
+    "domain" : "snack-media.com",
+    "seller_id" : "681",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Snack Media (1576)-EBDA-6428571 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1576",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "SnigelWeb",
+    "domain" : "snigelweb.com",
+    "seller_id" : "1248",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Snigelweb (ID 1297) - EBDA - 22152718 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1297",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Snopes.com - EBDA - 1005222 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1464",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Snow Development LLC",
+    "seller_id" : "1240",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Social Mindset/Rootads",
+    "domain" : "socialmindset.nl",
+    "seller_id" : "955",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Softgames",
+    "seller_id" : "1140",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Softonic (1550) -EBDA-5302 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1550",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Solavid",
+    "domain" : "clearpier.com",
+    "seller_id" : "1066",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Solex LTD",
+    "domain" : "solex.io",
+    "seller_id" : "1243",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "SOMA 2 GmbH",
+    "domain" : "webcombi.de",
+    "seller_id" : "571",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sonital Digital Media (Sellbranch)",
+    "seller_id" : "1206",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sortable",
+    "domain" : "sortable.com",
+    "seller_id" : "1481",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Southfields",
+    "domain" : "southfields.nl",
+    "seller_id" : "1043",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sparc Media",
+    "seller_id" : "1018",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Specto.tv",
+    "domain" : "specto.tv",
+    "seller_id" : "1623",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "SpeeD",
+    "domain" : "speedadv.it",
+    "seller_id" : "933",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Speroll Media Ltd",
+    "domain" : "speroll.com",
+    "seller_id" : "1479",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Spil Games via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1600",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Spil Games SMART",
+    "domain" : "spilgames.com",
+    "seller_id" : "577",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Spilgames Nordics",
+    "seller_id" : "1050",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sport Network",
+    "domain" : "sportnetwork.it",
+    "seller_id" : "721",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sport Publish OÜ-Bold.dk",
+    "domain" : "bold.dk",
+    "seller_id" : "1292",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Spring Serve",
+    "domain" : "springserve.com",
+    "seller_id" : "1470",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Squawka",
+    "domain" : "squawka.com",
+    "seller_id" : "703",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "SquidApp",
+    "domain" : "squidapp.co",
+    "seller_id" : "1654",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Stampen Lokala Medier AB",
+    "seller_id" : "1612",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "StartSiden",
+    "domain" : "startsiden.no",
+    "seller_id" : "531",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Startsiden via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1582",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "STEP A/S",
+    "domain" : "step.dk",
+    "seller_id" : "1563",
+    "seller_type" : "BOTH"
+  }, {
+    "name" : "STEP A/S (1350)- EBDA- 21809957681 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1350",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "STER",
+    "seller_id" : "1285",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Stipat LTD",
+    "domain" : "stipat.com",
+    "seller_id" : "1207",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "StreamAMP",
+    "domain" : "streamamp.com",
+    "seller_id" : "1146",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "StreamKey",
+    "domain" : "streamkey.tv",
+    "seller_id" : "1138",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Streamkey.tv",
+    "domain" : "streamkey.tv",
+    "seller_id" : "1656",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Streamone NL",
+    "seller_id" : "993",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Stroeer Media Solutions (1359) - EBDA - 4444 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1359",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Ströer Mediabrands AG",
+    "domain" : "stroeermediabrands.de",
+    "seller_id" : "878",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sublime Skinz",
+    "domain" : "sublime.xyz",
+    "seller_id" : "335",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Sugges.tv",
+    "seller_id" : "1001",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sulake",
+    "seller_id" : "1145",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Sulake (AdMob) via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1423",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Sun Media (former Impresiones Web, Agora)",
+    "domain" : "impresionesweb.com",
+    "seller_id" : "543",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "SunMedia",
+    "domain" : "sunmedia.tv",
+    "seller_id" : "1062",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "T3n Magazin (yeebase media GmbH)",
+    "domain" : "t3n.de",
+    "seller_id" : "1412",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Taboola-HB",
+    "domain" : "ouest-france.fr",
+    "seller_id" : "1577",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Take1Ads (GDMgroup Asia Limited)",
+    "domain" : "take1ads.com",
+    "seller_id" : "1397",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Takoomi",
+    "domain" : "takoomi.com",
+    "seller_id" : "1509",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TalksMedia",
+    "domain" : "talksmedia.it",
+    "seller_id" : "974",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Tamedia AG",
+    "domain" : "tamedia.ch",
+    "seller_id" : "701",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Tamedia AG [HB]",
+    "seller_id" : "1193",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Tarpaulin LLC (Sellbranch)",
+    "seller_id" : "1175",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TBD Media LLC",
+    "seller_id" : "1282",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TDN - SF MEDIA",
+    "domain" : "letribunaldunet.fr",
+    "seller_id" : "1126",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Tekpaw",
+    "domain" : "tekpaw.com",
+    "seller_id" : "949",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Telegraaf Media Groep (TMG)",
+    "domain" : "tmg.nl",
+    "seller_id" : "951",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Tellonym (Sellbranch)",
+    "seller_id" : "1222",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Terra - Telefonica",
+    "domain" : "terra.es",
+    "seller_id" : "72",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "test automation account",
+    "seller_id" : "1609",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TEST PUBLISHER (38)",
+    "domain" : "test.nl",
+    "seller_id" : "38",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "The LADbible Group",
+    "domain" : "theladbiblegroup.com",
+    "seller_id" : "890",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "The Mark (Publigroupe)",
+    "domain" : "the-mark.com",
+    "seller_id" : "421",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "The Moneytizer",
+    "domain" : "themoneytizer.com",
+    "seller_id" : "1602",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Moneytizer",
+    "domain" : "themoneytizer.com",
+    "seller_id" : "1033",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "The New York Times",
+    "domain" : "nytimes.com",
+    "seller_id" : "853",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "The Stylist Group - EBDA - 4987 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1335",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "ThePlaceToBid",
+    "domain" : "theplacetobid.fr",
+    "seller_id" : "1059",
+    "seller_type" : "BOTH"
+  }, {
+    "name" : "ThePlaceToBid - EBDA - 162547629 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1480",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Thinkdigital",
+    "domain" : "thinkdigital.net",
+    "seller_id" : "1460",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Thirdpresence (Sellbranch)",
+    "seller_id" : "1174",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TI Media",
+    "domain" : "ti-media.com",
+    "seller_id" : "1244",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TIM (Previously Tersertude)",
+    "domain" : "thetimmedia.com",
+    "seller_id" : "1087",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TITANIA COMPAÑÍA EDITORIAL, S.L. - EBDA - 21682112617 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1411",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "TK Video",
+    "seller_id" : "1187",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TMG / Mediahuis - EBDA - 75037320",
+    "seller_id" : "1558",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TMT Max",
+    "domain" : "tmtmax.com",
+    "seller_id" : "1619",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TNI Media Holdings",
+    "seller_id" : "1232",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TO BE USED",
+    "domain" : "youdagames.com",
+    "seller_id" : "1424",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Tolocal",
+    "seller_id" : "1155",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Tolocal",
+    "seller_id" : "1156",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "ToLocal (1319) - EBDA - 3740014 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1319",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Topito",
+    "domain" : "topito.com",
+    "seller_id" : "1399",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Topito (1398)- EBDA-4455499 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1398",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Tori",
+    "seller_id" : "1045",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Total Media Solutions via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1435",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media Solutions via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1437",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media Solutions via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1439",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media Solutions via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1440",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media Solutions via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1434",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media Solutions via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1438",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media Solutions via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1441",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1471",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media Solutions via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1501",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1553",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1565",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1613",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1643",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Toatl Media via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1644",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Total Media via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1642",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Townsquare Media - EBDA - 8328825 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1554",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "TP Vision",
+    "domain" : "tpvision.com",
+    "seller_id" : "959",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TradeCast (Sellbranch)",
+    "domain" : "tradecast.tv",
+    "seller_id" : "925",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Tradera AB via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1645",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Traffective GmbH",
+    "seller_id" : "1279",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Traffective_2 - EBDA - 307308315 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1332",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Training Account",
+    "domain" : "improvedigital.com",
+    "seller_id" : "883",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Transsion",
+    "seller_id" : "1419",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Trending Topics S.L. (Agora)",
+    "domain" : "trendingttopics.com",
+    "seller_id" : "870",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TRENDSCATCHERS (LQR Participations)",
+    "domain" : "trendscatchers.io",
+    "seller_id" : "1173",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Triad Retail NL (Media Markt)",
+    "domain" : "triadretail.com",
+    "seller_id" : "895",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Triboo",
+    "domain" : "primerealtime.com",
+    "seller_id" : "1264",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Triboo - EBDA - 5902 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1296",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Triboo S.P.A. - Leonardo ADV",
+    "domain" : "leonardoadv.it",
+    "seller_id" : "611",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TripleDoubleU GmbH",
+    "domain" : "vermarkter.de",
+    "seller_id" : "337",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Tunnl (do not use old)",
+    "seller_id" : "1101",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Tunnl BV (Yoki, HeaderLift)",
+    "domain" : "azerion.com",
+    "seller_id" : "545",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Turkticaret.net",
+    "domain" : "turkticaret.net",
+    "seller_id" : "431",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Turkuvaz Media - EBDA - 31110078 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1436",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "TV Gids",
+    "domain" : "tvgids.nl",
+    "seller_id" : "57",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TV2 No",
+    "seller_id" : "1083",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "TV2 NO - EBDA - 5374 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1526",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "TV2-DK (1401) - EBDA - 19784602 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1401",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "TVN",
+    "seller_id" : "1014",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "UBISOFT",
+    "seller_id" : "1203",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ultimate Guitar (Sellbranch)",
+    "domain" : "ultimate-guitar.com",
+    "seller_id" : "1051",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Unidad Editorial - EBDA - 99071977 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1384",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Unified Streaming",
+    "seller_id" : "989",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "United Internet Media - EBDA - 139364342 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1444",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "United Internet Media GmbH",
+    "domain" : "united-internet.de",
+    "seller_id" : "1258",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "United NO",
+    "domain" : "united.no",
+    "seller_id" : "920",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Upday (1459)-EBDA-21675937462 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1459",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Urban-Media via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1622",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Urban Media GmbH",
+    "domain" : "urban-media-daten.de",
+    "seller_id" : "76",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "User Matching Publisher (do not deactivate)",
+    "domain" : "azerion.com",
+    "seller_id" : "1042",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Valica",
+    "seller_id" : "1208",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Velis (Sellbranch)",
+    "domain" : "velismedia.com",
+    "seller_id" : "1229",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Venatus",
+    "domain" : "venatusmedia.com",
+    "seller_id" : "1012",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "venatusmedia via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1640",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Veühub International",
+    "domain" : "veuhub.com",
+    "seller_id" : "1024",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Veuhub Nordics",
+    "domain" : "veuhub.com",
+    "seller_id" : "1037",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Vexigo",
+    "domain" : "vexigo.com",
+    "seller_id" : "1141",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Viber (ID 1287) - EBDA - ﻿65656263 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1287",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "VICE Deutschland GmbH",
+    "domain" : "vice.com",
+    "seller_id" : "503",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Vice Media",
+    "domain" : "vice.com",
+    "seller_id" : "1233",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Vidazoo",
+    "domain" : "vidazoo.com",
+    "seller_id" : "1250",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "VidCrunch LLC",
+    "seller_id" : "1371",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Video Demo",
+    "seller_id" : "1063",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Video house publisher",
+    "domain" : "videotestpublisher.com",
+    "seller_id" : "751",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Video Intelligence - EBDA - 21708299310 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1552",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Video Intelligence - EBDA - 21708299310",
+    "seller_id" : "1573",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Videoadpremium",
+    "domain" : "videoadpremium.com",
+    "seller_id" : "795",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Videobeet Italia Srl (Sellbranch)",
+    "domain" : "videobeet.tv",
+    "seller_id" : "1176",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "VideoMize",
+    "seller_id" : "991",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Vidoomy",
+    "seller_id" : "1074",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Vidstart LTD. (Sellbranch)",
+    "domain" : "vidstart.com",
+    "seller_id" : "1189",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Viewster",
+    "domain" : "viewster.com",
+    "seller_id" : "699",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Viralize",
+    "domain" : "viralize.com",
+    "seller_id" : "907",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Viralize (foreign geos)",
+    "domain" : "viralize.com",
+    "seller_id" : "1057",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Viralize S2S",
+    "seller_id" : "1418",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "VixyVideo",
+    "domain" : "vixyvideo.com",
+    "seller_id" : "953",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Vlyby",
+    "seller_id" : "1340",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Vodafone SP (Ericsson)",
+    "seller_id" : "1123",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Voetbal International",
+    "domain" : "vi.nl",
+    "seller_id" : "693",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Volcera LTD",
+    "domain" : "volcera.io",
+    "seller_id" : "1650",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Volition LTD",
+    "seller_id" : "1298",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "VTV Studio Inc",
+    "seller_id" : "1627",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Vudha Media",
+    "domain" : "vudha.com",
+    "seller_id" : "1200",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "VUUO",
+    "seller_id" : "1072",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "w00t! Media",
+    "domain" : "w00tmedia.net",
+    "seller_id" : "914",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Waco Media - EBDA - 21759076801 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1377",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Wallapop - AdMob - pub-5927681371993674 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1502",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Wallapop - EBDA - 130868815 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1462",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Wallstreet-online.de - EBDA - 1025761 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1592",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Wam Group Ltd t/a Admix",
+    "domain" : "url.com",
+    "seller_id" : "1393",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "WayneParkerKent (WPK)",
+    "domain" : "wayneparkerkent.com",
+    "seller_id" : "727",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Wazimo Media Ltd (Sellbranch)",
+    "domain" : "wazimo.com",
+    "seller_id" : "1179",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Webads ES",
+    "domain" : "webads.es",
+    "seller_id" : "1197",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Webads IT",
+    "domain" : "webads.eu",
+    "seller_id" : "1198",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "WebAds NL",
+    "domain" : "webads.nl",
+    "seller_id" : "985",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "WEBEDIA",
+    "domain" : "webedia-group.com",
+    "seller_id" : "1170",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Webedia (1304) - EBDA - 35853227 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1304",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Webedia BU/FR (1375) -EBDA-  6783 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1375",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Webedia BU/FR (1376) - EBDA - 120157152 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1376",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Webedia DE (formerly IDG Entertainment Media GmbH)",
+    "domain" : "idg.de",
+    "seller_id" : "390",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Webedia GmbH",
+    "domain" : "filmstarts.de",
+    "seller_id" : "1215",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Weblogmedia - EBDA - 21633373859 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1278",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Weborama",
+    "domain" : "weborama.nl",
+    "seller_id" : "1069",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Webtoon (1478) -EBDA-49289362 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1478",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "WeDo Marketing ApS",
+    "domain" : "wedomarketing.dk",
+    "seller_id" : "861",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Wegener",
+    "domain" : "wegener.nl",
+    "seller_id" : "295",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "WEKA via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1596",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Welke.nl (Sellbranch)",
+    "domain" : "welke.nl",
+    "seller_id" : "515",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "wetter.com GmbH via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1611",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Wetter Online",
+    "domain" : "wetteronline.de",
+    "seller_id" : "1347",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Wetter Online - EBDA - 6718395 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1342",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "wetter.com GmbH",
+    "seller_id" : "1610",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Whenever Media",
+    "domain" : "whenevermedia.com",
+    "seller_id" : "849",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Whildey VidRider",
+    "domain" : "vidrider.com",
+    "seller_id" : "1523",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "WhoScored?com",
+    "domain" : "whoscored.com",
+    "seller_id" : "900",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Wibbitz",
+    "seller_id" : "1026",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Widespace Connect",
+    "seller_id" : "1166",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Wildhitz ",
+    "domain" : "wildhitz.nl",
+    "seller_id" : "457",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Willhaben internet service GmbH & Co KG",
+    "domain" : "willhaben.at",
+    "seller_id" : "1163",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Wise Data Media",
+    "domain" : "wdm.com",
+    "seller_id" : "799",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Wiseroll",
+    "seller_id" : "1106",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "WittyFeed",
+    "domain" : "wittyfeed.com",
+    "seller_id" : "987",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Woohoo Media Inc",
+    "domain" : "woohoomedia.com",
+    "seller_id" : "1624",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Xapads",
+    "seller_id" : "1040",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "XapAds",
+    "seller_id" : "1071",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "XTRM QB",
+    "domain" : "xtrmqb.com",
+    "seller_id" : "1651",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "XXL Marketing Solution",
+    "domain" : "xxlmarketingsolution.com",
+    "seller_id" : "947",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Yahoo! DE (formerly Media Group One Digital GmbH)",
+    "domain" : "mediagroupone.de",
+    "seller_id" : "475",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Ybrant",
+    "domain" : "ybrantdigital.com",
+    "seller_id" : "809",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Yelohi (Voxyber Technology PTE LTD)",
+    "domain" : "yelohi.com",
+    "seller_id" : "1356",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Yield Optimisers",
+    "seller_id" : "1030",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Yieldlove - EBDA - 53015287 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1391",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Yobee (1457) - EBDA- 229471169 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1457",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Yobee S.r.l. (Sellbranch)",
+    "domain" : "yobee.it",
+    "seller_id" : "1181",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Yoki (Admob) via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1425",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Youappi (sellbranch)",
+    "seller_id" : "1212",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Youdagames (Admob) via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1422",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Zendesk login",
+    "domain" : "harrytest.com",
+    "seller_id" : "937",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Zippor Media (not use)",
+    "seller_id" : "1038",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Zippormedia",
+    "seller_id" : "1443",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Zippormedia via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1519",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Zoomd Ltd",
+    "domain" : "zoomd.com",
+    "seller_id" : "1527",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "Zoomin.tv - EBDA - 43954681 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1374",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Zoover - EBDA - 7571 via Google Exchange Bidding",
+    "domain" : "google.com",
+    "seller_id" : "1336",
+    "seller_type" : "INTERMEDIARY"
+  }, {
+    "name" : "Zoover Media",
+    "domain" : "zoover.nl",
+    "seller_id" : "35",
+    "seller_type" : "PUBLISHER"
+  }, {
+    "name" : "[Do not use] Willhaben Internet Service GmbH & Co KG",
+    "domain" : "willhaben.at",
+    "seller_id" : "887",
+    "seller_type" : "PUBLISHER"
+  } ],
+  "version" : "1.0",
+  "contact_email" : "support@improvedigital.com",
+  "contact_address" : "Improve Digital International B.V., Beechavenue 182, 1119 PX Schiphol-Rijk, The Netherlands"
+}

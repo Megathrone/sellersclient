@@ -1,0 +1,913 @@
+{
+    "contact_address": "Amazon Publisher Services Palo Alto, CA 94301 USA",
+    "contact_email": "Amazon Publisher Services <sellers-json@amazon.com>",
+    "version": 1,
+    "sellers": [
+        {
+            "seller_id": "115b87a6-7d9f-45e3-8482-be3caf9e7b91",
+            "name": "This Old House Ventures, LLC.",
+            "domain": "thisoldhouse.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "6489b31e-f8e4-4f5e-a799-fa3b905d7a84",
+            "name": "Alper Orus",
+            "domain": "dailycameranews.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "c370f99a-5e1b-40be-ac08-d19c6c0c110d",
+            "name": "Online Advertising Solutions LLC",
+            "domain": "astrology-zodiac-signs.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "9ee19295-8462-413f-a941-b6688056aec8",
+            "name": "Brainly SP zo.o.",
+            "domain": "brainly.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "da224ee9-07c8-4a80-87e4-528df4ac939e",
+            "name": "Liftable Media Inc",
+            "domain": "westernjournal.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "3b761737-e062-4a98-bc94-655a83da57af",
+            "name": "Mediavine, Inc.",
+            "domain": "mediavine.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "01c544ff-609e-4876-a7c2-aca861280891",
+            "name": "Fragrantica Inc",
+            "domain": "fragrantica.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "7930aec8-f0bb-433d-9411-0d6bedb6ed0e",
+            "name": "Sleepy Arcade",
+            "domain": "sleepyarcade.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "e6bf2815-2b1a-4048-983c-ed44b725538d",
+            "name": "Literally Media",
+            "domain": "literally.media",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "31a900af-d80e-404e-ab58-d775809685ad",
+            "name": "Fan Droppings LLC",
+            "domain": "tigerdroppings.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "f4e5f220-2efc-45a1-869f-0b293f8aec73",
+            "name": "Sound Publishing, Inc.",
+            "domain": "soundpublishing.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "374dd1ee-0562-41dd-858b-3a3c1c96a233",
+            "name": "IFLScience LTD",
+            "domain": "iflscience.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "26dfe8c8-8263-4ddf-b4cc-329b3e3f4084",
+            "name": "Wazimo Media Ltd",
+            "domain": "wazimo.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "b1925f5f-7c03-40ff-875b-4dbac5c89ac6",
+            "name": "Fantastic Fiction Limited",
+            "domain": "fantasticfiction.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "c0985684-5ce7-488c-b275-348d02c8d34e",
+            "name": "PG Publishing Company",
+            "domain": "post-gazette.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "f99598fc-8a7b-406a-bff4-0878d83405d4",
+            "name": "Postcrossing Lda",
+            "domain": "postcrossing.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "dd726a3e-7243-4e16-834f-08ac3f27f4b0",
+            "name": "OMG Studios Ltd",
+            "domain": "frontstory.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "edf9e12e-6c41-40a2-bcc3-2f7942aec18a",
+            "name": "GamePress Media, Inc",
+            "domain": "gamepress.gg",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "d36b7d7d-8ff1-4470-bedd-965eb3941b8a",
+            "name": "Proper Media LLC",
+            "domain": "proper.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "f10e6514-6d30-49e5-923b-ec66597fd28f",
+            "name": "Leonid Bochkov",
+            "domain": "russiandog.net",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "6db90a68-86b4-4ecf-aef2-d2baa4c0b3ad",
+            "name": "Familyes Network INC",
+            "domain": "familyes.tv/",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "0c6d6cec-9cdd-40f7-8e0d-bf999885bb73",
+            "name": "Cordless Media LLC",
+            "domain": "cordlessmedia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "c0aac7b7-ba58-4960-86fb-d4ccf43400eb",
+            "name": "Action Gaming, Inc. dba videopoker.com",
+            "domain": "videopoker.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "8f9815c0-9661-45ca-805e-aeded2bf5e50",
+            "name": "Tapatalk, Inc.",
+            "domain": "tapatalk.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "31257f2f-b5ff-49d9-9bca-92a523e8c19b",
+            "name": "Masthead Maine",
+            "domain": "pressherald.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "6b316061-df29-4247-a652-180fc5efed7e",
+            "name": "Mind Tank Media LLC",
+            "domain": "Mindtankmedia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "224ebe28-33e0-4f09-ad5e-18bbe1a5b097",
+            "name": "DAB 3 Games LLC",
+            "domain": "lagged.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "a8366033-ec5b-47ac-a56b-f59fe0f1ffeb",
+            "name": "RadioReference.com LLC DBA Broadcastify",
+            "domain": "www.broadcastify.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "8f0ee541-56c8-4522-995f-53db8efab4fa",
+            "name": "Inspire More LLC",
+            "domain": "inspiremore.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "7db38df2-4062-4df4-9018-dcf399a364c8",
+            "name": "SoftNews Net SRL",
+            "domain": "autoevolution.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "b6c5db28-094e-4d91-ad87-f46be70f688d",
+            "name": "Incnut digital",
+            "domain": "momjunction.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "8954e1d4-0a32-4d31-8f45-d732fbe71b3a",
+            "name": "K Publishing",
+            "domain": "WinEveryGame.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "18099fcc-c422-4496-9455-6a64bd1a0665",
+            "name": "INOVEUS LIMITED",
+            "domain": "baldingbeards.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "e3ef2467-90cb-4a77-8bb5-ac06e43b9981",
+            "name": "SWASTHI'S",
+            "domain": "indianhealthyrecipes.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "d589acb4-7f52-454f-ba87-25f356164bce",
+            "name": "Wuxiaworld Limited",
+            "domain": "wuxiaworld.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "daa0da6a-f74f-4d34-be33-75d00e45cf18",
+            "name": "18 Storey Private Limited",
+            "domain": "quizly.co",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "ea68add7-6d8d-4fda-af78-ed58e10bc8a0",
+            "name": "Neo Era Media Inc",
+            "domain": "www.neoseeker.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "62a45273-c091-416b-8bb0-bf0d67845f6a",
+            "name": "LearnVid Inc.",
+            "domain": "engvid.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "20756398-8506-4a8f-a820-b58b1c8b56c8",
+            "name": "Centrumium Corp",
+            "domain": "nikonrumors.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "8d3e8a95-0dbc-4f2e-ae64-dfbc92f2e2cd",
+            "name": "Foreign Trade Online Corp.",
+            "domain": "foreign-trade.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "5809cf08-05ab-43dc-89b3-d6eaf2f3b4ba",
+            "name": "NABSO, LLC",
+            "domain": "leaguesecretary.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "5d6b3c24-0913-4dee-adc7-9855f5ebecfc",
+            "name": "Listenonrepeat, LLC",
+            "domain": "Listenonrepeat.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "fee31bcb-d8b7-4565-8a5b-b1097e207e11",
+            "name": "925 LLC",
+            "domain": "9to5mac.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "87039986-196b-4415-9940-6156136d419d",
+            "name": "Natco Trading Corporation",
+            "domain": "rvt.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "90c773f4-52b8-433e-bd42-d0ec2cd6470a",
+            "name": "Used Everywhere",
+            "domain": "Used.ca",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "596dbe38-7040-43c0-9009-f300d31e9714",
+            "name": "Society19 Media LLC",
+            "domain": "society19.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "23946c71-bad3-42d1-ae70-e26b8b0ff5c0",
+            "name": "Tinybeans",
+            "domain": "tinybeans.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "760ed5b1-9ef9-4d62-9c9c-cf00b676653f",
+            "name": "HubPages Inc",
+            "domain": "hubpages.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "08a64faa-e673-4c12-be7e-a3748c019e16",
+            "name": "Tie Rod Media LLC",
+            "domain": "ih8mud.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "b5cc0920-f4a1-46b6-85cf-6178ca751e1a",
+            "name": "Tipedia LLC",
+            "domain": "tiphero.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "2087fad3-d4b9-44a7-80e1-723bda97cca5",
+            "name": "Snopes Media Group",
+            "domain": "snopes.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "6c9b887c-61ff-4290-91ad-ed50bb194854",
+            "name": "WordsRight Web Publishing",
+            "domain": "raising-rabbits.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "e061c826-e434-423b-9328-9078b4337a65",
+            "name": "Ryan Ballengee",
+            "domain": "thegolfnewsnet.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "b7b6dd84-c664-4d1c-98ea-5f228c98cff4",
+            "name": "Moped Army",
+            "domain": "mopedarmy.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "aa78772a-138f-4e63-8173-3f6216fa7d56",
+            "name": "Futurebytes GmbH & Co. KG",
+            "domain": "disclose.tv",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "08478f76-6d79-40f4-99f9-b63ab1566c0b",
+            "name": "Modern Media Group",
+            "domain": "attackofthefanboy.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "d13a8d23-c56c-4eb6-9542-a2c3ef67423c",
+            "name": "Family Friend Poems",
+            "domain": "familyfriendpoems.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "74defd52-2bc4-4573-aca6-b1229ad7c138",
+            "name": "Imamother",
+            "domain": "Imamother.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "853ec078-af51-43d8-938b-4b02c2a8c260",
+            "name": "Fandoom LLC DBA Community Hired",
+            "domain": "communityhired.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "9426b60e-2310-4aa9-a52c-38d2bb998e94",
+            "name": "Amicus Enterprises LLC",
+            "domain": "grizly.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "9f5a2bba-e04e-4ba0-ac6d-a99796d64853",
+            "name": "SOO WAI LIH",
+            "domain": "game-solver.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1a799980-110a-45a3-9177-42804b285211",
+            "name": "JoeTec Networks Inc.",
+            "domain": "quizfactory.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "13696cce-e0a0-482a-b9cf-0f9ec384c501",
+            "name": "Tapas Media, Inc.",
+            "domain": "tapas.io/",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "97866ae0-8364-46a1-a56a-75f095a65f3f",
+            "name": "Flatsix, LLC",
+            "domain": "carcarekiosk.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "76becb85-d4b6-4401-9fa2-c5c872caa785",
+            "name": "DYNAMITE DIGITAL MEDIA",
+            "domain": "wwfoldschool.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "4183e527-a93b-4eac-8cc7-dc48a0243bbf",
+            "name": "T Nation",
+            "domain": "t-nation.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "cdbcf66d-dd07-47ac-aaca-2a2aafd25839",
+            "name": "Seeking Alpha Ltd.",
+            "domain": "seekingalpha.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "6f1eae38-789a-41ae-abf6-1221d03d2ba7",
+            "name": "Fortunegeek corporation",
+            "domain": "Girlfriendsocial.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "6d179b32-34dc-48b6-baa3-2befddbddafd",
+            "name": "Avaz-roto press doo",
+            "domain": "avaz.ba",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "c8b7d244-cdfc-48df-8b4a-98e8c4fadc6a",
+            "name": "Addkt LLC",
+            "domain": "addkt.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "c6fbe330-026f-4aa2-9900-222af1461043",
+            "name": "Tango Publishing Corporation",
+            "domain": "yourtango.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1667e63b-f550-4d0e-a58d-ffcb6ce1b6ac",
+            "name": "Avinuity Web Properties LLC",
+            "domain": "yofreesamples.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "4dfa4f94-9314-4e8f-a4b7-ded4b1c04f9b",
+            "name": "Fintel Ventures LLC",
+            "domain": "fintel.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "4f573225-faea-40e4-af7d-9d0bbbae64a1",
+            "name": "Paltalk",
+            "domain": "paltalk.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "9fa23f0a-81c1-426b-8b0e-f3b1888fa7b6",
+            "name": "Young Hollywood LLC",
+            "domain": "younghollywood.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "c8bc2f8d-5178-43e4-b559-0bf2f304dd30",
+            "name": "Carabyte Inc",
+            "domain": "coolfunnyquotes.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "f4403644-55e7-45cb-a419-8c6f6bca35f8",
+            "name": "VolunteerSpot, Inc.",
+            "domain": "signup.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "113dc29a-3bf4-48b3-9be6-c0701177c13f",
+            "name": "Brant Tedeschi",
+            "domain": "fantasysp.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "26673ab7-6c90-4748-8b4c-71512dcf8ef3",
+            "name": "Boone Newspapers Inc.",
+            "domain": "www.natchezdemocrat.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "cab1d470-8f53-45d9-b3b6-3f3e65912c6d",
+            "name": "Definity Group LLC",
+            "domain": "definitygroup.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "21e7ef5f-80c5-4922-aad8-8eaa8ebc2e49",
+            "name": "GNG Media Inc.",
+            "domain": "iPhoneinCanada.ca",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "a5bf0f5c-c0e1-49b7-92b5-dcf15df00d5d",
+            "name": "LeftsnRights, Inc. DBA LIQWID",
+            "domain": "liqwid.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "a848c833-1ef8-4f0e-9e63-1957dc0bec31",
+            "name": "Vila Media, LLC",
+            "domain": "bobvila.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "516e8272-68d9-4e60-9d5a-9ea19b28171a",
+            "name": "O Antagonista",
+            "domain": "oantagonista.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "826c1c78-95d5-4fd2-834b-db1b2a62bd75",
+            "name": "Zink Media, LLC",
+            "domain": "discogs.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "a90912f6-238a-4c76-85ca-055c8f92d2c2",
+            "name": "Journkey LTD",
+            "domain": "smartlify.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "747b8b51-ec47-4dee-9823-b2b73124b71f",
+            "name": "BuySellAds Inc.",
+            "domain": "buysellads.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "53b79ada-cc70-4f84-81b5-3af5699fdaf0",
+            "name": "Gamelytic",
+            "domain": "gamelytic.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "3111b792-be07-4cd2-bd99-c42ac9a74f71",
+            "name": "TuneIn",
+            "domain": "TuneIn.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "8a651ec1-6c8d-4015-866a-91dc002c7775",
+            "name": "Zepto Internet Solutions Inc.",
+            "domain": "PoolExpert.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "c7869ac7-23da-4b86-9ffe-7c094667bd8d",
+            "name": "M2N Ltd",
+            "domain": "avforums.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "0abbf053-5988-4334-9051-72e3707d47eb",
+            "name": "Rayfield Media LLC",
+            "domain": "thecouponingcouple.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "14ac42ef-361f-459f-a550-6e2ab37d2a09",
+            "name": "David Devitry",
+            "domain": "lunapic.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "50dcc527-9d98-4a4d-a598-68316c225c07",
+            "name": "Lola Digital Media LLC",
+            "domain": "loladigitalmedia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "f219c2d9-2fdc-4ad7-a0df-efdb440e8a8f",
+            "name": "Closelook Venture GmbH",
+            "domain": "ligalive.net",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "ee8fe529-69da-4d94-b1c8-3db82bdd9248",
+            "name": "WordReference.com LLC",
+            "domain": "wordreference.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "5d43b772-b8b5-4b0b-a40d-228ca377a243",
+            "name": "Convert Case Ltd",
+            "domain": "convertcase.net",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "36c66725-b81c-4720-a84b-4ae54664b677",
+            "name": "Concourse Media LLC",
+            "domain": "concoursemedia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "985ee886-2532-49b4-8ba8-bfb26abe33c4",
+            "name": "Temptalia LLC",
+            "domain": "temptalia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "91fdd930-427d-4c1b-b12d-606a18080817",
+            "name": "Eezy, LLC",
+            "domain": "eezy.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1ff8f497-fba4-4240-889b-7e60a73131fd",
+            "name": "ADME (CY) LTD",
+            "domain": "thesoul-publishing.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "d02bde9f-846e-44f1-b113-c42e464ff698",
+            "name": "SNG Worldwide",
+            "domain": "sanduskynewspapers.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "d74f3b72-e598-44c1-a0ca-5350a8f8bf53",
+            "name": "Reach Media Inc.",
+            "domain": "reachmedia-inc.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "8965b27a-cda9-4131-a1eb-00886993e266",
+            "name": "Rough Maps Incorporated",
+            "domain": "roughmaps.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "e3458238-10fe-4d72-8fc8-140a52cce297",
+            "name": "The Big Think, Inc.",
+            "domain": "bigthink.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "d931c0a4-5a11-497b-838b-cbe100dc96b1",
+            "name": "SchoolDigger",
+            "domain": "schooldigger.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "59b84f28-f252-4fdb-89c1-27b1777f7c3f",
+            "name": "DapperToast, LLC",
+            "domain": "jumblejoy.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "d4095d9e-dbc7-431b-b18d-328ab9261e31",
+            "name": "Net Inceptions",
+            "domain": "historicmysteries.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "014284d7-c47c-4002-a416-5050863af92f",
+            "name": "Web Sim Sports INC.",
+            "domain": "Websimhockey.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "8ca1281f-81ad-492f-b453-e86651035f60",
+            "name": "PBH Network",
+            "domain": "allthatsinteresting.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "5608a7a5-c073-4b48-91f4-3fb1f6168ec5",
+            "name": "RealGM, L.L.C.",
+            "domain": "realgm.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1c9f4832-84f6-4323-a871-2459ed9566f2",
+            "name": "Roto Sports, Inc.",
+            "domain": "Rotowire.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "fae7fb41-e4ee-4499-b14e-79bdae09636d",
+            "name": "123cards.com",
+            "domain": "123cards.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "9378ef61-b388-4be6-9efb-ed12c163db16",
+            "name": "Singular One LTD",
+            "domain": "singular-one.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "47742a80-e348-487c-992f-e89a77de8061",
+            "name": "Dendritics Inc.",
+            "domain": "dendritics.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "0b9f34a8-c0ee-4645-9cd1-76df2a03375a",
+            "name": "GameKnot",
+            "domain": "gameknot.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "59dd3568-2c85-42b0-b377-5a75ac91faea",
+            "name": "Ancient History Encyclopeda Limited",
+            "domain": "ancient.eu",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "807459e9-1274-40b0-8c1c-1f4c8a36cb14",
+            "name": "The Daily Caller, Inc.",
+            "domain": "dailycaller.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "05738c87-d931-4292-8bd7-379609b7a1a6",
+            "name": "Arts & Letters, Inc.",
+            "domain": "sallieborrink.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "20d21b7a-b121-4380-a7ac-7871aad70bd0",
+            "name": "Northbound Publishing",
+            "domain": "drivezing.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "592c72a8-a9c3-44d2-ae9e-42bc09831712",
+            "name": "The Dallas Morning News",
+            "domain": "dallasnews.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "41bd2405-773e-4de8-b0cf-53b9c51f329e",
+            "name": "Fatherly Inc",
+            "domain": "fatherly.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "940db4ee-28cf-4307-9b65-76d8ba12e927",
+            "name": "Favish Inc",
+            "domain": "favish.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "c884a9f3-a562-433c-8bf7-feffc88a598e",
+            "name": "Great Lakes United",
+            "domain": "GreatLakesUnited.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "60024f34-f36d-4f22-88b9-94c2f15f32f4",
+            "name": "Old House Dreams",
+            "domain": "oldhousedreams.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "68391887-8ab5-4eed-9cd2-23357f194348",
+            "name": "Alternative Press Magazine Inc",
+            "domain": "Altpress.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "a893de97-3162-44be-a9d4-0cc3db688f38",
+            "name": "Red Gobo Inc.",
+            "domain": "redgobo.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "10137284-fb30-442d-b8f7-37869ad2e11a",
+            "name": "Horse Racing Labs, LLC",
+            "domain": "horseracingnation.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "2cf0825e-8cb4-4819-a946-cdc940215af3",
+            "name": "Pallas Media Pte Ltd",
+            "domain": "pallasmedia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "93b9fb73-580a-4c73-947e-a30562f3972e",
+            "name": "Lost Coast Communications",
+            "domain": "lostcoastoutpost.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "8f781d25-b703-4fd5-9ae5-ec7750ede51b",
+            "name": "CQ Roll Call",
+            "domain": "rollcall.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "a6e8eae0-a4d7-4aa0-9674-2f2a250c34fa",
+            "name": "Wisdom Digital Media, Inc.",
+            "domain": "BroadwayWorld.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "eb00c733-fb84-445d-a556-271c042afef4",
+            "name": "Jado Interactive LLC",
+            "domain": "roleplayrepublic.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "49cdee1c-072d-4765-8313-7c45826cbedc",
+            "name": "The Drive Media Inc.",
+            "domain": "thedrive.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "341c0def-f4f3-448b-b35b-66e6e02c16f9",
+            "name": "Spike media LTD",
+            "domain": "Spikemedia.co",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "02366013-5686-41cc-a3ec-d258ca5bb1e5",
+            "name": "Summit Publishing Company Inc",
+            "domain": "summitmedia.com.ph",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "cadfa2a8-a861-497e-a762-75f928f46993",
+            "name": "mitu inc.",
+            "domain": "wearemitu.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "35fdc73d-61dd-497f-ab58-91868e9566ca",
+            "name": "Border Blue, Inc.",
+            "domain": "travelmath.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "af11551c-929a-4c14-8ff4-95e5342b8dbe",
+            "name": "ThumperTalk, Inc",
+            "domain": "thumpertalk.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "d246eb9a-4ce5-43d3-9fc2-ddc1e88d1218",
+            "name": "Flixxy Inc",
+            "domain": "flixxy.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "e630afa5-96bc-47a4-a5ac-07344de4d254",
+            "name": "The Christian Post",
+            "domain": "christianpost.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "7cb15021-b379-40c4-9cc9-751ecaf1c872",
+            "name": "Narcity Media Inc",
+            "domain": "narcitymedia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "fa06da55-7aca-4111-be89-a65f83330498",
+            "name": "Synacor, Inc.",
+            "domain": "synacor.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "25ef645d-03b6-4b76-b25e-f9029dcc9edf",
+            "name": "VisaJourney LLC",
+            "domain": "www.visajourney.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "cbaab167-abcb-403b-83e8-c50ce17bbb64",
+            "name": "Kuiver, LLC",
+            "domain": "kuiver.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "e59bd506-9d28-40ff-b2cd-cb402b3869a8",
+            "name": "Bridge Base Online, Ltd.",
+            "domain": "bridgebase.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "86496041-785d-43d4-9239-2536f35e61cd",
+            "name": "National Review, Inc.",
+            "domain": "nationalreview.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "9ac9a3f2-5684-4d54-95ee-132251fbd41c",
+            "name": "Top Documentary Films",
+            "domain": "topdocumentaryfilms.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "a9eca0ef-a5e0-4909-ab85-00700dfd8b36",
+            "name": "Playbuzz Ltd.",
+            "domain": "playbuzz.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "9d883dc1-db2e-4fb8-960f-4ea07f2b85d8",
+            "name": "Paste Media Group",
+            "domain": "pastemagazine.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "27862190-3e9f-4156-8feb-a2269b1d558a",
+            "name": "Amalah, llc",
+            "domain": "amalah.com",
+            "seller_type": "Publisher"
+        }
+    ]
+}

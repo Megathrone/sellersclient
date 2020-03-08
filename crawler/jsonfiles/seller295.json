@@ -1,0 +1,5863 @@
+{
+	"contact_email": "y1s@platform-one.co.jp",
+	"contact_address": "Platform One Inc, Yebisu Garden Place Tower 33F, 4-20-3 Ebisu, Shibuya-ku Tokyo, Japan",
+	"version": 1.0,
+	"sellers": [
+		{
+			"seller_id": "105",
+			"name": "株式会社スカラコミュニケーションズ",
+			"domain": "scala-com.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "106",
+			"name": "株式会社クリエイティヴ・リンク",
+			"domain": "www.afpbb.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "112",
+			"name": "読売新聞東京本社",
+			"domain": "info.yomiuri.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "114",
+			"name": "エヌ・ティ・ティ レゾナント株式会社",
+			"domain": "www.nttr.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "118",
+			"name": "株式会社オールアバウト",
+			"domain": "allabout.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "119",
+			"name": "朝日インタラクティブ株式会社",
+			"domain": "aiasahi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "126",
+			"name": "株式会社文藝春秋",
+			"domain": "number.bunshun.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "131",
+			"name": "楽天株式会社",
+			"domain": "corp.rakuten.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "139",
+			"name": "株式会社 小学館",
+			"domain": "shogakukan.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "142",
+			"name": "インフォニア株式会社",
+			"domain": "info.chance.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "145",
+			"name": "株式会社フォーエム",
+			"domain": "www.fourm.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "147",
+			"name": "PERFORM MEDIA SALES JAPAN",
+			"domain": "www.wantedly.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "149",
+			"name": "株式会社オークファン",
+			"domain": "aucfan.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "151",
+			"name": "株式会社　毎日新聞社",
+			"domain": "www.mainichi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "153",
+			"name": "株式会社フォー・ワン・ファースト",
+			"domain": "411.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "157",
+			"name": "株式会社インタースペース",
+			"domain": "www.interspace.ne.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "162",
+			"name": "クックパッド株式会社",
+			"domain": "cookpad.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "185",
+			"name": "株式会社 報知新聞社",
+			"domain": "hochi.yomiuri.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "187",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "190",
+			"name": "株式会社サンケイリビング新聞社",
+			"domain": "www.sankeiliving.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "193",
+			"name": "アクトインディ株式会社",
+			"domain": "www.actindi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "205",
+			"name": "ピクシブ株式会社",
+			"domain": "www.pixiv.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "206",
+			"name": "株式会社KADOKAWA",
+			"domain": "asciimw.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "212",
+			"name": "株式会社三栄書房",
+			"domain": "www.sun-a.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "214",
+			"name": "株式会社日刊スポーツ新聞社",
+			"domain": "www.nikkansports.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "216",
+			"name": "株式会社サイバーエージェン ト",
+			"domain": "www.ca-mp.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "217",
+			"name": "株式会社KADOKAWA",
+			"domain": "www.kadokawa-mg.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "222",
+			"name": "株式会社 MANTAN",
+			"domain": "www.maidigi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "223",
+			"name": "株式会社ダイヤモンド社",
+			"domain": "www.diamond.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "224",
+			"name": "スポーツブランディングジャパン株式会社",
+			"domain": "www.smg-world.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "225",
+			"name": "株式会社 光文社",
+			"domain": "www.kobunsha.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "235",
+			"name": "株式会社 小学館",
+			"domain": "shogakukan.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "239",
+			"name": "株式会社ジャパンタイムズ",
+			"domain": "alpha.japantimes.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "241",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "242",
+			"name": "株式会社ソシオコーポレーション",
+			"domain": "www.socio2001.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "243",
+			"name": "アイティメディア株式会社",
+			"domain": "www.itmedia.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "249",
+			"name": "株式会社ちょびリッチ",
+			"domain": "www.chobirich.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "250",
+			"name": "株式会社インターエデュ・ドットコム",
+			"domain": "inter-edu.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "253",
+			"name": "株式会社ネットネイティブ",
+			"domain": "net-native.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "258",
+			"name": "株式会社朝日新聞出版",
+			"domain": "publications.asahi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "264",
+			"name": "コンパスティービー株式会社",
+			"domain": "www.compasstv.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "265",
+			"name": "株式会社バイクブロス",
+			"domain": "www.bikebros.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "291",
+			"name": "株式会社財経新聞社",
+			"domain": "www.zaikei.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "938",
+			"name": "合同会社 ジーナス",
+			"domain": "baseconnect.in",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "939",
+			"name": "エキサイト株式会社",
+			"domain": "www.excite.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1063",
+			"name": "Data tailor株式会社",
+			"domain": "datatailor.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1064",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "BOTH"
+		},
+		{
+			"seller_id": "1065",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1067",
+			"name": "株式会社ジュピターテレコム",
+			"domain": "www.jcom.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1073",
+			"name": "アイブリッジ株式会社",
+			"domain": "ibridge.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1627",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1628",
+			"name": "パシフィック・メディアパートナーズ株式会社",
+			"domain": "shueisha.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1629",
+			"name": "株式会社神戸新聞社",
+			"domain": "club.kobe-np.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1632",
+			"name": "株式会社小学館デジタル事業局",
+			"domain": "shogakukan.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1633",
+			"name": "Data tailor株式会社",
+			"domain": "fusosha.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1638",
+			"name": "株式会社　毎日新聞社",
+			"domain": "www.mainichi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1704",
+			"name": "株式会社サイゾー",
+			"domain": "cyzo.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1707",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1708",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1709",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1720",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1972",
+			"name": "Dayz株式会社",
+			"domain": "www.dayz.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1987",
+			"name": "株式会社アイスタイル",
+			"domain": "www.istyle.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2071",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2090",
+			"name": "株式会社 朝日新聞社",
+			"domain": "www.asahi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2095",
+			"name": "株式会社 産経デジタル",
+			"domain": "www.sankei-digital.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2525",
+			"name": "エヌ・ティ・ティ レゾナント株式会社",
+			"domain": "www.nttr.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2541",
+			"name": "株式会社メディアジーン",
+			"domain": "www.mediagene.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2543",
+			"name": "アイブリッジ株式会社",
+			"domain": "ibridge.co.jp",
+			"seller_type": "BOTH"
+		},
+		{
+			"seller_id": "2546",
+			"name": "株式会社ライフメディア",
+			"domain": "lifemedia.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2558",
+			"name": "株式会社小学館デジタル事業局",
+			"domain": "shogakukan.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2560",
+			"name": "パシフィック・メディアパートナーズ株式会社",
+			"domain": "shueisha.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2561",
+			"name": "IINA株式会社",
+			"domain": "www.faucet.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2562",
+			"name": "株式会社ナビタイムジャパン",
+			"domain": "corporate.navitime.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2564",
+			"name": "株式会社インプレス",
+			"domain": "www.watch.impress.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2567",
+			"name": "株式会社リットーミュージック",
+			"domain": "www.rittor-music.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2574",
+			"name": "株式会社ミクシィ",
+			"domain": "mixi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2583",
+			"name": "株式会社NEWSY",
+			"domain": "newsy-inc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2584",
+			"name": "楽天オークション株式会社",
+			"domain": "auction.rakuten.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2593",
+			"name": "株式会社ベンヌ",
+			"domain": "bennu.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2594",
+			"name": "株式会社ベンヌ",
+			"domain": "bennu.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2604",
+			"name": "株式会社ジェイ・キャスト",
+			"domain": "www.j-cast.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2635",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2641",
+			"name": "株式会社グルーヴ・アール",
+			"domain": "www.groove-r.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2690",
+			"name": "株式会社シネマトゥデイ",
+			"domain": "www.cinematoday.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2693",
+			"name": "ビッグローブ株式会社",
+			"domain": "www.biglobe.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2699",
+			"name": "株式会社サイバーエージェント",
+			"domain": "www.ca-mp.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2716",
+			"name": "株式会社ANALOG TWELVE",
+			"domain": "www.analog12.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2805",
+			"name": "株式会社QLife",
+			"domain": "www.qlife.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2812",
+			"name": "株式会社ドワンゴ",
+			"domain": "info.dwango.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2829",
+			"name": "株式会社翔泳社",
+			"domain": "www.shoeisha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2843",
+			"name": "兼松ウェルネス株式会社",
+			"domain": "kwn.kanematsu.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2864",
+			"name": "株式会社集英社",
+			"domain": "www.shueisha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2873",
+			"name": "株式会社神戸新聞社",
+			"domain": "club.kobe-np.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2875",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2881",
+			"name": "エヌ・ティ・ティ レゾナント株式会社",
+			"domain": "www.nttr.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2918",
+			"name": "株式会社K-ZONE",
+			"domain": "corp.fanet.biz",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2921",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2927",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2929",
+			"name": "株式会社トラストリッジ",
+			"domain": "www.trustridge.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2930",
+			"name": "Mynd株式会社",
+			"domain": "mynd.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2933",
+			"name": "GMOアドマーケティング株式会社",
+			"domain": "www.gmo-mobile.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2942",
+			"name": "株式会社ヒナプロジェクト",
+			"domain": "hinaproject.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2943",
+			"name": "株式会社カービュー",
+			"domain": "www.carview.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2945",
+			"name": "株式会社ランシステム",
+			"domain": "www.runsystem.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2949",
+			"name": "株式会社マイナビ（ニュース）",
+			"domain": "www.mynavi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2952",
+			"name": "アイティメディア株式会社",
+			"domain": "www.itmedia.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2957",
+			"name": "コンパスティービー株式会社",
+			"domain": "www.compasstv.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2974",
+			"name": "株式会社ページワン",
+			"domain": "www.pageone.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2982",
+			"name": "株式会社東洋経済新報社",
+			"domain": "toyokeizai.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2991",
+			"name": "株式会社共同通信デジタル",
+			"domain": "www.pnjp.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3004",
+			"name": "株式会社ネットドリーマーズ",
+			"domain": "www.netdreamers.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3020",
+			"name": "GMOリサーチ株式会社",
+			"domain": "www.gmo-research.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3039",
+			"name": "山根純",
+			"domain": "profile.ma-bank.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3040",
+			"name": "株式会社ミソラプランニング",
+			"domain": "misoraplanning.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3100",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3147",
+			"name": "株式会社CCCメディアハウス",
+			"domain": "www.cccmh.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3262",
+			"name": "株式会社ゴルフダイジェスト・オンライン",
+			"domain": "golfdigest.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3276",
+			"name": "株式会社アルク",
+			"domain": "www.alc.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3287",
+			"name": "株式会社ウィルゲート",
+			"domain": "www.willgate.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3301",
+			"name": "株式会社リットーミュージック",
+			"domain": "www.rittor-music.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3302",
+			"name": "株式会社クリエ14",
+			"domain": "crea14.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3304",
+			"name": "株式会社主婦と生活社",
+			"domain": "www.shufu.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3305",
+			"name": "株式会社日本経済新聞社",
+			"domain": "www.nikkei.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3309",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3310",
+			"name": "株式会社トラストリッジ",
+			"domain": "www.trustridge.jp",
+			"seller_type": "BOTH"
+		},
+		{
+			"seller_id": "3321",
+			"name": "株式会社インタースペース",
+			"domain": "gameedge.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3346",
+			"name": "株式会社カラダノート",
+			"domain": "www.plusr.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3372",
+			"name": "株式会社Cluex",
+			"domain": "cluex.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3377",
+			"name": "忍者ツールズ株式会社",
+			"domain": "www.samurai-factory.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3383",
+			"name": "株式会社フィッチ",
+			"domain": "whitch.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3384",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3398",
+			"name": "株式会社ドワンゴ",
+			"domain": "info.dwango.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3408",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3418",
+			"name": "株式会社ACJマガジンズ",
+			"domain": "www.autocar.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3449",
+			"name": "ピクシブ株式会社",
+			"domain": "www.pixiv.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3450",
+			"name": "株式会社SQOOL",
+			"domain": "sqool.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3456",
+			"name": "株式会社エンハンス",
+			"domain": "www.enhance.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3457",
+			"name": "株式会社スペースキー",
+			"domain": "www.spacekey.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3458",
+			"name": "株式会社Donuts",
+			"domain": "www.donuts.ne.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3467",
+			"name": "株式会社trippiece",
+			"domain": "curie.trippiece.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3496",
+			"name": "シーサー株式会社",
+			"domain": "www.seesaa.co.jp",
+			"seller_type": "BOTH"
+		},
+		{
+			"seller_id": "3507",
+			"name": "株式会社 産経デジタル",
+			"domain": "www.sankei-digital.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3508",
+			"name": "エキサイト株式会社",
+			"domain": "www.excite.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3509",
+			"name": "株式会社 光文社",
+			"domain": "www.kobunsha.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3510",
+			"name": "株式会社インプレス",
+			"domain": "www.watch.impress.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3512",
+			"name": "株式会社ミクシィ",
+			"domain": "mixi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3513",
+			"name": "エヌ・ティ・ティ レゾナント株式会社",
+			"domain": "www.nttr.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3515",
+			"name": "株式会社KADOKAWA",
+			"domain": "www.kadokawa-mg.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3516",
+			"name": "株式会社TBSラジオ",
+			"domain": "www.tbs.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3545",
+			"name": "株式会社アマナ",
+			"domain": "amana.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3557",
+			"name": "株式会社アイ・エフ・クリエイションズ",
+			"domain": "www.if-c.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3569",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3573",
+			"name": "株式会社HANABISHI",
+			"domain": "wincar.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3574",
+			"name": "株式会社オレンジページ",
+			"domain": "www.orangepage.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3597",
+			"name": "株式会社JTBパブリッシング",
+			"domain": "www.jtbpublishing.com",
+			"seller_type": "BOTH"
+		},
+		{
+			"seller_id": "3602",
+			"name": "株式会社神戸新聞社",
+			"domain": "club.kobe-np.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3603",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3604",
+			"name": "株式会社フロムワン",
+			"domain": "www.from1.com",
+			"seller_type": "BOTH"
+		},
+		{
+			"seller_id": "3606",
+			"name": "株式会社 報知新聞社",
+			"domain": "hochi.yomiuri.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3607",
+			"name": "株式会社サンケイリビング新聞社",
+			"domain": "www.sankeiliving.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3617",
+			"name": "株式会社ドワンゴ",
+			"domain": "info.dwango.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3623",
+			"name": "リンクタイズ株式会社",
+			"domain": "linkties.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3627",
+			"name": "リミア株式会社",
+			"domain": "limia.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3632",
+			"name": "株式会社oricon ME",
+			"domain": "oricon.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3635",
+			"name": "合同会社コンデナスト・ジャパン",
+			"domain": "condenast.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3637",
+			"name": "株式会社カーリン",
+			"domain": "www.fashion-press.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3639",
+			"name": "株式会社マイナビ",
+			"domain": "mynavi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3640",
+			"name": "株式会社viviane1",
+			"domain": "viviane.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3642",
+			"name": "株式会社webCG",
+			"domain": "www.webcg.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3653",
+			"name": "オートックワン株式会社",
+			"domain": "autoc-one.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3656",
+			"name": "株式会社レコオーランド",
+			"domain": "recoorlando.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3672",
+			"name": "株式会社カカクコム",
+			"domain": "corporate.kakaku.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3679",
+			"name": "株式会社講談社",
+			"domain": "www.kodansha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3688",
+			"name": "株式会社集英社",
+			"domain": "www.shueisha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3707",
+			"name": "NME Japan",
+			"domain": "nme-jp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3716",
+			"name": "朝日インタラクティブ株式会社",
+			"domain": "aiasahi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3733",
+			"name": "アクトインディ株式会社",
+			"domain": "www.actindi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3738",
+			"name": "株式会社グッドライフ",
+			"domain": "goodlife-inc.co.jp",
+			"seller_type": "BOTH"
+		},
+		{
+			"seller_id": "3753",
+			"name": "株式会社バリューゴルフ",
+			"domain": "www.valuegolf.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3756",
+			"name": "株式会社ライフメディア",
+			"domain": "lifemedia.jp",
+			"seller_type": "BOTH"
+		},
+		{
+			"seller_id": "3762",
+			"name": "リンクタイズ株式会社",
+			"domain": "atomixmedia.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3766",
+			"name": "株式会社AXNジャパン",
+			"domain": "zxn.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3767",
+			"name": "ユナイテッド株式会社",
+			"domain": "united.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3768",
+			"name": "アイティメディア株式会社",
+			"domain": "www.itmedia.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3787",
+			"name": "新日本プロレスリング株式会社",
+			"domain": "www.njpw.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3796",
+			"name": "株式会社エストリエ",
+			"domain": "estlier.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3815",
+			"name": "株式会社イーストビーム",
+			"domain": "eastbeam.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3817",
+			"name": "株式会社D2C",
+			"domain": "www.d2c.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3823",
+			"name": "株式会社トラストリッジ",
+			"domain": "www.trustridge.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3826",
+			"name": "シーサー株式会社",
+			"domain": "www.seesaa.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3832",
+			"name": "ジー・プラン株式会社",
+			"domain": "www.gpoint.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3844",
+			"name": "ユナイテッド・シネマ株式会社",
+			"domain": "www.unitedcinemas.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3855",
+			"name": "株式会社ジモティー",
+			"domain": "jmty.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3861",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社（アンケートコンテンツ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3872",
+			"name": "ソネット・メディア・ネットワークス株式会社",
+			"domain": "www.so-netmedia.jp",
+			"seller_type": "BOTH"
+		},
+		{
+			"seller_id": "3875",
+			"name": "株式会社オウトグラフ プロダクション",
+			"domain": "autopro.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3880",
+			"name": "株式会社ディー・エヌ・エー",
+			"domain": "dena.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3881",
+			"name": "株式会社つみき",
+			"domain": "tsumikiinc.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3882",
+			"name": "Increments株式会社",
+			"domain": "increments.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3883",
+			"name": "株式会社中日新聞社",
+			"domain": "www.chunichi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3886",
+			"name": "株式会社Viibar",
+			"domain": "viibar.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3887",
+			"name": "株式会社riverch",
+			"domain": "theriver.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3890",
+			"name": "株式会社ゲームエイト",
+			"domain": "game8.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3892",
+			"name": "株式会社CINRA",
+			"domain": "www.cinra.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3900",
+			"name": "有限会社アットフリークス",
+			"domain": "atfreaks.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3904",
+			"name": "株式会社GameWith",
+			"domain": "gamewith.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3906",
+			"name": "株式会社ナターシャ",
+			"domain": "www.natasha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3908",
+			"name": "アウモ株式会社",
+			"domain": "aumo.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3912",
+			"name": "株式会社 日本ビジネスプレス",
+			"domain": "www.jbpress.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3913",
+			"name": "株式会社みんかぶ",
+			"domain": "minkabu.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3914",
+			"name": "株式会社ベンチャーリパブリック",
+			"domain": "www.vrg.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3922",
+			"name": "株式会社東洋経済新報社",
+			"domain": "toyokeizai.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3933",
+			"name": "株式会社Ｊストリーム",
+			"domain": "www.stream.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3945",
+			"name": "株式会社1K",
+			"domain": "www.wantedly.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3947",
+			"name": "株式会社コズレ",
+			"domain": "www.cozre.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3948",
+			"name": "株式会社エブリスタ",
+			"domain": "everystar.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3949",
+			"name": "株式会社カービュー",
+			"domain": "carview.yahoo.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3954",
+			"name": "株式会社グレイプ",
+			"domain": "grapee.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3955",
+			"name": "株式会社産経デジタル",
+			"domain": "sankei-digital.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3956",
+			"name": "株式会社ユーフォース",
+			"domain": "www.youforce.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3959",
+			"name": "株式会社Branding Engineer",
+			"domain": "b-engineer.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3961",
+			"name": "エヌ・ティ・ティ レゾナント株式会社",
+			"domain": "nttr.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3964",
+			"name": "株式会社ソシオコーポレーション",
+			"domain": "rocketnews24.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3974",
+			"name": "ルームクリップ株式会社",
+			"domain": "corp.roomclip.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3979",
+			"name": "株式会社毎日新聞社",
+			"domain": "mainichi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3980",
+			"name": "株式会社運動通信社",
+			"domain": "sportsbull.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3981",
+			"name": "株式会社brainy",
+			"domain": "www.brainy-inc.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3982",
+			"name": "株式会社カカクコム",
+			"domain": "kakaku.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3984",
+			"name": "株式会社OCEAN’S",
+			"domain": "www.oceans-corp.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3985",
+			"name": "株式会社フィッツプラス",
+			"domain": "fitsplus.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3988",
+			"name": "株式会社スタートトゥデイ・テクノロジーズ",
+			"domain": "tech.zozo.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3990",
+			"name": "株式会社報知新聞社",
+			"domain": "hochi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3991",
+			"name": "株式会社インタースペース",
+			"domain": "interspace.ne.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3993",
+			"name": "株式会社時事通信社",
+			"domain": "jiji.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3994",
+			"name": "株式会社フトワク",
+			"domain": "futowaku.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3995",
+			"name": "トゥギャッター株式会社",
+			"domain": "togetter.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3996",
+			"name": "株式会社オレンジページ",
+			"domain": "www.orangepage.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3997",
+			"name": "株式会社ページワン",
+			"domain": "pageone.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3998",
+			"name": "株式会社神戸新聞社",
+			"domain": "kobe-np.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4001",
+			"name": "アクトインディ株式会社",
+			"domain": "actindi.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4003",
+			"name": "株式会社リーフェ",
+			"domain": "li-fe.tokyo",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4004",
+			"name": "リプルゼ株式会社",
+			"domain": "repleze.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4005",
+			"name": "INCLUSIVE株式会社",
+			"domain": "tkj.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4007",
+			"name": "株式会社ハースト婦人画報社",
+			"domain": "hearst.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4009",
+			"name": "株式会社メディアーノ",
+			"domain": "mediano-ltd.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4013",
+			"name": "株式会社MANTAN",
+			"domain": "mantan-web.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4014",
+			"name": "Think a Phase株式会社",
+			"domain": "thinkaphase.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4018",
+			"name": "株式会社BIGBANG",
+			"domain": "www.bigb.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4019",
+			"name": "コンパスティービー株式会社",
+			"domain": "compasstv.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4020",
+			"name": "株式会社オールアバウトナビ",
+			"domain": "www.allaboutnavi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4021",
+			"name": "グリー株式会社",
+			"domain": "corp.gree.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4022",
+			"name": "株式会社マキノ出版",
+			"domain": "www.makino-g.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4030",
+			"name": "株式会社マイナビ（ニュース）",
+			"domain": "mynavi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4031",
+			"name": "プレイライフ株式会社",
+			"domain": "playlife.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4035",
+			"name": "株式会社KADOKAWA",
+			"domain": "kadokawa.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4036",
+			"name": "株式会社ゴルフダイジェスト・オンライン",
+			"domain": "golfdigest.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4037",
+			"name": "株式会社ZOZOテクノロジーズ",
+			"domain": "tech.zozo.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4038",
+			"name": "株式会社マイナビ",
+			"domain": "mynavi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4041",
+			"name": "ウェブリオ株式会社",
+			"domain": "www.weblio-inc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4042",
+			"name": "株式会社GameWith",
+			"domain": "gamewith.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4043",
+			"name": "ウェブリオ株式会社",
+			"domain": "weblio-inc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4044",
+			"name": "株式会社フュービック",
+			"domain": "fubic.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4046",
+			"name": "株式会社トライシージャパン",
+			"domain": "www.traicy.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4049",
+			"name": "株式会社東洋経済新報社",
+			"domain": "toyokeizai.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4051",
+			"name": "DoubleDown株式会社",
+			"domain": "doubledown.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4055",
+			"name": "株式会社オリジナルテクスト",
+			"domain": "originaltext.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4057",
+			"name": "アスリート・マーケティング株式会社",
+			"domain": "athletemarketing.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4058",
+			"name": "株式会社メディア工房",
+			"domain": "www.mkb.ne.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4060",
+			"name": "株式会社神奈川新聞社",
+			"domain": "www.kanaloco.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4061",
+			"name": "株式会社ナターシャ",
+			"domain": "natasha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4062",
+			"name": "C Channel株式会社",
+			"domain": "corp.cchan.tv",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4071",
+			"name": "株式会社オープンエイト",
+			"domain": "open8.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "4073",
+			"name": "株式会社スピカ",
+			"domain": "spica-corp.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4075",
+			"name": "株式会社 小学館",
+			"domain": "shogakukan.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4078",
+			"name": "株式会社昭文社",
+			"domain": "www.mapple.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4080",
+			"name": "vivit株式会社",
+			"domain": "vivit.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4085",
+			"name": "dely株式会社",
+			"domain": "www.dely.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4091",
+			"name": "株式会社GENTRICH",
+			"domain": "common-fitness.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4094",
+			"name": "株式会社TUUUBE",
+			"domain": "en-gage.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4096",
+			"name": "株式会社レコオーランド",
+			"domain": "recoorlando.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4099",
+			"name": "株式会社センレン",
+			"domain": "www.senren.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4100",
+			"name": "株式会社STANDING OVATION",
+			"domain": "www.s-ovation.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4103",
+			"name": "103R株式会社",
+			"domain": "103r.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4114",
+			"name": "株式会社日本スポーツ企画出版社",
+			"domain": "www.nsks.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4116",
+			"name": "株式会社フォーイット",
+			"domain": "www.for-it.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4122",
+			"name": "株式会社エトレ",
+			"domain": "etre.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4123",
+			"name": "リミア株式会社",
+			"domain": "limia.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4198",
+			"name": "Creative2",
+			"domain": "football-zone.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4202",
+			"name": "AppBank株式会社",
+			"domain": "www.appbank.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "100",
+			"name": "トレイス株式会社",
+			"domain": "treis.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "101",
+			"name": "株式会社イオレ",
+			"domain": "www.eole.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "102",
+			"name": "株式会社スポーツニッポン新聞社",
+			"domain": "sponichi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "117",
+			"name": "株式会社アイメディアドライブ",
+			"domain": "www.i-mdrive.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "120",
+			"name": "株式会社 日経BP",
+			"domain": "www.nikkeibp.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "121",
+			"name": "株式会社時事通信社",
+			"domain": "www.jiji.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "123",
+			"name": "株式会社ゼンリンデータコム",
+			"domain": "www.zenrin-datacom.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "127",
+			"name": "ニフティ株式会社",
+			"domain": "nifty.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "132",
+			"name": "オートックワン株式会社",
+			"domain": "autoc-one.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "133",
+			"name": "株式会社ダイヤモンド・ビッグ社",
+			"domain": "www.diamond-big.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "134",
+			"name": "株式会社ONE COMPATH",
+			"domain": "onecompath.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "140",
+			"name": "株式会社Green romp",
+			"domain": "green-romp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "141",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "152",
+			"name": "株式会社サルース",
+			"domain": "www.e-salus.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "165",
+			"name": "TopNews株式会社",
+			"domain": "topnews.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "166",
+			"name": "株式会社イード",
+			"domain": "www.iid.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "169",
+			"name": "スターツ出版株式会社",
+			"domain": "starts-pub.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "171",
+			"name": "株式会社　松竹マルチプレックスシアターズ",
+			"domain": "www.movix.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "182",
+			"name": "ソネット・メディア・ネットワークス株式会社",
+			"domain": "www.so-netmedia.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "195",
+			"name": "コネクシオ株式会社",
+			"domain": "conexio.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "196",
+			"name": "株式会社 nanapi",
+			"domain": "nanapi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "199",
+			"name": "株式会社ONE COMPATH",
+			"domain": "onecompath.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "200",
+			"name": "株式会社jig.jp",
+			"domain": "jig.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "203",
+			"name": "株式会社共同通信社",
+			"domain": "kyodo.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "207",
+			"name": "スターツ出版株式会社",
+			"domain": "starts-pub.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "218",
+			"name": "株式会社ダイヤモンドブログ",
+			"domain": "diamondblog.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221",
+			"name": "ぴあ株式会社",
+			"domain": "www.pia.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "226",
+			"name": "ライズ株式会社",
+			"domain": "www.risecorp.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "228",
+			"name": "株式会社みんかぶ",
+			"domain": "minkabu.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "229",
+			"name": "株式会社インターナショナルスポーツマーケティング",
+			"domain": "ism.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "238",
+			"name": "株式会社VLe",
+			"domain": "vle.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "244",
+			"name": "OSDN株式会社",
+			"domain": "osdn.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "245",
+			"name": "タワーレコード株式会社",
+			"domain": "tower.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "262",
+			"name": "株式会社マーケティングジャンクション",
+			"domain": "tsunotter.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "266",
+			"name": "株式会社サイトスコープ",
+			"domain": "www.sitescope.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "267",
+			"name": "OVERLANDER株式会社",
+			"domain": "www.overlander.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "287",
+			"name": "国際情報マネジメント有限会社",
+			"domain": "www.business-plus.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "288",
+			"name": "キヤノンマーケティングジャパン株式会社",
+			"domain": "cweb.canon.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "292",
+			"name": "株式会社YAMATOメディアソリューション",
+			"domain": "initial.inc",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "293",
+			"name": "株式会社NHKエデュケーショナル",
+			"domain": "www.nhk-ed.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "294",
+			"name": "デジタル・アドバタイジング・コンソーシアム株式会社",
+			"domain": "dac.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "295",
+			"name": "株式会社リアルワールド",
+			"domain": "realworld.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "297",
+			"name": "楽天株式会社",
+			"domain": "corp.rakuten.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "940",
+			"name": "リアルネットワークス株式会社",
+			"domain": "realnetworks.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "942",
+			"name": "Dokkaエンタープライズ株式会社",
+			"domain": "dokka.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1062",
+			"name": "ナノマーケティング",
+			"domain": "nano-japan.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1066",
+			"name": "モードメディア・ジャパン株式会社",
+			"domain": "www.modemediacorp.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1625",
+			"name": "株式会社NHK出版",
+			"domain": "www.nhk-book.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1631",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1635",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1636",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1679",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1680",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1681",
+			"name": "キングソフト株式会社",
+			"domain": "www.kingsoft.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1682",
+			"name": "株式会社インターパイロン",
+			"domain": "www.interpylon.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1706",
+			"name": "株式会社ネットクルー",
+			"domain": "www.netclue.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1713",
+			"name": "株式会社モータープランニング",
+			"domain": "themotor.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1718",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1967",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1968",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1971",
+			"name": "株式会社マイクロアド",
+			"domain": "wwwmicroad.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "1977",
+			"name": "株式会社サンズ",
+			"domain": "sans-inc.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1989",
+			"name": "株式会社イースリー",
+			"domain": "www.e-3.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "1990",
+			"name": "株式会社エンターブレイン",
+			"domain": "enterbrain.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2068",
+			"name": "株式会社マイクロアド",
+			"domain": "wwwmicroad.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2069",
+			"name": "株式会社レンガ",
+			"domain": "www.mansion-note.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2073",
+			"name": "株式会社マイクロアド",
+			"domain": "wwwmicroad.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2080",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2081",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2082",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2083",
+			"name": "株式会社クレッシェレ",
+			"domain": "www.crescere.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2098",
+			"name": "株式会社フォアキャスト・コミュニケーションズ",
+			"domain": "www.4cast.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2527",
+			"name": "ニフティ株式会社",
+			"domain": "www.nifty.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2528",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2532",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2533",
+			"name": "株式会社Speee",
+			"domain": "www.speee.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2534",
+			"name": "株式会社リアルワールド",
+			"domain": "realworld.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2535",
+			"name": "株式会社廣済堂",
+			"domain": "www.kosaido.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2536",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2537",
+			"name": "株式会社アイスタイル",
+			"domain": "www.istyle.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2545",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2547",
+			"name": "株式会社フォースタンダード",
+			"domain": "www.forstandard.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2554",
+			"name": "株式会社アドネスト",
+			"domain": "www.adnest.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2557",
+			"name": "BTD STUDIO株式会社",
+			"domain": "www.btdstudio.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2563",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2565",
+			"name": "株式会社セレス",
+			"domain": "ceres-inc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2566",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2575",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2577",
+			"name": "株式会社リアルワールド",
+			"domain": "realworld.co.jp/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2585",
+			"name": "株式会社プラットフォーム・ワン",
+			"domain": "www.platform-one.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2586",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2587",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2588",
+			"name": "パシフィック・メディアパートナーズ株式会社",
+			"domain": "datatailor.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2590",
+			"name": "株式会社コリー",
+			"domain": "www.koly.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2591",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2592",
+			"name": "イオンエンターテイメント株式会社",
+			"domain": "www.aeoncinema.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2598",
+			"name": "株式会社システムエッジ",
+			"domain": "www.system-edge.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2600",
+			"name": "ワイズアンドパートナーズ・ジャパン株式会社",
+			"domain": "www.ysandpartners.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2624",
+			"name": "アイブリッジ株式会社",
+			"domain": "ibridge.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2637",
+			"name": "アイブリッジ株式会社",
+			"domain": "ibridge.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2638",
+			"name": "株式会社リースエンタープライズ",
+			"domain": "wreath-ent.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2639",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2640",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2688",
+			"name": "アドプライムメディア・ジャパン合同会社",
+			"domain": "adprimemedia.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2695",
+			"name": "株式会社博報堂ＤＹメディアパートナーズ",
+			"domain": "hakuhodody-media.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2700",
+			"name": "株式会社プロデュース・オン・デマンド",
+			"domain": "www.pod.tv",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2703",
+			"name": "株式会社南西テレワークセンター",
+			"domain": "www.nansei-tlwk.biz",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2704",
+			"name": "株式会社KAZOKU",
+			"domain": "ka-zoku.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2705",
+			"name": "株式会社マーケットプレイス",
+			"domain": "www.marketplace.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2714",
+			"name": "ベビカム株式会社",
+			"domain": "company.babycome.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2806",
+			"name": "アイブリッジ株式会社",
+			"domain": "ibridge.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2817",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2825",
+			"name": "医薬品情報研究会「ファーマフレンド」",
+			"domain": "www.jah.ne.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2827",
+			"name": "株式会社四国新聞社",
+			"domain": "www.shikoku-np.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2828",
+			"name": "株式会社リトル・ママ",
+			"domain": "www.l-ma.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2844",
+			"name": "ロジックファクトリー株式会社",
+			"domain": "logicfactory.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2845",
+			"name": "アイブリッジ株式会社",
+			"domain": "ibridge.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2847",
+			"name": "株式会社東京ニュース通信社",
+			"domain": "www.tokyonews.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2849",
+			"name": "GMOメディア株式会社",
+			"domain": "gmo.media",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2853",
+			"name": "ママサポ株式会社",
+			"domain": "www.mamasapo.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2855",
+			"name": "株式会社QLife",
+			"domain": "www.qlife.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2858",
+			"name": "株式会社岐阜放送",
+			"domain": "www.zf-web.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2867",
+			"name": "株式会社メディアーノ",
+			"domain": "mediano-ltd.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2868",
+			"name": "株式会社CMサイト",
+			"domain": "www.cmsite.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2869",
+			"name": "アイブリッジ株式会社",
+			"domain": "ibridge.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2870",
+			"name": "株式会社ツボックス",
+			"domain": "www.tubox.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2871",
+			"name": "株式会社ウーマンジャパン",
+			"domain": "www.womenjapan.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2872",
+			"name": "株式会社イード",
+			"domain": "www.iid.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2876",
+			"name": "株式会社ニュース・サービス・センター",
+			"domain": "news-service.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2900",
+			"name": "ディレクトリジャパン株式会社",
+			"domain": "www.directoryjapan.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2902",
+			"name": "株式会社TOUAデジタルマーケティング",
+			"domain": "toua.digi-mk.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2904",
+			"name": "ジャパンミュージックネットワーク株式会社",
+			"domain": "www.faith-wonderworks.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2905",
+			"name": "株式会社デネット",
+			"domain": "www.de-net.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2906",
+			"name": "株式会社ラクシーズ",
+			"domain": "luxeys.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2910",
+			"name": "株式会社クラップス",
+			"domain": "claps337.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2911",
+			"name": "株式会社PHP研究所",
+			"domain": "www.php.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2917",
+			"name": "株式会社ゼロワン・スタイル",
+			"domain": "zero-one.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2919",
+			"name": "株式会社プラスエム",
+			"domain": "plus-em.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2920",
+			"name": "株式会社アルファポリス",
+			"domain": "www.alphapolis.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2922",
+			"name": "株式会社データ・マックス",
+			"domain": "www.data-max.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2924",
+			"name": "株式会社フェイス・ワンダワークス",
+			"domain": "faith-wonderworks.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2925",
+			"name": "小谷卓也",
+			"domain": "www.itamiwake.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2932",
+			"name": "インフォメーションシステムズ株式会社",
+			"domain": "www.informationsystems.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2937",
+			"name": "株式会社ユーピー",
+			"domain": "www.up2u.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2938",
+			"name": "株式会社マリエッタ",
+			"domain": "www.marietta.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2939",
+			"name": "株式会社フードリンクグループ",
+			"domain": "www.foodrink.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2940",
+			"name": "株式会社ワイヤーオレンジ",
+			"domain": "tokushima.wire.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2941",
+			"name": "渡邊 和樹",
+			"domain": "pucchi.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2946",
+			"name": "株式会社DMM.com",
+			"domain": "dmm.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2947",
+			"name": "株式会社HONZエンタープライズ",
+			"domain": "honz.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2955",
+			"name": "株式会社LAUGHY",
+			"domain": "laughy.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2958",
+			"name": "株式会社フジテレビジョン",
+			"domain": "www.fujitv.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2965",
+			"name": "株式会社京橋ファクトリー",
+			"domain": "otonal.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2968",
+			"name": "株式会社ニュース・サービス・センター",
+			"domain": "news-service.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2969",
+			"name": "マネタイズパートナー株式会社",
+			"domain": "www.mp-llc.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2972",
+			"name": "ベンチャーバンク",
+			"domain": "www.venturebank.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2973",
+			"name": "株式会社名光通信社",
+			"domain": "www.tsurigu-np.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2976",
+			"name": "フジテレビラボLLC合同会社",
+			"domain": "www.fujilab.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2977",
+			"name": "株式会社ミリオネット",
+			"domain": "www.millionet.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2978",
+			"name": "株式会社Ramble",
+			"domain": "ramble.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2983",
+			"name": "株式会社SEEC",
+			"domain": "se-ec.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2986",
+			"name": "フォーイー・インスチチュート株式会社",
+			"domain": "www.4einstitute.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2988",
+			"name": "株式会社VOYAGE GROUP",
+			"domain": "voyagegroup.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2989",
+			"name": "株式会社VOYAGE MARKETING",
+			"domain": "voyagemarketing.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "2992",
+			"name": "表示灯株式会社",
+			"domain": "www.hyojito.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2996",
+			"name": "株式会社スクラウド",
+			"domain": "scloud-web.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3003",
+			"name": "NECパーソナルコンピュータ株式会社",
+			"domain": "www.necp.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3005",
+			"name": "株式会社カーリン",
+			"domain": "www.fashion-press.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3009",
+			"name": "丹保貴雅",
+			"domain": "aaieba.livedoor.biz",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3010",
+			"name": "株式会社 MANTAN",
+			"domain": "www.maidigi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3023",
+			"name": "細井雅嗣",
+			"domain": "divnil.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3027",
+			"name": "株式会社スマート",
+			"domain": "smar-t.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3028",
+			"name": "アドイノベーション株式会社",
+			"domain": "adinnovation.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3033",
+			"name": "株式会社西日本新聞メディアラボ",
+			"domain": "www.medialab.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3041",
+			"name": "株式会社メディアシンク",
+			"domain": "dailynewsonline.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3042",
+			"name": "株式会社CMサイト",
+			"domain": "www.cmsite.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3116",
+			"name": "株式会社オズマピーアール",
+			"domain": "ozma.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3142",
+			"name": "一般社団法人ウェブベルマーク協会",
+			"domain": "www.webbellmark.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3144",
+			"name": "株式会社マネーフォワード",
+			"domain": "moneyforward.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3145",
+			"name": "黄金伸一",
+			"domain": "kizitora.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3148",
+			"name": "株式会社グラム",
+			"domain": "airly.co",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3214",
+			"name": "株式会社ベネッセコーポレーション",
+			"domain": "www.benesse.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3215",
+			"name": "株式会社ビジュアルワークス",
+			"domain": "www.visualworks.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3216",
+			"name": "ブルームバーグ エル・ピー",
+			"domain": "about.bloomberg.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3226",
+			"name": "T-Style",
+			"domain": "t-style.asia",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3234",
+			"name": "アクセルマーク株式会社",
+			"domain": "www.axelmark.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3250",
+			"name": "株式会社CMサイト",
+			"domain": "www.cmsite.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3252",
+			"name": "iemo株式会社",
+			"domain": "iemo.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3253",
+			"name": "株式会社ペロリ",
+			"domain": "peroli.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3254",
+			"name": "株式会社Find Travel",
+			"domain": "find-travel.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3256",
+			"name": "RAIZZIN Pte Ltd.",
+			"domain": "kitidan.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3259",
+			"name": "株式会社ドワンゴ",
+			"domain": "info.dwango.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3265",
+			"name": "ポインティア株式会社",
+			"domain": "pointier.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3267",
+			"name": "パシフィック・メディアパートナーズ株式会社",
+			"domain": "https://www.fusosha.co.jp/",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3278",
+			"name": "高林幸一",
+			"domain": "daily-news.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3279",
+			"name": "エーアイエスイー株式会社",
+			"domain": "www.wowkorea.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3283",
+			"name": "株式会社ロンライズ",
+			"domain": "www.at-smile.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3284",
+			"name": "株式会社エクスラント",
+			"domain": "www.exrant.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3285",
+			"name": "株式会社LAUGH TECH",
+			"domain": "laugh-tech.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3288",
+			"name": "ピンテ株式会社",
+			"domain": "corp.gree.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3289",
+			"name": "株式会社トランスメディアGP",
+			"domain": "www.trance-media.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3290",
+			"name": "株式会社ペロリ",
+			"domain": "peroli.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3291",
+			"name": "CWS Brains株式会社",
+			"domain": "www.cwsbrains.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3292",
+			"name": "一般財団法人建設物価調査会",
+			"domain": "kensetu-bukka.or.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3293",
+			"name": "株式会社コンプリートロジック",
+			"domain": "www.complete-logic.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3294",
+			"name": "株式会社アールクリエイト",
+			"domain": "www.muteki-tv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3295",
+			"name": "株式会社アイスタイル",
+			"domain": "www.istyle.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3296",
+			"name": "クボタシステム開発株式会社",
+			"domain": "www.ksi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3300",
+			"name": "株式会社USE-WAY",
+			"domain": "supermailer.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3315",
+			"name": "marry株式会社",
+			"domain": "marry-xoxo.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3318",
+			"name": "株式会社アノマリー",
+			"domain": "www.anomaly.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3319",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3325",
+			"name": "株式会社リアジュー",
+			"domain": "reajyu.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3327",
+			"name": "株式会社ヘルスクリック",
+			"domain": "www.health.ne.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3329",
+			"name": "株式会社じゃぱんじゃぱん",
+			"domain": "www.yummyjapan.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3334",
+			"name": "株式会社ピーネストジャパン",
+			"domain": "www.p-nest.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3335",
+			"name": "小島秀一",
+			"domain": "www.wws-channel.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3337",
+			"name": "GMOインターネット株式会社",
+			"domain": "www.gmo.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3341",
+			"name": "株式会社life is",
+			"domain": "lifeis-web.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3353",
+			"name": "株式会社廣済堂",
+			"domain": "www.kosaido.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3354",
+			"name": "株式会社カービュー",
+			"domain": "www.carview.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3357",
+			"name": "インクリメントP株式会社",
+			"domain": "www.incrementp.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3361",
+			"name": "ＧＭＯメディア株式会社",
+			"domain": "www.gmo-media.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3362",
+			"name": "株式会社シクミクル",
+			"domain": "www.skmkr.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3363",
+			"name": "株式会社トラストバンク",
+			"domain": "www.trustbank.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3364",
+			"name": "株式会社バーグハンバーグバーグ",
+			"domain": "bhb.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3365",
+			"name": "ヴァズ株式会社",
+			"domain": "vuzz.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3368",
+			"name": "浮田建設株式会社",
+			"domain": "www.ukida.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3369",
+			"name": "株式会社徳間書店",
+			"domain": "www.tokuma.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3370",
+			"name": "株式会社朝日新聞出版",
+			"domain": "publications.asahi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3371",
+			"name": "株式会社エニアップ",
+			"domain": "www.dopr.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3373",
+			"name": "株式会社medibang",
+			"domain": "medibang.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3374",
+			"name": "株式会社ブランジスタ",
+			"domain": "www.brangista.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3375",
+			"name": "GMOインターネット株式会社",
+			"domain": "www.gmo.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3380",
+			"name": "株式会社ソルティアーツ",
+			"domain": "www.saltyarts.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3385",
+			"name": "株式会社エムフロゲーム",
+			"domain": "www.mfro.net",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3388",
+			"name": "NHN comico株式会社",
+			"domain": "www.nhn-comico.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3389",
+			"name": "株式会社 時事通信社",
+			"domain": "www.jiji.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3391",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社（CMサイト）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3392",
+			"name": "東京カレンダー株式会社",
+			"domain": "tokyo-calendar.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3393",
+			"name": "Hotfrog社",
+			"domain": "hotfrog.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3394",
+			"name": "株式会社Z-Works",
+			"domain": "z-works.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3396",
+			"name": "ヒューマンアカデミー株式会社",
+			"domain": "manabu.athuman.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3399",
+			"name": "ポート株式会社",
+			"domain": "www.theport.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3402",
+			"name": "株式会社ディーアンドエム",
+			"domain": "www.d-and-m.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3410",
+			"name": "合同会社イズミアルチザン",
+			"domain": "izumi-artisan.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3416",
+			"name": "株式会社AzuRo",
+			"domain": "azuro.info",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3417",
+			"name": "株式会社Wondershake",
+			"domain": "wondershake.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3419",
+			"name": "株式会社イード",
+			"domain": "www.iid.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3421",
+			"name": "株式会社ACJマガジンズ",
+			"domain": "www.autocar.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3422",
+			"name": "株式会社三栄書房",
+			"domain": "www.sun-a.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3423",
+			"name": "ザ・ハフィントン・ポスト・ジャパン株式会社",
+			"domain": "huffingtonpost.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3428",
+			"name": "株式会社デジタルガレージ",
+			"domain": "www.garage.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3430",
+			"name": "株式会社エムフロゲーム",
+			"domain": "www.mfro.net",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3433",
+			"name": "株式会社ファイブエニー",
+			"domain": "www.fiveany.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3439",
+			"name": "株式会社ドワンゴ",
+			"domain": "info.dwango.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3440",
+			"name": "株式会社Gunosy",
+			"domain": "gunosy.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3441",
+			"name": "株式会社VASILY",
+			"domain": "vasily.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3445",
+			"name": "株式会社フュービック",
+			"domain": "fubic.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3447",
+			"name": "株式会社リレイド",
+			"domain": "suvt.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3448",
+			"name": "株式会社ドワンゴ",
+			"domain": "info.dwango.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3451",
+			"name": "株式会社ブクログ",
+			"domain": "booklog.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3452",
+			"name": "Supership株式会社",
+			"domain": "www.scaleout.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3454",
+			"name": "DeNA",
+			"domain": "dena.com/jp/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3459",
+			"name": "株式会社エムフロ",
+			"domain": "www.mfro.net",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3473",
+			"name": "株式会社ファイブエニー",
+			"domain": "www.fiveany.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3474",
+			"name": "株式会社毎日新聞社",
+			"domain": "www.mainichi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3477",
+			"name": "iemo株式会社",
+			"domain": "iemo.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3478",
+			"name": "株式会社wondershake",
+			"domain": "wondershake.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3482",
+			"name": "AppBank株式会社",
+			"domain": "www.appbank.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3483",
+			"name": "ぴあ株式会社",
+			"domain": "www.pia.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3486",
+			"name": "株式会社フォアキャスト・コミュニケーションズ",
+			"domain": "www.4cast.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3488",
+			"name": "トラベルブック株式会社",
+			"domain": "corp.travelbook.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3490",
+			"name": "株式会社ページワン",
+			"domain": "www.pageone.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3492",
+			"name": "スペースキー",
+			"domain": "www.spacekey.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3494",
+			"name": "株式会社Find Travel",
+			"domain": "find-travel.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3495",
+			"name": "株式会社Find Travel",
+			"domain": "find-travel.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3497",
+			"name": "株式会社エバーセンス",
+			"domain": "eversense.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3500",
+			"name": "株式会社コンベックスコーポレイション",
+			"domain": "www.convex-corp.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3504",
+			"name": "株式会社Retty",
+			"domain": "corp.retty.me",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3506",
+			"name": "ぴあ株式会社",
+			"domain": "www.pia.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3511",
+			"name": "株式会社朝日新聞出版",
+			"domain": "publications.asahi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3514",
+			"name": "楽天株式会社",
+			"domain": "corp.rakuten.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3518",
+			"name": "AppBank株式会社",
+			"domain": "www.appbank.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3521",
+			"name": "株式会社マルジュ",
+			"domain": "www.maru.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3526",
+			"name": "JWord株式会社",
+			"domain": "www.jword.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3527",
+			"name": "株式会社ソル・メディア",
+			"domain": "www.solmedia.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3532",
+			"name": "株式会社エイトクロップス",
+			"domain": "8crops.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3550",
+			"name": "株式会社K-Agency",
+			"domain": "k-agency.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3553",
+			"name": "株式会社oricon ME",
+			"domain": "www.oricon.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3563",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3567",
+			"name": "株式会社ウェビー",
+			"domain": "webee.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3570",
+			"name": "株式会社ジョイントメディア",
+			"domain": "www.joint-media.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3571",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3572",
+			"name": "モーニングスター株式会社",
+			"domain": "www.morningstar.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3575",
+			"name": "株式会社日刊現代",
+			"domain": "www.nikkan-gendai.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3579",
+			"name": "株式会社エムフロゲーム",
+			"domain": "mfro.net",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3583",
+			"name": "株式会社オルトプラス",
+			"domain": "www.altplus.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3585",
+			"name": "株式会社エール",
+			"domain": "y-ell.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3590",
+			"name": "株式会社博報堂DYデジタル",
+			"domain": "www.hakuhodody-digital.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3591",
+			"name": "株式会社エムフロゲーム",
+			"domain": "mfro.net",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3598",
+			"name": "株式会社ショップエアラインジャパン",
+			"domain": "www.sekaimon.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3608",
+			"name": "株式会社時事通信社",
+			"domain": "www.jiji.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3609",
+			"name": "株式会社博報堂ＤＹメディアパートナーズ",
+			"domain": "www.hakuhodody-media.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3612",
+			"name": "株式会社グライダーアソシエイツ",
+			"domain": "glider-associates.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3615",
+			"name": "デジタル・アドバタイジング・コンソーシアム株式会社",
+			"domain": "www.dac.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3622",
+			"name": "ミツバチワークス株式会社",
+			"domain": "www.328w.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3624",
+			"name": "株式会社リクルートホールディングス",
+			"domain": "www.recruit.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3629",
+			"name": "Kシステム",
+			"domain": "ksystem.xyz",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3631",
+			"name": "株式会社 Easy Communications",
+			"domain": "easy-communications.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3634",
+			"name": "株式会社東洋経済新報社",
+			"domain": "toyokeizai.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3638",
+			"name": "デジタル・アドバタイジング・コンソーシアム株式会社",
+			"domain": "www.dac.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3643",
+			"name": "デジタル・アドバタイジング・コンソーシアム株式会社",
+			"domain": "www.dac.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3644",
+			"name": "株式会社日経BP",
+			"domain": "nikkeibp.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3645",
+			"name": "エスシステム株式会社",
+			"domain": "www.s-system.biz",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3647",
+			"name": "株式会社アドベニ",
+			"domain": "www.adbeni.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3648",
+			"name": "水野鶴子",
+			"domain": "measures-navi.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3650",
+			"name": "UBM Canon Japan合同会社",
+			"domain": "www.ubmjapan.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3651",
+			"name": "株式会社Retty",
+			"domain": "corp.retty.me",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3652",
+			"name": "株式会社viviane",
+			"domain": "viviane.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3654",
+			"name": "株式会社ベネッセコーポレーション",
+			"domain": "www.benesse.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3655",
+			"name": "株式会社プレゼントキャスト",
+			"domain": "presentcast.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3660",
+			"name": "株式会社インターエデュ・ドットコム",
+			"domain": "inter-edu.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3661",
+			"name": "株式会社VOYAGE MARKETING",
+			"domain": "voyagemarketing.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3662",
+			"name": "株式会社ナビタイムジャパン",
+			"domain": "corporate.navitime.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3668",
+			"name": "株式会社K-Office",
+			"domain": "www.k-officejp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3670",
+			"name": "株式会社ヒューマックスシネマ",
+			"domain": "www.humax-cinema.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3671",
+			"name": "株式会社パブリカ",
+			"domain": "www.publica.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3674",
+			"name": "株式会社オープンスマイル",
+			"domain": "www.opensmile.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3675",
+			"name": "株式会社エムフロゲーム",
+			"domain": "mfro.net",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3676",
+			"name": "ジャパンミュージックネットワーク株式会社",
+			"domain": "www.japanmusicnetwork.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3677",
+			"name": "桜井直史",
+			"domain": "my-knowledge.top",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3680",
+			"name": "ハースト婦人画報社",
+			"domain": "www.hearst.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3683",
+			"name": "グローバル ゴルフ メディア グループ株式会社",
+			"domain": "corp.pargolf.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3684",
+			"name": "合同会社ウィンドミル",
+			"domain": "arayotto.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3685",
+			"name": "石屋博一",
+			"domain": "fausta.xyz",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3686",
+			"name": "市川翼",
+			"domain": "dietoz.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3687",
+			"name": "久我哲也",
+			"domain": "aerobics-dr.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3690",
+			"name": "デジタル・アドバタイジング・コンソーシアム株式会社",
+			"domain": "www.dac.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3698",
+			"name": "NS企画",
+			"domain": "premium-life.top",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3699",
+			"name": "株式会社シーキュア",
+			"domain": "newpuru.doorblog.jp/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3701",
+			"name": "トキ株式会社",
+			"domain": "tok-i.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3702",
+			"name": "株式会社ネオコネクト",
+			"domain": "cnct-seo.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3705",
+			"name": "株式会社ドワンゴ",
+			"domain": "info.dwango.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3706",
+			"name": "株式会社美術出版社",
+			"domain": "bijutsu.press",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3708",
+			"name": "株式会社経営管理部",
+			"domain": "gourmet8.club",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3710",
+			"name": "株式会社はてな",
+			"domain": "hatenacorp.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3712",
+			"name": "株式会社アルク",
+			"domain": "alc.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3713",
+			"name": "株式会社 光文社",
+			"domain": "kobunsha.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3714",
+			"name": "有限会社 未来検索ブラジル",
+			"domain": "razil.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3715",
+			"name": "株式会社JUKKI",
+			"domain": "careerbaito.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3718",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社（NTTコム リサーチ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3719",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社（ちょびリッチ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3721",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社（NTTコム リサーチ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3723",
+			"name": "FIVE株式会社",
+			"domain": "www.five-corp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3724",
+			"name": "株式会社パンタグラフ",
+			"domain": "pantograph.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3727",
+			"name": "株式会社スパイスボックス",
+			"domain": "spicebox.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3728",
+			"name": "オーバル株式会社",
+			"domain": "oval.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3729",
+			"name": "株式会社ビジネスメディア・ファクトリー",
+			"domain": "jbpress.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3730",
+			"name": "テリヤキ株式会社",
+			"domain": "teriyaki.me",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3731",
+			"name": "株式会社ヨシクラデザイン",
+			"domain": "yoshikuradesign.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3735",
+			"name": "株式会社ジェイ・キャスト",
+			"domain": "j-cast.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3739",
+			"name": "LINE株式会社",
+			"domain": "linecorp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3742",
+			"name": "株式会社テレビ朝日",
+			"domain": "www.tv-asahi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3743",
+			"name": "株式会社はてな",
+			"domain": "hatenacorp.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3744",
+			"name": "pepy株式会社",
+			"domain": "pepy.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3746",
+			"name": "GMOメディア株式会社",
+			"domain": "www.gmo-media.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3747",
+			"name": "株式会社B.R.T",
+			"domain": "www.bronline.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3748",
+			"name": "株式会社Lien",
+			"domain": "lien77.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3749",
+			"name": "アクトデザインラボ株式会社",
+			"domain": "brave-answer.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3754",
+			"name": "株式会社インロビ",
+			"domain": "innlovi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3758",
+			"name": "ロイター・ニュース・アンド・メディア・ジャパン株式会社",
+			"domain": "www.thomsonreuters.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3759",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社（エルネ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3760",
+			"name": "株式会社エムフロゲーム",
+			"domain": "mfro.net",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3761",
+			"name": "株式会社エムフロゲーム",
+			"domain": "mfro.net",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3763",
+			"name": "株式会社博報堂ＤＹメディアパートナーズ",
+			"domain": "www.hakuhodody-media.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3765",
+			"name": "株式会社オースタンス",
+			"domain": "dena.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3770",
+			"name": "株式会社はてな",
+			"domain": "hatenacorp.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3771",
+			"name": "株式会社エムフロゲーム",
+			"domain": "mfro.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3772",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社_2(CMサイト)",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3773",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社_2（NTTコム リサーチ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3774",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社_2（ちょびリッチ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3775",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社（potora）(potoraアンケート)",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3776",
+			"name": "プロメ株式会社",
+			"domain": "prome-inc.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3777",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社_3（ちょびリッチ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3778",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社_3（NTTコム リサーチ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3779",
+			"name": "LINE株式会社",
+			"domain": "linecorp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3780",
+			"name": "株式会社HUSTLE PRESS",
+			"domain": "hustlepress.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3781",
+			"name": "株式会社博報堂DYメディアパートナーズ",
+			"domain": "www.hakuhodody-media.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3782",
+			"name": "株式会社ライノ",
+			"domain": "rhino-inc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3783",
+			"name": "一般財団法人日本気象協会",
+			"domain": "www.jwa.or.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3784",
+			"name": "株式会社シーエー・モバイル",
+			"domain": "cam-inc.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3785",
+			"name": "株式会社Wondershake",
+			"domain": "wondershake.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3786",
+			"name": "LINE株式会社",
+			"domain": "linecorp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3789",
+			"name": "株式会社ファッションヘッドライン",
+			"domain": "www.fashion-headline.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3790",
+			"name": "株式会社CHP",
+			"domain": "blueblade.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3791",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社（フルーツメール）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3792",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社（infoQ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3793",
+			"name": "NTTコム　オンライン・マーケティング・ソリューション株式会社（ワラウ）",
+			"domain": "www.nttcoms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3794",
+			"name": "株式会社ホワイトスペース",
+			"domain": "http://ws1981.jp/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3797",
+			"name": "株式会社スクリューアドベント",
+			"domain": "screwadvent.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3800",
+			"name": "株式会社アイスタイル",
+			"domain": "www.istyle.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3812",
+			"name": "GMOリサーチ株式会社",
+			"domain": "www.gmo-research.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3813",
+			"name": "株式会社エレファンティーノ",
+			"domain": "elefantino.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3816",
+			"name": "株式会社テイクアンドシェア",
+			"domain": "eastbeam.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3819",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3820",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3821",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "3828",
+			"name": "popIn株式会社",
+			"domain": "popin.cc",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3830",
+			"name": "株式会社エストリエ",
+			"domain": "estlier.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3831",
+			"name": "朝日新聞社",
+			"domain": "asahi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3833",
+			"name": "株式会社博報堂DYメディアパートナーズ",
+			"domain": "www.hakuhodody-media.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3835",
+			"name": "株式会社officeR3",
+			"domain": "office-r3.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3837",
+			"name": "株式会社ロストニュース",
+			"domain": "lite-ra.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3839",
+			"name": "株式会社ピース",
+			"domain": "peace-media.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3841",
+			"name": "株式会社シムサム・メディア",
+			"domain": "www.webchronos.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3842",
+			"name": "株式会社マネジメントプランニング",
+			"domain": "www.mp7117.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3847",
+			"name": "株式会社Alpaca",
+			"domain": "alpaca.ai",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3848",
+			"name": "株式会社VANX",
+			"domain": "vanx.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3850",
+			"name": "サッカードットコム株式会社",
+			"domain": "2015soccer.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3852",
+			"name": "株式会社ウィズダム",
+			"domain": "tokyoramengourmet.click",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3853",
+			"name": "株式会社LifeTech",
+			"domain": "life-technology.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3854",
+			"name": "株式会社ビーシー",
+			"domain": "gourmetrun.site",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3856",
+			"name": "株式会社BRI",
+			"domain": "pazudoragogo.xyz",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3857",
+			"name": "株式会社ダイヤモンド・リテイルメディア",
+			"domain": "diamond-rm.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3858",
+			"name": "鹿嶋 美江子",
+			"domain": "sp.documo.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3859",
+			"name": "株式会社アクアライズ",
+			"domain": "www.aqualize.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3862",
+			"name": "トラベルブック株式会社",
+			"domain": "corp.travelbook.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3863",
+			"name": "有限会社メディック",
+			"domain": "www.medic-web.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3864",
+			"name": "株式会社ダブルエル",
+			"domain": "doublel.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3865",
+			"name": "株式会社トラストリッジ",
+			"domain": "www.trustridge.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3866",
+			"name": "株式会社博報堂DYメディアパートナーズ",
+			"domain": "www.hakuhodody-media.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3867",
+			"name": "iYell株式会社",
+			"domain": "iyell.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3868",
+			"name": "株式会社エムフロゲーム",
+			"domain": "www.mfro.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3870",
+			"name": "クエスト・コミュニケーションズ株式会社",
+			"domain": "qsto.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3871",
+			"name": "フォートラベル株式会社",
+			"domain": "fortravel.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3873",
+			"name": "株式会社博報堂DYメディアパートナーズ",
+			"domain": "www.hakuhodody-media.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3874",
+			"name": "株式会社シンクロ・フード",
+			"domain": "www.synchro-food.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3879",
+			"name": "ユナイテッドコミュニケーションズ株式会社",
+			"domain": "cyber-ucs.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3884",
+			"name": "Skyrocket株式会社",
+			"domain": "skyrocket-corp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3885",
+			"name": "株式会社毎日放送",
+			"domain": "www.mbs.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3888",
+			"name": "株式会社医薬経済社",
+			"domain": "risfax.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3889",
+			"name": "株式会社QLEA",
+			"domain": "qlea.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3891",
+			"name": "株式会社エムカンパニー",
+			"domain": "mcompany.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3894",
+			"name": "株式会社OPENERS",
+			"domain": "openers.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3895",
+			"name": "株式会社リープコミュニケーション",
+			"domain": "www.leap-communication.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3896",
+			"name": "株式会社世界文化社",
+			"domain": "www.sekaibunka.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3897",
+			"name": "株式会社OND",
+			"domain": "ond-inc.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3898",
+			"name": "株式会社たびゲーター",
+			"domain": "www.tavigator.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3899",
+			"name": "株式会社マイナビ",
+			"domain": "woman.mynavi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3903",
+			"name": "株式会社ユナイテッドブレイズ",
+			"domain": "www.unaitedblades.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3905",
+			"name": "株式会社オージス総研",
+			"domain": "www.ogis-ri.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3907",
+			"name": "株式会社メディアプロダクツジャパン",
+			"domain": "techinsight.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3909",
+			"name": "VIDAZOO",
+			"domain": "vidazoo.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3910",
+			"name": "株式会社マガジンハウス",
+			"domain": "magazineworld.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3911",
+			"name": "WWS JAPAN合同会社",
+			"domain": "ww-system.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3915",
+			"name": "株式会社ライトハウスメディア",
+			"domain": "oceans.tokyo.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3916",
+			"name": "ジャパン・トラベル株式会社",
+			"domain": "ja.japantravel.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3917",
+			"name": "株式会社ミナカラ",
+			"domain": "minacolor.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3918",
+			"name": "株式会社ジャパンインフォ",
+			"domain": "jpninfo.co.jp/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3919",
+			"name": "株式会社LITALICO",
+			"domain": "conobie.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3920",
+			"name": "株式会社オールブルー",
+			"domain": "allblue.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3921",
+			"name": "株式会社D2CX",
+			"domain": "d2cx.co.jp/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3924",
+			"name": "ジャパン・トラベル株式会社",
+			"domain": "japantravel.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3925",
+			"name": "株式会社ロジスティクス・パートナー",
+			"domain": "www.l-partner.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3926",
+			"name": "株式会社ディ・キッズ",
+			"domain": "www.d-kids.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3927",
+			"name": "株式会社カンゼン",
+			"domain": "kanzen.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3928",
+			"name": "株式会社MATCHA",
+			"domain": "matcha-jp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3929",
+			"name": "讀賣テレビ放送株式会社",
+			"domain": "www.ytv.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3930",
+			"name": "株式会社オン・サイト",
+			"domain": "on-sight.biz",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3931",
+			"name": "タイムアウト東京",
+			"domain": "timeout.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3934",
+			"name": "関西テレビ放送株式会社",
+			"domain": "www.ktv.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3935",
+			"name": "株式会社アルゴリズム",
+			"domain": "algorithms.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3936",
+			"name": "株式会社テレビ東京",
+			"domain": "www.tv-tokyo.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3937",
+			"name": "株式会社キネマ旬報社",
+			"domain": "www.kinejun.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3938",
+			"name": "株式会社光文社　デジタル事業部",
+			"domain": "kobunsha.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3939",
+			"name": "株式会社シロップ",
+			"domain": "syrup.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3940",
+			"name": "CoolGames Japan株式会社",
+			"domain": "www.coolgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3941",
+			"name": "株式会社 朝日新聞社",
+			"domain": "www.asahi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3942",
+			"name": "株式会社インターワークス",
+			"domain": "interworks.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3944",
+			"name": "合同会社DMM.com",
+			"domain": "dmm-corp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3946",
+			"name": "カエルム株式会社",
+			"domain": "caelum-jp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3950",
+			"name": "株式会社 INFASパブリケーションズ",
+			"domain": "www.infaspub.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3951",
+			"name": "VICE MEDIA Japan 株式会社",
+			"domain": "vice.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3952",
+			"name": "ザ・レイク・ジャパン株式会社",
+			"domain": "therakejapan.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3957",
+			"name": "株式会社クレディセゾン",
+			"domain": "corporate.saisoncard.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3958",
+			"name": "株式会社ジーニー",
+			"domain": "geniee.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3960",
+			"name": "朝日放送テレビ株式会社",
+			"domain": "corp.asahi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3962",
+			"name": "株式会社オールアバウト",
+			"domain": "allabout.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3965",
+			"name": "株式会社スペースシャワーネットワーク",
+			"domain": "spaceshower.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3966",
+			"name": "トムソン・ロイター・ジャパン株式会社",
+			"domain": "thomsonreuters.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3967",
+			"name": "株式会社NEWSY",
+			"domain": "newsy-inc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3968",
+			"name": "株式会社TVグルーヴ・ドット・コム",
+			"domain": "www.tvgroove.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3969",
+			"name": "株式会社トラストリッジ",
+			"domain": "www.trustridge.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3972",
+			"name": "ウォルト・ディズニー・ジャパン株式会社",
+			"domain": "dlife.disney.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3973",
+			"name": "クックパッド株式会社",
+			"domain": "cookpad.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3975",
+			"name": "株式会社扶桑社",
+			"domain": "www.fusosha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3976",
+			"name": "株式会社メディコマ",
+			"domain": "media-commerceinc.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3977",
+			"name": "富士通コネクテッドテクノロジーズ株式会社",
+			"domain": "www.fujitsu.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3978",
+			"name": "株式会社Ｅｉｔｙ",
+			"domain": "eity.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3983",
+			"name": "株式会社シップ",
+			"domain": "ship.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3986",
+			"name": "株式会社viviane",
+			"domain": "viviane.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3989",
+			"name": "株式会社LITALICO",
+			"domain": "litalico.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3992",
+			"name": "株式会社ナビタイムジャパン",
+			"domain": "corporate.navitime.co.jp/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4000",
+			"name": "株式会社マイベスト",
+			"domain": "my-best.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4002",
+			"name": "株式会社ピーネストジャパン",
+			"domain": "www.p-nest.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4006",
+			"name": "トラベルブック株式会社",
+			"domain": "travelbook.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4008",
+			"name": "ニフティネクサス株式会社",
+			"domain": "www.niftynexus.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4010",
+			"name": "ティービー株式会社",
+			"domain": "tbank.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4011",
+			"name": "フォートラベル株式会社",
+			"domain": "fortravel.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4012",
+			"name": "株式会社Candle",
+			"domain": "candle.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4015",
+			"name": "VOW.design",
+			"domain": "www.concentinc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4016",
+			"name": "株式会社リグネ",
+			"domain": "honcierge.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4017",
+			"name": "株式会社無限",
+			"domain": "mmmgn.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4024",
+			"name": "株式会社メディア・ヴァーグ",
+			"domain": "mediavague.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4025",
+			"name": "株式会社ピー・アール・オー",
+			"domain": "pro-japan.co.jp/sp/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4026",
+			"name": "株式会社VOYAGE MARKETING（EBDA）",
+			"domain": "https://voyagemarketing.com/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4027",
+			"name": "株式会社ワニブックス",
+			"domain": "www.wani.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4028",
+			"name": "アイティメディア株式会社",
+			"domain": ".itmedia.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4029",
+			"name": "トゥギャッター株式会社",
+			"domain": "togetter.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4032",
+			"name": "株式会社ハニカム",
+			"domain": "www.honeyee.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4033",
+			"name": "日本テレビ放送網株式会社",
+			"domain": "www.ntv.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4034",
+			"name": "株式会社スマートメディア",
+			"domain": "sma-media.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4039",
+			"name": "株式会社メディアーノ",
+			"domain": "mediano-ltd.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4040",
+			"name": "株式会社スマートショッピング",
+			"domain": "smartshopping.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4045",
+			"name": "株式会社Candle",
+			"domain": "http://candle.co.jp/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4047",
+			"name": "株式会社レッドコンサルティング",
+			"domain": "red-consulting.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4048",
+			"name": "株式会社radiko",
+			"domain": "radiko.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4050",
+			"name": "GMOメディア株式会社",
+			"domain": "gmo.media",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4052",
+			"name": "株式会社ウィルゲート",
+			"domain": "willgate.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4053",
+			"name": "ニフティ株式会社",
+			"domain": "nifty.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4054",
+			"name": "株式会社ライフベア",
+			"domain": "lifebear.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4056",
+			"name": "GreenSnap株式会社",
+			"domain": "greensnap.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4059",
+			"name": "株式会社ワンダーラスト",
+			"domain": "www.wanderlust.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4063",
+			"name": "株式会社Kポイント",
+			"domain": "www.kpoint.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4064",
+			"name": "株式会社アルゴリズム",
+			"domain": "algorithms.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4065",
+			"name": "株式会社Vapes",
+			"domain": "vapes.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4066",
+			"name": "株式会社Anela Capital",
+			"domain": "japan-corporate-number.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4069",
+			"name": "ログミー株式会社",
+			"domain": "logmi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4070",
+			"name": "株式会社クラフタ",
+			"domain": "crafta.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4072",
+			"name": "株式会社Roadie",
+			"domain": "http://roadie.co.jp/",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4074",
+			"name": "株式会社グルーヴ・アール",
+			"domain": "www.groove-r.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4076",
+			"name": "株式会社MACM",
+			"domain": "vivre-media.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4077",
+			"name": "株式会社ゼネラルリンク",
+			"domain": "general-link.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4079",
+			"name": "株式会社インプレス",
+			"domain": "watch.impress.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4081",
+			"name": "株式会社エムオン・エンタテインメント",
+			"domain": "www.m-on-ent.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4082",
+			"name": "株式会社ギフトモール",
+			"domain": "giftmall.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4083",
+			"name": "LINE株式会社",
+			"domain": "linecorp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4084",
+			"name": "株式会社リアルクロス",
+			"domain": "realcross.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4086",
+			"name": "dely株式会社",
+			"domain": "www.dely.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4087",
+			"name": "スマートキャンプ株式会社",
+			"domain": "smartcamp.asia",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4088",
+			"name": "株式会社クラフタ",
+			"domain": "crafta.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4089",
+			"name": "株式会社再春館製薬所",
+			"domain": "www.saishunkan.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4090",
+			"name": "株式会社小学館",
+			"domain": "shogakukan.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4093",
+			"name": "株式会社Wondershake",
+			"domain": "wondershake.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4095",
+			"name": "BuzzFeed Japan株式会社",
+			"domain": "www.buzzfeed.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4097",
+			"name": "株式会社トランス",
+			"domain": "www.trans-inc.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4098",
+			"name": "株式会社りーふねっと",
+			"domain": "http://leafnet.jp/index.html",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4101",
+			"name": "ディーエムソリューションズ株式会社",
+			"domain": "www.dm-s.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4102",
+			"name": "LINE株式会社",
+			"domain": "line.me",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4104",
+			"name": "Chatwork株式会社",
+			"domain": "corp.chatwork.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4105",
+			"name": "Eleven Sports Network株式会社",
+			"domain": "elevensports.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4106",
+			"name": "株式会社ウェザーニューズ",
+			"domain": "weathernews.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4107",
+			"name": "株式会社ディー・エヌ・エー",
+			"domain": "dena.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4108",
+			"name": "日本出版販売株式会社",
+			"domain": "www.nippan.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4109",
+			"name": "株式会社クリエイティヴ・リンク",
+			"domain": "crlink.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4110",
+			"name": "株式会社OCEAN'S",
+			"domain": "www.oceans-corp.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4111",
+			"name": "株式会社マネーフォワード",
+			"domain": "corp.moneyforward.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4112",
+			"name": "株式会社アシロ",
+			"domain": "asiro.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4113",
+			"name": "楽天株式会社",
+			"domain": "corp.rakuten.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4115",
+			"name": "株式会社シーザスターズ",
+			"domain": "seethestars.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4117",
+			"name": "株式会社日本スポーツ企画出版社",
+			"domain": "www.nsks.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4118",
+			"name": "株式会社ロコガイド",
+			"domain": "corp.tokubai.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4119",
+			"name": "株式会社スマートショッピング",
+			"domain": "smartshopping.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4120",
+			"name": "株式会社双葉社",
+			"domain": "www.futabasha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4121",
+			"name": "株式会社オウチーノ",
+			"domain": "o-uccino.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4124",
+			"name": "株式会社コラボカフェ",
+			"domain": "collabo-cafe.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4125",
+			"name": "株式会社ミクシィ",
+			"domain": "mixi.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4126",
+			"name": "株式会社アノマリー",
+			"domain": "www.anomaly.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4127",
+			"name": "株式会社パンタグラフ",
+			"domain": "pantograph.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4128",
+			"name": "東京スポーツ新聞社",
+			"domain": "www.tokyo-sports.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4129",
+			"name": "有限会社アットフリークス",
+			"domain": "atfreaks.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4130",
+			"name": "株式会社ネクストビート",
+			"domain": "www.nextbeat.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4131",
+			"name": "株式会社ビューティエオス",
+			"domain": "kireinosensei.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4132",
+			"name": "株式会社ドワンゴ",
+			"domain": "info.dwango.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4133",
+			"name": "株式会社カヤック",
+			"domain": "www.kayac.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4134",
+			"name": "株式会社WOWOW",
+			"domain": "corporate.wowow.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4135",
+			"name": "株式会社マキノ出版",
+			"domain": "www.makino-g.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4136",
+			"name": "株式会社ベネッセコーポレーション",
+			"domain": "www.benesse.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4137",
+			"name": "株式会社扶桑社",
+			"domain": "www.fusosha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4138",
+			"name": "株式会社viviane",
+			"domain": "viviane.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4140",
+			"name": "株式会社ムラウチドットコム",
+			"domain": "www.murauchi.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4141",
+			"name": "株式会社TechFactory",
+			"domain": "techfactory.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4142",
+			"name": "株式会社ウェザーニューズ",
+			"domain": "jp.weathernews.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4143",
+			"name": "株式会社CATMADE",
+			"domain": "catmade.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4144",
+			"name": "kusuguru株式会社",
+			"domain": "kusuguru.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4145",
+			"name": "スタディプラス株式会社",
+			"domain": "info.studyplus.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4146",
+			"name": "ジュピターゴルフネットワーク株式会社",
+			"domain": "www.golfnetwork.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4147",
+			"name": "株式会社ZERO TO ONE",
+			"domain": "www.zerotoone.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4148",
+			"name": "株式会社TimeTree",
+			"domain": "www.jubilee.works",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4149",
+			"name": "株式会社パシュート",
+			"domain": "www.pursuit-inc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4150",
+			"name": "株式会社トピカ",
+			"domain": "topica.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4151",
+			"name": "株式会社まぐまぐ",
+			"domain": "www.mag2.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4152",
+			"name": "株式会社ジラフ",
+			"domain": "jiraffe.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4153",
+			"name": "ギークス株式会社",
+			"domain": "geechs.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4154",
+			"name": "株式会社ONE COMPATH",
+			"domain": "onecompath.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4155",
+			"name": "兼松グランクス株式会社",
+			"domain": "www.granks.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4156",
+			"name": "株式会社Rit",
+			"domain": "rit.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4157",
+			"name": "株式会社まぐまぐ",
+			"domain": "www.mag2.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4158",
+			"name": "株式会社しんげん",
+			"domain": "shingen-inc.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4159",
+			"name": "株式会社OSA",
+			"domain": "osa-inc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4160",
+			"name": "株式会社日立ハイテクノロジーズ",
+			"domain": "www.hitachi-hightech.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4161",
+			"name": "株式会社ピンポン",
+			"domain": "pingponginc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4162",
+			"name": "プレイライフ株式会社",
+			"domain": "playlife.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4163",
+			"name": "株式会社AppBrew",
+			"domain": "appbrew.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4165",
+			"name": "株式会社フジテレビジョン",
+			"domain": "www.fujitv.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4166",
+			"name": "株式会社駅探",
+			"domain": "ekitan.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4167",
+			"name": "Lifethings株式会社",
+			"domain": "lifethings.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4168",
+			"name": "松竹ブロードキャスティング株式会社",
+			"domain": "www.eigeki.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4169",
+			"name": "GREE Media（EBDA）",
+			"domain": "corp.gree.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4171",
+			"name": "株式会社トライグル",
+			"domain": "trygle.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4173",
+			"name": "株式会社くらしにくふう",
+			"domain": "www.o-uccino.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4174",
+			"name": "株式会社主婦と生活社",
+			"domain": "www.shufu.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4175",
+			"name": "株式会社　三栄",
+			"domain": "www.sun-a.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4177",
+			"name": "エキサイト株式会社",
+			"domain": "www.excite.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4178",
+			"name": "TRILL株式会社",
+			"domain": "trill-corp.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4180",
+			"name": "株式会社イトクロ",
+			"domain": "www.itokuro.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4181",
+			"name": "株式会社セブン・セブン・ハーツ",
+			"domain": "77hz.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4182",
+			"name": "株式会社主婦の友社",
+			"domain": "corporate.shufunotomo.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4184",
+			"name": "Glossom株式会社",
+			"domain": "www.glossom.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4187",
+			"name": "株式会社エフネス",
+			"domain": "www.f-ness.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4188",
+			"name": "ミクル株式会社",
+			"domain": "mikle.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4189",
+			"name": "Suprieve株式会社",
+			"domain": "suprieve.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4190",
+			"name": "千株式会社",
+			"domain": "sencorp.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4191",
+			"name": "TRILL株式会社",
+			"domain": "trill-corp.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4192",
+			"name": "株式会社サードイノベーション",
+			"domain": "3rd-in.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4193",
+			"name": "株式会社ゲームエイト",
+			"domain": "game8.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4194",
+			"name": "合同会社スタープリンス",
+			"domain": "web.star-prince.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4195",
+			"name": "株式会社ジモティー",
+			"domain": "jmty.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4196",
+			"name": "INCLUSIVE株式会社",
+			"domain": "www.inclusive.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4199",
+			"name": "株式会社EatSmart",
+			"domain": "www.eatsmart.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4200",
+			"name": "株式会社サイバーエージェン ト",
+			"domain": "www.cyberagent.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4201",
+			"name": "株式会社オモシロ",
+			"domain": "omoshiro.co",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4203",
+			"name": "株式会社イトクロ",
+			"domain": "www.itokuro.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4204",
+			"name": "中京テレビ放送株式会社",
+			"domain": "www.ctv.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4205",
+			"name": "エス・アイテックス株式会社",
+			"domain": "www.shidax.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4206",
+			"name": "株式会社エスピーオー",
+			"domain": "www.spoinc.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4207",
+			"name": "株式会社イード",
+			"domain": "www.iid.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4208",
+			"name": "カービュー",
+			"domain": "www.carview.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4209",
+			"name": "株式会社集英社",
+			"domain": "www.shueisha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4210",
+			"name": "株式会社AXNジャパン",
+			"domain": "www.axn.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4211",
+			"name": "株式会社TORICO",
+			"domain": "www.torico-corp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4212",
+			"name": "読売新聞社（EBDA）",
+			"domain": "yomiuri.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4213",
+			"name": "株式会社日刊スポーツ新聞社",
+			"domain": "www.nikkansports.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4214",
+			"name": "Glossom株式会社",
+			"domain": "www.glossom.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4216",
+			"name": "株式会社ジョルテ",
+			"domain": "www.jorte.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4217",
+			"name": "株式会社そとあそび",
+			"domain": "corp.sotoasobi.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4218",
+			"name": "株式会社スマートメディア",
+			"domain": "sma-media.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4219",
+			"name": "株式会社アットウィズ",
+			"domain": "at-with.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4220",
+			"name": "株式会社MERY",
+			"domain": "mery.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4221",
+			"name": "株式会社アットウィズ",
+			"domain": "at-with.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4222",
+			"name": "メディアジーン（EBDA）",
+			"domain": "www.mediagene.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4223",
+			"name": "株式会社たびこふれ",
+			"domain": "tabicoffret.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4224",
+			"name": "株式会社プレジデント社",
+			"domain": "president.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4225",
+			"name": "株式会社近代映画社",
+			"domain": "kindaieigasha.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4226",
+			"name": "コドモト株式会社",
+			"domain": "kodomoto.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4227",
+			"name": "株式会社ダイヤモンド社",
+			"domain": "diamond.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4228",
+			"name": "株式会社オモヤ",
+			"domain": "omoya.group",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4229",
+			"name": "株式会社東北新社",
+			"domain": "tfc.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4230",
+			"name": "株式会社ライトコア",
+			"domain": "joah-girls.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4231",
+			"name": "リカー・イノベーション株式会社",
+			"domain": "liquor-innovation.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4233",
+			"name": "ビッグローブ株式会社",
+			"domain": "biglobe.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4234",
+			"name": "株式会社Retty",
+			"domain": "corp.retty.me",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4235",
+			"name": "株式会社ジャックアンドビーンズ",
+			"domain": "j-mamenoki.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4236",
+			"name": "株式会社CotoLab.",
+			"domain": "cotolab.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4237",
+			"name": "株式会社サイバード",
+			"domain": "cybird.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4239",
+			"name": "太陽企画株式会社",
+			"domain": "taiyokikaku.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4240",
+			"name": "株式会社ICE",
+			"domain": "ice-inc.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4241",
+			"name": "ヘイグ株式会社",
+			"domain": "h1g.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4242",
+			"name": "株式会社アールジーン",
+			"domain": "r-gene.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4243",
+			"name": "株式会社美術出版社",
+			"domain": "bijutsu.press",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "172",
+			"name": "ORANGE BIRD",
+			"domain": "orangebird.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "2951",
+			"name": "DAC",
+			"domain": "dac.co.jp",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "4179",
+			"name": "M&E  Mobile Technology Limited",
+			"domain": "appbrain.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3740",
+			"name": "株式会社ニッセン",
+			"domain": "nissen.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "122",
+			"name": "株式会社oriconME",
+			"domain": "oricon.jp",
+			"seller_type": "PUBLISHER"
+		}
+	]
+}

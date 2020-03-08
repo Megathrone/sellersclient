@@ -1,0 +1,577 @@
+{
+  "contact_email": "contact@limpid.tv",
+  "contact_address": "6 Eu Tong Sen St, Singapore, 0598176",
+  "version": "1.0",
+  "identifiers": [
+    {
+      "name": "TAG-ID",
+      "value": "d5bc086179635df0"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "55630",
+      "seller_type": "PUBLISHER",
+      "name": "Games2Win",
+      "domain": "games2win.com"
+    },
+    {
+      "seller_id": "55631",
+      "seller_type": "PUBLISHER",
+      "name": "PeopleFun",
+      "domain": "peoplefun.com"
+    },
+    {
+      "seller_id": "197103",
+      "seller_type": "PUBLISHER",
+      "name": "PlaySimple Games Pte.",
+      "domain": "playsimple.in"
+    },
+    {
+      "seller_id": "197104",
+      "seller_type": "PUBLISHER",
+      "name": "Mobilityware",
+      "domain": "mobilityware.com"
+    },
+    {
+      "seller_id": "197105",
+      "seller_type": "PUBLISHER",
+      "name": "Gram Games Limited",
+      "domain": "gram.gs"
+    },
+    {
+      "seller_id": "197106",
+      "seller_type": "PUBLISHER",
+      "name": "GameCircus",
+      "domain": "gamecircus.com"
+    },
+    {
+      "seller_id": "197107",
+      "seller_type": "PUBLISHER",
+      "name": "Scopely",
+      "domain": "scopely.com"
+    },
+    {
+      "seller_id": "197108",
+      "seller_type": "PUBLISHER",
+      "name": "Gameloft SE",
+      "domain": "gameloft.com"
+    },
+    {
+      "seller_id": "197109",
+      "seller_type": "PUBLISHER",
+      "name": "X-flow",
+      "domain": "x-flow.app"
+    },
+    {
+      "seller_id": "197110",
+      "seller_type": "PUBLISHER",
+      "name": "Amino Apps",
+      "domain": "aminoapps.com"
+    },
+    {
+      "seller_id": "197111",
+      "seller_type": "PUBLISHER",
+      "name": "M51",
+      "domain": "m51.co"
+    },
+    {
+      "seller_id": "197112",
+      "seller_type": "PUBLISHER",
+      "name": "Melodong",
+      "domain": "melodong.com"
+    },
+    {
+      "seller_id": "197113",
+      "seller_type": "PUBLISHER",
+      "name": "Blamic",
+      "domain": "blamic.com"
+    },
+    {
+      "seller_id": "197114",
+      "seller_type": "PUBLISHER",
+      "name": "Easybrain Ltd.",
+      "domain": "easybrain.com"
+    },
+    {
+      "seller_id": "197115",
+      "seller_type": "PUBLISHER",
+      "name": "Aitype.",
+      "domain": "aitype.com"
+    },
+    {
+      "seller_id": "197116",
+      "seller_type": "PUBLISHER",
+      "name": "InnPlay Labs.",
+      "domain": "innplaylabs.com"
+    },
+    {
+      "seller_id": "197117",
+      "seller_type": "PUBLISHER",
+      "name": "DH3 Games",
+      "domain": "dh3games.com"
+    },
+    {
+      "seller_id": "197118",
+      "seller_type": "PUBLISHER",
+      "name": "Havos LTD",
+      "domain": "lucky-kat.com"
+    },
+    {
+      "seller_id": "197119",
+      "seller_type": "PUBLISHER",
+      "name": "PSV Studio",
+      "domain": "psvgamestudio.com"
+    },
+    {
+      "seller_id": "197120",
+      "seller_type": "PUBLISHER",
+      "name": "Havos",
+      "domain": "havos.co.uk"
+    },
+    {
+      "seller_id": "197121",
+      "seller_type": "PUBLISHER",
+      "name": "SEGA",
+      "domain": "sega.com"
+    },
+    {
+      "seller_id": "197122",
+      "seller_type": "PUBLISHER",
+      "name": "FlyClops",
+      "domain": "flyclops.com"
+    },
+    {
+      "seller_id": "197123",
+      "seller_type": "PUBLISHER",
+      "name": "CoCoFun",
+      "domain": "icocofun.com"
+    },
+    {
+      "seller_id": "197124",
+      "seller_type": "PUBLISHER",
+      "name": "Fugo Games",
+      "domain": "fugo.com.tr"
+    },
+    {
+      "seller_id": "293101",
+      "seller_type": "PUBLISHER",
+      "name": "VentureBeat",
+      "domain": "venturebeat.com"
+    },
+    {
+      "seller_id": "293102",
+      "seller_type": "PUBLISHER",
+      "name": "iWin",
+      "domain": "iwin.com"
+    },
+    {
+      "seller_id": "293103",
+      "seller_type": "PUBLISHER",
+      "name": "Jappy",
+      "domain": "jappy.com"
+    },
+    {
+      "seller_id": "293104",
+      "seller_type": "PUBLISHER",
+      "name": "Online-Tech-Tips",
+      "domain": "online-tech-tips.com"
+    },
+    {
+      "seller_id": "293106",
+      "seller_type": "PUBLISHER",
+      "name": "Commodity",
+      "domain": "commodity.com"
+    },
+    {
+      "seller_id": "293107",
+      "seller_type": "PUBLISHER",
+      "name": "Moneywise",
+      "domain": "moneywise.com"
+    },
+    {
+      "seller_id": "293108",
+      "seller_type": "PUBLISHER",
+      "name": "Estadio Deportivo",
+      "domain": "estadiodeportivo.com"
+    },
+    {
+      "seller_id": "293109",
+      "seller_type": "PUBLISHER",
+      "name": "Netflix, Nederlands",
+      "domain": "netflix-nederland.nl"
+    },
+    {
+      "seller_id": "293110",
+      "seller_type": "PUBLISHER",
+      "name": "CAMERA360",
+      "domain": "camera360.com"
+    },
+    {
+      "seller_id": "293111",
+      "seller_type": "PUBLISHER",
+      "name": "Elmundo",
+      "domain": "elmundo.es"
+    },
+    {
+      "seller_id": "293112",
+      "seller_type": "PUBLISHER",
+      "name": "Bossip",
+      "domain": "bossip.com"
+    },
+    {
+      "seller_id": "293113",
+      "seller_type": "PUBLISHER",
+      "name": "Zacks",
+      "domain": "zacks.com"
+    },
+    {
+      "seller_id": "293114",
+      "seller_type": "PUBLISHER",
+      "name": "Coveralia",
+      "domain": "coveralia.com"
+    },
+    {
+      "seller_id": "293115",
+      "seller_type": "PUBLISHER",
+      "name": "Planetaneperiano",
+      "domain": "planetaneperiano.com"
+    },
+    {
+      "seller_id": "293116",
+      "seller_type": "PUBLISHER",
+      "name": "Ellahoy",
+      "domain": "ellahoy.es"
+    },
+    {
+      "seller_id": "293117",
+      "seller_type": "PUBLISHER",
+      "name": "MotorFlash",
+      "domain": "configurador.motorflash.com"
+    },
+    {
+      "seller_id": "293118",
+      "seller_type": "PUBLISHER",
+      "name": "Cabroworld",
+      "domain": "cabroworld.com"
+    },
+    {
+      "seller_id": "293119",
+      "seller_type": "PUBLISHER",
+      "name": "CromosoMax",
+      "domain": "cromosomax.com"
+    },
+    {
+      "seller_id": "293120",
+      "seller_type": "PUBLISHER",
+      "name": "aBaNDoMoVieZ",
+      "domain": "abandomoviez.net"
+    },
+    {
+      "seller_id": "293121",
+      "seller_type": "PUBLISHER",
+      "name": "OrgullODeSer",
+      "domain": "orgullodeser.com"
+    },
+    {
+      "seller_id": "293122",
+      "seller_type": "PUBLISHER",
+      "name": "Cultture",
+      "domain": "cultture.com"
+    },
+    {
+      "seller_id": "293123",
+      "seller_type": "PUBLISHER",
+      "name": "MotorFlash",
+      "domain": "noticias.motorflash.com"
+    },
+    {
+      "seller_id": "293124",
+      "seller_type": "PUBLISHER",
+      "name": "Amigae",
+      "domain": "amigae.com"
+    },
+    {
+      "seller_id": "293125",
+      "seller_type": "PUBLISHER",
+      "name": "FutbolPrimera",
+      "domain": "futbolprimera.es"
+    },
+    {
+      "seller_id": "293126",
+      "seller_type": "PUBLISHER",
+      "name": "Estarguapas",
+      "domain": "estarguapas.com"
+    },
+    {
+      "seller_id": "293127",
+      "seller_type": "PUBLISHER",
+      "name": "LasTeles",
+      "domain": "lasteles.com"
+    },
+    {
+      "seller_id": "293128",
+      "seller_type": "PUBLISHER",
+      "name": "Culturaurbana",
+      "domain": "culturaurbana.net"
+    },
+    {
+      "seller_id": "293129",
+      "seller_type": "PUBLISHER",
+      "name": "Pcbolsa",
+      "domain": "pcbolsa.com"
+    },
+    {
+      "seller_id": "293130",
+      "seller_type": "PUBLISHER",
+      "name": "XGN",
+      "domain": "xgn.es"
+    },
+    {
+      "seller_id": "293131",
+      "seller_type": "PUBLISHER",
+      "name": "PSXSense",
+      "domain": "psx-sense.nl"
+    },
+    {
+      "seller_id": "293132",
+      "seller_type": "PUBLISHER",
+      "name": "XGN",
+      "domain": "xgn.nl"
+    },
+    {
+      "seller_id": "293133",
+      "seller_type": "PUBLISHER",
+      "name": "Mijnserie",
+      "domain": "mijnserie.nl"
+    },
+    {
+      "seller_id": "293134",
+      "seller_type": "PUBLISHER",
+      "name": "nwTV",
+      "domain": "nwtv.nl"
+    },
+    {
+      "seller_id": "293135",
+      "seller_type": "PUBLISHER",
+      "name": "DailyBase",
+      "domain": "dailybase.nl"
+    },
+    {
+      "seller_id": "293136",
+      "seller_type": "PUBLISHER",
+      "name": "Spelersvrouw",
+      "domain": "spelersvrouw.nl"
+    },
+    {
+      "seller_id": "293137",
+      "seller_type": "PUBLISHER",
+      "name": "MovieMeter",
+      "domain": "moviemeter.nl"
+    },
+    {
+      "seller_id": "293138",
+      "seller_type": "PUBLISHER",
+      "name": "Gamenerds",
+      "domain": "gamenerds.nl"
+    },
+    {
+      "seller_id": "293139",
+      "seller_type": "PUBLISHER",
+      "name": "Gamingnation",
+      "domain": "gamingnation.nl"
+    },
+    {
+      "seller_id": "293140",
+      "seller_type": "PUBLISHER",
+      "name": "Sterrenoptv",
+      "domain": "sterrenoptv.nl"
+    },
+    {
+      "seller_id": "293141",
+      "seller_type": "PUBLISHER",
+      "name": "Viraaltjes",
+      "domain": "viraaltjes.nl"
+    },
+    {
+      "seller_id": "293142",
+      "seller_type": "PUBLISHER",
+      "name": "Primevideoaanbod",
+      "domain": "primevideoaanbod.nl"
+    },
+    {
+      "seller_id": "293143",
+      "seller_type": "PUBLISHER",
+      "name": "Gamersnet",
+      "domain": "gamersnet.nl"
+    },
+    {
+      "seller_id": "293144",
+      "seller_type": "PUBLISHER",
+      "name": "Streanwijzer",
+      "domain": "streamwijzer.nl"
+    },
+    {
+      "seller_id": "293145",
+      "seller_type": "PUBLISHER",
+      "name": "Trendnieuws",
+      "domain": "trendnieuws.nl"
+    },
+    {
+      "seller_id": "293146",
+      "seller_type": "PUBLISHER",
+      "name": "Voetbalrotterdam",
+      "domain": "voetbalrotterdam.nl"
+    },
+    {
+      "seller_id": "293147",
+      "seller_type": "PUBLISHER",
+      "name": "MusicMeter",
+      "domain": "musicmeter.nl"
+    },
+    {
+      "seller_id": "293148",
+      "seller_type": "PUBLISHER",
+      "name": "Voetbal",
+      "domain": "voetbal010.nl"
+    },
+    {
+      "seller_id": "293149",
+      "seller_type": "PUBLISHER",
+      "name": "TvMeter",
+      "domain": "tvmeter.nl"
+    },
+    {
+      "seller_id": "293150",
+      "seller_type": "PUBLISHER",
+      "name": "Faceilisimo",
+      "domain": "facilisimo.com"
+    },
+    {
+      "seller_id": "293151",
+      "seller_type": "PUBLISHER",
+      "name": "Comedy.com",
+      "domain": "comedy.com"
+    },
+    {
+      "seller_id": "293152",
+      "seller_type": "PUBLISHER",
+      "name": "Daquan",
+      "domain": "daquan.tv"
+    },
+    {
+      "seller_id": "293153",
+      "seller_type": "PUBLISHER",
+      "name": "Eterno Infotech Pvt Ltd",
+      "domain": "dailyhunt.com"
+    },
+    {
+      "seller_id": "293154",
+      "seller_type": "PUBLISHER",
+      "name": "Fancode",
+      "domain": "fancode.com"
+    },
+    {
+      "seller_id": "293155",
+      "seller_type": "PUBLISHER",
+      "name": "Dream11",
+      "domain": "dream11.com"
+    },
+    {
+      "seller_id": "351301",
+      "seller_type": "INTERMEDIARY",
+      "name": "IQzone Inc.",
+      "domain": "iqzone.com"
+    },
+    {
+      "seller_id": "351302",
+      "seller_type": "INTERMEDIARY",
+      "name": "INFOLINKS MEDIA",
+      "domain": "infolinks.com"
+    },
+    {
+      "seller_id": "351303",
+      "seller_type": "PUBLISHER",
+      "name": "Nature",
+      "domain": "nature.com"
+    },
+    {
+      "seller_id": "351304",
+      "seller_type": "PUBLISHER",
+      "name": "HOUSTON REALTORS.",
+      "domain": "har.com"
+    },
+    {
+      "seller_id": "351305",
+      "seller_type": "PUBLISHER",
+      "name": "ApartmentGuide",
+      "domain": "apartmentguide.com"
+    },
+    {
+      "seller_id": "351306",
+      "seller_type": "PUBLISHER",
+      "name": "World Journal",
+      "domain": "worldjournal.com"
+    },
+    {
+      "seller_id": "351307",
+      "seller_type": "PUBLISHER",
+      "name": "China Gate",
+      "domain": "wenxuecity.com"
+    },
+    {
+      "seller_id": "351308",
+      "seller_type": "PUBLISHER",
+      "name": "Bible Hub",
+      "domain": "biblehub.com"
+    },
+    {
+      "seller_id": "351309",
+      "seller_type": "PUBLISHER",
+      "name": "DrudgerReport",
+      "domain": "drudgereport.com"
+    },
+    {
+      "seller_id": "351310",
+      "seller_type": "PUBLISHER",
+      "name": "Manta Media",
+      "domain": "manta.com"
+    },
+    {
+      "seller_id": "351311",
+      "seller_type": "PUBLISHER",
+      "name": "Timeout Worldwide",
+      "domain": "timeout.com"
+    },
+    {
+      "seller_id": "351312",
+      "seller_type": "PUBLISHER",
+      "name": "Boston Globe Media Partners",
+      "domain": "boston.com"
+    },
+    {
+      "seller_id": "351313",
+      "seller_type": "PUBLISHER",
+      "name": "Radiopaedia",
+      "domain": "radiopaedia.org"
+    },
+    {
+      "seller_id": "351314",
+      "seller_type": "PUBLISHER",
+      "name": "RT",
+      "domain": "rt.com"
+    },
+    {
+      "seller_id": "351315",
+      "seller_type": "PUBLISHER",
+      "name": "RentPath",
+      "domain": "rent.com"
+    },
+    {
+      "seller_id": "351316",
+      "seller_type": "PUBLISHER",
+      "name": "xFinity",
+      "domain": "xfinity.com"
+    }
+  ]
+}

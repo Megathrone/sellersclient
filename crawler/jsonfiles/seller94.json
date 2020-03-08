@@ -1,0 +1,529 @@
+{
+   "contact_email": "bsd@adtelligent.com",
+   "contact_address": "Adtelligent Inc., 8 The Green Ste R, City of Dover, County of Kent, DE 19901",
+   "version": "1.0",
+   "sellers": [
+       {
+         "seller_id": "298309",
+         "name": "1+1 Media Group",
+         "domain": "1plus1.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "298309",
+         "name": "1+1 Media Group",
+         "domain": "1plus1.video",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "295407",
+         "name": "STARLIGHT MEDIA LIMITED ",
+         "domain": "24tv.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "298309",
+         "name": "1+1 Media Group",
+         "domain": "2plus2.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "299922",
+         "name": "Besplatka.ua",
+         "domain": "besplatka.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "296201",
+         "name": "BEAUTIES OF LIFE, INC.",
+         "domain": "bles.com",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "299506",
+         "name": "Buhgalter.com.ua",
+         "domain": "buhgalter.com.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "299506",
+         "name": "Buhgalter911.com",
+         "domain": "buhgalter911.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "285163",
+         "name": "INTER MEDIA GROUP LIMITED ",
+         "domain": "changeua.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "300878",
+         "name": "Doppelganger Entertainment Ltd.",
+         "domain": "cliphash.com",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "300404",
+         "name": "HEARST SHKULEV UKRAINE PUBLISHING HOUSE LTD ",
+         "domain": "cosmo.com.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301751",
+         "name": "El Cronista Comercial S.A.",
+         "domain": "cronista.com",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "280395",
+         "name": "Gamelytic",
+         "domain": "dailycheats.org",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "280395",
+         "name": "Gamelytic",
+         "domain": "dream-meaning.net",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "300404",
+         "name": "HEARST SHKULEV UKRAINE PUBLISHING HOUSE LTD ",
+         "domain": "elle.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "299538",
+         "name": "El Pilon S.A",
+         "domain": "elpilon.com.co",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "266844",
+         "name": "STARLIGHT MEDIA LIMITED ",
+         "domain": "fakty.com.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "302857",
+         "name": "TREEUM HOLDINGS LIMITED",
+         "domain": "finance.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "298309",
+         "name": "1+1 Media Group",
+         "domain": "footballhub.com.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "288376",
+         "name": "MEDIA GROUP UKRAINE LTD ",
+         "domain": "footballua.tv",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "294381",
+         "name": "Exent Technologies LTD",
+         "domain": "freeridegames.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "298309",
+         "name": "1+1 Media Group",
+         "domain": "glavred.info",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "300404",
+         "name": "HEARST SHKULEV UKRAINE PUBLISHING HOUSE LTD ",
+         "domain": "harpersbazaar.com.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "299506",
+         "name": "I.factor.ua",
+         "domain": "i.factor.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "266844",
+         "name": "STARLIGHT MEDIA LIMITED ",
+         "domain": "ictv.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "285156",
+         "name": "INTER MEDIA GROUP LIMITED ",
+         "domain": "inter.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "285193",
+         "name": "INTER MEDIA GROUP LIMITED ",
+         "domain": "k1.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "291360",
+         "name": "MEDIA GROUP UKRAINE LTD ",
+         "domain": "kanalukraina.tv",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "299755",
+         "name": "UKRNET LTD ",
+         "domain": "kinoafisha.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301167",
+         "name": "La Opinión S.A.",
+         "domain": "laopinion.com.co",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "299538",
+         "name": "La Patria",
+         "domain": "lapatria.com",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "301758",
+         "name": "T.C. Stomphorst",
+         "domain": "lekkertafelen.nl",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "280395",
+         "name": "Gamelytic",
+         "domain": "littlealchemyguide.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "297833",
+         "name": "Lyricstaal",
+         "domain": "lyricstaal.com",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "300016",
+         "name": "UKRNET LTD ",
+         "domain": "mail.ukr.net",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "302857",
+         "name": "TREEUM HOLDINGS LIMITED",
+         "domain": "minfin.com.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "266844",
+         "name": "STARLIGHT MEDIA LIMITED ",
+         "domain": "novy.tv",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "285194",
+         "name": "INTER MEDIA GROUP LIMITED ",
+         "domain": "ntn.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "285119",
+         "name": "MEDIA-DK PUBLISHING HOUSE LTD ",
+         "domain": "nv.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "302595",
+         "name": "OBYAVA.ua",
+         "domain": "obyava.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "280395",
+         "name": "Gamelytic",
+         "domain": "onecluecrossword.net",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "299755",
+         "name": "UKRNET LTD ",
+         "domain": "orakul.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "280395",
+         "name": "Gamelytic",
+         "domain": "pickupline.net",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "280395",
+         "name": "Gamelytic",
+         "domain": "picturecross.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301487",
+         "name": "Panorama RG LLС",
+         "domain": "pmg.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "302486",
+         "name": "Pogodnik.com",
+         "domain": "pogodnik.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "302993",
+         "name": "Pulse 2.0 LLC.",
+         "domain": "pulse2.com",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "301551",
+         "name": "Radiovolna.net",
+         "domain": "radiovolna.net",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301657",
+         "name": "Real-vin.com",
+         "domain": "real-vin.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "280395",
+         "name": "Gamelytic",
+         "domain": "robloxid.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "291360",
+         "name": "MEDIA GROUP UKRAINE LTD ",
+         "domain": "segodnya.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "299755",
+         "name": "UKRNET LTD ",
+         "domain": "sinoptik.com.ru",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "299755",
+         "name": "UKRNET LTD ",
+         "domain": "sinoptik.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301791",
+         "name": "Facenews LLC",
+         "domain": "socportal.info",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "266844",
+         "name": "STARLIGHT MEDIA LIMITED ",
+         "domain": "stb.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "285166",
+         "name": "INTER MEDIA GROUP LIMITED ",
+         "domain": "svidok.online",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "270543",
+         "name": "Tinybeans",
+         "domain": "tinybeans.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "298309",
+         "name": "1+1 Media Group",
+         "domain": "tsn.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "299755",
+         "name": "UKRNET LTD ",
+         "domain": "tvgid.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "300016",
+         "name": "UKRNET LTD ",
+         "domain": "ukr.net",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "298309",
+         "name": "1+1 Media Group",
+         "domain": "unian.net",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "285153",
+         "name": "vRINGe.com ",
+         "domain": "vringe.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "280395",
+         "name": "Gamelytic",
+         "domain": "wheeloffortuneanswer.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "296047",
+         "name": "Wikisummaries",
+         "domain": "wikisummaries.org",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "280395",
+         "name": "Gamelytic",
+         "domain": "wordbrain.org",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "280395",
+         "name": "Gamelytic",
+         "domain": "worldcrossword.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "298114",
+         "name": "Totveld, LLC",
+         "domain": "xsport.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "295091",
+         "name": "STARLIGHT MEDIA LIMITED ",
+         "domain": "liga.net",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301882",
+         "name": "EDIPRESSE MEDIA ",
+         "domain": "superdom.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301882",
+         "name": "EDIPRESSE MEDIA ",
+         "domain": "destinations.com.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301882",
+         "name": "EDIPRESSE MEDIA ",
+         "domain": "viva.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301882",
+         "name": "EDIPRESSE MEDIA ",
+         "domain": "edinstvennaya.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301882",
+         "name": "EDIPRESSE MEDIA ",
+         "domain": "tvoymalysh.com.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301882",
+         "name": "EDIPRESSE MEDIA ",
+         "domain": "4mama.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "301882",
+         "name": "EDIPRESSE MEDIA ",
+         "domain": "beauty.ua",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "303802",
+         "name": "Modscraft.net",
+         "domain": "modscraft.net",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "300878",
+         "name": "Doppelganger Entertainment Ltd.",
+         "domain": "discovered.tv",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "303400",
+         "name": "Drama Milk.LLC.",
+         "domain": "dramamilk.com",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "300194",
+         "name": "RadioCut Inc.",
+         "domain": "radiocut.fm",
+         "seller_type": "INTERMEDIARY"
+       },
+       {
+         "seller_id": "303369",
+         "name": "Yor Media Ltd",
+         "domain": "football365.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "304485",
+         "name": "Second Screen Ltd",
+         "domain": "gigwise.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "303369",
+         "name": "Yor Media Ltd",
+         "domain": "femalefirst.co.uk",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "303369",
+         "name": "Yor Media Ltd",
+         "domain": "loverugbyleague.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "303369",
+         "name": "Yor Media Ltd",
+         "domain": "teamtalk.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "303369",
+         "name": "Yor Media Ltd",
+         "domain": "planetfootball.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "303369",
+         "name": "Yor Media Ltd",
+         "domain": "planetf1.com",
+         "seller_type": "PUBLISHER"
+       },
+       {
+         "seller_id": "303369",
+         "name": "Yor Media Ltd",
+         "domain": "planetrugby.com",
+         "seller_type": "PUBLISHER"
+       }
+   ]
+}

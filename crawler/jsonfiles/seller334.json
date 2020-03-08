@@ -1,0 +1,175 @@
+{
+  "contact_email": "inventory@zoomd.tv",
+  "contact_address": "9 Hamenofim St, Beit Ackerstein A 9th floor, Herzeliya, 4672560",
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "80781299",
+      "name": "Minute Media",
+      "domain": "www.minutemedia.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "04309663",
+      "name": "Reshet",
+      "domain": "13tv.co.il",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "00172537",
+      "name": "AlArab",
+      "domain": "alarab.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "82580989",
+      "name": "ALL ABOUT FC BARCELONA",
+      "domain": "allaboutfcbarcelona.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "12505543",
+      "name": "Assuta",
+      "domain": "assuta.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "18656631",
+      "name": "AIM Media",
+      "domain": "www.aimmediatexas.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "91805339",
+      "name": "Champion Media",
+      "domain": "championcarolinas.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "32076843",
+      "name": "escape.au",
+      "domain": "escape.au.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "92708591",
+      "name": "FOX Television Stations",
+      "domain": "www.foxcorporation.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "96326701",
+      "name": "Globes",
+      "domain": "globes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "67680551",
+      "name": "grammarist",
+      "domain": "grammarist.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "77315191",
+      "name": "hms",
+      "domain": "hms.co.il",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "68855051",
+      "name": "iefimerida.gr",
+      "domain": "iefimerida.gr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "04238991",
+      "name": "Jenny",
+      "domain": "jenny.gr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "85391483",
+      "name": "Jerusalem Post",
+      "domain": "jpost.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "27182919",
+      "name": "kan.org.il",
+      "domain": "kan.org.il",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c3fa2724-62d3-4f3d-a0df-3a547df8e95c.main",
+      "name": "kdmhelpinghands",
+      "domain": "kdmhelpinghands.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "89522933",
+      "name": "lyricscraze",
+      "domain": "lyricscraze.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "09173979",
+      "name": "Maariv",
+      "domain": "maariv.co.il",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "88286123",
+      "name": "motogp",
+      "domain": "motogp.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "15302647",
+      "name": "Motor Trend Group",
+      "domain": "www.motortrendgroup.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "24774151",
+      "name": "Santa Banta",
+      "domain": "santabanta.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "13859059",
+      "name": "Sport5",
+      "domain": "sport5.co.il",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "34167651",
+      "name": "SKAI Internet",
+      "domain": "sport-fm.gr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "04229187",
+      "name": "tozluretro",
+      "domain": "tozluretro.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "751c9212-18be-4681-b5dd-161b10ac9d5a.main",
+      "name": "turnerdesigns",
+      "domain": "turnerdesigns.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "85391483-2",
+      "name": "zoomd",
+      "domain": "zdwidget3-bs.sphereup.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "85391483-3",
+      "name": "Novoroll",
+      "domain": "novoroll.com",
+      "seller_type": "INTERMEDIARY"
+    }
+  ]
+}

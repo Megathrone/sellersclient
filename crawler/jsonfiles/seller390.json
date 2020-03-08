@@ -1,0 +1,212 @@
+{
+  "contact_email": "support@yieldlift.com",
+  "contact_address": "YieldLift LLC, 124 Lakeshore Drive #630 North Palm Beach FL 33408",
+  "version": 1.0,
+  "identifiers": [],
+  "sellers": [
+    {
+      "seller_id": "2000001",
+      "name": "GSN Games",
+      "domain": "www.gsn.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000002",
+      "name": "Surfers View",
+      "domain": "thesurfersview.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000037",
+      "name": "ROI Media",
+      "domain": "www.roimedia.us",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000003",
+      "name": "OpsCo WTHR",
+      "domain": "wthr.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000004",
+      "name": "CH Media",
+      "domain": "www.chmedia.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000006",
+      "name": "Fareportal",
+      "domain": "www.fareportal.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000007",
+      "name": "OpsCo",
+      "domain": "www.ops.co",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000008",
+      "name": "Roaring Earth",
+      "domain": "roaring.earth",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000009",
+      "name": "Times Publishing Inc",
+      "domain": "tampabay.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000010",
+      "name": "Bangordailynews",
+      "domain": "bangordailynews.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000011",
+      "name": "NewsWeek",
+      "domain": "www.newsweek.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000012",
+      "name": "Ancestry",
+      "domain": "www.ancestry.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000013",
+      "name": "SeattleTimes",
+      "domain": "www.seattletimes.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000014",
+      "name": "OpsCo WRAL",
+      "domain": "www.ops.co",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000015",
+      "name": "Anchorage Daily News",
+      "domain": "www.adn.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000016",
+      "name": "OpsCo 10TV",
+      "domain": "www.ops.co",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000017",
+      "name": "OpsCo Daily Wire",
+      "domain": "www.ops.co",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000018",
+      "name": "Newsmax Media",
+      "domain": "www.newsmax.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000019",
+      "name": "SBP",
+      "domain": "nwschools.org",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000020",
+      "name": "Sightline",
+      "domain": "www.sightline.org",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000021",
+      "name": "URL Ventures",
+      "domain": "www.url.ventures",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000022",
+      "name": "Fronta",
+      "domain": "www.fronta.hr",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000023",
+      "name": "IFL Science",
+      "domain": "www.iflscience.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000024",
+      "name": "WEHCO Media",
+      "domain": "www.wehco.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000036",
+      "name": "Daily Wire",
+      "domain": "www.dailywire.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000026",
+      "name": "StarTribune ",
+      "domain": "www.startribune.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000027",
+      "name": "SaltLake Tribune",
+      "domain": "www.sltrib.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000028",
+      "name": "Shmoop",
+      "domain": "www.shmoop.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000029",
+      "name": "IFLScience",
+      "domain": "www.iflscience.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000031",
+      "name": "WRAL",
+      "domain": "www.wral.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000032",
+      "name": "DivReach",
+      "domain": "divreach.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000033",
+      "name": "The Advocate Company",
+      "domain": "wdcadvocate.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000034",
+      "name": "News-Press & Gazette Co",
+      "domain": "www.npgco.com",
+      "seller_type": "BOTH"
+    },
+    {
+      "seller_id": "2000035",
+      "name": "Colorado Springs Gazette",
+      "domain": "gazette.com",
+      "seller_type": "BOTH"
+    }
+  ]
+}

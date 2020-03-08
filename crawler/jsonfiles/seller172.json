@@ -1,0 +1,342 @@
+{ 
+"contact_email": "info@publir.com", 
+"contact_address": "Publir LLC, 50542 Glenshire CT, Granger, IN 46530", 
+"version": "1.0", 
+"identifiers": [ 
+{ 
+"Name": "DUNS", 
+"Value": "01-070-8511" 
+} 
+],
+"sellers": [
+{
+"seller_id": "97923",
+"name": "Powerline",
+"domain": "powerlineblog.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "97927",
+"name": "Real Clear Holdings",
+"domain": "americanthinker.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "97929",
+"name": "TGP Communications",
+"domain": "thegatewaypundit.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979216",
+"name": "TakiMag",
+"domain": "takimag.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979222",
+"name": "SportsOverdose",
+"domain": "sportsoverdose.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979229",
+"name": "Legal Insurrection",
+"domain": "legalinsurrection.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979254",
+"name": "MediaTrackers",
+"domain": "mediatrackers.org",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979270",
+"name": "The Federalist",
+"domain": "thefederalist.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979274",
+"name": "TheCollegeFix",
+"domain": "thecollegefix.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979275",
+"name": "Climate Depot",
+"domain": "climatedepot.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979281",
+"name": "Climate Depot",
+"domain": "energydepot.us",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979284",
+"name": "Breaking Media",
+"domain": "dealbreaker.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979285",
+"name": "Breaking Media",
+"domain": "abovethelaw.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979286",
+"name": "Breaking Media",
+"domain": "breakingdefense.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979287",
+"name": "Breaking Media",
+"domain": "breakingenergy.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "979288",
+"name": "Breaking Media",
+"domain": "breakinggov.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792126",
+"name": "Breaking Media",
+"domain": "medcitynews.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792232",
+"name": "Breitbart",
+"domain": "breitbart.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792234",
+"name": "American Greatness",
+"domain": "amgreatness.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792245",
+"name": "Americas Freedom Fighters",
+"domain": "AmericasFreedomFighters.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792246",
+"name": "Untapped Cities",
+"domain": "untappedcities.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792264",
+"name": "Real Clear Holdings",
+"domain": "realclearpolitics.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792292",
+"name": "Grabien News",
+"domain": "grabien.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792342",
+"name": "Ricks Auto Repair",
+"domain": "ricksfreeautorepairadvice.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792348",
+"name": "WashingtonBabylon",
+"domain": "WashingtonBabylon.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792365",
+"name": "SmitePro Builds",
+"domain": "smiteprobuilds.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792367",
+"name": "Real Clear Holdings",
+"domain": "realclearpolitics.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792369",
+"name": "Real Clear Holdings",
+"domain": "realclearscience.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792370",
+"name": "Real Clear Holdings",
+"domain": "realclearworld.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792371",
+"name": "Real Clear Holdings",
+"domain": "realcleardefense.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792372",
+"name": "Ricochet",
+"domain": "ricochet.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792375",
+"name": "DistrictM",
+"domain": "DistrictM",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792376",
+"name": "DistrictM - Unified",
+"domain": "DistrictM - Unified",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792384",
+"name": "Ballotpedia",
+"domain": "ballotpedia.org",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792387",
+"name": "Xcluded",
+"domain": "xcluded.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792388",
+"name": "Pulse2",
+"domain": "pulse2.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792390",
+"name": "100PercentFedUp",
+"domain": "100PercentFedUP.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792395",
+"name": "ProCon",
+"domain": "procon.org",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792396",
+"name": "Lucianne",
+"domain": "lucianne.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792401",
+"name": "Real Clear Holdings",
+"domain": "realclearpolitics.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792402",
+"name": "CraveHub",
+"domain": "cravehub.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792403",
+"name": "Real Clear Holdings",
+"domain": "realclearpolitics.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792404",
+"name": "6sqft.com",
+"domain": "6sqft.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792408",
+"name": "American Greatness",
+"domain": "amgreatness.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792411",
+"name": "DrudgeReport",
+"domain": "drudgereport.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792414",
+"name": "TakiMag",
+"domain": "takimag.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792422",
+"name": "Real Clear Holdings",
+"domain": "realclearpolitics.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792423",
+"name": "Real Clear Holdings",
+"domain": "realclearpolitics.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792424",
+"name": "Real Clear Holdings",
+"domain": "realclearpolitics.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792425",
+"name": "Real Clear Holdings",
+"domain": "realclearpolitics.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792426",
+"name": "Real Clear Holdings",
+"domain": "realclearpolitics.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792427",
+"name": "Grabien Lists",
+"domain": "lists.grabien.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792429",
+"name": "Grabien News",
+"domain": "grabien.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792430",
+"name": "Real Clear Holdings",
+"domain": "realclearpolitics.com",
+"seller_type": "Publisher"
+},
+{
+"seller_id": "9792431",
+"name": "CityRealty",
+"domain": "www.cityrealty.com",
+"seller_type": "Publisher"
+}]
+}

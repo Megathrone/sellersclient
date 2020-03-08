@@ -1,0 +1,781 @@
+{
+    "contact_email": "support@connectad.io",
+    "contact_address": "Margaretenstrasse 87, 1050 Vienna, Austria",
+    "version": "1.0",
+    "identifiers": [
+        {
+            "name": "DUNS",
+            "value": "300463665"
+        }
+    ],
+    "sellers": [
+        {
+            "seller_id": "2",
+            "name": "HANZA MEDIA d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "jutarnji.hr"
+        },
+        {
+            "seller_id": "212",
+            "name": "Traffic Addicts Limited",
+            "seller_type": "PUBLISHER",
+            "domain": "trafficaddicts.co.uk"
+        },
+        {
+            "seller_id": "432",
+            "name": "MYNET A.S",
+            "seller_type": "PUBLISHER",
+            "domain": "mynetgroup.com"
+        },
+        {
+            "seller_id": "8",
+            "seller_type": "BOTH",
+            "name": "Snigel Web Services Limited",
+            "domain": "snigelweb.com"
+        },
+        {
+            "seller_id": "6",
+            "seller_type": "BOTH",
+            "name": "Snigel Web Services Limited",
+            "domain": "snigelweb.com"
+        },
+        {
+            "seller_id": "7",
+            "name": "Gute Kueche Medien GmbH",
+            "seller_type": "PUBLISHER",
+            "domain": "gutekueche.at"
+        },
+        {
+            "seller_id": "47",
+            "name": "ZID d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "radiosarajevo.ba"
+        },
+        {
+            "seller_id": "118",
+            "name": "Dnevne novine ALO d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "alo.rs"
+        },
+        {
+            "seller_id": "44",
+            "name": "Ringier Axel Springer d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "ringieraxelspringer.rs"
+        },
+        {
+            "seller_id": "16",
+            "name": "All Media Associates, Inc.",
+            "seller_type": "PUBLISHER",
+            "domain": "yourbow.com"
+        },
+        {
+            "seller_id": "33",
+            "name": "Cas Media d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "casmedia.rs"
+        },
+        {
+            "seller_id": "73",
+            "name": "Ringier Axel Springer d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "ringieraxelspringer.rs"
+        },
+        {
+            "seller_id": "18",
+            "name": "Cas Media d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "casmedia.rs"
+        },
+        {
+            "seller_id": "23",
+            "name": "WUNDERWERK Digitale Medien Produktion GmbH",
+            "seller_type": "PUBLISHER",
+            "domain": "wunderwerk.at"
+        },
+        {
+            "seller_id": "81",
+            "name": "Wirtualna Polska Media S.A.",
+            "seller_type": "PUBLISHER",
+            "domain": "wp.pl"
+        },
+        {
+            "seller_id": "20",
+            "name": "Wirtualna Polska Media S.A.",
+            "seller_type": "PUBLISHER",
+            "domain": "wp.pl"
+        },
+        {
+            "seller_id": "357",
+            "seller_type": "BOTH",
+            "name": "152 Media LLC",
+            "domain": "152media.com"
+        },
+        {
+            "seller_id": "119",
+            "name": "JIM Marketing GmbH ",
+            "seller_type": "PUBLISHER",
+            "domain": "bauermedia.at"
+        },
+        {
+            "seller_id": "223",
+            "seller_type": "BOTH",
+            "name": "152 Media LLC",
+            "domain": "152media.com"
+        },
+        {
+            "seller_id": "125",
+            "seller_type": "BOTH",
+            "name": "Snigel Web Services Limited",
+            "domain": "snigelweb.com"
+        },
+        {
+            "seller_id": "21",
+            "seller_type": "BOTH",
+            "name": "152 Media LLC",
+            "domain": "152media.com"
+        },
+        {
+            "seller_id": "131",
+            "name": "24sata d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "24sata.hr"
+        },
+        {
+            "seller_id": "31",
+            "name": "Kompanija Novosti a.d.",
+            "seller_type": "PUBLISHER",
+            "domain": "novosti.rs"
+        },
+        {
+            "seller_id": "32",
+            "name": "CASNIK VECER D.O.O.",
+            "seller_type": "PUBLISHER",
+            "domain": "vecer.com"
+        },
+        {
+            "seller_id": "147",
+            "name": "RTL Hrvatska d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "rtl.hr"
+        },
+        {
+            "seller_id": "46",
+            "name": "My City Serbia",
+            "seller_type": "PUBLISHER",
+            "domain": "mycity.rs"
+        },
+        {
+            "seller_id": "50",
+            "name": "My City Serbia",
+            "seller_type": "PUBLISHER",
+            "domain": "mycity.rs"
+        },
+        {
+            "seller_id": "48",
+            "name": "My City Serbia",
+            "seller_type": "PUBLISHER",
+            "domain": "mycity.rs"
+        },
+        {
+            "seller_id": "24",
+            "name": "Ing. Martin Hoermann, BSc.",
+            "seller_type": "PUBLISHER",
+            "domain": "fitundgesund.at"
+        },
+        {
+            "seller_id": "62",
+            "name": "Infostud 3 d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "infostud.com"
+        },
+        {
+            "seller_id": "117",
+            "name": "DEV International d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "dev.co.rs"
+        },
+        {
+            "seller_id": "68",
+            "name": "Sportske Net d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "sportske.net"
+        },
+        {
+            "seller_id": "64",
+            "name": "Infostud 3 d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "infostud.com"
+        },
+        {
+            "seller_id": "61",
+            "name": "Infostud 3 d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "infostud.com"
+        },
+        {
+            "seller_id": "37",
+            "name": "Infostud 3 d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "infostud.com"
+        },
+        {
+            "seller_id": "40",
+            "name": "Monitor i forum d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "monitor.hr"
+        },
+        {
+            "seller_id": "13",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "19",
+            "seller_type": "BOTH",
+            "name": "YieldBird Sp. zoo",
+            "domain": "yieldbird.com"
+        },
+        {
+            "seller_id": "240",
+            "seller_type": "BOTH",
+            "name": "Snigel Web Services Limited",
+            "domain": "snigelweb.com"
+        },
+        {
+            "seller_id": "245",
+            "seller_type": "INTERMEDIARY",
+            "name": "iPROM, d.o.o.",
+            "domain": "iprom.si"
+        },
+        {
+            "seller_id": "35",
+            "name": "FENIKS MEDIA D.O.O.",
+            "seller_type": "PUBLISHER",
+            "domain": "zurnal24.si"
+        },
+        {
+            "seller_id": "53",
+            "name": "IDALABS GmbH & Co. KG",
+            "seller_type": "PUBLISHER",
+            "domain": "idalabs.de"
+        },
+        {
+            "seller_id": "56",
+            "name": "Parents.at Internet Service GmbH",
+            "seller_type": "PUBLISHER",
+            "domain": "parents.at"
+        },
+        {
+            "seller_id": "58",
+            "name": "Avtonet d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "avto.net"
+        },
+        {
+            "seller_id": "55",
+            "name": "Nova TV d.d.",
+            "seller_type": "PUBLISHER",
+            "domain": "novatv.dnevnik.hr"
+        },
+        {
+            "seller_id": "409",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "418",
+            "seller_type": "BOTH",
+            "name": "Snigel Web Services Limited",
+            "domain": "snigelweb.com"
+        },
+        {
+            "seller_id": "189",
+            "name": "VEB PORTALI VAJSMILER",
+            "seller_type": "PUBLISHER",
+            "domain": "tarzanija.com"
+        },
+        {
+            "seller_id": "67",
+            "seller_type": "INTERMEDIARY",
+            "name": "Admatic Medya A.S.",
+            "domain": "admatic.com.tr"
+        },
+        {
+            "seller_id": "707",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "725",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "731",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "739",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "750",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "756",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "757",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "767",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "773",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "774",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "775",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "776",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "777",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "778",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "779",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "780",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "70",
+            "name": "Atlas Media",
+            "seller_type": "PUBLISHER",
+            "domain": "index.hr"
+        },
+        {
+            "seller_id": "927",
+            "seller_type": "INTERMEDIARY",
+            "name": "iPROM, d.o.o.",
+            "domain": "iprom.si"
+        },
+        {
+            "seller_id": "71",
+            "name": "Tamilo Media",
+            "seller_type": "PUBLISHER",
+            "domain": "Tamilo.com"
+        },
+        {
+            "seller_id": "980",
+            "seller_type": "BOTH",
+            "name": "Snigel Web Services Limited",
+            "domain": "snigelweb.com"
+        },
+        {
+            "seller_id": "754",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "2185",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1414",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "74",
+            "seller_type": "BOTH",
+            "name": "CleanMedia LLC",
+            "domain": "cleanmedia.net"
+        },
+        {
+            "seller_id": "1017",
+            "seller_type": "BOTH",
+            "name": "CleanMedia LLC",
+            "domain": "cleanmedia.net"
+        },
+        {
+            "seller_id": "1024",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1030",
+            "seller_type": "INTERMEDIARY",
+            "name": "iPROM, d.o.o.",
+            "domain": "iprom.si"
+        },
+        {
+            "seller_id": "1072",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1074",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1078",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1082",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1083",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1090",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1095",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1101",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1137",
+            "seller_type": "INTERMEDIARY",
+            "name": "iPROM, d.o.o.",
+            "domain": "iprom.si"
+        },
+        {
+            "seller_id": "77",
+            "seller_type": "INTERMEDIARY",
+            "name": "Publisher First, Inc.",
+            "domain": "freestar.io"
+        },
+        {
+            "seller_id": "1151",
+            "seller_type": "INTERMEDIARY",
+            "name": "Publisher First, Inc.",
+            "domain": "freestar.io"
+        },
+        {
+            "seller_id": "191",
+            "seller_type": "INTERMEDIARY",
+            "name": "Publisher First, Inc.",
+            "domain": "freestar.io"
+        },
+        {
+            "seller_id": "1395",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1397",
+            "name": "Austria.com",
+            "seller_type": "PUBLISHER",
+            "domain": "austria.com"
+        },
+        {
+            "seller_id": "1471",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "772",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1538",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1539",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1557",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1596",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1603",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "1606",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "78",
+            "name": "Austria.com",
+            "seller_type": "PUBLISHER",
+            "domain": "austria.com"
+        },
+        {
+            "seller_id": "2026",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "2121",
+            "seller_type": "BOTH",
+            "name": "Snigel Web Services Limited",
+            "domain": "snigelweb.com"
+        },
+        {
+            "seller_id": "83",
+            "name": "DocFinder GmbH",
+            "seller_type": "PUBLISHER",
+            "domain": "docfinder.at"
+        },
+        {
+            "seller_id": "351",
+            "seller_type": "BOTH",
+            "name": "Snigel Web Services Limited",
+            "domain": "snigelweb.com"
+        },
+        {
+            "seller_id": "2184",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "2199",
+            "name": "RTL Hrvatska d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "rtl.hr"
+        },
+        {
+            "seller_id": "87",
+            "name": "Modra Jagoda d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "mediately.co"
+        },
+        {
+            "seller_id": "91",
+            "name": "LiveNetLife International d.o.o.",
+            "seller_type": "PUBLISHER",
+            "domain": "livenetlife.com"
+        },
+        {
+            "seller_id": "2350",
+            "seller_type": "INTERMEDIARY",
+            "name": "iPROM, d.o.o.",
+            "domain": "iprom.si"
+        },
+        {
+            "seller_id": "109",
+            "seller_type": "INTERMEDIARY",
+            "name": "Interdog Media Limited",
+            "domain": "bil.vn"
+        },
+        {
+            "seller_id": "2401",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "2402",
+            "seller_type": "INTERMEDIARY",
+            "name": "web2media s.r.o",
+            "domain": "web2media.sk"
+        },
+        {
+            "seller_id": "2463",
+            "seller_type": "BOTH",
+            "name": "Snigel Web Services Limited",
+            "domain": "snigelweb.com"
+        },
+        {
+            "seller_id": "2525",
+            "seller_type": "BOTH",
+            "name": "Snigel Web Services Limited",
+            "domain": "snigelweb.com"
+        },
+        {
+            "seller_id": "2565",
+            "seller_type": "BOTH",
+            "name": "152 Media LLC",
+            "domain": "152media.com"
+        },
+        {
+            "seller_id": "2566",
+            "seller_type": "BOTH",
+            "name": "152 Media LLC",
+            "domain": "152media.com"
+        },
+        {
+            "seller_id": "2388",
+            "seller_type": "INTERMEDIARY",
+            "name": "Interdog Media Limited",
+            "domain": "bil.vn"
+        },
+        {
+            "seller_id": "2698",
+            "seller_type": "INTERMEDIARY",
+            "name": "Httpool d.o.o.",
+            "domain": "httpool.si"
+        },
+        {
+            "seller_id": "2710",
+            "name": "Spolecznosci Sp. z o.o. Sp. k.",
+            "seller_type": "PUBLISHER",
+            "domain": "spolecznosci.pl"
+        },
+        {
+            "seller_id": "110",
+            "seller_type": "INTERMEDIARY",
+            "name": "web2media s.r.o",
+            "domain": "web2media.sk"
+        },
+        {
+            "seller_id": "51",
+            "name": "FENIKS MEDIA D.O.O.",
+            "seller_type": "PUBLISHER",
+            "domain": "zurnal24.si"
+        },
+        {
+            "seller_id": "113",
+            "name": "Ajaska GmbH",
+            "seller_type": "PUBLISHER",
+            "domain": "ajaska.de"
+        },
+        {
+            "seller_id": "115",
+            "seller_type": "INTERMEDIARY",
+            "name": "Setupad, SIA",
+            "domain": "setupad.com"
+        },
+        {
+            "seller_id": "1439",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "123",
+            "name": "Slobodan Saveski",
+            "seller_type": "PUBLISHER",
+            "domain": "scoresinlive.com"
+        },
+        {
+            "seller_id": "124",
+            "name": "Intersoft d.o.o. Sarajevo",
+            "seller_type": "PUBLISHER",
+            "domain": "intersoft.ba"
+        },
+        {
+            "seller_id": "66",
+            "name": "SportSport d.o.o. Sarajevo",
+            "seller_type": "PUBLISHER",
+            "domain": "sportsport.ba"
+        },
+        {
+            "seller_id": "770",
+            "seller_type": "INTERMEDIARY",
+            "name": "R2B2 s.r.o.",
+            "domain": "r2b2.cz"
+        },
+        {
+            "seller_id": "127",
+            "name": "ConnectAd Demand GmbH Test",
+            "seller_type": "PUBLISHER",
+            "domain": "connectad.io"
+        }
+    ]
+}

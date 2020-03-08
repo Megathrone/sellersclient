@@ -1,0 +1,169 @@
+{
+ "contact_email": "helpdesk@youappi.com",
+ "contact_address": "YouAppi Inc., 101 California street #3975, San Francisco CA 94111",
+ "version": 1.0,
+ "identifiers": [
+ {
+ "name": "TAG-ID",
+ "value": "c0503409477d3a17"
+ }
+ ],
+ "sellers" : [
+{
+"seller_id" : "1158",
+"name" : "Skout",
+"domain" : "skout.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1141",
+"name" : "J-Park",
+"domain" : "appgame.blogspot.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1140",
+"name" : "Activision Blizzard  Media",
+"domain" : "activisionblizzardmedia.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1137",
+"name" : "JNJ Mobile Inc",
+"domain" : "jnjmobile.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1117",
+"name" : "Vidio KMK Labs",
+"domain" : "vidio.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1115",
+"name" : "Halfbrick",
+"domain" : "halfbrick.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1101",
+"name" : "Dailyhunt",
+"domain" : "dailyhunt.in",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1095",
+"name" : "SEGA",
+"domain" : "sega.net",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1058",
+"name" : "Net Mediatama",
+"domain" : "netmedia.co.id",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1036",
+"name" : "Maleo",
+"domain" : "bussimulator.id",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1019",
+"name" : "Influence Mobile",
+"domain" : "influencemobile.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "983",
+"name" : "Neowiz",
+"domain" : "pmang.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "954",
+"name" : "MVP Sports",
+"domain" : "mvpsports.life",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "949",
+"name" : "TREBEL",
+"domain" : "trebel.io",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "941",
+"name" : "Cashtree",
+"domain" : "cashtree.id",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "886",
+"name" : "Gambir",
+"domain" : "gambirstudio.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "873",
+"name" : "MobilityWare",
+"domain" : "mobilityware.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "872",
+"name" : "Webgames",
+"domain" : "kovalim.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "629",
+"name" : "KooAPPS",
+"domain" : "kooapps.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "694",
+"name" : "Agate",
+"domain" : "agate.id",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "748",
+"name" : "Gameloft",
+"domain" : "gameloft.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "847",
+"name" : "Magmic",
+"domain" : "magmic.com",
+"seller_type"  : "PUBLISHER"
+},
+{
+"seller_id" : "1103",
+"name" : "Apus",
+"domain" : "picku.me",
+"seller_type" :  "PUBLISHER"
+},
+{
+"seller_id" : "1088",
+"name" : "imvu",
+"domain" : "imvu.com",
+"seller_type" :  "PUBLISHER"
+},
+{
+"seller_id" : "1103",
+"name" : "JumpRamp",
+"domain" : "jumprampgames.com",
+"seller_type" :  "PUBLISHER"
+},
+{
+"seller_id" : "612",
+"name" : "masomo",
+"domain" : "masomo.com",
+"seller_type" :  "PUBLISHER"
+}
+]
+}

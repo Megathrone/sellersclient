@@ -1,0 +1,40 @@
+{
+    "contact_email": "team_overseas@mobiexchanger.com",
+    "contact_address": "Building 9，No.93 Jianguo Road，Chaoyang District，Beijing",
+    "version": "1.0",
+    "sellers": [
+        {
+            "seller_id": "119",
+            "seller_type": "PUBLISHER",
+            "name": "castbox",
+            "domain": "castbox.fm"
+        },
+        {
+            "seller_id": "101",
+            "seller_type": "PUBLISHER",
+            "name": "snaptube",
+            "domain": "dayuwuxian.com"
+        },
+        {
+            "seller_id": "103",
+            "seller_type": "BOTH",
+            "name": "solo",
+            "domain": "newborntown.com"
+        },
+        {
+            "seller_id": "100",
+            "seller_type": "BOTH",
+            "is_confidential": 1
+        },
+        {
+            "seller_id": "104",
+            "seller_type": "BOTH",
+            "is_confidential": 1
+        },
+        {
+            "seller_id": "106",
+            "seller_type": "BOTH",
+            "is_confidential": 1
+        }
+    ]
+}

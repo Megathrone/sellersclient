@@ -1,0 +1,5527 @@
+{
+    "contact_address": "Monumetric, LLC, 42 N 650 W Farmington, UT 84025",
+    "contact_email": "adops@monumetric.com",
+    "version": 1.0,
+    "identifiers": [
+        {
+            "name": "DUNS",
+            "value": "032969285"
+        }
+    ],
+    "sellers": [
+        {
+            "seller_id": "100279",
+            "name": "Being Genevieve",
+            "domain": "beinggenevieve.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700229",
+            "name": "Printables 4 Mom",
+            "domain": "printables4mom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100739",
+            "name": "The Bio Place",
+            "domain": "thebioplace.blogspot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101025",
+            "name": "App Unwrapper",
+            "domain": "appunwrapper.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101732",
+            "name": "DLR Prep School",
+            "domain": "disneylanddaily.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101712",
+            "name": "Bored Won",
+            "domain": "boredwon.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100956",
+            "name": "Solve Your Tech",
+            "domain": "solveyourtech.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101820",
+            "name": "Hot Air Frying",
+            "domain": "hotairfrying.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101777",
+            "name": "Healthy Canning",
+            "domain": "healthycanning.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101801",
+            "name": "Phenomenalisms",
+            "domain": "phenomenalisms.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101307",
+            "name": "Higher Perspective",
+            "domain": "higherperspectives.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101581",
+            "name": "Turtle Boy Sports",
+            "domain": "turtleboysports.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100121",
+            "name": "Babes in Hairland",
+            "domain": "babesinhairland.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101911",
+            "name": "Double Diamond Hill Ranch",
+            "domain": "ddhranch.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700128",
+            "name": "Working Moms Against Guilt",
+            "domain": "workingmomsagainstguilt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101781",
+            "name": "Purrtacular",
+            "domain": "purrtacular.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101431",
+            "name": "John Pavlovitz",
+            "domain": "johnpavlovitz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100779",
+            "name": "Ask A Manager",
+            "domain": "askamanager.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101666",
+            "name": "The Droid Guy",
+            "domain": "thedroidguy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101875",
+            "name": "Tamara Tattles",
+            "domain": "tamaratattles.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100003",
+            "name": "My Recipe Magic",
+            "domain": "MyRecipeMagic.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101881",
+            "name": "Just Man's Best Friend For Life",
+            "domain": "justmansbestfriendforlife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101109",
+            "name": "Sew Can She",
+            "domain": "sewcanshe.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100060",
+            "name": "Love Grows Wild",
+            "domain": "lovegrowswild.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101542",
+            "name": "Yummy Tummy Aarthi",
+            "domain": "yummytummyaarthi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101868",
+            "name": "Industry Standard Design",
+            "domain": "industrystandarddesign.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100704",
+            "name": "I Love Vegan",
+            "domain": "ilovevegan.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101750",
+            "name": "Homestead and Survival",
+            "domain": "homestead-and-survival.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100355",
+            "name": "Me Sew Crazy",
+            "domain": "mesewcrazy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101125",
+            "name": "Hey Sigmund",
+            "domain": "heysigmund.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100720",
+            "name": "Layers of Happiness",
+            "domain": "layersofhappiness.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101287",
+            "name": "Work It Daily",
+            "domain": "careerealism.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101096",
+            "name": "Fab N Free",
+            "domain": "fabnfree.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100723",
+            "name": "Apple Of My Eye",
+            "domain": "apple-of-my-eye.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101798",
+            "name": "The Flooring Girl",
+            "domain": "TheFlooringGirl.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101896",
+            "name": "Black Hair Information",
+            "domain": "blackhairinformation.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101565",
+            "name": "Daily Spikes",
+            "domain": "dailyspikes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100903",
+            "name": "Shockingly Delicious",
+            "domain": "shockinglydelicious.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101619",
+            "name": "NHL Trade Rumors",
+            "domain": "nhltraderumors.me",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101334",
+            "name": "Recipes For Our Daily Bread",
+            "domain": "recipesforourdailybread.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101650",
+            "name": "Full Time Job From Home",
+            "domain": "fulltimejobfromhome.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100955",
+            "name": "More With Less Today",
+            "domain": "morewithlesstoday.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101600",
+            "name": "Mommy's Kitchen",
+            "domain": "mommyskitchen.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100715",
+            "name": "Modern Parents Messy Kids",
+            "domain": "modernparentsmessykids.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100945",
+            "name": "The Baker Upstairs",
+            "domain": "www.thebakerupstairs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101746",
+            "name": "Meijer Madness",
+            "domain": "meijermadness.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101776",
+            "name": "Cooks Info",
+            "domain": "cooksinfo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101458",
+            "name": "Metal Building Homes",
+            "domain": "metal-building-homes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101640",
+            "name": "Food Viva",
+            "domain": "foodviva.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100141",
+            "name": "Gourmande in the Kitchen",
+            "domain": "gourmandeinthekitchen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101482",
+            "name": "Conserve Energy Future",
+            "domain": "conserve-energy-future.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101701",
+            "name": "Fitting It All In",
+            "domain": "fitting-it-all-in.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101645",
+            "name": "Best Little Baby",
+            "domain": "bestlittlebaby.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100083",
+            "name": "Call Me PMC",
+            "domain": "callmepmc.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101644",
+            "name": "Trusted Psychic Mediums",
+            "domain": "trustedpsychicmediums.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101438",
+            "name": "Forever Conscious",
+            "domain": "foreverconscious.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101292",
+            "name": "Apply The Law of Attraction",
+            "domain": "applythelawofattraction.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101893",
+            "name": "Flea Market Insiders",
+            "domain": "fleamarketinsiders.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101936",
+            "name": "Be Brain Fit",
+            "domain": "bebrainfit.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101866",
+            "name": "Photoshop Roadmap",
+            "domain": "photoshoproadmap.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101710",
+            "name": "Blog Chef",
+            "domain": "blogchef.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100874",
+            "name": "The Cottage Mama",
+            "domain": "thecottagemama.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100854",
+            "name": "DIY Fun Ideas",
+            "domain": "diyfunideas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100735",
+            "name": "Finding Silver Pennies",
+            "domain": "findingsilverpennies.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100306",
+            "name": "Shwin and Shwin",
+            "domain": "shwinandshwin.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101086",
+            "name": "The Stay-at-Home-Mom Survival Guide",
+            "domain": "thestay-at-home-momsurvivalguide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100769",
+            "name": "The Inscriber Mag",
+            "domain": "theinscribermag.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100244",
+            "name": "My Humble Kitchen",
+            "domain": "myhumblekitchen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700285",
+            "name": "Delish D'lites",
+            "domain": "delishdlites.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101414",
+            "name": "Meteorologist Joe Cioffi",
+            "domain": "meteorologistjoecioffi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100208",
+            "name": "Bargain Briana",
+            "domain": "bargainbriana.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101487",
+            "name": "BadgeHungry",
+            "domain": "badgehungry.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100430",
+            "name": "Inspiration Made Simple",
+            "domain": "inspirationmadesimple.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101938",
+            "name": "Heart Handmade",
+            "domain": "hearthandmade.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101909",
+            "name": "Soccer Highlights Today",
+            "domain": "soccerhighlightstoday.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101383",
+            "name": "The Abroad Guide",
+            "domain": "theabroadguide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100293",
+            "name": "Anders Ruff",
+            "domain": "andersruff.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100349",
+            "name": "Cozy Country Living",
+            "domain": "cozycountryliving.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101374",
+            "name": "Panlasang Pinoy Meaty Recipes",
+            "domain": "panlasangpinoymeatrecipes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101770",
+            "name": "Designing Idea",
+            "domain": "designingidea.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100927",
+            "name": "Pinoy Recipe",
+            "domain": "pinoyrecipe.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101421",
+            "name": "Claire Brody Designs",
+            "domain": "clairebrodydesigns.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101637",
+            "name": "Psy Blog",
+            "domain": "spring.org.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100010",
+            "name": "Tone and Tighten",
+            "domain": "tone-and-tighten.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101284",
+            "name": "Cloud Mom",
+            "domain": "cloudmom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100408",
+            "name": "Club Chica Circle",
+            "domain": "club.chicacircle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101926",
+            "name": "The Touring Camper",
+            "domain": "thetouringcamper.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100669",
+            "name": "Retired By 40 Blog",
+            "domain": "retiredby40blog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101824",
+            "name": "Personality Pathways",
+            "domain": "personalitypathways.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101912",
+            "name": "About All Things",
+            "domain": "aboutallthings.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101114",
+            "name": "Let's Get Together",
+            "domain": "lets-get-together.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101476",
+            "name": "JoJo Crews",
+            "domain": "jojocrews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100484",
+            "name": "Jenny Collier",
+            "domain": "jennycollier.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101058",
+            "name": "Simply Frugal",
+            "domain": "simplyfrugal.ca",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100053",
+            "name": "Jen's Favorite Cookies",
+            "domain": "jensfavoritecookies.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100022",
+            "name": "The Mama's Girls",
+            "domain": "themamasgirls.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700331",
+            "name": "The 2 Seasons",
+            "domain": "the2seasons.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100642",
+            "name": "Yesterday on Tuesday",
+            "domain": "yesterdayontuesday.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700339",
+            "name": "The Techie Guy",
+            "domain": "thetechieguy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101322",
+            "name": "Lemon Squeezy Home",
+            "domain": "lemonsqueezyhome.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101892",
+            "name": "What The Teacher Wants",
+            "domain": "whattheteacherwants.blogspot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700047",
+            "name": "A Proverbs 31 Wife",
+            "domain": "aproverbs31wife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100056",
+            "name": "Creative Juice",
+            "domain": "getcreativejuice.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101567",
+            "name": "Everybody Loves Italian",
+            "domain": "everybodylovesitalian.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100298",
+            "name": "Serger Pepper",
+            "domain": "sergerpepper.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101861",
+            "name": "From Where I Drone",
+            "domain": "fromwhereidrone.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700609",
+            "name": "Travel Alphas",
+            "domain": "travelalphas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101760",
+            "name": "The Military Guide",
+            "domain": "the-military-guide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101950",
+            "name": "Kisses for Cami",
+            "domain": "kissesforcami.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100640",
+            "name": "One Time Through",
+            "domain": "onetimethrough.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100791",
+            "name": "Thrifty T's Treasures",
+            "domain": "tshaninaPeterson.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100297",
+            "name": "Shalom Mama",
+            "domain": "shalommama.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101364",
+            "name": "Craft-o-Maniac",
+            "domain": "craft-o-maniac.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700346",
+            "name": "Shrinking Momster",
+            "domain": "ramblingrach.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700304",
+            "name": "Sweet and Savory Food",
+            "domain": "sweetandsavoryfood.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100322",
+            "name": "Measuring Flower",
+            "domain": "measuringflower.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101437",
+            "name": "Bruised Passports",
+            "domain": "bruisedpassports.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101506",
+            "name": "Produce on Parade",
+            "domain": "produceonparade.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100519",
+            "name": "All Things G&D",
+            "domain": "allthingsgd.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101320",
+            "name": "Peekaboo Pages",
+            "domain": "peekaboopages.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700444",
+            "name": "Designer Blogs",
+            "domain": "designerblogs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101126",
+            "name": "Homemade Ginger",
+            "domain": "homemadeginger.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101761",
+            "name": "Kommineni",
+            "domain": "kommineni.info",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100985",
+            "name": "Udupi Recipes",
+            "domain": "udupi-recipes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101122",
+            "name": "Pneumatic Addict",
+            "domain": "pneumaticaddict.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101363",
+            "name": "Spend Less, Shop More",
+            "domain": "spendlessshopmore.blogspot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101888",
+            "name": "My Funky Travel",
+            "domain": "myfunkytravel.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101052",
+            "name": "Bite Sized Biggie",
+            "domain": "bitesizedbiggie.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101526",
+            "name": "Evolve and Ascend",
+            "domain": "evolveandascend.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101223",
+            "name": "Homeschool Share",
+            "domain": "homeschoolshare.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100784",
+            "name": "In the Playroom.co.uk",
+            "domain": "intheplayroom.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100317",
+            "name": "Wildflower Ramblings",
+            "domain": "wildflowerramblings.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101329",
+            "name": "Cooking for Busy Mums",
+            "domain": "cookingforbusymums.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700165",
+            "name": "Liz's Early Learning Spot",
+            "domain": "lizs-early-learning-spot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100471",
+            "name": "Embracing Homemaking",
+            "domain": "embracinghomemaking.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100833",
+            "name": "Design Improvised",
+            "domain": "designimprovised.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100126",
+            "name": "Simply Gloria",
+            "domain": "simplygloria.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101831",
+            "name": "Macedonia Online",
+            "domain": "minareport.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101017",
+            "name": "The Wonder Forest",
+            "domain": "thewonderforest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700624",
+            "name": "Sarah's Bake Studio",
+            "domain": "sarahsbakestudio.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100664",
+            "name": "Mission to Save",
+            "domain": "missiontosave.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100183",
+            "name": "Suburble",
+            "domain": "suburble.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100493",
+            "name": "Our Thrifty Ideas",
+            "domain": "ourthriftyideas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101895",
+            "name": "Disney Fashionista",
+            "domain": "disneyfashionista.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100878",
+            "name": "Mom's Bistro.net",
+            "domain": "momsbistro.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101038",
+            "name": "Vintage Vinyl News",
+            "domain": "vintagevinylnews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100700",
+            "name": "Whats Ur Home Story",
+            "domain": "whatsurhomestory.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101333",
+            "name": "The Fit Fork",
+            "domain": "thefitfork.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100357",
+            "name": "Happy and Blessed Home",
+            "domain": "happyandblessedhome.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700625",
+            "name": "Penney Lane",
+            "domain": "penneylane.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100747",
+            "name": "Willivia",
+            "domain": "willivia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100766",
+            "name": "The Golden Sycamore",
+            "domain": "thegoldensycamore.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101658",
+            "name": "Save Spend Splurge",
+            "domain": "savespendsplurge.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101954",
+            "name": "What are the 7 Continents",
+            "domain": "whatarethe7continents.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101728",
+            "name": "Cook with Kushi",
+            "domain": "cookwithkushi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101626",
+            "name": "You Put it On",
+            "domain": "youputiton.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700371",
+            "name": "A House and a Dog",
+            "domain": "designedsimple.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700025",
+            "name": "Making Life Blissful",
+            "domain": "makinglifeblissful.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100086",
+            "name": "Money Saving Queen",
+            "domain": "moneysavingqueen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700328",
+            "name": "The Hill Hangout",
+            "domain": "thehillhangout.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100204",
+            "name": "Crafter Hours Blog",
+            "domain": "crafterhoursblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101560",
+            "name": "Decor Home Ideas Best",
+            "domain": "decorhomeideasbest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700394",
+            "name": "Preppy Runner",
+            "domain": "preppyrunner.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700062",
+            "name": "Utah's Adventure Family",
+            "domain": "utahsadventurefamily.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101360",
+            "name": "Bitter Empire",
+            "domain": "bitterempire.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100918",
+            "name": "A Home with Purpose",
+            "domain": "ahomewithpurpose.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100264",
+            "name": "Apron Strings",
+            "domain": "apronstringsblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101898",
+            "name": "B Lovely Events",
+            "domain": "blovelyevents.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100719",
+            "name": "Cornerstone Confessions",
+            "domain": "cornerstoneconfessions.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101342",
+            "name": "Cafe Lenormand",
+            "domain": "cafelenormand.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100070",
+            "name": "My Uncommon Slice of Suburbia",
+            "domain": "myuncommonsliceofsuburbia.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700136",
+            "name": "Thoughts from Alice",
+            "domain": "thoughtsfromalice.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101003",
+            "name": "Tastefully Eclectic",
+            "domain": "tastefullyeclectic.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100048",
+            "name": "Katies Cucina",
+            "domain": "katiescucina.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101495",
+            "name": "Sarah Hearts",
+            "domain": "sarahhearts.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100061",
+            "name": "The Sullengers",
+            "domain": "sullengers.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100588",
+            "name": "Amy's Creative Side",
+            "domain": "amyscreativeside.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100440",
+            "name": "Housewives Of Riverton",
+            "domain": "housewivesofriverton.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700417",
+            "name": "Crafty Tuts",
+            "domain": "craftytuts.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700294",
+            "name": "Two Sisters Kitchens",
+            "domain": "twosisterskitchens.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100629",
+            "name": "Moms Test Kitchen",
+            "domain": "momstestkitchen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100441",
+            "name": "Sew Woodsy",
+            "domain": "sewwoodsy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100795",
+            "name": "I'm A Lazy Mom",
+            "domain": "imalazymom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700411",
+            "name": "Two Purple Couches",
+            "domain": "twopurplecouches.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100120",
+            "name": "Food Done Light",
+            "domain": "fooddonelight.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700620",
+            "name": "Padded Tush Stats",
+            "domain": "paddedtushstats.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700060",
+            "name": "Fresh Crush",
+            "domain": "freshcrush.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101924",
+            "name": "How to be perfect woman",
+            "domain": "howtobeperfectwoman.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700306",
+            "name": "Baby Led Weaning Ideas",
+            "domain": "blwideas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101630",
+            "name": "Des Moines Parent",
+            "domain": "desmoinesparent.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100251",
+            "name": "My Newest Addiction",
+            "domain": "mynewestaddiction.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100559",
+            "name": "Foodie Misadventures",
+            "domain": "FoodieMisadventures.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100172",
+            "name": "Mom It Forward",
+            "domain": "momitforward.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700617",
+            "name": "Instructional Tech Talk",
+            "domain": "instructionaltechtalk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100545",
+            "name": "Simplee Thrifty",
+            "domain": "simpleethrifty.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101654",
+            "name": "Earth Eclipse",
+            "domain": "eartheclipse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101919",
+            "name": "The 5K Runner",
+            "domain": "the5krunner.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700603",
+            "name": "The Wicker House",
+            "domain": "thewickerhouse.blogspot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700354",
+            "name": "Five Little Chefs",
+            "domain": "fivelittlechefs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101346",
+            "name": "The Cole Mines",
+            "domain": "thecolemines.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100778",
+            "name": "Me And My Insanity",
+            "domain": "meandmyinsanity.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101468",
+            "name": "Living in Retrospect",
+            "domain": "livinginretrospect.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700439",
+            "name": "The DIY Foodie",
+            "domain": "thediyfoodie.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100486",
+            "name": "The Nerd's Wife",
+            "domain": "thenerdswife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101762",
+            "name": "Article Sphere",
+            "domain": "articlesphere.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100529",
+            "name": "Food Storage and Survival",
+            "domain": "foodstorageandsurvival.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100242",
+            "name": "Fry Sauce & Grits",
+            "domain": "frysauceandgrits.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101584",
+            "name": "Lecturi si Arome",
+            "domain": "lecturisiarome.ro",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100989",
+            "name": "Marvellous-Provence",
+            "domain": "marvellous-provence.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101960",
+            "name": "American Rails",
+            "domain": "american-rails.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101724",
+            "name": "Barren to Beautiful",
+            "domain": "barrentobeautiful.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100129",
+            "name": "The Mom of the Year",
+            "domain": "themomoftheyear.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101128",
+            "name": "Well Traveled Wife",
+            "domain": "WellTraveledWife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101261",
+            "name": "Crochet Street",
+            "domain": "crochetstreet.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100860",
+            "name": "The Daily Seam",
+            "domain": "thedailyseam.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101901",
+            "name": "A Health Blog",
+            "domain": "ahealthblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700307",
+            "name": "The Relaxed Homeschool",
+            "domain": "therelaxedhomeschool.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101344",
+            "name": "Simply Made with Love",
+            "domain": "simplymadewithlove.blogspot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700368",
+            "name": "Find It Make It Love It",
+            "domain": "finditmakeitloveit.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101211",
+            "name": "Mariah's Pleasing Plates",
+            "domain": "mariahspleasingplates.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700604",
+            "name": "Girl Talk HQ",
+            "domain": "girltalkhq.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101251",
+            "name": "Michigan Saving and More",
+            "domain": "michigansavingandmore.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101609",
+            "name": "Savory Style",
+            "domain": "savorystyle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700150",
+            "name": "Storypiece",
+            "domain": "storypiece.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101575",
+            "name": "Finance Twitter",
+            "domain": "financetwitter.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700029",
+            "name": "Eclectic Momsense",
+            "domain": "eclecticmomsense.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100943",
+            "name": "Free Time Frolics",
+            "domain": "freetimefrolics.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100888",
+            "name": "The Benson Street",
+            "domain": "thebensonstreet.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700466",
+            "name": "Faith Along the Way",
+            "domain": "proverbs31mentor.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700259",
+            "name": "The Painted Drawer",
+            "domain": "thepainteddrawer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101149",
+            "name": "Morena's Corner",
+            "domain": "morenascorner.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100404",
+            "name": "Seven Clown Circus",
+            "domain": "sevenclowncircus.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100996",
+            "name": "Sow and Dipity",
+            "domain": "sowanddipity.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700129",
+            "name": "A Delightsome Life",
+            "domain": "adelightsomelife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700279",
+            "name": "Fun in Fairfax VA",
+            "domain": "funinfairfaxva.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700142",
+            "name": "Refashionably Late",
+            "domain": "refashionablylate.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100463",
+            "name": "How To Simplify",
+            "domain": "howto-simplify.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101265",
+            "name": "Curious Nut",
+            "domain": "curiousnut.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700174",
+            "name": "Our Three Peas",
+            "domain": "ourthreepeas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100568",
+            "name": "The Pin Junkie",
+            "domain": "thepinjunkie.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100820",
+            "name": "This Heart of Mine Blog",
+            "domain": "thisheartofmineblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700397",
+            "name": "This is Our Bliss",
+            "domain": "thisisourbliss.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700424",
+            "name": "Backroad Planet",
+            "domain": "backroadplanet.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101594",
+            "name": "American Crochet",
+            "domain": "americancrochet.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101345",
+            "name": "Chase the Write Dream",
+            "domain": "chasethewritedream.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101339",
+            "name": "BeaThem.org",
+            "domain": "beathem.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100932",
+            "name": "Busy-Mommy",
+            "domain": "busy-mommy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101480",
+            "name": "Finance and Career",
+            "domain": "financeandcareer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700206",
+            "name": "Justina's Gems",
+            "domain": "justinasgems.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100906",
+            "name": "Veggie and the Beast Feast",
+            "domain": "veggieandthebeastfeast.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700414",
+            "name": "Oh My Dish",
+            "domain": "ohmydish.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700037",
+            "name": "New House New Home",
+            "domain": "newhousenewhomenewlife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700342",
+            "name": "Healthnut Nutrition",
+            "domain": "healthnutnutrition.ca",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700622",
+            "name": "Sweet Cayenne",
+            "domain": "sweetcayenne.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101965",
+            "name": "Crossing Broad",
+            "domain": "crossingbroad.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700177",
+            "name": "Carolyn's Homework",
+            "domain": "carolynshomework.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101240",
+            "name": "Honey's Quilling",
+            "domain": "honeysquilling.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100091",
+            "name": "Prepared Housewives",
+            "domain": "prepared-housewives.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101597",
+            "name": "SAP Dev",
+            "domain": "sapdev.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100370",
+            "name": "Bare Feet On The Dashboard",
+            "domain": "barefeetonthedashboard.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100499",
+            "name": "Dream Book Design",
+            "domain": "dreambookdesign.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101775",
+            "name": "Life Optimizer",
+            "domain": "lifeoptimizer.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101177",
+            "name": "Refurbished Ideas",
+            "domain": "refurbished-ideas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101758",
+            "name": "Russian Dog",
+            "domain": "russiandog.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101160",
+            "name": "The Crafted Life",
+            "domain": "thecraftedlife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700420",
+            "name": "Under a Texas Sky",
+            "domain": "underatexassky.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101964",
+            "name": "User Sub",
+            "domain": "usersub.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700098",
+            "name": "Casuta Laurei.ro",
+            "domain": "casutalaurei.ro",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700239",
+            "name": "Crumbs and Chaos",
+            "domain": "crumbsandchaos.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700375",
+            "name": "Girlfriendology",
+            "domain": "girlfriendology.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100866",
+            "name": "Go to Sew",
+            "domain": "gotosew.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700272",
+            "name": "Turtle Investor.net",
+            "domain": "turtleinvestor.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700283",
+            "name": "Francois et Moi",
+            "domain": "francoisetmoi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700422",
+            "name": "Simple Nature Decor",
+            "domain": "simplenaturedecorblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700065",
+            "name": "Anything & Everything",
+            "domain": "myanythingandeverything.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700176",
+            "name": "Dear Creatives",
+            "domain": "dearcreatives.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100759",
+            "name": "Inspiration Kitchen",
+            "domain": "inspirationkitchen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700169",
+            "name": "Little Blog on the Homestead",
+            "domain": "littleblogonthehomestead.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100915",
+            "name": "Mabey She Made It",
+            "domain": "mabeyshemadeit.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100707",
+            "name": "Making of a Mom",
+            "domain": "makingofamom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100575",
+            "name": "Pink Heels Pink Truck",
+            "domain": "taylorbradford.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100254",
+            "name": "Heather's Dish",
+            "domain": "heathersdish.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101571",
+            "name": "Au-di-tions",
+            "domain": "au-di-tions.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700044",
+            "name": "C'mon Get Crafty",
+            "domain": "cmongetcrafty.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700293",
+            "name": "Cute as a Fox",
+            "domain": "cuteasafox.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101690",
+            "name": "German Shepherd Country",
+            "domain": "germanshepherdcountry.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700431",
+            "name": "Irresistible Pets",
+            "domain": "irresistiblepets.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101190",
+            "name": "Life of a Southern Mom",
+            "domain": "southerncarolinafamily.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101328",
+            "name": "The Plaid & Paisley Kitchen",
+            "domain": "pandpkitchen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100187",
+            "name": "Simply Happenstance",
+            "domain": "simplyhappenstance.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700034",
+            "name": "Simple, Sweet & Savory",
+            "domain": "simplesweetsavory.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100235",
+            "name": "iCandy-Handmade",
+            "domain": "www.icandy-handmade.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700341",
+            "name": "You Should Craft",
+            "domain": "youshouldcraft.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700224",
+            "name": "Just Add Sprinkles",
+            "domain": "just-add-sprinkles.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100670",
+            "name": "Simplistically Sassy",
+            "domain": "simplisticallysassy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700407",
+            "name": "Sondra Lyn at Home",
+            "domain": "sondralynathome.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101028",
+            "name": "A Bird and a Bean",
+            "domain": "abirdandabean.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700106",
+            "name": "Alyssa and Carla",
+            "domain": "alyssaandcarla.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100387",
+            "name": "Entirely Eventful Day",
+            "domain": "entirelyeventfulday.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700311",
+            "name": "Go Retro",
+            "domain": "goretro.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100835",
+            "name": "Amanda Linette Meder",
+            "domain": "amandalinettemeder.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101181",
+            "name": "HBCU Lifestyle",
+            "domain": "hbculifestyle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100920",
+            "name": "Hair Buddha",
+            "domain": "hairbuddha.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100424",
+            "name": "City Farmhouse",
+            "domain": "cityfarmhouse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101294",
+            "name": "The Almond Eater",
+            "domain": "thealmondeater.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101016",
+            "name": "Kids On A Plane",
+            "domain": "kidsonaplane.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101694",
+            "name": "Whisk Affair",
+            "domain": "whiskaffair.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700208",
+            "name": "Merrypad",
+            "domain": "merrypad.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100873",
+            "name": "American Heritage Cooking",
+            "domain": "americanheritagecooking.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700392",
+            "name": "Clever Pink Pirate",
+            "domain": "cleverpinkpirate.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700254",
+            "name": "Life Anchored",
+            "domain": "lifeanchored.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101112",
+            "name": "Urban Bakes",
+            "domain": "urbanbakes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101894",
+            "name": "Mythologian",
+            "domain": "mythologian.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100501",
+            "name": "The Sassy Slow Cooker",
+            "domain": "thesassyslowcooker.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700412",
+            "name": "Casual Claire",
+            "domain": "casualclaire.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100500",
+            "name": "The Shabby Nest",
+            "domain": "wendyhydelifestyle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100444",
+            "name": "Migonis Home",
+            "domain": "migonishome.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100761",
+            "name": "Life After Laundry",
+            "domain": "lifeafterlaundry.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700343",
+            "name": "Shambray",
+            "domain": "shambray.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700428",
+            "name": "Creatively Homespun",
+            "domain": "creativelyhomespun.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100225",
+            "name": "Sisters Shopping on a Shoestring",
+            "domain": "sistersshoppingonashoestring.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700385",
+            "name": "Addicted 2 Recipes",
+            "domain": "addicted2recipes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100765",
+            "name": "Sweet Pennies from Heaven",
+            "domain": "sweetpenniesfromheaven.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700209",
+            "name": "Food Marriage",
+            "domain": "foodmarriage.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700074",
+            "name": "WhitBit's Indian Kitchen",
+            "domain": "whitbitskitchen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700612",
+            "name": "Cookilicious",
+            "domain": "cookilicious.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700362",
+            "name": "Whiskey Tango Foxtrot",
+            "domain": "wtftheblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101120",
+            "name": "Love of Family and Home.net",
+            "domain": "loveoffamilyandhome.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100654",
+            "name": "DimplePrints",
+            "domain": "dimpleprints.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100528",
+            "name": "Carissa Miss",
+            "domain": "carissamiss.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700597",
+            "name": "Junque Cottage",
+            "domain": "junquecottage.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700440",
+            "name": "Balkan Lunch Box",
+            "domain": "balkanlunchbox.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101739",
+            "name": "Locations Near Me Now",
+            "domain": "locationsnearmenow.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700618",
+            "name": "MN Farm Living",
+            "domain": "mnfarmliving.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700122",
+            "name": "Rhapsody in Rooms",
+            "domain": "rhapsodyinrooms.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100615",
+            "name": "Craft Ideas Weekly",
+            "domain": "craftideasweekly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700303",
+            "name": "Eat It and Say Yum",
+            "domain": "eatitandsayyum.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700596",
+            "name": "As Mom Sees It",
+            "domain": "sunandseasalt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700435",
+            "name": "Sept Farm",
+            "domain": "girls-traveling.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100914",
+            "name": "Candle in the Night",
+            "domain": "candleinthenight.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700320",
+            "name": "Messes to Memories",
+            "domain": "messestomemories.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101064",
+            "name": "Four Plus an Angel",
+            "domain": "fourplusanangel.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100203",
+            "name": "It Bakes Me Happy",
+            "domain": "itbakesmehappy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100702",
+            "name": "A Life in Balance.net",
+            "domain": "alifeinbalance.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700146",
+            "name": "Simply Vicki",
+            "domain": "vicki-arnold.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700211",
+            "name": "Telecommuting Mommies",
+            "domain": "telecommutingmommies.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700273",
+            "name": "Mixed Kreations",
+            "domain": "mixedkreations.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700035",
+            "name": "Saving Cent by Cent",
+            "domain": "savingcentbycent.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700326",
+            "name": "Our Daily Craft",
+            "domain": "ourdailycraft.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101084",
+            "name": "Cult of Money",
+            "domain": "cultofmoney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700115",
+            "name": "Daily Mayo",
+            "domain": "dailymayo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700353",
+            "name": "Pink Stripey Socks",
+            "domain": "pinkstripeysocks.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700182",
+            "name": "The Chronicles of Home",
+            "domain": "thechroniclesofhome.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101465",
+            "name": "Love Home Designs",
+            "domain": "lovehomedesigns.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101393",
+            "name": "Naive Cook Cooks",
+            "domain": "naivecookcooks.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700223",
+            "name": "Being Melody",
+            "domain": "beingmelody.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101319",
+            "name": "Eyes on Heaven",
+            "domain": "eyesonheaven.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700348",
+            "name": "Three Kids and a Fish",
+            "domain": "threekidsandafish.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700615",
+            "name": "Using Educational Technology",
+            "domain": "usingeducationaltechnology.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100721",
+            "name": "Lilacs and Longhorns",
+            "domain": "lilacsandlonghorns.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100345",
+            "name": "Leslie Anne Tarabella",
+            "domain": "leslieannetarabella.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101425",
+            "name": "Vodka & Biscuits",
+            "domain": "vodkaandbiscuits.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101507",
+            "name": "Cool Crafts",
+            "domain": "coolcrafts.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100366",
+            "name": "1 Plus 1 Plus 1 Equals 1",
+            "domain": "1plus1plus1equals1.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700261",
+            "name": "Hen Family",
+            "domain": "henfamily.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700070",
+            "name": "Nessa Makes",
+            "domain": "nessamakes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100813",
+            "name": "A Glimpse Inside",
+            "domain": "aglimpseinsideblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100259",
+            "name": "Project Run Play",
+            "domain": "projectrunplay.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700101",
+            "name": "Simple. Home. Blessings.",
+            "domain": "simplehomeblessings.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101358",
+            "name": "It's Fitting",
+            "domain": "its-fitting.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101015",
+            "name": "Genia Be Me",
+            "domain": "geniabeme.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101653",
+            "name": "se80",
+            "domain": "www.se80.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100937",
+            "name": "This Rawsome Vegan Life",
+            "domain": "thisrawsomeveganlife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700357",
+            "name": "Frugal Finds During Naptime",
+            "domain": "frugalfindsduringnaptime.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100602",
+            "name": "Savvy Homemaking",
+            "domain": "savvyhomemaking.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700325",
+            "name": "Eat Pray Run DC",
+            "domain": "eatprayrundc.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100074",
+            "name": "Bits of Everything",
+            "domain": "blog.bitsofeverything.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700198",
+            "name": "Traveling Cats",
+            "domain": "traveling-cats.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101079",
+            "name": "Scribbles and Crumbs",
+            "domain": "scribblesandcrumbs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700112",
+            "name": "The Fraggle Momma",
+            "domain": "athomewithholly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100158",
+            "name": "Home Ec 101",
+            "domain": "home-ec101.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101247",
+            "name": "Cleobuttera",
+            "domain": "cleobuttera.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101826",
+            "name": "Daily Cooking Quest",
+            "domain": "dailycookingquest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101717",
+            "name": "Get Dat Gadget",
+            "domain": "getdatgadget.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101348",
+            "name": "Whatcha Makin' Now",
+            "domain": "whatchamakinnow.blogspot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100963",
+            "name": "Grace Table",
+            "domain": "gracetable.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101873",
+            "name": "Top Timber Homes",
+            "domain": "toptimberhomes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101925",
+            "name": "Can't Stay Out of the Kitchen",
+            "domain": "cantstayoutofthekitchen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101570",
+            "name": "Rain Travels",
+            "domain": "raintravels.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700226",
+            "name": "Maker Mama",
+            "domain": "makermama.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100233",
+            "name": "Sorta Crunchy.net",
+            "domain": "sortacrunchy.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100856",
+            "name": "You Know You Love Fashion",
+            "domain": "youknowyoulovefashion.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100599",
+            "name": "Sweetpea Lifestyle",
+            "domain": "sweetpea-lifestyle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101534",
+            "name": "Perfect Skin Care For You",
+            "domain": "perfectskincareforyou.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700437",
+            "name": "Music Teaching and Parenting",
+            "domain": "musicteachingandparenting.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700130",
+            "name": "Moore Approved",
+            "domain": "mooreapproved.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101695",
+            "name": "Couponista Queen",
+            "domain": "couponistaqueen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700178",
+            "name": "Makeovers and Motherhood",
+            "domain": "makeoversandmotherhood.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101969",
+            "name": "KSITE TV",
+            "domain": "ksitetv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101441 v2",
+            "name": "Inspire More v2",
+            "domain": "inspiremore.comv2",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101970",
+            "name": "Mobile Home Repair",
+            "domain": "mobilehomerepair.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100006",
+            "name": "Nature's Knockout",
+            "domain": "naturesknockout.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100521",
+            "name": "She Lives Free",
+            "domain": "shelivesfree.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700078",
+            "name": "Clarissa R. West",
+            "domain": "clarissarwest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700301",
+            "name": "1001 Knits",
+            "domain": "1001knits.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700429",
+            "name": "Bite of Delight.net",
+            "domain": "biteofdelight.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100990",
+            "name": "Design Loves Detail",
+            "domain": "designlovesdetail.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101418",
+            "name": "And She Games",
+            "domain": "andshegames.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100562",
+            "name": "Larks Country Heart",
+            "domain": "larkscountryheart.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700104",
+            "name": "Very Busy Mama Blog",
+            "domain": "verybusymamablog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100863",
+            "name": "Food Crafts and Family",
+            "domain": "foodcraftsandfamily.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101051",
+            "name": "Gluten-Free Foodsmith",
+            "domain": "glutenfreefoodsmith.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700601",
+            "name": "Roadside Travels",
+            "domain": "roadsidetravels.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100082",
+            "name": "Pillow Thought",
+            "domain": "pillowthought.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101035",
+            "name": "Mormon Buzz",
+            "domain": "mormonbuzzz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700247",
+            "name": "Craft Remedy",
+            "domain": "craftremedy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100811",
+            "name": "Moms of Tulsa",
+            "domain": "momsoftulsa.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700166",
+            "name": "While They Snooze",
+            "domain": "whiletheysnooze.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700289",
+            "name": "Color Me Frugal",
+            "domain": "colormefrugal.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100084",
+            "name": "Give Me Neither",
+            "domain": "givemeneither.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700148",
+            "name": "Jesse Explains It All",
+            "domain": "jessexplainsitall.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100699",
+            "name": "Mommy Bunch",
+            "domain": "mommybunch.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700606",
+            "name": "Real Mom Life",
+            "domain": "realmomlife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101054",
+            "name": "Better Baking Bible",
+            "domain": "betterbakingbible.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100803",
+            "name": "Natural Parent Guide",
+            "domain": "naturalparentguide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700186",
+            "name": "The Spotlight",
+            "domain": "thespotlightonline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700390",
+            "name": "Lifting Makes Me Happy",
+            "domain": "buildyourdreambody.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700266",
+            "name": "3 Guys Outside",
+            "domain": "3guysoutside.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101540",
+            "name": "Decor Home Ideas",
+            "domain": "decorhomeideas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101974",
+            "name": "Little Green Dot",
+            "domain": "littlegreendot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101976",
+            "name": "Entertainment Focus",
+            "domain": "entertainment-focus.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101977",
+            "name": "Pets Welcome",
+            "domain": "petswelcome.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101982",
+            "name": "Revolution Radio",
+            "domain": "revolutionradio.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101979",
+            "name": "Macro Traveller",
+            "domain": "macrotraveller.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101983",
+            "name": "Breaking Soup",
+            "domain": "breakingsoup.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700336",
+            "name": "Sumptuous Living",
+            "domain": "sumptuousliving.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101984",
+            "name": "Sophisticated Allure",
+            "domain": "sophisticatedallure.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103691",
+            "name": "Skinny Fit Mom",
+            "domain": "skinnyfitmom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102010",
+            "name": "Sports Media101",
+            "domain": "sportsmedia101.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102016",
+            "name": "The AV Times",
+            "domain": "theavtimes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102015",
+            "name": "WWE Champions",
+            "domain": "wwe-champions.guide",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101302",
+            "name": "Zelph on the Shelf",
+            "domain": "zelphontheshelf.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102023",
+            "name": "Azula",
+            "domain": "azula.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102022",
+            "name": "Green Arrow TV",
+            "domain": "greenarrowtv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102028",
+            "name": "Good News Nework",
+            "domain": "goodnewsnetwork.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101715",
+            "name": "List Land",
+            "domain": "ListLand.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101453",
+            "name": "Cleverism",
+            "domain": "cleverism.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102029",
+            "name": "DC Legends TV",
+            "domain": "dclegendstv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102031",
+            "name": "Flash TV News",
+            "domain": "flashtvnews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102030",
+            "name": "Krypton Site",
+            "domain": "kryptonsite.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100682",
+            "name": "Trayer Wilderness",
+            "domain": "trayerwilderness.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100198",
+            "name": "Sew Like My Mom",
+            "domain": "sewlikemymom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102033",
+            "name": "Mustard Seed Money",
+            "domain": "mustardseedmoney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102036",
+            "name": "Gator Chatter",
+            "domain": "gatorchatter.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102035",
+            "name": "Morning Ticker",
+            "domain": "morningticker.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700041",
+            "name": "A Personal Organizer",
+            "domain": "apersonalorganizer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "100490",
+            "name": "Utah Sweet Savings",
+            "domain": "utahsweetsavings.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102037",
+            "name": "Crystals and Jewelry",
+            "domain": "meanings.crystalsandjewelry.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102038",
+            "name": "Gomi Blog",
+            "domain": "gomiblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102039",
+            "name": "Stripers Online",
+            "domain": "stripersonline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102045",
+            "name": "MJ's Big Blog",
+            "domain": "mjsbigblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102043",
+            "name": "Wheat Belly",
+            "domain": "wheatbellyblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102040",
+            "name": "Dynasty League Football",
+            "domain": "dynastyleaguefootball.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102041",
+            "name": "Dynasty League Football Forum",
+            "domain": "forum.dynastyleaguefootball.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102048",
+            "name": "Red Carpet Fashion Awards",
+            "domain": "redcarpet-fashionawards.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102050",
+            "name": "Styletic",
+            "domain": "styletic.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102051",
+            "name": "Glide Magazine",
+            "domain": "glidemagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101863",
+            "name": "Whack Star Hunters",
+            "domain": "whackstarhunters.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102052",
+            "name": "Chic Profile",
+            "domain": "chicprofile.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102057",
+            "name": "Advergize",
+            "domain": "advergize.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102056",
+            "name": "Better Butt Challenge",
+            "domain": "betterbuttchallenge.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102058",
+            "name": "Idea Stand",
+            "domain": "ideastand.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102065",
+            "name": "Central Park",
+            "domain": "centralpark.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "102062",
+            "name": "ESL Authority",
+            "domain": "eslauthority.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103102",
+            "name": "American Weather",
+            "domain": "americanwx.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103126",
+            "name": "Blogging Away Debt",
+            "domain": "bloggingawaydebt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "300055",
+            "name": "The Kitchen Whisperer",
+            "domain": "thekitchenwhisperer.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103134",
+            "name": "Phantom Pilots",
+            "domain": "phantompilots.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "RIV10008",
+            "name": "Try It Like It",
+            "domain": "tryit-likeit.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101371",
+            "name": "Home Stratosphere",
+            "domain": "homestratosphere.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103138",
+            "name": "Gadgets & Wearables",
+            "domain": "gadgetsandwearables.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103116",
+            "name": "Smiley Words",
+            "domain": "smileywords.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103159",
+            "name": "Cook Recipes Blog",
+            "domain": "cookrecipesblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101907",
+            "name": "Look Who Got Busted",
+            "domain": "lookwhogotbusted.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103181",
+            "name": "Word Unscrambler",
+            "domain": "wordunscrambler.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103208",
+            "name": "Best Wishes Quotes",
+            "domain": "bestwishesandquotes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103147",
+            "name": "Breathe Heavy",
+            "domain": "breatheheavy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103217",
+            "name": "Jack's Advice",
+            "domain": "jacksadvice.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "RIV10014",
+            "name": "Construction 2 Style",
+            "domain": "construction2style.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103239",
+            "name": "Mental Caliber",
+            "domain": "mentalcaliber.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103228",
+            "name": "Daily Successful Living",
+            "domain": "dailysuccessfulliving.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103223",
+            "name": "Upclosed",
+            "domain": "peoplepill.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103219",
+            "name": "Travel Plans In Mom Hands",
+            "domain": "sherryboswell.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103237",
+            "name": "Painted by Kayla Payne",
+            "domain": "paintedbykaylapayne.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103216",
+            "name": "Lawless French",
+            "domain": "lawlessfrench.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103232",
+            "name": "XO NeCole",
+            "domain": "xonecole.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103245",
+            "name": "Science Notes",
+            "domain": "sciencenotes.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103290",
+            "name": "Between Us Parents",
+            "domain": "betweenusparents.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103283",
+            "name": "Homeschool Hideout",
+            "domain": "homeschoolhideout.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103293",
+            "name": "KN Aviation",
+            "domain": "knaviation.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103275",
+            "name": "InDesignSkills",
+            "domain": "indesignskills.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103300",
+            "name": "The Good Lord Above",
+            "domain": "TheGoodLordAbove.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103306",
+            "name": "wellsr.com - The VBA Tutorials Blog",
+            "domain": "wellsr.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103298",
+            "name": "Light Love and Spirit LTD",
+            "domain": "lightloveandspirit.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103288",
+            "name": "Here's Your Savings",
+            "domain": "heresyoursavings.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103277",
+            "name": "Worksheet Place",
+            "domain": "worksheetplace.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103307",
+            "name": "Law Insider",
+            "domain": "lawinsider.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101848",
+            "name": "Free Kids Books",
+            "domain": "freekidsbooks.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103301",
+            "name": "Motherly Media, Inc.",
+            "domain": "mother.ly",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103324",
+            "name": "mavicpilots.com",
+            "domain": "mavicpilots.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103136",
+            "name": "Lipstick, Lettuce & Lycra",
+            "domain": "lipsticklettucelycra.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103349",
+            "name": "App Sliced",
+            "domain": "appsliced.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103211",
+            "name": "The Brothers Brick",
+            "domain": "brothers-brick.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103346",
+            "name": "Ritely",
+            "domain": "ritely.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103198",
+            "name": "DigiNo",
+            "domain": "digino.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103272",
+            "name": "Universal Hub",
+            "domain": "universalhub.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103371",
+            "name": "Lawless Spanish",
+            "domain": "lawlessspanish.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103426",
+            "name": "Zeroto60times.com",
+            "domain": "Zeroto60times.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103397",
+            "name": "ravishly.com",
+            "domain": "ravishly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103381",
+            "name": "Online English Teaching Jobs",
+            "domain": "oetjobs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103402",
+            "name": "The Homeschool Resource Room",
+            "domain": "thehomeschoolresourceroom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103377",
+            "name": "Gold Coaster Incorporated",
+            "domain": "warrior.do",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101494",
+            "name": "spiceupthecurry.com",
+            "domain": "spiceupthecurry.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103403",
+            "name": "godrules.net",
+            "domain": "godrules.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103432",
+            "name": "Feather & Scale Farm",
+            "domain": "featherandscalefarm.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103443",
+            "name": "Ultimate Ninja Blazingx",
+            "domain": "ultimateninjablazingx.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103461",
+            "name": "Turnips 2 Tangerines",
+            "domain": "turnips2tangerines.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103362",
+            "name": "Business First Family",
+            "domain": "BusinessFirstFamily.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103470",
+            "name": "FN Item Shop",
+            "domain": "fnitemshop.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103458",
+            "name": "Irreverent Gent",
+            "domain": "irreverentgent.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "101365",
+            "name": "popoptiq.com",
+            "domain": "popoptiq.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103507",
+            "name": "Head Curve",
+            "domain": "headcurve.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103502",
+            "name": "Bourbon Banter",
+            "domain": "bourbonbanter.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103531",
+            "name": "Outside the Box Mom",
+            "domain": "outsidetheboxmom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103388",
+            "name": "Test Prep Nerds",
+            "domain": "testprepnerds.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103424",
+            "name": "The Frugal Homeschooling Mom",
+            "domain": "tfhsm.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103509",
+            "name": "SavingAdvice.com",
+            "domain": "SavingAdvice.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103526",
+            "name": "Stadium Journey",
+            "domain": "Stadiumjourney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103390",
+            "name": "Blonde and Balanced",
+            "domain": "blondeandbalanced.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103506",
+            "name": "Stevivor",
+            "domain": "stevivor.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103490",
+            "name": "Craziest Sports Fights",
+            "domain": "craziestsportsfights.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103394",
+            "name": "More Than Finances",
+            "domain": "morethanfinances.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103396",
+            "name": "Budget and the Bees",
+            "domain": "budgetandthebees.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103392",
+            "name": "Stapler Confessions",
+            "domain": "staplerconfessions.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103558",
+            "name": "Craft Beverage Jobs",
+            "domain": "craftbeveragejobs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103565",
+            "name": "The Big Game Hunting Blog",
+            "domain": "thebiggamehuntingblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103545",
+            "name": "Hobbies on a Budget",
+            "domain": "hobbiesonabudget.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103560",
+            "name": "Method Shop",
+            "domain": "methodshop.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103533",
+            "name": "Pinstriped Prospects",
+            "domain": "pinstripedprospects.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103577",
+            "name": "plungedindebt.com",
+            "domain": "plungedindebt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103581",
+            "name": "dinksfinance.com",
+            "domain": "dinksfinance.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103582",
+            "name": "Newlywedsonabudget.com",
+            "domain": "newlywedsonabudget.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103585",
+            "name": "everybodylovesyourmoney.com",
+            "domain": "everybodylovesyourmoney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103587",
+            "name": "fromfrugaltofree.com",
+            "domain": "fromfrugaltofree.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103586",
+            "name": "thousandaire.com",
+            "domain": "thousandaire.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103589",
+            "name": "thefreefinancialadvisor.com",
+            "domain": "thefreefinancialadvisor.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103590",
+            "name": "criticalfinancial.com",
+            "domain": "criticalfinancial.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103538",
+            "name": "Day Hikes Near Denver",
+            "domain": "dayhikesneardenver.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103568",
+            "name": "SHUT UP AND GO",
+            "domain": "SHUTUPANDGO.TRAVEL",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103579",
+            "name": "Online Financial Success Story",
+            "domain": "kyles-blog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103591",
+            "name": "suburbanfinance.com",
+            "domain": "suburbanfinance.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103566",
+            "name": "Flow Benjamins",
+            "domain": "flowbenjamins.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103492",
+            "name": "Wired Capital Group",
+            "domain": "loanofficerlicense.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103597",
+            "name": "Tiny Quality Homes",
+            "domain": "tinyqualityhomes.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103626",
+            "name": "Everyday Above Dirt is a Good Day",
+            "domain": "everydayabovedirt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103629",
+            "name": "Healthy, Savvy & Wise",
+            "domain": "healthysavvyandwise.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103580",
+            "name": "Intentional Today",
+            "domain": "intentionaltoday.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103604",
+            "name": "PMWorld 360 Magazine",
+            "domain": "pmworld360.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103616",
+            "name": "Opium Pulses",
+            "domain": "opiumpulses.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103612",
+            "name": "Dana Vanderburg",
+            "domain": "theartkitblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103643",
+            "name": "www.thecouponcaroline.com",
+            "domain": "thecouponcaroline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103632",
+            "name": "Southern Arizona Guide",
+            "domain": "southernarizonaguide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103648",
+            "name": "Bike-urious",
+            "domain": "bike-urious.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103638",
+            "name": "Sally Akins",
+            "domain": "sallyakins.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103614",
+            "name": "pros an cons",
+            "domain": "prosancons.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103595",
+            "name": "Cullys Kitchen",
+            "domain": "cullyskitchen.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103576",
+            "name": "Always Wanderlust",
+            "domain": "alwayswanderlust.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103649",
+            "name": "doggiedesigner.com",
+            "domain": "doggiedesigner.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103485",
+            "name": "Mandy's Party Printables LLC",
+            "domain": "mandyspartyprintables.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103574",
+            "name": "Lawless English",
+            "domain": "lawlessenglish.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103639",
+            "name": "P31 Productions LLC",
+            "domain": "mississippimom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103640",
+            "name": "Know Your Phrase",
+            "domain": "knowyourphrase.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103679",
+            "name": "Pausitive Living",
+            "domain": "pausitiveliving.ca",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103676",
+            "name": "Simple Handmade Everyday",
+            "domain": "kristinesser.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103677",
+            "name": "Mom Managing Chaos",
+            "domain": "mommanagingchaos.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103647",
+            "name": "Best Movies Right Now",
+            "domain": "bestmoviesrightnow.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103669",
+            "name": "Roamilicious",
+            "domain": "roamilicious.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103646",
+            "name": "Individual Differences Research Labs",
+            "domain": "idrlabs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103674",
+            "name": "Inspired Her Way",
+            "domain": "inspiredherway.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103621",
+            "name": "E Law Talk",
+            "domain": "Elawtalk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103622",
+            "name": "Whatcha Wearing",
+            "domain": "whatchawearing.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103623",
+            "name": "yogabaron.com",
+            "domain": "yogabaron.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103641",
+            "name": "Susan Velez",
+            "domain": "susanvelez.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103692",
+            "name": "Krazy Fit Life",
+            "domain": "krazyfitlife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103630",
+            "name": "Pia Cruz Creative",
+            "domain": "thisblendedhomeofmine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103514",
+            "name": "Hillsborough Essentials",
+            "domain": "hillsborough-homesteading.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103682",
+            "name": "Eclectic Homeschooling",
+            "domain": "eclectic-homeschool.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103620",
+            "name": "Offbeatbros",
+            "domain": "offbeatbros.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103660",
+            "name": "Simplifying DIY Design",
+            "domain": "simplifyingdiydesign.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103663",
+            "name": "HodgePodge Hippie",
+            "domain": "hodgepodgehippie.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103680",
+            "name": "TV Ad Music",
+            "domain": "tvadmusic.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103510",
+            "name": "Activist Post",
+            "domain": "activistpost.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103644",
+            "name": "Fortnite Stats",
+            "domain": "fortnitestats.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "700351",
+            "name": "Nurturing Marriage",
+            "domain": "nurturingmarriage.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103681",
+            "name": "Melissa Blevins | Perfection Hangover",
+            "domain": "perfectionhangover.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103766",
+            "name": "Studio 5",
+            "domain": "studio5.ksl.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103727",
+            "name": "Scott Webb Photography",
+            "domain": "pineapplesupply.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103732",
+            "name": "Thrive Cuisine",
+            "domain": "thrivecuisine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103794",
+            "name": "ELB Media LLC",
+            "domain": "emmaleebates.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103636",
+            "name": "Mens Guide",
+            "domain": "mensguide.ca",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103703",
+            "name": "Paws and Pines",
+            "domain": "pawsandpines.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103797",
+            "name": "Blush and Pine Creative",
+            "domain": "blushandpinecreative.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103802",
+            "name": "Forever Sparkly",
+            "domain": "foreversparkly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103694",
+            "name": "Shutter Muse",
+            "domain": "shuttermuse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103800",
+            "name": "Operation Wellness",
+            "domain": "operation-wellness.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103742",
+            "name": "Counting My Pennies",
+            "domain": "countingmypennies.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103697",
+            "name": "Remake My Plate",
+            "domain": "remakemyplate.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103743",
+            "name": "kidsaintcheap.com",
+            "domain": "kidsaintcheap.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103756",
+            "name": "Elite GSP",
+            "domain": "elitegsp.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103695",
+            "name": "Stacked Homes",
+            "domain": "stackedhomes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103750",
+            "name": "Frugal Gardening",
+            "domain": "frugalgardening.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103754",
+            "name": "Code2cook",
+            "domain": "code2cook.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103807",
+            "name": "Costco Insider",
+            "domain": "costcoinsider.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103785",
+            "name": "Everyday Party Magazine",
+            "domain": "everydaypartymag.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103782",
+            "name": "Smart Marine Guide",
+            "domain": "smartmarineguide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103793",
+            "name": "Sweet Miles",
+            "domain": "sweetmiles.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103830",
+            "name": "Mikke Goes Coding",
+            "domain": "mikkegoes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103762",
+            "name": "Gina C. Creates",
+            "domain": "ginaccreates.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103796",
+            "name": "FluentU",
+            "domain": "fluentu.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103799",
+            "name": "Insane Freedom",
+            "domain": "insanefreedom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103812",
+            "name": "Patch Puppy",
+            "domain": "patchpuppy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103672",
+            "name": "UnscrambleX",
+            "domain": "unscramblex.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103778",
+            "name": "I Can Teach My Child, LLC",
+            "domain": "paintbrushesandpopsicles.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103653",
+            "name": "This Savvy Mama",
+            "domain": "thissavvymama.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103688",
+            "name": "Melaninterest",
+            "domain": "melaninterest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103813",
+            "name": "TheMDJourney",
+            "domain": "themdjourney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103842",
+            "name": "Plannerlove and Printables",
+            "domain": "plannerloveandprintables.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103863",
+            "name": "Eco Living Mama",
+            "domain": "ecolivingmama.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103721",
+            "name": "Just What We Eat",
+            "domain": "justwhatweeat.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103772",
+            "name": "That Moxie Mom",
+            "domain": "thatmoxiemom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103831",
+            "name": "harlem world Magazine",
+            "domain": "harlemworldmagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103803",
+            "name": "Two Cups of Health",
+            "domain": "twocupsofhealth.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103894",
+            "name": "Castelli Cucina LLC",
+            "domain": "wearableinear.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103857",
+            "name": "Explain Life",
+            "domain": "explainlife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103765",
+            "name": "Saving Centric",
+            "domain": "savingcentric.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103819",
+            "name": "LawnWorld",
+            "domain": "lawnmowerforum.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103884",
+            "name": "MyGCVisa",
+            "domain": "mygcvisa.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103859",
+            "name": "Safety Talk Ideas",
+            "domain": "safetytalkideas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103858",
+            "name": "Bass Chat",
+            "domain": "basschat.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103892",
+            "name": "Dan Carr Photography Blog",
+            "domain": "dancarrphotography.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103786",
+            "name": "Relationships Tips 4 U",
+            "domain": "relationshiptips4u.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103837",
+            "name": "Leamnson Capital Advisory, LLC",
+            "domain": "moneywithapurpose.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103805",
+            "name": "Millennial Procrastination",
+            "domain": "millennialprocrastination.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103779",
+            "name": "Marquestra | A Mid-life Woman's Quest for Travel",
+            "domain": "marquestra.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103844",
+            "name": "ModernThirst",
+            "domain": "modernthirst.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103914",
+            "name": "Yu Gi Oh Card Guide",
+            "domain": "yugiohcardguide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103913",
+            "name": "Low Carb Quick",
+            "domain": "lowcarbquick.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103880",
+            "name": "Dancehall Arena",
+            "domain": "dancehallarena.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103912",
+            "name": "Smart Cycle Guide",
+            "domain": "smartcycleguide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103911",
+            "name": "Smart RV Guide",
+            "domain": "smartrvguide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103909",
+            "name": "Smart Motor Guide",
+            "domain": "smartmotorguide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103877",
+            "name": "4 Pics 1 Word Answers",
+            "domain": "4pics-1wordanswers.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103865",
+            "name": "This Wanderlust Heart",
+            "domain": "thiswanderlustheart.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103898",
+            "name": "eReaderIQ",
+            "domain": "ereaderiq.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103890",
+            "name": "Formosa Post",
+            "domain": "formosapost.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103895",
+            "name": "My Payer Directory",
+            "domain": "mypayerdirectory.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103925",
+            "name": "Film Inquiry",
+            "domain": "filminquiry.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103279",
+            "name": "Tractor by Net",
+            "domain": "tractorbynet.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103833",
+            "name": "The Green Acre Homestead",
+            "domain": "thegreenacrehomestead.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103705",
+            "name": "Homeperch",
+            "domain": "Homeperch.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103901",
+            "name": "Outside Nation",
+            "domain": "outsidenation.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103922",
+            "name": "Outside Nomad",
+            "domain": "outsidenomad.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103699",
+            "name": "This Mom Life, LLC",
+            "domain": "thismomlife.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103958",
+            "name": "The Cold Podcast",
+            "domain": "thecoldpodcast.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103883",
+            "name": "Boundless Roads",
+            "domain": "boundlessroads.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103814",
+            "name": "Mustard Seed Media LLC",
+            "domain": "ketofiedsisters.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103919",
+            "name": "LWR LLC",
+            "domain": "letsworkremotely.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103918",
+            "name": "I Am Dawn-Marie",
+            "domain": "iamdawn-marie.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103924",
+            "name": "Bake from Scratch",
+            "domain": "bakefromscratch.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103921",
+            "name": "Style Interest",
+            "domain": "styleinterest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103866",
+            "name": "The Fit Careerist",
+            "domain": "thefitcareerist.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103889",
+            "name": "Invested Wallet LLC",
+            "domain": "investedwallet.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103948",
+            "name": "This Online World",
+            "domain": "thisonlineworld.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103951",
+            "name": "Turtle Boy Daily News",
+            "domain": "tbdailynews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103977",
+            "name": "MADTEN",
+            "domain": "madten.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103975",
+            "name": "u00bfCash, Check or Card?",
+            "domain": "cashcheckorcard.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103790",
+            "name": "Cactus Hugs",
+            "domain": "cactushugs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103787",
+            "name": "Sounds Familiar - UK TV Advert Music",
+            "domain": "sounds-familiar.info",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103950",
+            "name": "Real Money Robert",
+            "domain": "realmoneyrobert.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103995",
+            "name": "MNCS, LLC",
+            "domain": "travelerspress.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103860",
+            "name": "Pretty Easy Life",
+            "domain": "prettyeasylife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104022",
+            "name": "Gwin Gal Inside & Out",
+            "domain": "gwingal.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103990",
+            "name": "The Frozen Mind",
+            "domain": "TheFrozenMind.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103700",
+            "name": "Earth Friendly Tips",
+            "domain": "earthfriendlytips.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104011",
+            "name": "Travel Through Life",
+            "domain": "travelthroughlife.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103992",
+            "name": "Learnodo Newtonic",
+            "domain": "learnodo-newtonic.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104036",
+            "name": "Gamer Walkthroughs",
+            "domain": "gamerwalkthroughs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104030",
+            "name": "Southern Cast Iron",
+            "domain": "southerncastiron.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104031",
+            "name": "Louisiana Cookin'",
+            "domain": "louisianacookin.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104033",
+            "name": "Paula Deen Magazine",
+            "domain": "pauladeenmagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104025",
+            "name": "Victoria Mag",
+            "domain": "victoriamag.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104032",
+            "name": "The Cottage Journal",
+            "domain": "thecottagejournal.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104021",
+            "name": "Nyonya Cooking",
+            "domain": "nyonyacooking.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104026",
+            "name": "Taste of the South",
+            "domain": "tasteofthesouthmagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104027",
+            "name": "Tea Time Magazine",
+            "domain": "teatimemagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104028",
+            "name": "Southern Lady",
+            "domain": "southernladymagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103923",
+            "name": "Roving Foleys",
+            "domain": "therovingfoleys.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103991",
+            "name": "Wandering Chocobo",
+            "domain": "wanderingchocobo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103920",
+            "name": "Speak. Play. Love.",
+            "domain": "speakplaylove.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103980",
+            "name": "Wander Her Way",
+            "domain": "wanderherway.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103971",
+            "name": "Mother Daughter Travel",
+            "domain": "motherdaughtertravel.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104034",
+            "name": "Classic Sewing Magazine",
+            "domain": "classicsewingmagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104029",
+            "name": "Southern Home Magazine",
+            "domain": "southernhomemagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104045",
+            "name": "Relay Hero",
+            "domain": "relayhero.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104057",
+            "name": "Baby Chick",
+            "domain": "baby-chick.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103994",
+            "name": "Keen for Keto",
+            "domain": "keenforketo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104020",
+            "name": "GlutenBee",
+            "domain": "glutenbee.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104043",
+            "name": "Healthy-Food-Life",
+            "domain": "healthy-food-life.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103949",
+            "name": "Rooted Childhood, LLC",
+            "domain": "rootedchildhood.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104016",
+            "name": "Debt Discipline",
+            "domain": "debtdiscipline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103965",
+            "name": "Become Gorgeous",
+            "domain": "becomegorgeous.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103963",
+            "name": "Milideas.net",
+            "domain": "milideas.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104061",
+            "name": "Scout Songs",
+            "domain": "scoutsongs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104054",
+            "name": "SAFooty",
+            "domain": "safooty.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104015",
+            "name": "nctripping.com",
+            "domain": "nctripping.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104078",
+            "name": "This Week in Worcester",
+            "domain": "thisweekinworcester.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104023",
+            "name": "The Curious Frugal",
+            "domain": "thecuriousfrugal.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104056",
+            "name": "Celeb Worth",
+            "domain": "celebworth.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104084",
+            "name": "Nottingham MD",
+            "domain": "nottinghammd.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104094",
+            "name": "My Travel Monkey",
+            "domain": "my-travelmonkey.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104069",
+            "name": "Howandwhat",
+            "domain": "howandwhat.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104017",
+            "name": "The Perfect Apology",
+            "domain": "perfectapology.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104096",
+            "name": "Drafttek.com",
+            "domain": "drafttek.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104018",
+            "name": "Minute Man Review",
+            "domain": "minutemanreview.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104095",
+            "name": "I Love My Green Planet",
+            "domain": "ilovemygreenplanet.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104115",
+            "name": "UNRV.com",
+            "domain": "unrv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104118",
+            "name": "Chip Hungry",
+            "domain": "chiphungry.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104110",
+            "name": "The Daily Adventures of Me",
+            "domain": "thedailyadventuresofme.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104127",
+            "name": "profitblitz.com",
+            "domain": "profitblitz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104100",
+            "name": "LyricsKpop",
+            "domain": "lyricskpop.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104151",
+            "name": "Awaken The Greatness Within",
+            "domain": "awakenthegreatnesswithin.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104049",
+            "name": "plant.well",
+            "domain": "beplantwell.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104082",
+            "name": "Stag and Hen Do Ideas",
+            "domain": "stagandhendoideas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104129",
+            "name": "Millionaire Dojo",
+            "domain": "millionairedojo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103477",
+            "name": "Episode Ninja",
+            "domain": "episode.ninja",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104156",
+            "name": "Sugar Pink Food",
+            "domain": "latoyah.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104159",
+            "name": "Health Disqus",
+            "domain": "healthdisqus.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104131",
+            "name": "Successible Life",
+            "domain": "successiblelife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103969",
+            "name": "Dancehall World",
+            "domain": "dancehallworld.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103728",
+            "name": "The Trove",
+            "domain": "thetrove.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104153",
+            "name": "BB Interwebs, LLC",
+            "domain": "viralviralvideos.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104111",
+            "name": "Quantumvibe.com",
+            "domain": "quantumvibe.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104180",
+            "name": "Hopeful Holistic",
+            "domain": "hopefulholistic.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104130",
+            "name": "globetotting",
+            "domain": "globetotting.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104171",
+            "name": "stlMotherhood",
+            "domain": "stlmotherhood.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104181",
+            "name": "The Lens Lounge",
+            "domain": "thelenslounge.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104183",
+            "name": "FTH Services LLC",
+            "domain": "fattailedandhappy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104192",
+            "name": "So Simple Oy",
+            "domain": "asliceofheavencakesclassroom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104162",
+            "name": "With Love, Becca",
+            "domain": "withlovebecca.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104191",
+            "name": "Moneylogue LLC",
+            "domain": "moneylogue.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104145",
+            "name": "Pesto and Margaritas",
+            "domain": "pestoandmargaritas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104195",
+            "name": "Early To Bed, Early To Rise",
+            "domain": "early2bedearly2rise.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103724",
+            "name": "The Pay At Home Parent",
+            "domain": "thepayathomeparent.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104165",
+            "name": "Lifestyle for Real Life",
+            "domain": "lifestyleforreallife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104035",
+            "name": "Survivor's Fortress",
+            "domain": "survivorsfortress.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104215",
+            "name": "DoodleDog Designs, LLC",
+            "domain": "homeschoolhelperonline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104206",
+            "name": "Bold Boundless Blonde",
+            "domain": "boldboundlessblonde.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104224",
+            "name": "Prim Mart",
+            "domain": "primmart.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104050",
+            "name": "The Greenspring Home",
+            "domain": "thegreenspringhome.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104112",
+            "name": "Pin Me App LLC",
+            "domain": "allthestufficareabout.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104190",
+            "name": "On the Flix",
+            "domain": "ontheflix.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104243",
+            "name": "My Chemical-Free House",
+            "domain": "mychemicalfreehouse.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104132",
+            "name": "The Best VBS",
+            "domain": "thebestvbs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104229",
+            "name": "Teamworkdream",
+            "domain": "teamworkdream.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104237",
+            "name": "Team Japanese",
+            "domain": "teamjapanese.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104198",
+            "name": "Ninja Budgeter",
+            "domain": "ninjabudgeter.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104202",
+            "name": "Lila Ruth Grain-Free",
+            "domain": "lilaruthgrainfree.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104235",
+            "name": "Unicorn Multi Media",
+            "domain": "freebieselect.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104236",
+            "name": "West Magnolia Charm",
+            "domain": "westmagnoliacharm.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104256",
+            "name": "Frozen Pennies",
+            "domain": "frozenpennies.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104174",
+            "name": "Canyon Crest Media LLC",
+            "domain": "triviabliss.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104282",
+            "name": "Tattle Life",
+            "domain": "tattle.life",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104292",
+            "name": "themoneymix.com",
+            "domain": "themoneymix.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104144",
+            "name": "Hustle and Hearts",
+            "domain": "hustleandhearts.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104272",
+            "name": "Design Sheep Ltd",
+            "domain": "tinyterrier.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104201",
+            "name": "Petite Mu00e9lanie",
+            "domain": "petitemelanie.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104041",
+            "name": "adayincandiland.com",
+            "domain": "adayincandiland.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104188",
+            "name": "Mom Shopping Network",
+            "domain": "momshoppingnetwork.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104160",
+            "name": "The Welcoming Table",
+            "domain": "thewelcomingtable.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104295",
+            "name": "Side Jam Biz",
+            "domain": "sidejambiz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104284",
+            "name": "EverBarn",
+            "domain": "everbarn.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104244",
+            "name": "The Middle Edit",
+            "domain": "themiddleedit.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104285",
+            "name": "Substream Magazine",
+            "domain": "substreammagazine.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104316",
+            "name": "Edon Rami",
+            "domain": "volokit.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104172",
+            "name": "Megalithic",
+            "domain": "megalithic.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104251",
+            "name": "An Uncomplicated Life Blog",
+            "domain": "anuncomplicatedlifeblog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103886",
+            "name": "Just A Simple Home",
+            "domain": "justasimplehome.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103878",
+            "name": "Saving Talents",
+            "domain": "savingtalents.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104301",
+            "name": "Muscle and Manna",
+            "domain": "muscleandmanna.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104223",
+            "name": "D Three Limited",
+            "domain": "reptilefollower.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104010",
+            "name": "fabric & flowers",
+            "domain": "fabricandflowers.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104242",
+            "name": "Teal Pineapple Travel",
+            "domain": "amyfillinger.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103905",
+            "name": "The Purposeful Pantry",
+            "domain": "thepurposefulpantry.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104297",
+            "name": "Formerly Fundie",
+            "domain": "benjaminlcorey.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104058",
+            "name": "Audrey's Little Farm",
+            "domain": "audreyslittlefarm.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103938",
+            "name": "Have Twins First",
+            "domain": "havetwinsfirst.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104274",
+            "name": "Nurse Money Talk",
+            "domain": "nursemoneytalk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104317",
+            "name": "Living in a shoebox",
+            "domain": "livinginashoebox.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104260",
+            "name": "Van Adieu, LLC",
+            "domain": "vanadieu.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104232",
+            "name": "Her Happy Heart",
+            "domain": "herhappyheart.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104238",
+            "name": "Today's Delight",
+            "domain": "todaysdelight.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104161",
+            "name": "Domestic Engineer Mom",
+            "domain": "domesticengineermom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104320",
+            "name": "SportsTalkATL",
+            "domain": "sportstalkatl.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104335",
+            "name": "Words In A Sentence",
+            "domain": "wordsinasentence.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104267",
+            "name": "Wrinkle Butts",
+            "domain": "wrinklebutts.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104187",
+            "name": "Sunflower Mom",
+            "domain": "sunflowermom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104245",
+            "name": "Evidence-Based Mommy",
+            "domain": "evidence-basedmommy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104186",
+            "name": "I Heart Frugal",
+            "domain": "iheartfrugal.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104298",
+            "name": "JET Management Services LLC",
+            "domain": "ballroomdanceplanet.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104168",
+            "name": "Farminence",
+            "domain": "farminence.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104315",
+            "name": "EditThisInfo",
+            "domain": "editthis.info",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104338",
+            "name": "Just Start Investing",
+            "domain": "juststartinvesting.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104300",
+            "name": "Bargain Believer",
+            "domain": "bargainbeliever.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104219",
+            "name": "the investio",
+            "domain": "theinvestio.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104386",
+            "name": "Zialiony sp.k.",
+            "domain": "monroecountyjail.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104196",
+            "name": "Happy Home Happy Heart",
+            "domain": "happyhomehappyheart.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104356",
+            "name": "IN THE WORKS LLC",
+            "domain": "apartmentprepper.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104372",
+            "name": "Company-Histories.com",
+            "domain": "company-histories.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104339",
+            "name": "Mom in the Six",
+            "domain": "mominthesix.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104341",
+            "name": "A Country Girls Life",
+            "domain": "acountrygirlslife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104345",
+            "name": "NeliDesign",
+            "domain": "nelidesign.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103734",
+            "name": "5e.tools",
+            "domain": "5e.tools",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104135",
+            "name": "Party with Unicorns",
+            "domain": "partywithunicorns.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104312",
+            "name": "Persian Yellowpages Group Inc",
+            "domain": "iranianyellowpage.ca",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104310",
+            "name": "ChristiansTT",
+            "domain": "christianstt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104281",
+            "name": "Lenny Lemons",
+            "domain": "lennylemons.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104370",
+            "name": "Abaixar",
+            "domain": "abaixar.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104361",
+            "name": "Wdownloadfree",
+            "domain": "wdownloadfree.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104355",
+            "name": "Game Room Vault",
+            "domain": "gameroomvault.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103907",
+            "name": "Flip Flop Weekend",
+            "domain": "flipflopweekend.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104007",
+            "name": "Tales of One Mom's Mess",
+            "domain": "talesofonemomsmess.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104418",
+            "name": "Living Letter Home",
+            "domain": "livingletterhome.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103974",
+            "name": "The Novel Temple",
+            "domain": "thenoveltemple.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104167",
+            "name": "Bubbly Moments LLC",
+            "domain": "bubblymoments.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103881",
+            "name": "Laura Noelle",
+            "domain": "lauranoelle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104175",
+            "name": "Debt Free Forties",
+            "domain": "debtfreeforties.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104199",
+            "name": "The Alford Media Group LLC",
+            "domain": "trendymoney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104349",
+            "name": "Women Who Money, LLC",
+            "domain": "womenwhomoney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104080",
+            "name": "creditshout",
+            "domain": "creditshout.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104334",
+            "name": "Eat Simple Food",
+            "domain": "eatsimplefood.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104343",
+            "name": "Mira's Cocktail",
+            "domain": "miraslation.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104388",
+            "name": "Moss Digital Publishing",
+            "domain": "vehq.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104311",
+            "name": "Red Media Enterprise",
+            "domain": "smartdoglover.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104384",
+            "name": "Truckers Forum",
+            "domain": "truckersforum.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104348",
+            "name": "Inspire My Style",
+            "domain": "inspiremystyle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104141",
+            "name": "Global Web Marketing",
+            "domain": "immuneauthority.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104263",
+            "name": "Ecomomical LLC",
+            "domain": "www.beingecomomical.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104359",
+            "name": "Rundown Media, LLC",
+            "domain": "therundown.tv",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104344",
+            "name": "Lifestyle with Leah",
+            "domain": "lifestylewithleah.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104277",
+            "name": "Home Money Habits",
+            "domain": "homemoneyhabits.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104420",
+            "name": "Unicorn Multi Media SL",
+            "domain": "freebiefresh.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104374",
+            "name": "Young and the Invested",
+            "domain": "youngandtheinvested.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104373",
+            "name": "Horizon Unknown",
+            "domain": "horizonunknown.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104290",
+            "name": "Money Stir",
+            "domain": "moneystir.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104364",
+            "name": "Techzuma",
+            "domain": "techzuma.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104077",
+            "name": "Beauty Muscle",
+            "domain": "beautymuscle.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104318",
+            "name": "Hannah Hand Makes",
+            "domain": "hannahhandmakes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104409",
+            "name": "History Computer",
+            "domain": "history-computer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104391",
+            "name": "Pun Generator",
+            "domain": "pungenerator.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104209",
+            "name": "Free Spirit Planner",
+            "domain": "freespiritplanner.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104382",
+            "name": "Simply Be, Wild & Free",
+            "domain": "simplybewildandfree.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104406",
+            "name": "Paper Toys",
+            "domain": "papertoys.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103273",
+            "name": "Sunshine and RollerCoasters",
+            "domain": "sunshineandrollercoasters.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104321",
+            "name": "Health and Wellness Promoter",
+            "domain": "healthandwellnesspromoter.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104398",
+            "name": "ThinkHealthyFITNESS",
+            "domain": "thinkhealthyfitness.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104390",
+            "name": "Chronic Illness Warrior Life Dup",
+            "domain": "chronicillnesswarriorlife.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104429",
+            "name": "mcpedb",
+            "domain": "mcpedb.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104365",
+            "name": "Everyday She's Sparkling",
+            "domain": "everydayshessparkling.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104362",
+            "name": "nuTech Web Services",
+            "domain": "simpleitaliancooking.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104352",
+            "name": "The Thoughtful Parent",
+            "domain": "thoughtfulparent.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104314",
+            "name": "benfonie",
+            "domain": "seekforbest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104319",
+            "name": "Dresses and Dinosaurs",
+            "domain": "dressesanddinosaurs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104422",
+            "name": "Pennies for the Piggy Bank",
+            "domain": "penniesforthepiggybank.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104342",
+            "name": "Awakening State",
+            "domain": "awakeningstate.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104413",
+            "name": "Sand Atlas",
+            "domain": "sandatlas.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104051",
+            "name": "Clever Little Mouse",
+            "domain": "cleverlittlemouse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104404",
+            "name": "Cruise Arabia & Africa",
+            "domain": "cruisearabiaonline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104438",
+            "name": "Little Doggies Rule",
+            "domain": "littledoggiesrule.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104337",
+            "name": "Mommyhooding",
+            "domain": "mommyhooding.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104379",
+            "name": "Amanda Montero, LLC",
+            "domain": "simply-amanda.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104377",
+            "name": "Alyssa J Howard",
+            "domain": "alyssajhoward.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104067",
+            "name": "MyBeautyforYou",
+            "domain": "mybeautyforyou.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104306",
+            "name": "Key Lime Digital Designs, LLC.",
+            "domain": "kendrajohn.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104228",
+            "name": "Moms Collab",
+            "domain": "momscollab.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104299",
+            "name": "Making Room 4 One More",
+            "domain": "4onemore.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104302",
+            "name": "Mindfulmazing",
+            "domain": "mindfulmazing.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104253",
+            "name": "Alegnalynn LLC",
+            "domain": "thinkoutsidethecubiclenow.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104425",
+            "name": "Elegant Living Everyday",
+            "domain": "elegantlivingeveryday.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104389",
+            "name": "The Simple Homeschooler",
+            "domain": "thesimplehomeschooler.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104266",
+            "name": "Mom Money Map",
+            "domain": "mommoneymap.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104313",
+            "name": "Magnificent Mouthfuls Cupcakes",
+            "domain": "magnificentmouthfuls.com.au",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104358",
+            "name": "Flawed yet Functional",
+            "domain": "flawedyetfunctional.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104415",
+            "name": "Ve Eat Cook Bake",
+            "domain": "veeatcookbake.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104250",
+            "name": "Easy Blog Emily",
+            "domain": "easyblogemily.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104152",
+            "name": "Five Sen$es of Living",
+            "domain": "fivesensesofliving.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104336",
+            "name": "Miss",
+            "domain": "glitzandglamourmakeup.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104124",
+            "name": "Pennies To Wealth",
+            "domain": "penniestowealth.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104037",
+            "name": "The Online Advertising Guide",
+            "domain": "theonlineadvertisingguide.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103780",
+            "name": "Crafty Life Mom",
+            "domain": "craftylifemom.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "103815",
+            "name": "Better Boat Guide",
+            "domain": "betterboat.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104435",
+            "name": "Exploring Kiwis",
+            "domain": "exploringkiwis.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104308",
+            "name": "Growing the Givens",
+            "domain": "growingthegivens.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104417",
+            "name": "Easy Holiday Ideas",
+            "domain": "easyholidayideas.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104289",
+            "name": "Femniqe",
+            "domain": "femniqe.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104457",
+            "name": "The Disney Journey",
+            "domain": "thedisneyjourney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104469",
+            "name": "Money Habit Muse",
+            "domain": "moneyhabitmuse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104488",
+            "name": "Craft with Sarah",
+            "domain": "craftwithsarah.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104489",
+            "name": "Museuly",
+            "domain": "museuly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "104464",
+            "name": "The Frugal Foot Doc",
+            "domain": "thefreckledfootdoc.com",
+            "seller_type": "PUBLISHER"
+        }
+    ]
+}

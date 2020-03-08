@@ -1,0 +1,45 @@
+{
+    "contact_address": "volantis digital media pte ltd, 531A, upper cross street, #03-108 hong lim complex, Singapore 051531",
+    "contact_email":"sales@volantisdigital.com",
+    "version":1.0,
+    "sellers": [
+{"seller_id":"4", "seller_type":"PUBLISHER", "name":"Amarujala", "domain":"amarujala.com", "is_passthrough":"1"},
+{"seller_id":"234361", "seller_type":"PUBLISHER", "name":"BolllywoodHungama", "domain":"hungama.com", "is_passthrough":"1"},
+{"seller_id":"286145", "seller_type":"PUBLISHER", "name":"Business-Standard", "domain":"business-standard.com", "is_passthrough":"1"},
+{"seller_id":"223029", "seller_type":"PUBLISHER", "name":"DailyThanthi", "domain":"dailythanthi.com", "is_passthrough":"1"},
+{"seller_id":"6", "seller_type":"PUBLISHER", "name":"cricketcountry", "domain":"esselgroup.com", "is_passthrough":"1"},
+{"seller_id":"1", "seller_type":"PUBLISHER", "name":"Deepika", "domain":"deepika.com", "is_passthrough":"1"},
+{"seller_id":"237463", "seller_type":"PUBLISHER", "name":"Dinamalar", "domain":"dinamalar.com", "is_passthrough":"1"},
+{"seller_id":"237747", "seller_type":"PUBLISHER", "name":"Dinamani", "domain":"epmltd.com", "is_passthrough":"1"},
+{"seller_id":"270344", "seller_type":"PUBLISHER", "name":"FarmersWeekly", "domain":"reedbusiness.com", "is_passthrough":"1"},
+{"seller_id":"264824", "seller_type":"PUBLISHER", "name":"FlightGlobal", "domain":"dvvmedia.com", "is_passthrough":"1"},
+{"seller_id":"281787", "seller_type":"PUBLISHER", "name":"Lexisnexis", "domain":"reedbusiness.com", "is_passthrough":"1"},
+{"seller_id":"243321", "seller_type":"PUBLISHER", "name":"india.com", "domain":"esselgroup.com", "is_passthrough":"1"},
+{"seller_id":"257198", "seller_type":"PUBLISHER", "name":"IrishTimes", "domain":"irishtimes.com", "is_passthrough":"1"},
+{"seller_id":"217571", "seller_type":"PUBLISHER", "name":"Jaewinter", "domain":"jaewinter.com", "is_passthrough":"1"},
+{"seller_id":"237708", "seller_type":"PUBLISHER", "name":"kannadaPrabha", "domain":"epmltd.com", "is_passthrough":"1"},
+{"seller_id":"199737", "seller_type":"PUBLISHER", "name":"Vikatan", "domain":"vikatan.com", "is_passthrough":"1"},
+{"seller_id":"234363", "seller_type":"PUBLISHER", "name":"kapook", "domain":"kapook.com", "is_passthrough":"1"},
+{"seller_id":"240448", "seller_type":"PUBLISHER", "name":"Nation", "domain":"nationmedia.com", "is_passthrough":"1"},
+{"seller_id":"207706", "seller_type":"PUBLISHER", "name":"NDTV", "domain":"ndtv.com", "is_passthrough":"1"},
+{"seller_id":"222100", "seller_type":"PUBLISHER", "name":"NewIndianExpress", "domain":"epmltd.com", "is_passthrough":"1"},
+{"seller_id":"237745", "seller_type":"PUBLISHER", "name":"News24online", "domain":"bagnetwork24.in", "is_passthrough":"1"},
+{"seller_id":"328307", "seller_type":"PUBLISHER", "name":"Newsminute", "domain":"thenewsminute.com", "is_passthrough":"1"},
+{"seller_id":"3", "seller_type":"PUBLISHER", "name":"ProthomAlo", "domain":"prothomalo.com", "is_passthrough":"1"},
+{"seller_id":"237709", "seller_type":"PUBLISHER", "name":"Samachar", "domain":"sifytechnologies.com", "is_passthrough":"1"},
+{"seller_id":"237706", "seller_type":"PUBLISHER", "name":"Sify", "domain":"sifytechnologies.com", "is_passthrough":"1"},
+{"seller_id":"200146", "seller_type":"PUBLISHER", "name":"Softonic", "domain":"en.softonic.com", "is_passthrough":"1"},
+{"seller_id":"250185", "seller_type":"PUBLISHER", "name":"Sportskeeda", "domain":"sportskeeda.com", "is_passthrough":"1"},
+{"seller_id":"235267", "seller_type":"PUBLISHER", "name":"Tarladalal", "domain":"tarladalal.com", "is_passthrough":"1"},
+{"seller_id":"315358", "seller_type":"PUBLISHER", "name":"TheHealthSite", "domain":"esselgroup.com", "is_passthrough":"1"},
+{"seller_id":"315357", "seller_type":"PUBLISHER", "name":"Zeebiz", "domain":"esselgroup.com", "is_passthrough":"1"},
+{"seller_id":"223894", "seller_type":"PUBLISHER", "name":"Viewlorium", "domain":"viewlorium.com", "is_passthrough":"1"},
+{"seller_id":"242385", "seller_type":"PUBLISHER", "name":"Varthabharati", "domain":"varthabharati.in", "is_passthrough":"1"},
+{"seller_id":"206425", "seller_type":"PUBLISHER", "name":"NewsABSCBN", "domain":"abs-cbn.com", "is_passthrough":"1"},
+{"seller_id":"207707", "seller_type":"PUBLISHER", "name":"TimesInternet", "domain":"timesinternet.in", "is_passthrough":"1"},
+{"seller_id":"27", "seller_type":"PUBLISHER", "name":"TimesInternet", "domain":"timesinternet.in", "is_passthrough":"1"}
+
+
+
+    ]
+}

@@ -1,0 +1,3439 @@
+{
+	"contact_email":"rtbsupport@nativo.com",
+	"contact_address":"Nativo, Inc., 100 N. Pacific Coast Highway, 10th Floor, El Segundo, CA 90245",
+	"version":1.0,
+	"identifiers":[  
+		{
+			"name":"TAG-ID",
+			"value":"59521ca7cc5e9fee"
+		}
+	],
+	"sellers":[
+		{
+			"seller_id":"14",
+			"name":"NA Subaru Impreza Owners Club",
+			"domain":"forums.nasioc.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"24",
+			"name":"VerticalScope Inc.",
+			"domain":"verticalscope.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"25",
+			"name":"Internet Brands",
+			"domain":"internetbrands.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"136",
+			"name":"Entrepreneur Media Inc.",
+			"domain":"entrepreneur.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"192",
+			"name":"Insider News Group Inc",
+			"domain":"insidernews.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"730",
+			"name":"Motor Trend Group",
+			"domain":"motortrendgroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"1082",
+			"name":"Trusted Media Brands - US",
+			"domain":"enthusiastbrands.rda.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"1092",
+			"name":"InvestorPlace Media LLC",
+			"domain":"investorplace.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"1150",
+			"name":"Bonnier Active Interest",
+			"domain":"bonniercorp.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"1161",
+			"name":"McClatchy Interactive",
+			"domain":"mcclatchy.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"1182",
+			"name":"DowJones",
+			"domain":"dowjones.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"1277",
+			"name":"The Business Journals",
+			"domain":"bizjournals.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"1281",
+			"name":"Bonnier Men's Group",
+			"domain":"bonniercorp.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"1282",
+			"name":"Bonnier Working Mother",
+			"domain":"bonniercorp.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"1304",
+			"name":"Lee Enterprises",
+			"domain":"lee.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2324",
+			"name":"Barstool Sports",
+			"domain":"barstoolsports.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2326",
+			"name":"Schurz Communications, Inc.",
+			"domain":"schurz.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2333",
+			"name":"ValueWalk (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2344",
+			"name":"HNP | SPI",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2345",
+			"name":"Bonnier Saveur",
+			"domain":"bonniercorp.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2380",
+			"name":"High Gear Media",
+			"domain":"highgear.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2393",
+			"name":"Internet Brands Home",
+			"domain":"internetbrands.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2400",
+			"name":"The Day",
+			"domain":"theday.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2406",
+			"name":"Chace Media LLC",
+			"domain":"bcmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2428",
+			"name":"HNP | CMG | CT Sites",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2429",
+			"name":"HNP | BEN",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2434",
+			"name":"HNP | CMG | NH Sites",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2436",
+			"name":"HNP | ATU",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2437",
+			"name":"HNP | SFC",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2438",
+			"name":"HNP | SAE",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2440",
+			"name":"Metro New York",
+			"domain":"metro.us",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2444",
+			"name":"HNP | HOC",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2447",
+			"name":"Newsweek Media Group",
+			"domain":"ibtimes.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2448",
+			"name":"Newsday",
+			"domain":"newsday.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2452",
+			"name":"Forum Communications",
+			"domain":"forumcomm.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2473",
+			"name":"The PostGame",
+			"domain":"thepostgame.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"2500",
+			"name":"Native Ads, Inc",
+			"domain":"nativeads.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3503",
+			"name":"The Online Fisherman",
+			"domain":"theonlinefisherman.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3505",
+			"name":"NPG",
+			"domain":"npgco.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3519",
+			"name":"Shandy Media",
+			"domain":"shandymedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3527",
+			"name":"The Tampa Media Group",
+			"domain":"tampabay.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3529",
+			"name":"US News & World Report",
+			"domain":"usnews.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3566",
+			"name":"AXS Digital",
+			"domain":"axs.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3592",
+			"name":"Morgan Murphy Media",
+			"domain":"morganmurphymedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3596",
+			"name":"Big Fish Works",
+			"domain":"bigfishworks.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3604",
+			"name":"Fanatix",
+			"domain":"fanatix.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3622",
+			"name":"Digital First Media",
+			"domain":"digitalfirstmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3628",
+			"name":"Buzzworthy",
+			"domain":"buzzworthy.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3634",
+			"name":"Shaw Media",
+			"domain":"shawmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3636",
+			"name":"Ae3Media",
+			"domain":"ae3media.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3643",
+			"name":"The Advocate",
+			"domain":"theadvocate.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3646",
+			"name":"OregonLive.com",
+			"domain":"advance.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3647",
+			"name":"Beliefnet.com, Inc.",
+			"domain":"beliefnet.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3650",
+			"name":"Viumbe LLC",
+			"domain":"Literally.media",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3652",
+			"name":"Hava Media",
+			"domain":"releases.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3672",
+			"name":"RockYou, Inc.",
+			"domain":"littlethings.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3686",
+			"name":"This Old House Ventures",
+			"domain":"thisoldhouse.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3687",
+			"name":"NY Daily News",
+			"domain":"tronc.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3689",
+			"name":"Style Craze Beautycare Pvt Ltd.",
+			"domain":"Stylecraze.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3694",
+			"name":"Your Black World Network",
+			"domain":"yourblackworld.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3711",
+			"name":"BrainJolt LLC",
+			"domain":"brainjolt.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3716",
+			"name":"Z Lifestyle - World Lifestyle",
+			"domain":"worldlifestyle.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3723",
+			"name":"ADVFN",
+			"domain":"uk.advfn.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3730",
+			"name":"Snack Media",
+			"domain":"snack-media.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3762",
+			"name":"Older is Wiser (Was: 50 Connect)",
+			"domain":"olderiswiser.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3770",
+			"name":"Chicago Sun Times",
+			"domain":"chicago.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3782",
+			"name":"Charleston Newspapers",
+			"domain":"wvgazette.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3798",
+			"name":"Attitude",
+			"domain":"attitude.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3807",
+			"name":"EmpowHER",
+			"domain":"empowher.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3815",
+			"name":"Socialholic Network Inc",
+			"domain":"socialholicnetwork.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3818",
+			"name":"Def Pen Media, LLC",
+			"domain":"defpen.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3831",
+			"name":"PBH Network",
+			"domain":"pbhnetwork.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3833",
+			"name":"Washington Times",
+			"domain":"washingtontimes.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3863",
+			"name":"FoodBeast",
+			"domain":"foodbeast.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3866",
+			"name":"Koreaboo, Inc.",
+			"domain":"koreaboo.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3870",
+			"name":"AL.com",
+			"domain":"advance.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3871",
+			"name":"Cleveland.com",
+			"domain":"advance.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3872",
+			"name":"Lehighvalleylive.com",
+			"domain":"advance.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3873",
+			"name":"MassLive.com",
+			"domain":"advance.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3874",
+			"name":"MLive.com",
+			"domain":"advance.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3875",
+			"name":"NJ.com",
+			"domain":"advance.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3877",
+			"name":"PennLive.com",
+			"domain":"advance.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3878",
+			"name":"SILive.com",
+			"domain":"advance.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3879",
+			"name":"Syracuse.com",
+			"domain":"advance.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3881",
+			"name":"Bauer UK",
+			"domain":"bauermedia.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3884",
+			"name":"Leviathan Media LLC",
+			"domain":"gayety.co",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3887",
+			"name":"National Review",
+			"domain":"nationalreview.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3900",
+			"name":"Golf News Net",
+			"domain":"thegolfnewsnet.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3901",
+			"name":"Study Mode, LLC.",
+			"domain":"studymode.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3935",
+			"name":"Communities Digital News, LLC",
+			"domain":"commdiginews.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3937",
+			"name":"Bonnier Motorcycle",
+			"domain":"bonniercorp.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3953",
+			"name":"Classifieds Search, LLC",
+			"domain":"craigclassifiedads.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3962",
+			"name":"UPI",
+			"domain":"upi.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3964",
+			"name":"CDKitchen, Inc.",
+			"domain":"cdkitchen.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3965",
+			"name":"Ballantine Communications",
+			"domain":"bcimedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3966",
+			"name":"IDG Communications",
+			"domain":"idg.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"3993",
+			"name":"New Journal Enterprise",
+			"domain":"camdennewjournal.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4008",
+			"name":"The Gazette",
+			"domain":"thegazette.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4010",
+			"name":"914Media",
+			"domain":"914media.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4046",
+			"name":"Salem Web Network",
+			"domain":"salemwebnetwork.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4080",
+			"name":"Phandroid",
+			"domain":"phandroid.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4086",
+			"name":"Techlicious",
+			"domain":"techlicious.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4102",
+			"name":"Graham Media",
+			"domain":"grahammedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4103",
+			"name":"Lonely Planet",
+			"domain":"lonelyplanet.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4106",
+			"name":"Gay Times",
+			"domain":"gaytimes.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4117",
+			"name":"Bangor Daily News Maine",
+			"domain":"bangordailynews.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4118",
+			"name":"IDG UK",
+			"domain":"idg.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4123",
+			"name":"Press Democrat",
+			"domain":"sonomamediainvestments.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4127",
+			"name":"Telling Ministries LLC - Pub",
+			"domain":"whatchristianswanttoknow.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4130",
+			"name":"24/7 Wall St.",
+			"domain":"247wallst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4141",
+			"name":"Digital Throttle",
+			"domain":"digitalthrottle.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4146",
+			"name":"Inside the Hall.",
+			"domain":"insidethehall.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4161",
+			"name":"MovieWeb",
+			"domain":"watchrmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4167",
+			"name":"Digital First Media – SCNG",
+			"domain":"digitalfirstmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4168",
+			"name":"Digital First Media – BANG",
+			"domain":"digitalfirstmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4169",
+			"name":"Digital First Media – TWIN CITIES",
+			"domain":"digitalfirstmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4170",
+			"name":"Digital First Media – DENVER",
+			"domain":"digitalfirstmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4172",
+			"name":"Curiosity",
+			"domain":"curiosity.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4173",
+			"name":"Hypable",
+			"domain":"hypable.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4181",
+			"name":"Bonnier Outdoor Group",
+			"domain":"bonniercorp.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4190",
+			"name":"Hearst TV Broadcasting",
+			"domain":"hearsttv.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4194",
+			"name":"Microdigital Consulting Corporation.",
+			"domain":"microdigitalusa.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4205",
+			"name":"Some Spider",
+			"domain":"somespider.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4211",
+			"name":"Grocery Coupon Network",
+			"domain":"grocerycouponnetwork.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4228",
+			"name":"Hang Sang Inc pub",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4229",
+			"name":"Southern Minn Media",
+			"domain":"southernminn.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4232",
+			"name":"Sonoma News",
+			"domain":"sonomamediainvestments.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4233",
+			"name":"Petaluma 360",
+			"domain":"sonomamediainvestments.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4234",
+			"name":"North Bay Business Journal",
+			"domain":"sonomamediainvestments.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4243",
+			"name":"The Hill",
+			"domain":"thehill.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4255",
+			"name":"Salon",
+			"domain":"salon.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4262",
+			"name":"NFLrt",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4276",
+			"name":"Interactive Media",
+			"domain":"stripes.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4287",
+			"name":"LifeZette",
+			"domain":"lifezette.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4304",
+			"name":"Heritage Publications",
+			"domain":"tricubemedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4308",
+			"name":"Live Smarter Media",
+			"domain":"livesmarter.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4313",
+			"name":"PinkNews",
+			"domain":"pinknews.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4315",
+			"name":"Heartland Media",
+			"domain":"heartlandmediagroup.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4322",
+			"name":"Hemmings",
+			"domain":"hemmings.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4326",
+			"name":"QuinStreet",
+			"domain":"quinstreet.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4340",
+			"name":"AP",
+			"domain":"ap.org",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4341",
+			"name":"Z Lifestyle - Todays Buzz",
+			"domain":"worldlifestyle.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4351",
+			"name":"GT Spirit Limited",
+			"domain":"gtspirit.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4371",
+			"name":"Awesomer Media.",
+			"domain":"theawesomer.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4372",
+			"name":"APG Media of Wisconsin",
+			"domain":"adamspg.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4389",
+			"name":"Nexstar",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4393",
+			"name":"Taunton Press",
+			"domain":"taunton.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4400",
+			"name":"UberGizmo",
+			"domain":"ubergizmo.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4411",
+			"name":"SFG Media Group, LLC",
+			"domain":"sfglobe.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4415",
+			"name":"Task and Purpose",
+			"domain":"taskandpurpose.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4423",
+			"name":"Paxton",
+			"domain":"wpsdlocal6.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4452",
+			"name":"WEHCO Media",
+			"domain":"wehco.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4456",
+			"name":"IB Times - UK",
+			"domain":"ibtimes.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4483",
+			"name":"Red Tricycle Pub",
+			"domain":"redtri.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4494",
+			"name":"Larry Brown",
+			"domain":"larrybrownsports.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4508",
+			"name":"Literally Media",
+			"domain":"Literally.media",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4524",
+			"name":"Carbon Media",
+			"domain":"carbonmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4531",
+			"name":"EMIS Group",
+			"domain":"emisgroupplc.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4542",
+			"name":"Whalerock",
+			"domain":"whalerockindustries.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4554",
+			"name":"Yan Fortin Pub",
+			"domain":"geeksaresexy.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4559",
+			"name":"Curse",
+			"domain":"Curse.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4560",
+			"name":"Engage Media LLC.",
+			"domain":"lover.ly",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4572",
+			"name":"Investing Media Solutions (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4584",
+			"name":"Dealbreaker (IMS)",
+			"domain":"dealbreaker.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4585",
+			"name":"Dividend Channel (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4589",
+			"name":"Slope of Hope (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4602",
+			"name":"Clear Admit",
+			"domain":"clearadmit.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4610",
+			"name":"Soledad Media Group.",
+			"domain":"soledadmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4611",
+			"name":"Internet Brands - Home",
+			"domain":"internetbrands.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4617",
+			"name":"Road Chaser.",
+			"domain":"tflcar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4630",
+			"name":"Market Intelligence Center (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4640",
+			"name":"Yormedia",
+			"domain":"yormedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4652",
+			"name":"Cox Atlanta",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4667",
+			"name":"Just A Pinch",
+			"domain":"justapinch.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4681",
+			"name":"Raycom Media",
+			"domain":"raycommedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4690",
+			"name":"Twin Cities Public Television",
+			"domain":"nextavenue.org",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4703",
+			"name":"LearnBonds (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4705",
+			"name":"Chip Chick",
+			"domain":"chipchick.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4710",
+			"name":"Canada Stock Channel (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4711",
+			"name":"Energy Stock Channel (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4712",
+			"name":"Preferred Stock Channel (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4713",
+			"name":"ETF Channel (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4714",
+			"name":"Metals Channel (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4715",
+			"name":"The Free Postcode Lottery",
+			"domain":"freepostcodelottery.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4720",
+			"name":"TRONC",
+			"domain":"tronc.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4733",
+			"name":"CurtCo Robb Media",
+			"domain":"robbreport.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4735",
+			"name":"PubGalaxy",
+			"domain":"pubgalaxy.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4736",
+			"name":"The Fiscal Times (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4745",
+			"name":"IB Times - India",
+			"domain":"ibtimes.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4749",
+			"name":"Internet Brands - Travel",
+			"domain":"fodors.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4751",
+			"name":"Holdings Channel (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4754",
+			"name":"Journal Communications",
+			"domain":"jnlcom.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4761",
+			"name":"Stock Options Channel",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4762",
+			"name":"CML News (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4764",
+			"name":"The Online Investor (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4779",
+			"name":"Woodward Communications",
+			"domain":"TelegraphHerald.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4780",
+			"name":"Abrams Media",
+			"domain":"abrams-media.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4787",
+			"name":"Bonhill Group PLC (Vitesse)",
+			"domain":"vitessemedia.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4788",
+			"name":"Zergwatch (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4789",
+			"name":"Wealth Insider Alert (IMS)",
+			"domain":"wealthinsideralert.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4792",
+			"name":"RJ Media",
+			"domain":"myrecordjournal.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4796",
+			"name":"Liquor.com",
+			"domain":"liquor.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4808",
+			"name":"Metrocorp Inc - Philly",
+			"domain":"phillymag.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4810",
+			"name":"Good4Utah",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4811",
+			"name":"Local SYR",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4812",
+			"name":"Las Vegas Now",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4813",
+			"name":"Arkansas Matters",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4815",
+			"name":"Your4State",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4816",
+			"name":"We Are Central PA",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4817",
+			"name":"Big Country Homepage",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4818",
+			"name":"Tristate Homepage",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4819",
+			"name":"Your Erie",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4820",
+			"name":"Ozarks First",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4821",
+			"name":"Rochester First",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4826",
+			"name":"Futures Mag (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4829",
+			"name":"Fin Alternatives (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4842",
+			"name":"Pure Ventures Media",
+			"domain":"pureventuresmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4845",
+			"name":"Cox TV Atlanta",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4855",
+			"name":"Cox TV Dayton",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4856",
+			"name":"See It Market (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4858",
+			"name":"Daily Wire",
+			"domain":"forwardpublishing.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4861",
+			"name":"Playbill",
+			"domain":"playbill.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4865",
+			"name":"Earth.com, Inc.",
+			"domain":"earth.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4867",
+			"name":"eNotes.com Inc.",
+			"domain":"enotes.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4879",
+			"name":"MovieMaker Media, LLC (current)",
+			"domain":"moviemaker.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4880",
+			"name":"Banker and Tradesman (IMS)",
+			"domain":"bankerandtradesman.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4882",
+			"name":"Cox Radio Georgia",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4883",
+			"name":"Honolulu Star Advertiser",
+			"domain":"staradvertiser.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4895",
+			"name":"Airfind",
+			"domain":"airfind.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4897",
+			"name":"Hello! Magazine UK",
+			"domain":"tan-media.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4922",
+			"name":"Breaking Muscle",
+			"domain":"breakingmuscle.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4927",
+			"name":"Star Tribune",
+			"domain":"startribune.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4929",
+			"name":"NWA Homepage",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4930",
+			"name":"MyTwinTiers",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4931",
+			"name":"East Texas Matters",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4932",
+			"name":"Texomas Homepage",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4933",
+			"name":"Illinois Homepage",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4934",
+			"name":"Everything Lubbock",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4936",
+			"name":"My Panhandle",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4937",
+			"name":"My ArkLaMiss",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4938",
+			"name":"My Champlain Valley",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4939",
+			"name":"El Paso Proud",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4940",
+			"name":"My Stateline",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4941",
+			"name":"Your Central Valley",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4942",
+			"name":"My High Plains",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4943",
+			"name":"Siouxland Matters",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4944",
+			"name":"PA Homepage",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4945",
+			"name":"We Are Green Bay",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4946",
+			"name":"Central Illinois Proud",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4947",
+			"name":"Local Memphis",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4950",
+			"name":"Freestar",
+			"domain":"freestar.io",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4952",
+			"name":"The Daily Mail",
+			"domain":"tan-media.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4955",
+			"name":"Marina Media",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4959",
+			"name":"Metrocorp Inc - Boston",
+			"domain":"metrocorpmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4962",
+			"name":"Sonoma Mag",
+			"domain":"sonomamediainvestments.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4963",
+			"name":"Belo Media Group",
+			"domain":"belomediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4965",
+			"name":"Viral Say",
+			"domain":"marqueemultimediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4969",
+			"name":"RTM TV",
+			"domain":"rtmtv.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4971",
+			"name":"Cox Radio New York",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4972",
+			"name":"Cox Radio Florida",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4973",
+			"name":"Cox Radio Oklahoma",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4988",
+			"name":"Investment Watch Blog",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4993",
+			"name":"Weigel Broadcasting",
+			"domain":"metv.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4995",
+			"name":"ArkLaTex Homepage",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4997",
+			"name":"Binghamton Homepage",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4998",
+			"name":"BRProud",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"4999",
+			"name":"CenLaNow",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5000",
+			"name":"CNY Homepage",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5003",
+			"name":"Uncoached Corp",
+			"domain":"Uncoached.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5004",
+			"name":"Chicago Magazine",
+			"domain":"tronc.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5005",
+			"name":"TalkMarkets (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5006",
+			"name":"Investing Haven (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5007",
+			"name":"Wolf Street (IMS)",
+			"domain":"wolfstreet.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5008",
+			"name":"Novelty Media",
+			"domain":"novelty.media",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5012",
+			"name":"ConchoValleyHomepage",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5013",
+			"name":"Audience Drive",
+			"domain":"audiencedrive.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5020",
+			"name":"Pittsburgh Post Gazette",
+			"domain":"post-gazette.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5027",
+			"name":"Pioneer News Group",
+			"domain":"pioneernewsgroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5031",
+			"name":"Wrestling Inc",
+			"domain":"wrestlinginc.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5034",
+			"name":"Modern Mom",
+			"domain":"modernmom.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5041",
+			"name":"GateHouse US-East",
+			"domain":"gatehouse.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5042",
+			"name":"GateHouse US-Central",
+			"domain":"gatehouse.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5043",
+			"name":"GateHouse US-West",
+			"domain":"gatehouse.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5049",
+			"name":"Teslarati",
+			"domain":"teslarati.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5050",
+			"name":"Blavity Inc.",
+			"domain":"blavity.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5063",
+			"name":"The Library for Smart Investors (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5064",
+			"name":"Seattle Times Affiliates",
+			"domain":"yakimaherald.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5065",
+			"name":"Barrons",
+			"domain":"barrons.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5071",
+			"name":"MarketExclusive (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5072",
+			"name":"Marketwatch",
+			"domain":"dowjones.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5077",
+			"name":"Sortable",
+			"domain":"sortable.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5079",
+			"name":"Cox Radio Houston",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5080",
+			"name":"Comeback Media",
+			"domain":"TheComeback.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5083",
+			"name":"Dothan First",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5084",
+			"name":"Four States Homepage",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5085",
+			"name":"Inform NNY",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5086",
+			"name":"MyCentTX",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5087",
+			"name":"My Wabash Valley",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5088",
+			"name":"RGV Proud",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5089",
+			"name":"Rocket City Now",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5090",
+			"name":"Up Matters",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5091",
+			"name":"Virginia First",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5092",
+			"name":"We Are Iowa",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5093",
+			"name":"Western Slope Now",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5094",
+			"name":"WI Proud",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5095",
+			"name":"Your Big Sky",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5096",
+			"name":"Your PHX",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5098",
+			"name":"Our Quad Cities",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5099",
+			"name":"Your Basin",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5100",
+			"name":"Strive Media",
+			"domain":"tripstodiscover.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5101",
+			"name":"Aleteia",
+			"domain":"aleteia.org",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5112",
+			"name":"HomeLife Media",
+			"domain":"homelifemedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5114",
+			"name":"WCMH-TV",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5118",
+			"name":"Sick Chirpse",
+			"domain":"sickchirpse.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5119",
+			"name":"Cox Radio San Antonio",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5120",
+			"name":"Francium",
+			"domain":"franciumcorp.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5121",
+			"name":"Business Reporter - A Telegraph Publication",
+			"domain":"tan-media.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5122",
+			"name":"Media DC",
+			"domain":"mediadc.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5133",
+			"name":"Belvoir",
+			"domain":"belvoir.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5134",
+			"name":"Bumpclick, LLC",
+			"domain":"wetpaint.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5135",
+			"name":"Hot New Hip Hop",
+			"domain":"hotnewhiphop.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5136",
+			"name":"KELO",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5138",
+			"name":"Wazimo",
+			"domain":"wazimo.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5139",
+			"name":"Swirled",
+			"domain":"arcamax.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5140",
+			"name":"KHON",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5141",
+			"name":"KLFY",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5143",
+			"name":"KOIN",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5144",
+			"name":"KRON",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5145",
+			"name":"KRQE",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5146",
+			"name":"KSNT",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5147",
+			"name":"KSNW",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5148",
+			"name":"KXAN",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5149",
+			"name":"KXRM",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5150",
+			"name":"WANE",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5151",
+			"name":"WATE",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5152",
+			"name":"WAVY",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5154",
+			"name":"WBTW",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5155",
+			"name":"WCBD",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5157",
+			"name":"WDTN",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5158",
+			"name":"WFLA",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5160",
+			"name":"WHTM",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5161",
+			"name":"WIAT",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5162",
+			"name":"WISH",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5163",
+			"name":"WIVB",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5164",
+			"name":"WJBF",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5165",
+			"name":"WJHL",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5166",
+			"name":"WJTV",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5167",
+			"name":"WKBN",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5168",
+			"name":"WKRG",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5169",
+			"name":"WKRN",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5170",
+			"name":"WLNS",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5172",
+			"name":"WNCN",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5173",
+			"name":"WNCT",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5175",
+			"name":"WOOD",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5177",
+			"name":"WPRI",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5178",
+			"name":"WRBL",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5179",
+			"name":"WRIC",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5180",
+			"name":"WSAV",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5181",
+			"name":"WSPA",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5182",
+			"name":"WTEN",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5183",
+			"name":"WTNH",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5185",
+			"name":"WWLP",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5186",
+			"name":"WYTV",
+			"domain":"nexstar.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5195",
+			"name":"KDVR",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5196",
+			"name":"WPIX New York",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5197",
+			"name":"KTLA Los Angeles",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5198",
+			"name":"WGN TV Chicago",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5199",
+			"name":"KCPQ Seattle",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5201",
+			"name":"WJW Cleveland",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5202",
+			"name":"KTXL Sacramento",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5203",
+			"name":"KSWB San Diego",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5204",
+			"name":"KPLR St. Louis",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5205",
+			"name":"KTVI St. Louis",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5206",
+			"name":"WXIN Indianapolis",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5207",
+			"name":"WTIC Hartford",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5208",
+			"name":"WDAF Kansas City",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5209",
+			"name":"KSTU Salt Lake City",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5210",
+			"name":"WITI Milwaukee",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5211",
+			"name":"WXMI Grand Rapids",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5212",
+			"name":"KFOR Oklahoma City",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5213",
+			"name":"WPMT Harrisburg",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5214",
+			"name":"WTKR Norfolk",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5215",
+			"name":"WGHP North Carolina",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5216",
+			"name":"WREG Memphis",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5217",
+			"name":"WGNO New Orleans",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5218",
+			"name":"WNEP Wilkes-Barre/Scranton",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5219",
+			"name":"WTVR Richmond",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5220",
+			"name":"WHO Des Moines",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5221",
+			"name":"WHNT Hunstville",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5222",
+			"name":"WQAD Moline",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5223",
+			"name":"KFSM Fort Smith",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5224",
+			"name":"WGN-AM Chicago",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5225",
+			"name":"KIAH Houston",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5226",
+			"name":"KDAF Dallas",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5227",
+			"name":"WTTV Indianapolis",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5228",
+			"name":"WPHL Philadelphia",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5229",
+			"name":"WDCW Washington DC",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5231",
+			"name":"WSFL South Florida",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5236",
+			"name":"CW32 Portland",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5237",
+			"name":"Tribune Media - TV by the Numbers",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5239",
+			"name":"Tribune Media - Screener TV",
+			"domain":"tribunebroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5244",
+			"name":"Psychology Today",
+			"domain":"psychologydictionary.org",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5247",
+			"name":"495 Communications",
+			"domain":"495communications.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5250",
+			"name":"Viralised",
+			"domain":"viralised.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5284",
+			"name":"Reverse Media Group",
+			"domain":"buzzdrives.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5287",
+			"name":"Twin Media Group",
+			"domain":"divamag.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5288",
+			"name":"Griffin Communications",
+			"domain":"griffincommunications.net",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5291",
+			"name":"Rebellious Magazine",
+			"domain":"rebelliousmagazine.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5292",
+			"name":"Celtic Media Group",
+			"domain":"celticmediagroup.ie",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5293",
+			"name":"Noesis News (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5301",
+			"name":"Cox Radio Dayton",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5305",
+			"name":"ImpreMedia",
+			"domain":"impremedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5308",
+			"name":"HNP | MRT",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5309",
+			"name":"HNP | PDH",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5310",
+			"name":"HNP | MDN",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5311",
+			"name":"HNP | LMT",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5312",
+			"name":"HNP | EDW",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5313",
+			"name":"HNP | HDT",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5317",
+			"name":"Family Traveller",
+			"domain":"familytraveller.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5318",
+			"name":"Phillyvoice",
+			"domain":"phillyvoice.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5319",
+			"name":"Northbound Publishing",
+			"domain":"northboundpublishing.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5322",
+			"name":"H Code Media",
+			"domain":"hcodemedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5323",
+			"name":"Pet360",
+			"domain":"Pet360inc.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5327",
+			"name":"Grey State Ventures",
+			"domain":"greystateventures.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5328",
+			"name":"Market Chameleon (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5329",
+			"name":"Advisor Hub (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5333",
+			"name":"Outer Places",
+			"domain":"outerplaces.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5334",
+			"name":"Hive Media",
+			"domain":"hivemedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5335",
+			"name":"Media 122",
+			"domain":"media122.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5336",
+			"name":"New Dream Global (El Pais Uy)",
+			"domain":"elpais.com.uy",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5337",
+			"name":"Inquirer.com",
+			"domain":"inquirer.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5339",
+			"name":"Manta",
+			"domain":"manta.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5343",
+			"name":"VixCentral (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5346",
+			"name":"Cox Sports Verticals",
+			"domain":"coxmediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5352",
+			"name":"Prometheus Market Insights_(IMS)",
+			"domain":"prometheusmi.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5353",
+			"name":"TC Media - EN",
+			"domain":"saltwire.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5354",
+			"name":"Investors Hangout",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5357",
+			"name":"CNHI",
+			"domain":"cnhi.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5358",
+			"name":"Las Vegas Review-Journal",
+			"domain":"reviewjournal.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5359",
+			"name":"Inquisitr Ltd",
+			"domain":"inquisitr.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5361",
+			"name":"Straight Dope",
+			"domain":"chicago.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5362",
+			"name":"SBX Media",
+			"domain":"familyeducation.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5365",
+			"name":"Prize Deck",
+			"domain":"prizedeck.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5367",
+			"name":"Early Retirement Dude (IMS)",
+			"domain":"investingmediasolutions.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5369",
+			"name":"Daily Herald",
+			"domain":"dailyherald.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5370",
+			"name":"Wise Publishing",
+			"domain":"wisepublishing.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5371",
+			"name":"Morris Network",
+			"domain":"wxxv25.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5372",
+			"name":"Hoopla Digital",
+			"domain":"hoopladigital.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5374",
+			"name":"CrunchMind",
+			"domain":"crunchmind.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5375",
+			"name":"Luxury Lifestyle Magazine",
+			"domain":"luxurylifestylemag.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5376",
+			"name":"Brightcast",
+			"domain":"newarena.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5377",
+			"name":"HNP | TEL",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5378",
+			"name":"HNP | JJC",
+			"domain":"hearst.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5379",
+			"name":"Pick The Brain",
+			"domain":"pickthebrain.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5381",
+			"name":"Boston Globe",
+			"domain":"bostonglobe.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5383",
+			"name":"CIRBS, LLC",
+			"domain":"geeksp.in",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5386",
+			"name":"Brainye",
+			"domain":"brainye.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5389",
+			"name":"Florida Weekly Group",
+			"domain":"floridaweekly.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5390",
+			"name":"Keymash, LLC",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5393",
+			"name":"Morazi",
+			"domain":"travelfuntu.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5395",
+			"name":"eharmony",
+			"domain":"eharmony.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5396",
+			"name":"Sporcle",
+			"domain":"sporcle.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5399",
+			"name":"Gray Down",
+			"domain":"americanupbeat.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5402",
+			"name":"Team Sharp",
+			"domain":"eternallifestyle.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5403",
+			"name":"Dicionário inFormal",
+			"domain":"dicionarioinformal.com.br",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5404",
+			"name":"NHRA",
+			"domain":"nhra.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5406",
+			"name":"The Forward",
+			"domain":"theforward.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5407",
+			"name":"Worldation",
+			"domain":"rocketgeeks.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5409",
+			"name":"WorldStar Hip Hop",
+			"domain":"Worldstarhiphop.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5410",
+			"name":"The Kingdom Insider",
+			"domain":"thekingdominsider.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5411",
+			"name":"Seattle Times",
+			"domain":"seattletimes.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5413",
+			"name":"Everyday Health",
+			"domain":"everydayhealth.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5414",
+			"name":"Factinate",
+			"domain":"factinate.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5416",
+			"name":"Brulee Publishing",
+			"domain":"bruleemedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5419",
+			"name":"Future PLC",
+			"domain":"fourfourtwo.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5420",
+			"name":"Observer",
+			"domain":"observer.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5421",
+			"name":"Sandusky Newspaper Group",
+			"domain":"sanduskynewspapers.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5422",
+			"name":"Consequence Media",
+			"domain":"consequencemedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5423",
+			"name":"Sunset Magazine",
+			"domain":"sightlinemediagroup.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5425",
+			"name":"Slader",
+			"domain":"slader.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5426",
+			"name":"American Media Inc.",
+			"domain":"ami.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5428",
+			"name":"SheMedia",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5429",
+			"name":"Boone Newspapers",
+			"domain":"boonenewspapers.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5430",
+			"name":"One Country",
+			"domain":"onecountry.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5431",
+			"name":"Chase the Trend",
+			"domain":"viralised.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5434",
+			"name":"Pub Ocean",
+			"domain":"scribol.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5435",
+			"name":"Chalkboard Magazine",
+			"domain":"thechalkboardmag.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5436",
+			"name":"Flipboard",
+			"domain":"flipboard.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5437",
+			"name":"Chelsea Magazine Company",
+			"domain":"chelseamagazines.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5438",
+			"name":"LA Times",
+			"domain":"latimes.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5441",
+			"name":"Mundo Hispano Digital, Inc.",
+			"domain":"mundohispanico.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5448",
+			"name":"Mitu Networks",
+			"domain":"wearemitu.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5449",
+			"name":"She Finds",
+			"domain":"shefinds.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5452",
+			"name":"NineOneFour Media",
+			"domain":"nineonefourmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5453",
+			"name":"Taste of Reality",
+			"domain":"tasteofreality.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5461",
+			"name":"London Belongs to Me",
+			"domain":"londonbelongstome.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5462",
+			"name":"AccuWeather",
+			"domain":"accuweather.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5464",
+			"name":"GenYFinanceGuy (IMS)",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5465",
+			"name":"Bauer Xcel",
+			"domain":"us.bauerxcel.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5468",
+			"name":"IDG Sweden",
+			"domain":"cio.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5469",
+			"name":"YourTango",
+			"domain":"YourTango.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5472",
+			"name":"JGD Holdings",
+			"domain":"homestratosphere.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5473",
+			"name":"Working Mums Limited",
+			"domain":"workingmums.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5474",
+			"name":"News UK",
+			"domain":"news.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5475",
+			"name":"WBOY",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5476",
+			"name":"Newser, LLC.",
+			"domain":"newser.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5479",
+			"name":"Father.ly",
+			"domain":"fatherly.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5480",
+			"name":"VentureBeat",
+			"domain":"venturebeat.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5481",
+			"name":"Addkt",
+			"domain":"gradesaver.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5482",
+			"name":"Immediate Media",
+			"domain":"immediate.co.uk",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5483",
+			"name":"ABQ Journal",
+			"domain":"abqjournal.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5484",
+			"name":"Warner Bros Digital Media Sales",
+			"domain":"TMZ.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5486",
+			"name":"F+W Media",
+			"domain":"fwcommunity.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5487",
+			"name":"Random Elements Media",
+			"domain":"jetlaggin.ccom",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5491",
+			"name":"IDG Spain",
+			"domain":"cio.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5492",
+			"name":"Motiv31",
+			"domain":"motiv31.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5498",
+			"name":"Planet Sport",
+			"domain":"yormedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5503",
+			"name":"Caribou (GunDigest)",
+			"domain":"gundigest.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5507",
+			"name":"Healevate",
+			"domain":"healevate.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5508",
+			"name":"Margalit Media",
+			"domain":"dailyarmy.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5511",
+			"name":"World of Pets",
+			"domain":"worldofpetsmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5512",
+			"name":"323 Enterprises",
+			"domain":"perezhilton.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5514",
+			"name":"Coinage Report (IMS)",
+			"domain":"coinagereport.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5516",
+			"name":"Fortune Media",
+			"domain":"fortune.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5518",
+			"name":"The Daily Voice",
+			"domain":"dailyvoice.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5519",
+			"name":"Totally Her Media",
+			"domain":"totallyhermedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5520",
+			"name":"Mandatory Media",
+			"domain":"mandatory.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5524",
+			"name":"General Mills",
+			"domain":"generalmills.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5525",
+			"name":"Euronews",
+			"domain":"euronews.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5526",
+			"name":"New Scientist",
+			"domain":"newscientist.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5529",
+			"name":"Sitepoint",
+			"domain":"sitepoint.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5530",
+			"name":"KGET",
+			"domain":"kget.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5531",
+			"name":"Smartlify",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5533",
+			"name":"Owler",
+			"domain":"owler.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5535",
+			"name":"Townsquare Media",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5537",
+			"name":"KX Net",
+			"domain":"kxnet.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5538",
+			"name":"WTRF",
+			"domain":"wtrf.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5539",
+			"name":"WOWKTV",
+			"domain":"wowktv.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5543",
+			"name":"ClassicCars",
+			"domain":"journal.classiccars.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5545",
+			"name":"KARK",
+			"domain":"kark.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5546",
+			"name":"WV Illustrated",
+			"domain":"wvillustrated.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5548",
+			"name":"Glam Inc.",
+			"domain":"glam.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5550",
+			"name":"TIME USA LLC",
+			"domain":"time.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5553",
+			"name":"Daily Content",
+			"domain":"dailycontento.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5555",
+			"name":"Tunefind",
+			"domain":"tunefind.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5558",
+			"name":"Black Enterprise",
+			"domain":"blackenterprise.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5559",
+			"name":"Pulse 2.0",
+			"domain":"pulse2.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5566",
+			"name":"Ned Media",
+			"domain":"nedmedia.io/en",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5568",
+			"name":"Lola Digital Media LLC",
+			"domain":"loladigitalmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5569",
+			"name":"M. Roberts Media",
+			"domain":"mrobertsmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5570",
+			"name":"Glow Inc.",
+			"domain":"glowing.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5571",
+			"name":"RoughMaps",
+			"domain":"roughmaps.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5572",
+			"name":"Student hut",
+			"domain":"studenthut.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5573",
+			"name":"Media 10",
+			"domain":"media-ten.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5574",
+			"name":"WHDH",
+			"domain":"whdh.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5575",
+			"name":"WSVN",
+			"domain":"wsvn.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5576",
+			"name":"Awayn",
+			"domain":"awayn.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5577",
+			"name":"Wisdom Digital Media",
+			"domain":"wisdomdigital.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5578",
+			"name":"TweakTown - publisher level",
+			"domain":"tweaktown.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5579",
+			"name":"Jungle Creations",
+			"domain":"junglecreations.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5580",
+			"name":"First Media",
+			"domain":"first.media",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5581",
+			"name":"IDG Netherlands",
+			"domain":"idg.nl",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5583",
+			"name":"Capitol Broadcasting",
+			"domain":"capitolbroadcasting.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5584",
+			"name":"Big Think",
+			"domain":"bigthink.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5588",
+			"name":"Golden Peak Media",
+			"domain":"goldenpeakmedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5589",
+			"name":"Spine Media",
+			"domain":"spinemedia.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5590",
+			"name":"Digital Trends",
+			"domain":"digitaltrends.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5591",
+			"name":"Axios",
+			"domain":"axios.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5593",
+			"name":"System1",
+			"domain":"system1.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5594",
+			"name":"SJB Business Solutions",
+			"domain":"lakemchenryscanner.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5598",
+			"name":"Gazette (Media DC) ",
+			"domain":"gazette.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5603",
+			"name":"Pot Guide",
+			"domain":"potguide.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5604",
+			"name":"user wave",
+			"domain":"themostviral.com",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5606",
+			"name":"Samhällsnytt",
+			"domain":"samnytt.se",
+			"seller_type":"PUBLISHER"
+		},
+		{
+			"seller_id":"5611",
+			"name":"ResearchGate",
+			"domain":"researchgate.net",
+			"seller_type":"PUBLISHER"
+		}
+	]
+}

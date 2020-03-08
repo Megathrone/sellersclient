@@ -1,0 +1,115 @@
+{
+    "identifiers": [],
+    "contact_email": "Contact@minute.ly",
+    "contact_address": "",
+    "version": "1.0",
+    "sellers": [
+        {
+            "name": "Morgan Murphy Media",
+            "seller_id": "5e2ae29e28a061034f350834",
+            "seller_type": "PUBLISHER",
+            "domain": "morganmurphymedia.com"
+        },
+        {
+            "name": "The Big Think, Inc",
+            "seller_id": "5e2af85028a06158887e563c",
+            "seller_type": "PUBLISHER",
+            "domain": "bigthink.com"
+        },
+        {
+            "name": "News-Press & Gazette Co.",
+            "seller_id": "5e24229328a0614c90015c5f",
+            "seller_type": "PUBLISHER",
+            "domain": "npgco.com"
+        },
+        {
+            "name": "Accuweather Intl., LLC",
+            "seller_id": "5e01d22228a0615ab8503a82",
+            "seller_type": "PUBLISHER",
+            "domain": "accuweather.com"
+        },
+        {
+            "name": "IR Media Ventures",
+            "seller_id": "5e01d17b28a06170ac0f7d27",
+            "seller_type": "PUBLISHER",
+            "domain": "fatherly.com",
+            "comment": "Fatherly"
+        },
+        {
+            "name": "Charlton",
+            "seller_id": "5e01d06b28a06105e62dff76",
+            "seller_type": "PUBLISHER",
+            "domain": "sport1.maariv.co.il",
+            "comment": "Sport1 Maariv"
+        },
+        {
+            "name": "NFL Enterprises LLC",
+            "seller_id": "5e01d04b28a0611c1851fb3e",
+            "seller_type": "PUBLISHER",
+            "domain": "nfl.com"
+        },
+        {
+            "name": "RealClearPolitics, LLC",
+            "seller_id": "5e01d02328a0616332734dae",
+            "seller_type": "PUBLISHER",
+            "domain": "RealClearPolitics.com"
+        },
+        {
+            "name": "News 12 Interactive LLC",
+            "seller_id": "5e01c99e28a06109f91cb03e",
+            "seller_type": "PUBLISHER",
+            "domain": "news12.com"
+        },
+        {
+            "name": "R.G.E. Group Ltd.",
+            "seller_id": "5e01c55328a0614392221ac9",
+            "seller_type": "PUBLISHER",
+            "domain": "sport5.co.il"
+        },
+        {
+            "name": "Fox Sports Interactive Media, LLC",
+            "seller_id": "5e01c35628a06154e45e1e33",
+            "seller_type": "PUBLISHER",
+            "domain": "foxsports.com"
+        },
+        {
+            "name": "NASCAR Digital Media, LLC",
+            "seller_id": "5df77c5e28a06107087ca729",
+            "seller_type": "PUBLISHER",
+            "domain": "nascar.com"
+        },
+        {
+            "name": "ProSiebenSat.1 Media SE",
+            "seller_id": "5e01d14e28a06105e62dff7d",
+            "seller_type": "PUBLISHER",
+            "domain": "prosiebensat1.de",
+            "comment": "7sports"
+        },
+        {
+            "name": "Zee Media Corporation Limited",
+            "seller_id": "5e01c58228a0612fff73d4aa",
+            "seller_type": "PUBLISHER",
+            "domain": "zeemedia.in",
+            "comment": "zeenews"
+        },
+        {
+            "name": "Zee Entertainment Enterprises Limited",
+            "seller_id": "5e4d2c7628a0612c50670774",
+            "seller_type": "PUBLISHER",
+            "domain": "zeeentertainment.com",
+            "comment": "Bollywoodlife"
+        },
+        {
+            "name": "Israel Hayom",
+            "seller_id": "5e01d10028a06102113c1ca8",
+            "seller_type": "PUBLISHER",
+            "domain": "israelhayom.com"
+        },
+        {
+            "name": "I24NEWS SARL",
+            "seller_id": "5e5e227828a0616f322293fe",
+            "seller_type": "PUBLISHER",
+            "domain": "i24news.tv"
+        }
+    ]
+}

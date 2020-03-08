@@ -1,0 +1,257 @@
+{
+    "contact_address": "90 Eglinton Ave E Unit 805, Toronto, ON M4P 2Y3", 
+    "contact_email": "adops@enthusiastgaming.com",
+    "version": "1.0",
+    "sellers": [
+    {
+    "seller_id": "1", 
+    "name": "thesimsresource.com", 
+    "domain": "thesimsresource.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "2", 
+    "name": "bulbapedia.com", 
+    "domain": "bulbapedia.bulbagarden.net", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "3", 
+    "name": "CAD-Comic.com", 
+    "domain": "CAD-Comic.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "4", 
+    "name": "Daily Esports", 
+    "domain": "dailyesports.gg", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "5", 
+    "name": "Destructoid", 
+    "domain": "destructoid.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "6", 
+    "name": "DiabloII", 
+    "domain": "diabloii.net", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "7", 
+    "name": "DSO Gaming", 
+    "domain": "dsogaming.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "8", 
+    "name": "DiabloWiki", 
+    "domain": "diablowiki.net", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "9", 
+    "name": "Escapist Magazine", 
+    "domain": "escapistmagazine.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "10", 
+    "name": "Gematsu", 
+    "domain": "gematsu.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "11", 
+    "name": "Gamers Heroes", 
+    "domain": "gamersheroes.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "12", 
+    "name": "GTA5-Mods", 
+    "domain": "gta5-mods.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "13", 
+    "name": "Icy Veins", 
+    "domain": "icy-veins.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "14", 
+    "name": "IO Games", 
+    "domain": "iogames.space", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "15", 
+    "name": "Moby Games", 
+    "domain": "mobygames.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "16", 
+    "name": "N4G", 
+    "domain": "n4g.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "17", 
+    "name": "Nintendo Enthusiast", 
+    "domain": "nintendoenthusiast.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "18", 
+    "name": "Nintendo Everything", 
+    "domain": "nintendoeverything.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "19", 
+    "name": "Nexus Mods", 
+    "domain": "nexusmods.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "20", 
+    "name": "Operation Sports", 
+    "domain": "operationsports.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "21", 
+    "name": "PCInvasion", 
+    "domain": "pcinvasion.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "22", 
+    "name": "Planet Destiny", 
+    "domain": "planetdestiny.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "23", 
+    "name": "POE Vault", 
+    "domain": "poe-vault.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "24", 
+    "name": "RankedBoost", 
+    "domain": "rankedboost.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "25", 
+    "name": "SnafuComics", 
+    "domain": "snafu-comics.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "26", 
+    "name": "The Gamer Cat", 
+    "domain": "thegamercat.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "27", 
+    "name": "Typeracer", 
+    "domain": "typeracer.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "28", 
+    "name": "GamingBolt", 
+    "domain": "gamingbolt.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "29", 
+    "name": "GamingStreet", 
+    "domain": "gamingstreet.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "30", 
+    "name": "Smashboards", 
+    "domain": "smashboards.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "31", 
+    "name": "Squidboard", 
+    "domain": "squidboards.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "32", 
+    "name": "Little Big Snake", 
+    "domain": "littlebigsnake.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "33", 
+    "name": "ClutchPoints", 
+    "domain": "clutchpoints.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "34", 
+    "name": "Prima Games", 
+    "domain": "primagames.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "35", 
+    "name": "Open Critic", 
+    "domain": "opencritic.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "36", 
+    "name": "Exophase", 
+    "domain": "exophase.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "37", 
+    "name": "DestinyLFG", 
+    "domain": "destinylfg.net", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "38", 
+    "name": "Retronauts", 
+    "domain": "retronauts.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "39", 
+    "name": "VGBoxArt", 
+    "domain": "vgboxart.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "40", 
+    "name": "The Gamer Access", 
+    "domain": "thegameraccess.com", 
+    "seller_type": "PUBLISHER"
+    },
+    {
+    "seller_id": "41", 
+    "name": "Gamer Professionals", 
+    "domain": "gamerpros.co", 
+    "seller_type": "PUBLISHER"
+    },{
+    "seller_id": "42", 
+    "name": "EXP.GG", 
+    "domain": "exp.gg", 
+    "seller_type": "PUBLISHER"
+    } ]
+    }

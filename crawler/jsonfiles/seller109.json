@@ -1,0 +1,1976 @@
+{
+	"version": 1,
+	"identifiers": [
+		{
+			"name": "TAG-ID",
+			"value": "79929e88b2ba73bc"
+		}
+	],
+	"sellers": [
+		{
+			"seller_id": "5cefb4cbef78e40001337ff8",
+			"name": "Atomiq_Brands_Adv",
+			"domain": "atomiq.co",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "5cf5024532b6000001341e56",
+			"name": "Ubisoft",
+			"domain": "ubisoft.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "5ae6dc69487bb70002000001",
+			"name": "Redbrick_ASW2018_Video",
+			"domain": "rdbrck.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "5ce55a61802f5600016210dd",
+			"name": "Overwolf",
+			"domain": "overwolf.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "148789",
+			"name": "Blast 2 Fun Games",
+			"domain": "ilyon.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "128580",
+			"name": "Word Puzzle Games",
+			"domain": "zenjoy.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "255621",
+			"name": "Soodex Labs",
+			"domain": "soodexlabs.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "186311",
+			"name": "ME2ZEN Limited",
+			"domain": "me2zen.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "178599",
+			"name": "Gismart",
+			"domain": "realguitarapp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "145443",
+			"name": "Dirtybit AS",
+			"domain": "dirtybit.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "24318",
+			"name": "GSN Games Inc.",
+			"domain": "solitairetripeaks.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "151669",
+			"name": "HyperBeard",
+			"domain": "hyperbeard.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "236287",
+			"name": "Freeplay Inc",
+			"domain": "freeplay.mobi",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "196611",
+			"name": "blueflower",
+			"domain": "theotown.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "215583",
+			"name": "Voodoo SAS",
+			"domain": "Voodoo.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221807",
+			"name": "KAKAPO GAMES LTD",
+			"domain": "lettucegames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "251565",
+			"name": "Banana Entertainment Limited",
+			"domain": "bananagame.cc",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "148399",
+			"domain": "gsngames.in",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "249075",
+			"domain": "sundaytozplay.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "183195",
+			"name": "High Score Hero LLC",
+			"domain": "highscorehero.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "120776",
+			"name": "Outerminds Inc.",
+			"domain": "outerminds.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "252025",
+			"name": "Muslim Assistant",
+			"domain": "muslimassistant.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "89544",
+			"name": "Big Blue Bubble",
+			"domain": "bigbluebubble.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "69895",
+			"name": "Reliance Big Entertainment UK Private Ltd",
+			"domain": "reliancegames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "212759",
+			"name": "Tokyo Smart Games LLC",
+			"domain": "tokyosmartgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "97161",
+			"name": "Epic Story Interactive",
+			"domain": "support.epicstoryinteractive.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "53065",
+			"name": "Game Circus LLC",
+			"domain": "gamecircus.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "266849",
+			"name": "mobadu",
+			"domain": "mobadu.pl",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "222647",
+			"name": "Pickaxe Technology LLC",
+			"domain": "pkxgame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "186063",
+			"name": "AbstractArt",
+			"domain": "animaonline.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "220701",
+			"name": "New Technologies LLC",
+			"domain": "kamibox.de",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "255843",
+			"name": "Ahoy Games",
+			"domain": "ahoygames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "214895",
+			"name": "LiftApp LLC",
+			"domain": "appcraft.by",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "148123",
+			"name": "Game Garden",
+			"domain": "game-garden.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "229713",
+			"domain": "blayzegames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "209323",
+			"name": "MadOverGames : Bubble Shooter Free Pop Games",
+			"domain": "madovergames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "33760",
+			"name": "ELECTRONIC ARTS",
+			"domain": "ea.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "233985",
+			"name": "PopReach Incorporated",
+			"domain": "popreach.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "14909",
+			"name": "Moon Active",
+			"domain": "moonactive.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "269693",
+			"name": "Mini Fox",
+			"domain": "colorscapes-android.minifoxgame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "266937",
+			"name": "KAYAC Inc.",
+			"domain": "kayac.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "247915",
+			"name": "TangDou Studio",
+			"domain": "itrainingame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "245709",
+			"name": "app3daily",
+			"domain": "app3daily.github.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "179725",
+			"domain": "go-text.me",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "215853",
+			"name": "AppyNation Ltd.",
+			"domain": "appynation.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221443",
+			"name": "Melsoft",
+			"domain": "melesta-games.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "66623",
+			"name": "Scopely",
+			"domain": "scopely.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "237973",
+			"name": "Office Create Corp.",
+			"domain": "app-ofcr.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "239117",
+			"domain": "funlabmobile.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "65311",
+			"name": "Fiveamp",
+			"domain": "fiveamp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "249305",
+			"domain": "activision.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "187419",
+			"name": "Ubisoft Entertainment",
+			"domain": "ubisoft.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "245855",
+			"name": "WEBCOMICS HOLDINGS HK LIMITED",
+			"domain": "webcomicsapp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "247049",
+			"name": "FourThirtyThree Inc.",
+			"domain": "433.co.kr",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "229845",
+			"name": "Rollic Games",
+			"domain": "rollicgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "233477",
+			"name": "Dramaton",
+			"domain": "dramaton.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "216837",
+			"name": "Dual Cat",
+			"domain": "dualcat.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "158353",
+			"name": "Playgendary Limited",
+			"domain": "playgendary.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "249247",
+			"name": "osa.studio",
+			"domain": "wc-games.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "259603",
+			"name": "BroadbandTV Corp",
+			"domain": "spyninjanetwork.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "220367",
+			"name": "PNIX",
+			"domain": "pnixgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "134251",
+			"name": "Big Fish Games",
+			"domain": "bigfishgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "23664",
+			"name": "Pretty Simple",
+			"domain": "prettysimplegames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "116774",
+			"name": "ZeptoLab UK Limited",
+			"domain": "zeptolab.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "219815",
+			"name": "0.1%",
+			"domain": "01percent.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "156753",
+			"name": "WINR Games Inc",
+			"domain": "winrgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "190949",
+			"name": "TangramGames",
+			"domain": "nuclearport.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "114784",
+			"name": "CookApps",
+			"domain": "cookapps.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "245161",
+			"name": "TikGames LLC",
+			"domain": "tikgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "232715",
+			"name": "Fun Play Games",
+			"domain": "valcomit.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "214437",
+			"name": "Lockwood Publishing Ltd",
+			"domain": "avakin.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "254289",
+			"name": "Luckygold Team",
+			"domain": "luckygoldapp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "172487",
+			"name": "Phantorama Games GmbH",
+			"domain": "phantoramagames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "177035",
+			"name": "Platonic Games",
+			"domain": "platonicgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "226661",
+			"name": "WRGames publishing",
+			"domain": "whiteroomgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "276471",
+			"name": "Filing",
+			"domain": "samequizy.pl",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "216333",
+			"name": "Panteon",
+			"domain": "hypercasual.mobi",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221779",
+			"name": "Neon2",
+			"domain": "neon2games.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "187287",
+			"name": "1492 Studio",
+			"domain": "isitlove.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "231843",
+			"name": "Ace Viral",
+			"domain": "aceviral.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "256309",
+			"name": "Visual Blasters LLC",
+			"domain": "flipaclip.us",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "212547",
+			"name": "Product Madness",
+			"domain": "productmadness.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "158947",
+			"name": "Game Show Network",
+			"domain": "solitairetripeaks.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "230223",
+			"name": "Geisha Tokyo Inc.",
+			"domain": "geishatokyo.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "219513",
+			"name": "SWAG MASHA",
+			"domain": "swagmasha.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "89462",
+			"name": "Playrix",
+			"domain": "playrix.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "231411",
+			"name": "Fingerfun Games",
+			"domain": "anythingtodjge.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "179955",
+			"name": "MeetMe.com",
+			"domain": "meetme.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "259043",
+			"name": "Animoca Brands",
+			"domain": "animocabrands.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "243263",
+			"name": "Adiscope",
+			"domain": "adiscope.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "215615",
+			"domain": "concretesoftware.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "274681",
+			"name": "Draykun Studios",
+			"domain": "labchaos.draykunstudios.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "252921",
+			"domain": "tapas.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "118736",
+			"name": "Pomelo Games",
+			"domain": "pomelogames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "85360",
+			"name": "Ninjafish Studios",
+			"domain": "kidsgamesstudio.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "150505",
+			"name": "Nordeus",
+			"domain": "topeleven.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "237789",
+			"name": "MINIGAME ENTERTAINMENT LIMITED",
+			"domain": "minigameltd.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "250563",
+			"name": "Opala Studios",
+			"domain": "opalastudios.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "151409",
+			"name": "Outfit7 Limited",
+			"domain": "outfit7.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "257271",
+			"name": "Reality Games LTD",
+			"domain": "landlordgame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "186391",
+			"domain": "jamcity.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "206185",
+			"name": "SEGA",
+			"domain": "sega.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "172045",
+			"name": "SEGA",
+			"domain": "sega.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "252993",
+			"name": "MianZhi Chen",
+			"domain": "starsprite.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "195819",
+			"name": "Ilyon Dynamics Ltd.",
+			"domain": "ilyon.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "225203",
+			"name": "GAME THEORY BILISIM YAZILIM VE PAZARLAMA ANONIM SIRKETI",
+			"domain": "aryasgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "212987",
+			"name": "tastypill",
+			"domain": "tastypill.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "220071",
+			"name": "Lucky Kat Studios",
+			"domain": "lucky-kat.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "163193",
+			"name": "PLAYSTUDIOS INC",
+			"domain": "playstudios.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "217901",
+			"name": "IEC GLOBAL PTY LTD",
+			"domain": "iecglobal.com.au",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "232001",
+			"name": "Mobile Deluxe",
+			"domain": "mobiledeluxe.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "91454",
+			"name": "PlaySimple Games",
+			"domain": "playsimple.in",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "202589",
+			"domain": "brainiumstudios.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "27114",
+			"name": "Nanobit",
+			"domain": "nanobit.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "234383",
+			"name": "8SEC",
+			"domain": "8sec.games",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "246027",
+			"name": "Hoop app",
+			"domain": "hoop.photo",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "253517",
+			"name": "Kolibri Games",
+			"domain": "idleminertycoon.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "146003",
+			"name": "HIPSTER WHALE",
+			"domain": "crossyroad.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "218891",
+			"name": "Crazy Labs",
+			"domain": "crazylabs.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "23073",
+			"name": "WeAreQiiwi Interactive AB",
+			"domain": "qiiwi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "271209",
+			"name": "Lead-Pro Mobile",
+			"domain": "matrix-vpn.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "253147",
+			"name": "Puzzle1Studio",
+			"domain": "puzzle1studio.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "227097",
+			"name": "App Swim LLC",
+			"domain": "appswim.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "223825",
+			"name": "Hi Studio Limited",
+			"domain": "histudiogames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "213237",
+			"name": "Nitrome",
+			"domain": "nitrome.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "255015",
+			"name": "Fearless Sp. z o.o.",
+			"domain": "eyesthehorrorgame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "268393",
+			"name": "Inverse Metric LLC",
+			"domain": "inversemetric.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "260649",
+			"domain": "trebel.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "211945",
+			"name": "Bad Raccoon",
+			"domain": "alammadli.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "202613",
+			"name": "Casino Games Limited",
+			"domain": "hhsdaily.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "256731",
+			"name": "ZAG",
+			"domain": "zag-inc.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "144871",
+			"name": "Pixelberry",
+			"domain": "pixelberrystudios.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "153691",
+			"domain": "gamgo.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "111399",
+			"name": "MobilityWare",
+			"domain": "mobilityware.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "239987",
+			"name": "Wolves Interactive",
+			"domain": "wolvesinteractive.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "155479",
+			"name": "Warner Bros.",
+			"domain": "mortalkombat.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "234539",
+			"name": "LINE Corporation",
+			"domain": "line.me",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "121562",
+			"name": "Game Show Network",
+			"domain": "gsngames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "213251",
+			"name": "Viker",
+			"domain": "viker.co.uk",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "230933",
+			"name": "Iron Horse Games LLC",
+			"domain": "mooistudios.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "196683",
+			"name": "PeopleFun",
+			"domain": "peoplefun.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "135273",
+			"name": "Miniclip.com",
+			"domain": "miniclip.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "148973",
+			"name": "Fanatee",
+			"domain": "fanatee.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "197355",
+			"name": "Creative Mobile",
+			"domain": "creative-mobile.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "220597",
+			"name": "LinkDesks - Jewel Games Star",
+			"domain": "linkdesks.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "210709",
+			"name": "Airanet Connect",
+			"domain": "idlemarketegdgrg.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "238645",
+			"name": "Gamejam",
+			"domain": "gamejam.co",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "97251",
+			"name": "Kooapps",
+			"domain": "kooapps.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "235315",
+			"name": "fun.lab",
+			"domain": "funlabmobile.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "204609",
+			"name": "UP STUDIO",
+			"domain": "newborntown.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "228853",
+			"name": "altergames.ru",
+			"domain": "bomzyapps.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "219263",
+			"name": "ADQUANTUM LTD",
+			"domain": "appquantum.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "261437",
+			"domain": "lemellabs.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "251799",
+			"name": "RUBY OYUN VE YAZILIM DANISMANLIK",
+			"domain": "rubygamestudio.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "235349",
+			"name": "WannaPlay LLC",
+			"domain": "wowmaking.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "266263",
+			"domain": "critical-bit.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "274207",
+			"domain": "bistriy-zaim.club",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "274049",
+			"name": "King",
+			"domain": "knighthoodgame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "278753",
+			"domain": "slader.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "245431",
+			"name": "AppWorld Entertaiment 2",
+			"domain": "mangaworldapp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "63041",
+			"name": "Episode Interactive",
+			"domain": "pocketgems.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "151153",
+			"name": "VIZOR APPS CORP.",
+			"domain": "vizor-interactive.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "214063",
+			"name": "Toop games Funpin",
+			"domain": "stackgamenovento.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "47576",
+			"name": "Zynga",
+			"domain": "zynga.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "23854",
+			"domain": "ea.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "130210",
+			"name": "Yodo1 Games",
+			"domain": "yodo1.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "199039",
+			"domain": "wwesupercardgame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "198643",
+			"name": "J-PARK",
+			"domain": "iphonegame.cafe24.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "198515",
+			"name": "Easybrain",
+			"domain": "easybrain.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "234573",
+			"name": "Flowmotion Entertainment: Restaurant Cooking Games",
+			"domain": "flowmotionentertainment.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "141223",
+			"name": "Gamebasics BV",
+			"domain": "onlinesoccermanager.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "179787",
+			"name": "SUPERBOX.INC",
+			"domain": "superbox.kr",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "195111",
+			"name": "AppRover",
+			"domain": "approver-studio.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "213605",
+			"name": "Microfun Limited",
+			"domain": "microfun.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "236923",
+			"name": "Storm8 Studios",
+			"domain": "storm8.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221927",
+			"name": "Mobile Agenda FZE LLC",
+			"domain": "download.appsforboost.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "229261",
+			"name": "BigStar Games",
+			"domain": "funlabmobile.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "85050",
+			"name": "Lima Sky LLC",
+			"domain": "limasky.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "149959",
+			"name": "AE Magwin: Free Casino Slot Machines Bingo Games",
+			"domain": "bingoholiday.xyz",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "196009",
+			"name": "MASK LLC.",
+			"domain": "maskapp.club",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "237691",
+			"name": "Kunpo",
+			"domain": "cmcm.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "217003",
+			"name": "???? ???",
+			"domain": "goodroid.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "225185",
+			"name": "Hyperfun",
+			"domain": "hyperfun.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "114806",
+			"name": "Games2win",
+			"domain": "games2win.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "232331",
+			"name": "Lion Studios",
+			"domain": "lionstudios.cc",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "194485",
+			"name": "Tirion Fordring",
+			"domain": "zentertain.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "210857",
+			"name": "WAZZAPPS",
+			"domain": "wazzapps.org",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "16713",
+			"name": "Game Show Network",
+			"domain": "gsngames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "260587",
+			"domain": "linxyz.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "114250",
+			"name": "Narcade",
+			"domain": "narcade.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "242025",
+			"name": "Mobigame S.A.R.L.",
+			"domain": "mobigame.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "203473",
+			"name": "nerByte GmbH",
+			"domain": "mobilesolitaire.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "208241",
+			"name": "Spearmint Games",
+			"domain": "spearmintgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "61505",
+			"name": "Kongregate",
+			"domain": "kongregate.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "261473",
+			"name": "Carl Hopf",
+			"domain": "carlhopf.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "215343",
+			"domain": "sumisumigame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "110977",
+			"name": "Mail.Ru Group",
+			"domain": "lts.my.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "133651",
+			"name": "RV AppStudios",
+			"domain": "rvappstudios.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "252387",
+			"name": "Pickaxe Technology LLC",
+			"domain": "pkxgame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "133823",
+			"name": "Seriously Digital Entertainment Ltd.",
+			"domain": "seriously.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "188065",
+			"domain": "jamcity.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "104023",
+			"name": "Upopa Games",
+			"domain": "upopa.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "198817",
+			"name": "AMANOTES",
+			"domain": "amanotes.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "128942",
+			"name": "Cheetah Technology Corporation Limited",
+			"domain": "cmcm.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "219775",
+			"name": "Madbox",
+			"domain": "madbox.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "219197",
+			"name": "Birdman APP",
+			"domain": "j-o-e.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "143951",
+			"name": "Flaregames",
+			"domain": "flaregames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221295",
+			"name": "Electronic Arts",
+			"domain": "ea.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "158405",
+			"name": "SYBO Games",
+			"domain": "kiloogames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "111955",
+			"name": "Rovio Entertainment Oyj",
+			"domain": "rovio.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "216525",
+			"domain": "haegin.kr",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "252473",
+			"name": "IEC Games",
+			"domain": "ieccorp.ca",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "138101",
+			"name": "Tapps Tecnologia da Informa??o Ltda.",
+			"domain": "tappsgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "226917",
+			"name": "Lootboy GmbH",
+			"domain": "lootboy.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "29932",
+			"name": "Electronic Arts",
+			"domain": "ea.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "212281",
+			"name": "Coco Play",
+			"domain": "tabtale.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "255009",
+			"name": "Efez Games",
+			"domain": "efezgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "128994",
+			"name": "Gameloft",
+			"domain": "nascarheat.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "220557",
+			"name": "Small Beautiful",
+			"domain": "juicy-publishing.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "119940",
+			"name": "ZiMAD",
+			"domain": "zimadgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "229419",
+			"name": "Playdox Games",
+			"domain": "playspot.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "229695",
+			"name": "Privatix Limited",
+			"domain": "temp-mail.org",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "189107",
+			"name": "Voodoo",
+			"domain": "voodoo.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "247965",
+			"name": "Unico Studio LLC",
+			"domain": "unicostudio.co",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "195431",
+			"name": "Nexelon inc.",
+			"domain": "nexelongames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "119416",
+			"name": "Happen Labs",
+			"domain": "videopokerdeluxe.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221571",
+			"name": "FTY LLC.",
+			"domain": "ftyapp.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "219871",
+			"name": "Rewardify",
+			"domain": "rewardifynow.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "163027",
+			"name": "111%",
+			"domain": "111percent.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "64793",
+			"name": "PikPok",
+			"domain": "pikpok.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "216023",
+			"name": "NextGen Games Studio",
+			"domain": "contentarcadegames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "265345",
+			"name": "mobadu",
+			"domain": "mobadu.pl",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "216371",
+			"domain": "djinnworks.at",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "216615",
+			"name": "MINDWAYTECH CONSULTING SERVICES PRIVATE LIMITED",
+			"domain": "mindwaytech.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "177819",
+			"name": "Etermax",
+			"domain": "etermax.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "241061",
+			"domain": "apptout.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "83159",
+			"domain": "netroken.ca",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "238107",
+			"domain": "appventurestudio.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "205865",
+			"name": "BabyBus",
+			"domain": "babybus.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "177831",
+			"name": "Kiwert",
+			"domain": "kwalee.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "176821",
+			"name": "Alictus",
+			"domain": "alictus.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "248867",
+			"name": "VAAK SOLUTIONS AND SERVICES (OPC) PRIVATE LIMITED",
+			"domain": "xf0ce3f91.app-ads-txt.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "158085",
+			"name": "Slots Limited",
+			"domain": "slotslimited.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "163793",
+			"name": "Neon Play",
+			"domain": "neonplay.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "188967",
+			"name": "East Side Games Studio",
+			"domain": "eastsidegames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4545",
+			"name": "Socialpoint",
+			"domain": "dragoncitygame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "201665",
+			"name": "Kizi Games",
+			"domain": "kizi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "203399",
+			"name": "Ketchapp",
+			"domain": "ketchappgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "214687",
+			"name": "X-Flow",
+			"domain": "x-flow.app",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "233033",
+			"name": "MondayOFF",
+			"domain": "mondayoff.me",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "216245",
+			"name": "ChimpWorks",
+			"domain": "chimpworksgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "225365",
+			"name": "iDailybread.org",
+			"domain": "idailybread.org",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221967",
+			"name": "PLAYCUS LIMITED",
+			"domain": "playcus.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "198693",
+			"name": "Scimob",
+			"domain": "94-degrees.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "210807",
+			"name": "Green Panda Games",
+			"domain": "greenpandagames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "198373",
+			"name": "Ceyhun Tasci",
+			"domain": "goodjobgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "212849",
+			"name": "Yogame Studio",
+			"domain": "amanotes.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "195897",
+			"name": "gameone",
+			"domain": "qxplay.cn",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "64009",
+			"name": "Vivid Games S.A.",
+			"domain": "vividgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "147331",
+			"name": "Gamebasics BV",
+			"domain": "onlinesoccermanager.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "111287",
+			"name": "Wizard Games Incorporated",
+			"domain": "wizardgames.ca",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221297",
+			"name": "Spacetime Studios",
+			"domain": "pocketlegends.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "243403",
+			"name": "goGame",
+			"domain": "gogame.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "115216",
+			"name": "Atari",
+			"domain": "atari.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "245969",
+			"name": "Iron Horse Games LLC",
+			"domain": "baconbanditgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "191943",
+			"name": "MONSTER PLANET Corp.",
+			"domain": "monsterplanet.co.kr",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "29144",
+			"name": "Fingersoft",
+			"domain": "fingersoft.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "195289",
+			"name": "PlayQ Inc",
+			"domain": "playq.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "254841",
+			"name": "bonbongame.com",
+			"domain": "bonbongame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "195867",
+			"name": "Bagelcode Inc.",
+			"domain": "site.bagelcode.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "214265",
+			"name": "Actions",
+			"domain": "wl99999999.github.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "178089",
+			"name": "HeroCraft Ltd.",
+			"domain": "herocraft.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "248831",
+			"name": "Bad Review Games",
+			"domain": "nar.one",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "159265",
+			"name": "Digital Things",
+			"domain": "codigames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "129250",
+			"name": "PlayDots",
+			"domain": "dots.co",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "17161",
+			"name": "Elokence",
+			"domain": "elokence.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "225701",
+			"name": "SayGames",
+			"domain": "saygames.by",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "228053",
+			"name": "Good Action Games",
+			"domain": "goodactiongames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "278",
+			"name": "IsCool Entertainment",
+			"domain": "iscoolentertainment.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "217105",
+			"name": "LOTUM GmbH",
+			"domain": "lotum.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "203089",
+			"name": "Aeria Canada",
+			"domain": "aeriacanada.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "211305",
+			"name": "MyTona",
+			"domain": "mytona.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221481",
+			"name": "Lightneer",
+			"domain": "lightneer.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "203759",
+			"name": "Gameloft SE",
+			"domain": "gameloft.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "168259",
+			"name": "F.I.L Games",
+			"domain": "blockball.xyz",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221573",
+			"name": "MITURU KISARAZU",
+			"domain": "fnun.imikowaapps.be",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "145229",
+			"name": "Badoo",
+			"domain": "badoo.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "113187",
+			"name": "NEXTERS GLOBAL LTD",
+			"domain": "nextersglobal.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "17885",
+			"name": "wooga",
+			"domain": "wooga.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "268867",
+			"name": "FURYU Corporation",
+			"domain": "furyu.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "140249",
+			"name": "PIXONIC",
+			"domain": "pixonic.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "212307",
+			"name": "Optimization Technologies LTD",
+			"domain": "quizz.land",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "146781",
+			"domain": "randomlogicgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "186707",
+			"name": "Gaminho",
+			"domain": "gaminho.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "161933",
+			"name": "Hothead Games",
+			"domain": "hotheadgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "201615",
+			"name": "Ninja Kiwi",
+			"domain": "ninjakiwi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "126944",
+			"name": "Jogatina.com",
+			"domain": "jogatina.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "219061",
+			"name": "Three wishes slot machines game studio",
+			"domain": "alicegamesfze.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "232169",
+			"name": "SWAG MASHA",
+			"domain": "swagmasha.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "53995",
+			"domain": "game-insight.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "269877",
+			"name": "DigiPotato Studio",
+			"domain": "digipotato.cn",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "202159",
+			"name": "Barracuda Games - Good Shooting and Action Games",
+			"domain": "barracudafishgames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "226821",
+			"name": "LDRLY",
+			"domain": "ldrlygames.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "247185",
+			"name": "Cubic Games",
+			"domain": "pixelgun3d.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "204287",
+			"name": "Spirit Bomb",
+			"domain": "spiritbomb.co",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "210803",
+			"name": "Tactile Games",
+			"domain": "tactilegames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "274747",
+			"name": "PlayFlock",
+			"domain": "playflock.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221661",
+			"name": "MACHBIRD TECHNOLOGY LIMITED",
+			"domain": "machbird.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "214019",
+			"name": "Homa Games",
+			"domain": "homagames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "203893",
+			"name": "FiveStar Games - Slots and Casino",
+			"domain": "lettucegames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "266577",
+			"name": "Mini Joy Official",
+			"domain": "lbsbanana.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "214495",
+			"domain": "craft-warriors.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "211983",
+			"name": "Cross Field Inc.",
+			"domain": "crossfd.co.jp",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "248625",
+			"name": "Potato Play Pte. Ltd.",
+			"domain": "potatoplay.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "271743",
+			"name": "PlayKids Inc",
+			"domain": "playkids.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "181731",
+			"name": "Kristanix Games",
+			"domain": "kristanix.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "211859",
+			"name": "Popcore Games",
+			"domain": "popcore.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221053",
+			"name": "Sulake Corporation Oy",
+			"domain": "hotelhideawaythegame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "228861",
+			"name": "iWare Designs Ltd.",
+			"domain": "iwaredesigns.co.uk",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "227037",
+			"name": "Top Rated Word Games",
+			"domain": "oneup.games",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "248693",
+			"name": "baklabs",
+			"domain": "taxigamesfree.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "197891",
+			"name": "Fun Games For Free",
+			"domain": "fungames-forfree.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "37151",
+			"name": "Electronic Arts",
+			"domain": "ea.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "202371",
+			"domain": "ilyon.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "221129",
+			"domain": "treastone.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "217327",
+			"domain": "fabricgame.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "249051",
+			"domain": "sundaytoz.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "125350",
+			"name": "Not Doppler",
+			"domain": "notdoppler.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "213389",
+			"name": "Rifter Games",
+			"domain": "riftergames.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "233131",
+			"name": "Hung Dang",
+			"domain": "smartgamestudio.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "218311",
+			"name": "Noodlecake",
+			"domain": "noodlecake.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "248851",
+			"name": "Forever9 Games",
+			"domain": "forevernine.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "245819",
+			"name": "Tycoon Games",
+			"domain": "skyfoxgame.com",
+			"seller_type": "PUBLISHER"
+		}
+	]
+}

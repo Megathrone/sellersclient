@@ -1,0 +1,1019 @@
+{
+  "version": "1.0",
+  "sellers": [
+    {
+      "seller_id": "16596c71-1066-41e7-b56c-0a477b9a3549",
+      "seller_type": "INTERMEDIARY",
+      "name": "SmartyAds",
+      "domain": "smartyads.com"
+    },
+    {
+      "seller_id": "243a3ae3-fe49-480f-aacd-d5af8683d694",
+      "seller_type": "INTERMEDIARY",
+      "name": "Adtelligent",
+      "domain": "adtelligent.com"
+    },
+    {
+      "seller_id": "e9705f53-2276-4b16-b136-b4e943a8377d",
+      "seller_type": "PUBLISHER",
+      "name": "Ask.fm",
+      "domain": "ask.fm"
+    },
+    {
+      "seller_id": "c42d3052-7a99-4b4d-b9b7-2b2ac3e2a26a",
+      "seller_type": "PUBLISHER",
+      "name": "Meta.ua SSP",
+      "domain": "Meta.ua"
+    },
+    {
+      "seller_id": "1a82e13e-6ff3-4d31-8701-2ea12cd1f95a",
+      "seller_type": "BOTH",
+      "name": "Tappx",
+      "domain": "tappx.com"
+    },
+    {
+      "seller_id": "10248498-454d-49a4-a789-acb8fe837f59",
+      "seller_type": "PUBLISHER",
+      "name": "DailyMotion",
+      "domain": "dailymotion.com"
+    },
+    {
+      "seller_id": "78f87120-25c6-4f60-b812-b6f837531696",
+      "seller_type": "INTERMEDIARY",
+      "name": "Native Ads",
+      "domain": "nativeads.com"
+    },
+    {
+      "seller_id": "3c5173fc-ca30-4692-9116-009c19cb1bf9",
+      "seller_type": "BOTH",
+      "name": "Buzzoola",
+      "domain": "Buzzoola.com"
+    },
+    {
+      "seller_id": "f3260d05-0a78-46c9-9f84-2ce7e7cb072c",
+      "seller_type": "INTERMEDIARY",
+      "name": "Iron Source",
+      "domain": "ironsrc.com"
+    },
+    {
+      "seller_id": "93c1ab64-cac6-416b-a09e-636d84e31797",
+      "seller_type": "BOTH",
+      "name": "NewBornTown",
+      "domain": "newborntown.com"
+    },
+    {
+      "seller_id": "62f3d813-2157-43eb-b955-fa24513fd3e9",
+      "seller_type": "PUBLISHER",
+      "name": "495communications",
+      "domain": "495communications.com"
+    },
+    {
+      "seller_id": "e48b9670-c2b7-44df-b060-3843b043712c",
+      "seller_type": "INTERMEDIARY",
+      "name": "Advenue",
+      "domain": "advenuemedia.co.uk"
+    },
+    {
+      "seller_id": "8493eb78-a79a-4a9f-b97b-7fcdb13e3c81",
+      "seller_type": "BOTH",
+      "name": "Epom",
+      "domain": "epom.com"
+    },
+    {
+      "seller_id": "64636a4f-c002-4d09-a7ec-960530b32b94",
+      "seller_type": "BOTH",
+      "name": "inMobi",
+      "domain": "inmobi.com"
+    },
+    {
+      "seller_id": "2f7c41b7-64fa-4be8-ba64-a4b538d886ac",
+      "seller_type": "INTERMEDIARY",
+      "name": "BizzClick",
+      "domain": "bizzclick.com"
+    },
+    {
+      "seller_id": "25506b6d-77f7-458a-a0a6-7abf2d083021",
+      "seller_type": "PUBLISHER",
+      "name": "Cheetah Mobile",
+      "domain": "cmcm.com"
+    },
+    {
+      "seller_id": "3d2ed9f3-1ce6-436c-896b-4d9c8418ad3f",
+      "seller_type": "INTERMEDIARY",
+      "name": "Waardex",
+      "domain": "waardex.com"
+    },
+    {
+      "seller_id": "ff8ff54d-74df-4aee-9a63-7e3fbaacc512",
+      "seller_type": "INTERMEDIARY",
+      "name": "Xendiz",
+      "domain": "xendiz.com"
+    },
+    {
+      "seller_id": "0072fb58-999b-445e-9a9b-3fc2a7194277",
+      "seller_type": "BOTH",
+      "name": "Nasmedia",
+      "domain": "nasmedia.co.th"
+    },
+    {
+      "seller_id": "ace33483-4b76-491a-83d0-ee67301049bd",
+      "seller_type": "PUBLISHER",
+      "name": "Carousell.ph (Olx.ph)",
+      "domain": "Carousell.ph"
+    },
+    {
+      "seller_id": "3f77a1dd-9fe0-4634-8a29-3412895010c2",
+      "seller_type": "BOTH",
+      "name": "MobFox",
+      "domain": "mobfox.com"
+    },
+    {
+      "seller_id": "de2ae535-59eb-4f0b-95e3-89f821933d47",
+      "seller_type": "INTERMEDIARY",
+      "name": "Adview",
+      "domain": "adview.com"
+    },
+    {
+      "seller_id": "01d358f4-8866-42ba-9ca5-56ec15cd8cbc",
+      "seller_type": "INTERMEDIARY",
+      "name": "Convertise.io",
+      "domain": "convertise.io"
+    },
+    {
+      "seller_id": "44e70be3-3132-4b58-938b-1bb4a57dfd6c",
+      "seller_type": "INTERMEDIARY",
+      "name": "Gameberry",
+      "domain": "revlift.io"
+    },
+    {
+      "seller_id": "66128939-13ac-406c-aca2-2392a2fe5145",
+      "seller_type": "INTERMEDIARY",
+      "name": "Decenterads",
+      "domain": "decenterads.com"
+    },
+    {
+      "seller_id": "f4776267-0dd9-40a9-8bef-1cc2b3219344",
+      "seller_type": "BOTH",
+      "name": "Mobimight",
+      "domain": "mobimight.com"
+    },
+    {
+      "seller_id": "228e03db-1c3f-4fa4-85a8-9d8f6f94ae0d",
+      "seller_type": "INTERMEDIARY",
+      "name": "FlowPlayer",
+      "domain": "flowplayer.com"
+    },
+    {
+      "seller_id": "be5a8f95-37fa-4adc-8cf3-c83ab8b91680",
+      "seller_type": "INTERMEDIARY",
+      "name": "Brave.io",
+      "domain": "thebrave.io"
+    },
+    {
+      "seller_id": "e3a1e5f1-78bd-4ab5-8387-1b2fe7dd78d7",
+      "seller_type": "INTERMEDIARY",
+      "name": "Decibel",
+      "domain": "decibelnetwork.com"
+    },
+    {
+      "seller_id": "3bc509b2-6568-4bd8-a997-9859ba0c9118",
+      "seller_type": "INTERMEDIARY",
+      "name": "WebEyeMob",
+      "domain": "webeye.com"
+    },
+    {
+      "seller_id": "db6eb203-5f6f-4a2f-aca5-402329c943cb",
+      "seller_type": "INTERMEDIARY",
+      "name": "WEB3",
+      "domain": "web3.co.il"
+    },
+    {
+      "seller_id": "fdea721e-60fe-43a5-8838-6b4b2f1b3f27",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mars Media",
+      "domain": "m-m-g.com"
+    },
+    {
+      "seller_id": "0db868ef-bbe6-452b-9d01-fc29db07a87b",
+      "seller_type": "INTERMEDIARY",
+      "name": "Next Ads (SmartyAds HK)",
+      "domain": "nextbuzzmedia.com"
+    },
+    {
+      "seller_id": "b5f1c105-b932-4eca-a35e-d772c19f22a5",
+      "seller_type": "INTERMEDIARY",
+      "name": "Novoroll",
+      "domain": "novoroll.com"
+    },
+    {
+      "seller_id": "121433e2-648a-439c-80a1-0b8702563ec4",
+      "seller_type": "INTERMEDIARY",
+      "name": "Bold-win",
+      "domain": "bold-win.com"
+    },
+    {
+      "seller_id": "f49483ba-5bc4-4c60-8cc9-71635b6170b7",
+      "seller_type": "INTERMEDIARY",
+      "name": "Fyber",
+      "domain": "fyber.com"
+    },
+    {
+      "seller_id": "3f2c1b25-bf7c-4398-851b-b2a0a7e97213",
+      "seller_type": "PUBLISHER",
+      "name": "habr.com",
+      "domain": "habr.com"
+    },
+    {
+      "seller_id": "2412e1e6-dcba-4e98-8c4d-dd9d15fa9484",
+      "seller_type": "INTERMEDIARY",
+      "name": "Gamma",
+      "domain": "gammassp.com"
+    },
+    {
+      "seller_id": "773de910-6013-40f3-b290-f31c7cd89795",
+      "seller_type": "PUBLISHER",
+      "name": "Automattic / WordPress",
+      "domain": "wordpress.com"
+    },
+    {
+      "seller_id": "5f46d6dc-0409-4706-9df9-3d3a189187dd",
+      "seller_type": "BOTH",
+      "name": "AdColony",
+      "domain": "adcolony.com"
+    },
+    {
+      "seller_id": "9d8f6f8d-6382-4d3c-9b6e-c66fc6d49630",
+      "seller_type": "INTERMEDIARY",
+      "name": "Vidstart",
+      "domain": "vidstart.com"
+    },
+    {
+      "seller_id": "a25df66c-308a-47b6-bcb0-f9ea053f71ea",
+      "seller_type": "INTERMEDIARY",
+      "name": "Cignal.io",
+      "domain": "cignal.io"
+    },
+    {
+      "seller_id": "3d4eaadc-4027-4079-936c-0796e61ff0c9",
+      "seller_type": "INTERMEDIARY",
+      "name": "Vexigo",
+      "domain": "vexigo.com"
+    },
+    {
+      "seller_id": "4223ec5c-f0c2-41ce-aa78-4b51e74866c2",
+      "seller_type": "INTERMEDIARY",
+      "name": "Valo.ai (Addoox)",
+      "domain": "valo.ai"
+    },
+    {
+      "seller_id": "42f73a29-2b0c-46ff-876c-426cb1d460dc",
+      "seller_type": "INTERMEDIARY",
+      "name": "Sparcmedia",
+      "domain": "sparcmedia.com"
+    },
+    {
+      "seller_id": "3e98c2db-c14c-4030-af35-bbb25b06d156",
+      "seller_type": "INTERMEDIARY",
+      "name": "SoMo Audience",
+      "domain": "izonnetwork.com"
+    },
+    {
+      "seller_id": "81aedb7e-ca73-4498-997c-74f3b92481ea",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mobupps",
+      "domain": "mobupps.com"
+    },
+    {
+      "seller_id": "e23d83ad-e6e8-4597-bada-7cd86782089c",
+      "seller_type": "INTERMEDIARY",
+      "name": "Chocolate",
+      "domain": "Chocolateplatform.com"
+    },
+    {
+      "seller_id": "73356716-756e-488b-8fee-6493922d5c43",
+      "seller_type": "INTERMEDIARY",
+      "name": "Adtelligent VAST oRTB",
+      "domain": "adtelligent.com"
+    },
+    {
+      "seller_id": "b6d49994-83c5-4ff9-aa8a-c9eb99d1bc8c",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mars.Video",
+      "domain": "mars.video"
+    },
+    {
+      "seller_id": "c64a8371-d05a-43df-ae5a-28664563ecdb",
+      "seller_type": "INTERMEDIARY",
+      "name": "Ubrik Video",
+      "domain": "elixirvideo.co"
+    },
+    {
+      "seller_id": "2e1cb1ea-814c-476a-8627-d474e41378df",
+      "seller_type": "INTERMEDIARY",
+      "name": "AcuityAds",
+      "domain": "acuityads.com"
+    },
+    {
+      "seller_id": "2ea36020-047e-4a89-ad9b-634cf65d2737",
+      "seller_type": "BOTH",
+      "name": "Velis Media",
+      "domain": "velismedia.com"
+    },
+    {
+      "seller_id": "1da9b25e-9aa4-4987-8872-8413d28b1903",
+      "seller_type": "INTERMEDIARY",
+      "name": "VeuHub",
+      "domain": "veuhub.com"
+    },
+    {
+      "seller_id": "b7004071-3f0e-4201-84fd-d4543438c429",
+      "seller_type": "INTERMEDIARY",
+      "name": "Ad-topia",
+      "domain": "bid.adtopiartb.live"
+    },
+    {
+      "seller_id": "7229a2a4-7b59-4102-b92d-8266f63b437f",
+      "seller_type": "INTERMEDIARY",
+      "name": "Clickio",
+      "domain": "adexchange.clickio.com"
+    },
+    {
+      "seller_id": "3e9d4500-3193-4c50-b9d0-0135904bc8f7",
+      "seller_type": "INTERMEDIARY",
+      "name": "Silvermob",
+      "domain": "silvermob.com"
+    },
+    {
+      "seller_id": "f51a08db-3eb4-43c3-b311-eb6af1f772bd",
+      "seller_type": "INTERMEDIARY",
+      "name": "Brightcom Video",
+      "domain": "brightcom.com"
+    },
+    {
+      "seller_id": "6010eded-deeb-4444-86a9-72dcfd3d759a",
+      "seller_type": "INTERMEDIARY",
+      "name": "RTB Switch",
+      "domain": "rtbswitch.com"
+    },
+    {
+      "seller_id": "954d060c-4caf-4d05-8dc0-16642e323b6d",
+      "seller_type": "INTERMEDIARY",
+      "name": "Keenkale New",
+      "domain": "keenkale.com"
+    },
+    {
+      "seller_id": "682f17e3-cf9a-4479-b69a-ab8a6cb5a106",
+      "seller_type": "INTERMEDIARY",
+      "name": "Adthink",
+      "domain": "adthink.com"
+    },
+    {
+      "seller_id": "ca915e98-fd7a-4bdd-af11-fd0974782568",
+      "seller_type": "BOTH",
+      "name": "Collectcent",
+      "domain": "collectcent.com"
+    },
+    {
+      "seller_id": "bbac578a-7857-406b-b4a9-bb38f3b3cab6",
+      "seller_type": "INTERMEDIARY",
+      "name": "AdservMe (by S&W)",
+      "domain": "adservme.co"
+    },
+    {
+      "seller_id": "8f69565a-1024-409f-b9c7-964cc71c3b48",
+      "seller_type": "INTERMEDIARY",
+      "name": "Bidsopt",
+      "domain": "bidsopt.com"
+    },
+    {
+      "seller_id": "34376fd9-0ec3-424b-ac08-bebb707a2e02",
+      "seller_type": "INTERMEDIARY",
+      "name": "Solavid",
+      "domain": "solavid.com"
+    },
+    {
+      "seller_id": "a80e4ca1-f52f-4aa5-98e1-010c8d08251b",
+      "seller_type": "BOTH",
+      "name": "Do Global / AlgoriX",
+      "domain": "algorix.co"
+    },
+    {
+      "seller_id": "b81743f7-b474-4c19-8479-8697021abdd2",
+      "seller_type": "BOTH",
+      "name": "Aniview Inc.",
+      "domain": "aniview.com"
+    },
+    {
+      "seller_id": "5fa44cf2-0fb7-4cb9-86ca-75404b85ad44",
+      "seller_type": "INTERMEDIARY",
+      "name": "Creative Clicks",
+      "domain": "reativeclicks.com"
+    },
+    {
+      "seller_id": "984e50a6-216f-42a7-be48-e5e68a3b7018",
+      "seller_type": "INTERMEDIARY",
+      "name": "SickAds (TUTANOTA)",
+      "domain": "sickads.com"
+    },
+    {
+      "seller_id": "2878f07c-cc3f-4f8a-a26c-8e6033a539a6",
+      "seller_type": "BOTH",
+      "name": "My.com B.V.",
+      "domain": "my.com"
+    },
+    {
+      "seller_id": "01182de8-9a23-4b39-b9b5-53371a550e2f",
+      "seller_type": "BOTH",
+      "name": "index.hr",
+      "domain": "index.hr"
+    },
+    {
+      "seller_id": "c5c4e22c-fc41-491a-86e8-7b101d2cd67b",
+      "seller_type": "INTERMEDIARY",
+      "name": "Forebase",
+      "domain": "forebase.com"
+    },
+    {
+      "seller_id": "da006719-1f11-4e97-b399-a16bb2cd48e6",
+      "seller_type": "INTERMEDIARY",
+      "name": "Streamkey TV",
+      "domain": "streamkey.tv"
+    },
+    {
+      "seller_id": "d713c95a-f5d7-4089-94f1-a994ba90626a",
+      "seller_type": "INTERMEDIARY",
+      "name": "Ad Experts Media",
+      "domain": "adexpertsmedia.com"
+    },
+    {
+      "seller_id": "7ab84c0a-7c28-4098-8eb1-e12287752e7f",
+      "seller_type": "PUBLISHER",
+      "name": "obyava.ua",
+      "domain": "obyava.ua"
+    },
+    {
+      "seller_id": "16ca13a4-9604-4bbd-bf21-02aaf8e6ec4f",
+      "seller_type": "INTERMEDIARY",
+      "name": "Bat-Ads",
+      "domain": "bat-ads.com"
+    },
+    {
+      "seller_id": "a6a2f5ea-ac25-49b1-af57-27c05865e62b",
+      "seller_type": "INTERMEDIARY",
+      "name": "9dotMedia",
+      "domain": "9dotsmedia.com"
+    },
+    {
+      "seller_id": "18d263a9-0d30-40ae-ae52-2bda0b37b71f",
+      "seller_type": "PUBLISHER",
+      "name": "investing.com",
+      "domain": "investing.com"
+    },
+    {
+      "seller_id": "aa698c57-4775-4c9e-837b-eea1715bbd4b",
+      "seller_type": "BOTH",
+      "name": "Bright Mountain Media",
+      "domain": "brightmountainmedia.com"
+    },
+    {
+      "seller_id": "b8f30fbe-5cc4-4cab-8a91-195cce1ed207",
+      "seller_type": "BOTH",
+      "name": "Advand Media",
+      "domain": "advandmedia.com"
+    },
+    {
+      "seller_id": "8c581f51-80de-4b25-88ed-779239d53db8",
+      "seller_type": "BOTH",
+      "name": "Gamoshi",
+      "domain": "gamoshi.com"
+    },
+    {
+      "seller_id": "4f1e5aab-5f2d-4bf6-b9ed-6b33ef534e04",
+      "seller_type": "INTERMEDIARY",
+      "name": "Market",
+      "domain": "market-group.com"
+    },
+    {
+      "seller_id": "28b0932b-ca4e-4d97-b06d-8bfee2633335",
+      "seller_type": "INTERMEDIARY",
+      "name": "Plexus",
+      "domain": "plexusstudios.com"
+    },
+    {
+      "seller_id": "bbae93ec-853c-46e8-87c7-51b5f8f0269c",
+      "seller_type": "BOTH",
+      "name": "Phonder SSP",
+      "domain": "phonder.com"
+    },
+    {
+      "seller_id": "506bd3d6-420d-43fb-9b44-722853d5c86b",
+      "seller_type": "INTERMEDIARY",
+      "name": "Advinteo",
+      "domain": "advinteo.com"
+    },
+    {
+      "seller_id": "9bcb4d90-a85f-47f0-8a81-f86db56e4f67",
+      "seller_type": "INTERMEDIARY",
+      "name": "Transsion",
+      "domain": "transsion.com"
+    },
+    {
+      "seller_id": "f9b6b9b8-6d34-456e-b88f-ef1fe545137b",
+      "seller_type": "INTERMEDIARY",
+      "name": "Gowithmedia",
+      "domain": "gowithmedia.com"
+    },
+    {
+      "seller_id": "8d32fe3f-5731-46b2-8e7b-4b8544c3f603",
+      "seller_type": "BOTH",
+      "name": "MoMAGIC",
+      "domain": "momagic.com"
+    },
+    {
+      "seller_id": "4de92948-14fa-4a8c-8d45-d8b0a05d70b4",
+      "seller_type": "BOTH",
+      "name": "S&W Media",
+      "domain": "snw.media"
+    },
+    {
+      "seller_id": "4aaffa41-f260-4247-abc1-f080d1a60d0c",
+      "seller_type": "BOTH",
+      "name": "Amli",
+      "domain": "amlinetwork.com"
+    },
+    {
+      "seller_id": "a04891ce-f59f-4342-8567-0d9fd69c0369",
+      "seller_type": "INTERMEDIARY",
+      "name": "Adelement",
+      "domain": "adelement.com"
+    },
+    {
+      "seller_id": "7ffc4af8-6fa7-4184-aacb-cad5add3c8d3",
+      "seller_type": "BOTH",
+      "name": "Imonomy",
+      "domain": "imonomy.com"
+    },
+    {
+      "seller_id": "ef6718d6-458c-49bb-86d5-af2619505b6a",
+      "seller_type": "BOTH",
+      "name": "Airpush",
+      "domain": "airpush.com"
+    },
+    {
+      "seller_id": "9828577a-6965-440c-b5b0-37cce6fcf708",
+      "seller_type": "INTERMEDIARY",
+      "name": "Upzyde",
+      "domain": "upzyde.com"
+    },
+    {
+      "seller_id": "f21a28b6-d6f5-4e12-a14a-6b3a05838538",
+      "seller_type": "PUBLISHER",
+      "name": "Hemang Shah",
+      "domain": "hostpic.org"
+    },
+    {
+      "seller_id": "0d4174dc-f071-4a23-8d3b-de4b29b752b1",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mobgeek",
+      "domain": "admobgeek.com"
+    },
+    {
+      "seller_id": "7bd37286-0d25-4911-ace8-c807387b522f",
+      "seller_type": "INTERMEDIARY",
+      "name": "Xadmob",
+      "domain": "xadmob.com"
+    },
+    {
+      "seller_id": "09d23009-7a24-4ce7-9b8e-944883372844",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mobclixs",
+      "domain": "mobclixs.com"
+    },
+    {
+      "seller_id": "7d4227db-14e6-40b2-8485-cb9489d07ddd",
+      "seller_type": "INTERMEDIARY",
+      "name": "Lemma Technologies",
+      "domain": "lemmatechnologies.com"
+    },
+    {
+      "seller_id": "42ada258-0da6-4855-b724-63d03556ab77",
+      "seller_type": "INTERMEDIARY",
+      "name": "Vaaya Media",
+      "domain": "vaaya.xyz"
+    },
+    {
+      "seller_id": "508cf987-7435-42bd-ace9-452df8954f0d",
+      "seller_type": "BOTH",
+      "name": "Vashoot",
+      "domain": "vashootads.com"
+    },
+    {
+      "seller_id": "8e380da6-31ba-488c-939c-290c48d577e4",
+      "seller_type": "BOTH",
+      "name": "Pubnative",
+      "domain": "pubnative.net"
+    },
+    {
+      "seller_id": "b8c43b19-109c-445a-b4f6-ee6b3765af18",
+      "seller_type": "INTERMEDIARY",
+      "name": "Beachfront",
+      "domain": "beachfront.com"
+    },
+    {
+      "seller_id": "6a5a2ee0-0930-45fa-9620-e9e81ba35562",
+      "seller_type": "BOTH",
+      "name": "Melodong",
+      "domain": "melodong.com"
+    },
+    {
+      "seller_id": "745e5ca7-dca4-49aa-a32a-e640267ac53f",
+      "seller_type": "BOTH",
+      "name": "Mobiuspace",
+      "domain": "mobiuspace.com"
+    },
+    {
+      "seller_id": "34ccbbd8-fdac-421d-beba-fb49797ea336",
+      "seller_type": "INTERMEDIARY",
+      "name": "Whildey.com",
+      "domain": "Whildey.com"
+    },
+    {
+      "seller_id": "b3663947-92d1-4477-99ef-c1d68e7e5d0c",
+      "seller_type": "PUBLISHER",
+      "name": "rtbdemand.com",
+      "domain": "rtbdemand.com"
+    },
+    {
+      "seller_id": "8be50399-e86b-4dc1-9ce0-9e0b6f5844f0",
+      "seller_type": "BOTH",
+      "name": "Aceex",
+      "domain": "Aceex.com"
+    },
+    {
+      "seller_id": "aeecf738-2c52-42b8-888c-1973e1b50454",
+      "seller_type": "PUBLISHER",
+      "name": "Datawrkz Pte Limited",
+      "domain": "datawrkz.com"
+    },
+    {
+      "seller_id": "e5b46615-e2c5-4179-9e95-4f3ae526fb0c",
+      "seller_type": "INTERMEDIARY",
+      "name": "Advinteo RTB",
+      "domain": "advinteo.com"
+    },
+    {
+      "seller_id": "6658f9e1-9afc-49ac-8564-29ca2abb48dc",
+      "seller_type": "INTERMEDIARY",
+      "name": "Peak226",
+      "domain": "edge.com"
+    },
+    {
+      "seller_id": "1e238e81-46f3-4457-8ff2-e3e61a9b4415",
+      "seller_type": "BOTH",
+      "name": "Orbis3",
+      "domain": "orbis3.com"
+    },
+    {
+      "seller_id": "5bd2e2cd-df75-49ce-938e-b9fc8ea2af51",
+      "seller_type": "INTERMEDIARY",
+      "name": "Impression Digital Media",
+      "domain": "impressiondigitalmedia.com"
+    },
+    {
+      "seller_id": "6be0c78a-df7d-42d4-8b8a-3e93513caab5",
+      "seller_type": "PUBLISHER",
+      "name": "Goutham Kanade",
+      "domain": "wintersuntv.com"
+    },
+    {
+      "seller_id": "3000ea85-0025-4322-a53e-6a9c9c3c0859",
+      "seller_type": "INTERMEDIARY",
+      "name": "Readywind",
+      "domain": "readywind.com"
+    },
+    {
+      "seller_id": "385c8c8f-3d0e-4477-8d49-db4c555c136c",
+      "seller_type": "BOTH",
+      "name": "9MediaOnline WEB",
+      "domain": "9mo.com"
+    },
+    {
+      "seller_id": "6cb25d54-a1f4-4038-afcb-4ed381a11188",
+      "seller_type": "BOTH",
+      "name": "Takoomi",
+      "domain": "Takoomi.com"
+    },
+    {
+      "seller_id": "7c936ad9-e7ed-4355-89d2-afe8697f72bf",
+      "seller_type": "INTERMEDIARY",
+      "name": "Gotham",
+      "domain": "gothamads.com"
+    },
+    {
+      "seller_id": "65e32b09-b54d-4f19-a8b2-9c03d71faebb",
+      "seller_type": "INTERMEDIARY",
+      "name": "FMLabsonline",
+      "domain": "fmlabsonline.com"
+    },
+    {
+      "seller_id": "3b8fdd59-40b1-4065-8f09-ae939f42ee74",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mobco",
+      "domain": "mobcomedia.com"
+    },
+    {
+      "seller_id": "40c50974-977f-4e34-9759-78d33d321e4f",
+      "seller_type": "BOTH",
+      "name": "viads",
+      "domain": "viads.co"
+    },
+    {
+      "seller_id": "38e99971-76e4-4e6d-9d47-71e9f6220da6",
+      "seller_type": "INTERMEDIARY",
+      "name": "Iconpeak",
+      "domain": "iconpeak.com"
+    },
+    {
+      "seller_id": "180d3528-d1c5-4685-8d83-a5583e0efb26",
+      "seller_type": "INTERMEDIARY",
+      "name": "Adtiming",
+      "domain": "adtiming.com"
+    },
+    {
+      "seller_id": "7af3fb24-35d3-464a-87e0-840788380050",
+      "seller_type": "INTERMEDIARY",
+      "name": "Ravalads",
+      "domain": "ravalads.com"
+    },
+    {
+      "seller_id": "379340e1-4720-4ca9-95c6-3e17e5158ab4",
+      "seller_type": "INTERMEDIARY",
+      "name": "Pharoscode LLC",
+      "domain": "pharoscode.co"
+    },
+    {
+      "seller_id": "93f02d44-b31e-4d67-a284-b3b6f63f5d0b",
+      "seller_type": "BOTH",
+      "name": "Digital Bidding",
+      "domain": "digital-bidding.com"
+    },
+    {
+      "seller_id": "7b80eb6d-a9ad-4ee2-a8f7-9e0e7a4ece36",
+      "seller_type": "BOTH",
+      "name": "Digital Bidding ortb",
+      "domain": "digital-bidding.com"
+    },
+    {
+      "seller_id": "cd204d67-f84d-4fd5-9dd3-f45583140dd8",
+      "seller_type": "BOTH",
+      "name": "Smarter-Wireless",
+      "domain": "smarter-wireless.net"
+    },
+    {
+      "seller_id": "a1994172-b1e6-4954-a770-7707fbc5e5cc",
+      "seller_type": "INTERMEDIARY",
+      "name": "Adsolut",
+      "domain": "adsolut.in"
+    },
+    {
+      "seller_id": "db6f6bee-926e-4b6b-a60f-88547ba0d27b",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mobilefuse.com",
+      "domain": "mobilefuse.com"
+    },
+    {
+      "seller_id": "e5fbacd8-cf1a-476d-900b-dde5ed547faf",
+      "seller_type": "INTERMEDIARY",
+      "name": "SmartRTB",
+      "domain": "smrtb.com"
+    },
+    {
+      "seller_id": "120ed77d-8ad1-4299-aa3b-bea41f49c4b3",
+      "seller_type": "INTERMEDIARY",
+      "name": "Allinviews.com",
+      "domain": "allinviews.com"
+    },
+    {
+      "seller_id": "2119420f-088a-45b5-ba67-ca01b8c39930",
+      "seller_type": "INTERMEDIARY",
+      "name": "PREQUEL",
+      "domain": "prequel.tv"
+    },
+    {
+      "seller_id": "58c38681-5cad-4768-bbc5-2cbe59023a85",
+      "seller_type": "INTERMEDIARY",
+      "name": "Amity Digital",
+      "domain": "amitydigital.io"
+    },
+    {
+      "seller_id": "b0468bbb-26cb-40cf-9954-73139071eb64",
+      "seller_type": "INTERMEDIARY",
+      "name": "Integral (Kuchiku.io)",
+      "domain": "integral-marketing.com"
+    },
+    {
+      "seller_id": "7f89e9bd-c867-47d5-9501-68b7d81084d8",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mobchain",
+      "domain": "mobchain.com"
+    },
+    {
+      "seller_id": "090eaf23-2b19-482c-a9de-fbfdebe9406e",
+      "seller_type": "BOTH",
+      "name": "Cydersoft",
+      "domain": "cydersoft.com"
+    },
+    {
+      "seller_id": "252cf731-02e4-4a63-92c4-e347fbf9f49e",
+      "seller_type": "INTERMEDIARY",
+      "name": "Huddledmasses",
+      "domain": "huddledmasses.com"
+    },
+    {
+      "seller_id": "4450eb74-cbb7-46e1-99dc-03440a974c6e",
+      "seller_type": "BOTH",
+      "name": "SuperAds",
+      "domain": "superads.cn"
+    },
+    {
+      "seller_id": "2d308303-028c-460a-bafb-2d80f09e3fa4",
+      "seller_type": "INTERMEDIARY",
+      "name": "Zoomd",
+      "domain": "zoomd.com"
+    },
+    {
+      "seller_id": "301e339c-35ff-4ea2-8cbd-07719e996ab9",
+      "seller_type": "INTERMEDIARY",
+      "name": "Sayollo.com",
+      "domain": "Sayollo.com"
+    },
+    {
+      "seller_id": "17afbff1-85a8-4944-8265-e33e83464f59",
+      "seller_type": "INTERMEDIARY",
+      "name": "Digital Bidding AdX SSP",
+      "domain": "digital-bidding.com"
+    },
+    {
+      "seller_id": "80ff0c70-ff57-4cbb-8722-cb7c7ae4b482",
+      "seller_type": "PUBLISHER",
+      "name": "airlab.ai",
+      "domain": "airlab.ai"
+    },
+    {
+      "seller_id": "04da2db7-1708-4d61-a379-4bab567a9c83",
+      "seller_type": "BOTH",
+      "name": "Zhekapps.com",
+      "domain": "Zhekapps.com"
+    },
+    {
+      "seller_id": "7bd673ef-536c-413b-b7c7-eec84fa381ee",
+      "seller_type": "PUBLISHER",
+      "name": "hyfr",
+      "domain": "hyfr.com"
+    },
+    {
+      "seller_id": "7b1d0577-7c48-42c2-a4d0-1613a033b8ea",
+      "seller_type": "BOTH",
+      "name": "Opera",
+      "domain": "opera.com"
+    },
+    {
+      "seller_id": "d9a72b4b-26be-4538-9160-017310ecd669",
+      "seller_type": "BOTH",
+      "name": "Nuviad",
+      "domain": "nuviad.com"
+    },
+    {
+      "seller_id": "6c2e6fa4-cc88-446a-b656-3f10ae417742",
+      "seller_type": "PUBLISHER",
+      "name": "BZNS Media New",
+      "domain": "bzns.media"
+    },
+    {
+      "seller_id": "47086c78-51f8-4694-b992-2f265d2b4d1d",
+      "seller_type": "BOTH",
+      "name": "Cignal.io VAST",
+      "domain": "Cignal.io"
+    },
+    {
+      "seller_id": "896bb9fd-993b-4ce1-a0d3-8ade64efbcc5",
+      "seller_type": "BOTH",
+      "name": "Taboola",
+      "domain": "Taboola.com"
+    },
+    {
+      "seller_id": "566e1bc0-12fe-4859-a973-45b6c91fb046",
+      "seller_type": "INTERMEDIARY",
+      "name": "RhythmOne",
+      "domain": "rhythmone.com"
+    },
+    {
+      "seller_id": "4482602c-92a1-4122-a075-120090adde80",
+      "seller_type": "BOTH",
+      "name": "Pokkt",
+      "domain": "pokkt.com"
+    },
+    {
+      "seller_id": "d504fef2-9b98-4a79-9802-4cc9b69e9788",
+      "seller_type": "INTERMEDIARY",
+      "name": "Baidu",
+      "domain": "baidu.com"
+    },
+    {
+      "seller_id": "8757be46-5992-4887-90fe-d2e6caa3c742",
+      "seller_type": "PUBLISHER",
+      "name": "GOSU.AI",
+      "domain": "GOSU.AI"
+    },
+    {
+      "seller_id": "75e4a586-442d-47c3-ac85-0b5b00547cdd",
+      "seller_type": "INTERMEDIARY",
+      "name": "LunaMedia",
+      "domain": "lunamedia.io"
+    },
+    {
+      "seller_id": "1c7dfbc8-53a7-4f14-9dc5-47ff3fd6d11c",
+      "seller_type": "INTERMEDIARY",
+      "name": "Entravision",
+      "domain": "entravision.com"
+    },
+    {
+      "seller_id": "a4d0249d-eeef-4b9f-82b9-873db5b4590c",
+      "seller_type": "INTERMEDIARY",
+      "name": "AWG Media SSP",
+      "domain": "awg.la"
+    },
+    {
+      "seller_id": "acf86919-3aa6-427b-8040-afbe27d125be",
+      "seller_type": "INTERMEDIARY",
+      "name": "AppStock",
+      "domain": "app-stock.com"
+    },
+    {
+      "seller_id": "a05d9873-0151-4234-8731-fdcd85cf924e",
+      "seller_type": "INTERMEDIARY",
+      "name": "Viralize",
+      "domain": "viralize.com"
+    },
+    {
+      "seller_id": "d09ecbf9-89f9-477f-88d7-03ded0dd0342",
+      "seller_type": "INTERMEDIARY",
+      "name": "Timehop (Nimbus)",
+      "domain": "timehop.com"
+    },
+    {
+      "seller_id": "f641a484-7a39-4920-b0ea-77a1941bc955",
+      "seller_type": "PUBLISHER",
+      "name": "717 Studio",
+      "domain": "717.studio"
+    },
+    {
+      "seller_id": "b6339b5a-b77e-409c-9487-d249a6bec586",
+      "seller_type": "INTERMEDIARY",
+      "name": "Addoox",
+      "domain": "addoox.com"
+    },
+    {
+      "seller_id": "a92b39b9-6aed-403f-8675-2a3c5a872d25",
+      "seller_type": "INTERMEDIARY",
+      "name": "Limpid",
+      "domain": "limpid.tv"
+    },
+    {
+      "seller_id": "72efbaad-76cd-4107-b31e-84c0ef425d86",
+      "seller_type": "BOTH",
+      "name": "Purplesmarttv",
+      "domain": "purplesmarttv.com"
+    },
+    {
+      "seller_id": "9099c48d-eb49-4986-9618-79f17dab5ed4",
+      "seller_type": "BOTH",
+      "name": "Appmonet.com",
+      "domain": "appmonet.com"
+    },
+    {
+      "seller_id": "e6377194-2945-4d4d-8312-4c1ab4380614",
+      "seller_type": "INTERMEDIARY",
+      "name": "Irco Tech (M51)",
+      "domain": "m51.co"
+    },
+    {
+      "seller_id": "03fee8ee-1ea9-4784-ad34-ee170b54db5c",
+      "seller_type": "INTERMEDIARY",
+      "name": "Madvertise",
+      "domain": "madvertise.com"
+    },
+    {
+      "seller_id": "f11c18b3-5308-4bc0-bf5b-a43ef1a94e8d",
+      "seller_type": "INTERMEDIARY",
+      "name": "Feeltapmedia",
+      "domain": "feeltapmedia.com"
+    },
+    {
+      "seller_id": "ae6968af-f4ab-4c26-8fb9-f807dfa884b2",
+      "seller_type": "BOTH",
+      "name": "hearst.com",
+      "domain": "hearst.com"
+    }
+  ]
+}

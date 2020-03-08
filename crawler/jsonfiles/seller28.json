@@ -1,0 +1,2452 @@
+{
+  "contact_email": "client.services@sonobi.com",
+  "contact_address": "444 W. New England Ave, Suite 215, Winter Park, FL 32789",
+  "identifiers": [
+    {
+      "name": "TAG-ID",
+      "value": "d1a215d9eb5aee9e"
+    },
+    {
+      "name": "DUNS",
+      "value": "049099099"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "026c77b48b",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Consequence Media",
+      "domain": "consequencemedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "0293b4b60a",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Digital Trends (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "0391bcfe79",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Gearheads",
+      "domain": "gearheads.org",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "047c437761",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Fantasy Pros",
+      "domain": "fantasypros.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "049d257a5d",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Playwire Media",
+      "domain": "playwire.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "04c4cc19ad",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "We Mass - Prisa",
+      "domain": "prisabs.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "062347236e",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "United Online",
+      "domain": "corp.untd.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "079a402c14",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Literally Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "07e36b29ab",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "The Attention Network",
+      "domain": "theattentionnetwork.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "08fbae7ffd",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "We Mass - Vocento",
+      "domain": "wemass.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "092ac5c683",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Gannett Co., Inc",
+      "domain": "gannett.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "094dc64312",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Workout Inc (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "0a425cc79b",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Crunchmind_Ash (via TAM)",
+      "domain": "crunchmind.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "0b24fdfc82",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Pixfuture",
+      "domain": "pixfuture.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "0c872c0424",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow-PD (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "0e0a64d7d3",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Infolinks",
+      "domain": "infolinks.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "0f44772ebd",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "NicheRev",
+      "domain": "nicherev.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "116da9d98c",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Venatus Media",
+      "domain": "venatusmedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "130e3bea51",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Red Gobo Inc",
+      "domain": "redgobo.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "1397c6e185",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "propermedia",
+      "domain": "proper.io",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "154bd22782",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Scripps Network (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "15a74ec6ff",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Hive Media",
+      "domain": "hivemedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "16606abdf9",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Solomid",
+      "domain": "solomid.net",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "1812a8e552",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Topix.com (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "188453f98c",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Phunware",
+      "domain": "phunware.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "18bf71b4b7",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Norton (via TAM)",
+      "domain": "pastemagazine.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "195acdcdc4",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Research Gate (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "1976f6cff7",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "FunCorp_pb",
+      "domain": "fun.co",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "1b610584ae",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Wazimo Adi",
+      "domain": "wazimo.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "1bc06c6609",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Cumulus Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "1c0cff5ab3",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Brulee Media Ltd.",
+      "domain": "bruleepublishing.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "1ccf95a3d9",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Haaretz (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "1d7065c722",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Marfeel (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "2092256abb",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Retail Me Not (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "20e15162ed",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Future Today CTV",
+      "domain": "futuretodayinc.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "22e749f071",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Clean Media",
+      "domain": "cleanmedia.net",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "23b000ae22",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Jungle Creations Ltd",
+      "domain": "junglecreations.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "24c2399d25",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Area Vibes Inc.",
+      "domain": "areavibes.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "254035a6db",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Investing Channel (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "25e2f7d430",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Internet Brands - Travel (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "2946159f5a",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Advance Digital (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "2ab1f50de1",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Valnet (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "2b199cc618",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow-HW (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "2ba625e465",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "TEGNA (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "2bf8e30f73",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Search Engine Journal",
+      "domain": "searchenginejournal.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "2c0b6e688b",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Anyclip (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "2d4556021d",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "RTK.io",
+      "domain": "rtk.io",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "2e1b42aa08",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Endgame360 (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "3026ba0534",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "USA Today Sports Media Group (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "31f001801f",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "iPonWeb",
+      "domain": "iponweb.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "322ca1836f",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "The Week Publications Inc (via TAM)",
+      "domain": "theweek.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "337218deb7",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Mobfox",
+      "domain": "mobfox.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "337d0733d0",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Purdue OWL (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "337f0e70cc",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "The Eighth Network",
+      "domain": "theeighthnetwork.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "3402762eca",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Covers Media Group Ltd.",
+      "domain": "covers.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "35ef89f349",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "WetterOnline (via TAM)",
+      "domain": "wetteronline.de",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "35f7241993",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "AdSparc",
+      "domain": "adsparc.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "3622621b70",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "The Daily Caller (Via TAM)",
+      "domain": "dailycaller.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "36cebf3323",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "AdGate Media",
+      "domain": "adgatemedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "37dd19ad4a",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "OnoMagic",
+      "domain": "onomagic.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "391b649eeb",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Bidstream Media",
+      "domain": "bidstream.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "3ca00b51c4",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Ookla (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "3d5a7ef3fd",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow-TO (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "3ede5cf497",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Yourbow - Ebony (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "3f863ad070",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Shinez",
+      "domain": "shinez.io",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "3fa6f969db",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "AccuRadio",
+      "domain": "accuradio.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "40c9dbc87d",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Paste (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "410fbed2a3",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "FloSport (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "42393c54a0",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Ziff Davis (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "42622ccbfc",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "TrendsCatchers",
+      "domain": "trendscatchers.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "427c08e01b",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow-SpN (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "431fc29fce",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Scripps Networks",
+      "domain": "corporate.discovery.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "441771354b",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "IZON Network",
+      "domain": "izonnetwork.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "44aed58e55",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Legacy",
+      "domain": "legacy.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "45b0f3fa68",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Reignn",
+      "domain": "reignn.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "45d164a0d3",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "PubOcean (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "474c6f9adc",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Phunware_vid",
+      "domain": "phunware.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "47f4a29516",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Cortex Media Group",
+      "domain": "cortexmg.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "489d31688d",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "BCM (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "48bb4a4aa8",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "3Blue Media",
+      "domain": "3bluemedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4980f2fde3",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Display.io",
+      "domain": "display.io",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "49df131b31",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Adnimation (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4b897281fe",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Ad Metrics Pro",
+      "domain": "admetricspro.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4ba74d4dae",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Monumetric",
+      "domain": "monumetric.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4bd1642a73",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "JustAPinch",
+      "domain": "justapinch.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4d1166f3c9",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Verizon Media",
+      "domain": "verizonmedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4d443a3ea2",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Interdog Media Limited",
+      "domain": "interdogmedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4d640128c0",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Cedato",
+      "domain": "cedato.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4df5870ea8",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Crazy Games (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4e49943f0d",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Motiv31",
+      "domain": "motiv31.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4ebddf0b77",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Couchsurfing International, Inc.",
+      "domain": "couchsurfing.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4f9a8346dd",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Zergnet (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "4fafe55642",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Adnimation Ltd",
+      "domain": "adnimation.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "532a2a2878",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Adapex.io",
+      "domain": "digikulture.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "5370c44f07",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Fandom",
+      "domain": "fandom.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "554ce5e9bf",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Mocospace (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "55a9a273aa",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Novelty Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "5695c92f04",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Gladly Inc.",
+      "domain": "gladly.io",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "570b7ce8d0",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow-bts (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "59180552d3",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Legacy (via EB)",
+      "domain": "legacy.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "59400e59df",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "495 Communications",
+      "domain": "495communications.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "59ac941538",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "24 Hour Campfire",
+      "domain": "24hourcampfire.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "5b0511dd74",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "PoolHost (via TAM)",
+      "domain": "poolhost.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "5be2342158",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Constative",
+      "domain": "bold-win.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "5e90b85e66",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Observer Media",
+      "domain": "observer.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "5fa6044d8d",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Underdog Media",
+      "domain": "udmserve.net",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "6070421af0",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "AudienceDrive",
+      "domain": "audiencedrive.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "612aa83ad9",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Snigel Web (via TAM)",
+      "domain": "snigelweb.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "61e4037089",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Media News Group (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "631aa3ac37",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Mocospace",
+      "domain": "mocospace.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "64857cc4f1",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Chatter Time Media",
+      "domain": "chattertime.media",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "659b78b9bd",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Chive Media Group",
+      "domain": "chivemediagroup.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "6674ffba00",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Fusion Media LTD",
+      "domain": "investing.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "6888a9ce87",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "BN Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "68e66dc916",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Grupo Healy",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "6aec9ffd4e",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Slate Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "6b56075d9f",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "80s Kids",
+      "domain": "eightieskids.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "6c40c20b8f",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "PBH Network (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "6e552be523",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "News Cycle (via TAM)",
+      "domain": "newscycle.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "6e5cfb5420",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Consumable (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "6eb9614475",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Sovrn-UK",
+      "domain": "sovrn.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "70bc4d0919",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Insticator (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "71169bd4a5",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Mobfox (Supply Chain)",
+      "domain": "mobfox.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "71b80deecc",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Snack Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "720fe43f72",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Instructables (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "72748825a9",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Crunchmind",
+      "domain": "crunchmind.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "73238f94ff",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Dexerto (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "73c9277afb",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "The Week Publications Inc (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "74fd6521a5",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "USA Today App",
+      "domain": "gannett.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "757d89fc32",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Local Sales Network",
+      "domain": "golsn.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "757f34045d",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Hometalk Inc",
+      "domain": "hometalk.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "757f51e8d9",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "WeMotivate (via TAM)",
+      "domain": "wemotivatemedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "75b09d94ac",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Dingofox Media",
+      "domain": "dingofox.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "762b5d36da",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Meredith Corp (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "76d7c62f09",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Leanback Digital",
+      "domain": "leanback.digital",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "783272317b",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Answer Media",
+      "domain": "answermedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7943ca7919",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Phonearena (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7b4f3e26f6",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "News UK (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7bf7f79431",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "AnyClip ltd",
+      "domain": "anyclip.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7c8adebfa1",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "PoolHost",
+      "domain": "poolhost.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7d3c70c718",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Ancient EU (via TAM)",
+      "domain": "ancient.eu",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7ec0208b59",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Crunchmind_BS (via TAM)",
+      "domain": "crunchmind.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7ed792878d",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "VPP Gaming Network",
+      "domain": "vppgamingnetwork.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7ee9a95216",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "This Old House Ventures (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7ee9e41966",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "oPub Media",
+      "domain": "opubmedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7f621a278b",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "CBS Local",
+      "domain": "cbslocal.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "7f9ab3fe77",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "First Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "800f1ba406",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Ookla (via TAM)",
+      "domain": "ookla.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "8032b7f0d3",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Crunchmind_NJ (via TAM)",
+      "domain": "crunchmind.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "80fe169af3",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "CafeMedia (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "8205f56524",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "WuxiaWorld",
+      "domain": "wuxiaworld.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "832e94e853",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Zero1",
+      "domain": "zero1.io",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "834aa13635",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Ubisoft Mobile Games",
+      "domain": "ubisoft.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "83729e979b",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Media.net",
+      "domain": "media.net",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "851f91c642",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Fark, Inc",
+      "domain": "fark.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "8606b5b361",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "TIM Media",
+      "domain": "timmedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "8612f780c9",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Gamer Network (via EB)",
+      "domain": "goggle.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "88006a56e0",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Arkadium",
+      "domain": "arkadium.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "88781960b8",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Ortolani Enterprises",
+      "domain": "ortolanienterprises.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "88a5b885c6",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Adapex.io (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "8a120a2d9c",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Boarding School Review",
+      "domain": "gmail.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "8a228f5cce",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "The News PLC EU",
+      "domain": "tnbclive.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "8b725e5cd3",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Saambaa",
+      "domain": "saambaa.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "8dc2f48f6c",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "CoolMathGames (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "8ef6b65eef",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "AdMix.in",
+      "domain": "admix.in",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9106c9f063",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Snigel Web (gt)",
+      "domain": "snigelweb.net",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "925199cf83",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "VICE Media LLC (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9288e50d39",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Brave Software",
+      "domain": "brave.io",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9318c1da8a",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Research Gate",
+      "domain": "researchgate.net",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "93215fc1c4",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "ROI Media Consultants",
+      "domain": "roimediaconsultants.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "93a47d802e",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Streamlined Media",
+      "domain": "streamlinedmedia.co",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "948049b364",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Narcity Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "956c1bf892",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Wisology",
+      "domain": "wisology.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9621603b27",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Rakuten (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "96537b775d",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "KenKen",
+      "domain": "kenkenpuzzle.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9865ae74ed",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Salem Web Network",
+      "domain": "salemwebnetwork.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9876d17f08",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Gamelytic",
+      "domain": "gamelytic.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "987f7d135e",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "League Secretary",
+      "domain": "nabso.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9bb3cb0129",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "The News PLC MESA",
+      "domain": "tnbcplc.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9c8bcc5a88",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Valnet A9",
+      "domain": "valnetinc.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9cb8e37392",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Bustle (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9e2b29a968",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Rough Maps",
+      "domain": "roughmaps.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9e2fe7a8de",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow - YT (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "9ed888d97a",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "TurtleDiary",
+      "domain": "turtlediary.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a1bae7cd5d",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "ESI (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a2495b5c43",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "TimeHop",
+      "domain": "timehop.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a2ea0c3355",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Grey TV (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a3fbc0bc51",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Philly (via TAM)",
+      "domain": "inquirer.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a416546bb7",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "33 Across (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a4cad4d5b4",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Secure Systems",
+      "domain": "cir.st",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a4e2ffe867",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Blasting News (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a4f97debde",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "FrontStory (OMG Studios)",
+      "domain": "omgstudios.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a6189b8ece",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Smartlify (via TAM)",
+      "domain": "smartlify.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a6b054eca8",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Hometalk.com (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a751b1a35e",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "The Drive (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "a9f1091284",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Disqus (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "abc2cad1dc",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Washington Examiner",
+      "domain": "washingtonexaminer.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "ae3eca5cbd",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Venatus Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "aff8f7f74a",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Boarding Area (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b000352219",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Mind Tank Media",
+      "domain": "mindtankmedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b0d60b5dd6",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Titan Gate Ltd.",
+      "domain": "pubgalaxy.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b0d98479c8",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Epoch Times (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b24c93d5b8",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Generation Premium",
+      "domain": "generationpremium.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b32c22bc6f",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "CBSi Network",
+      "domain": "cbsinteractive.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b33834d36d",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Digital1",
+      "domain": "digital1.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b38c2441b8",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Concourse Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b57b75c2eb",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Digital Trends (via TAM)",
+      "domain": "digitaltrends.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b5ca8dc560",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Wrestling Inc",
+      "domain": "wrestlinginc.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b6987cc277",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Cumulus Media",
+      "domain": "cumulusmedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b8dd12b6d4",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Hypable",
+      "domain": "hypable.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "b9600f1516",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Hive.com (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "baf0fb6dbd",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "HowStuffWorks (via TAM)",
+      "domain": "howstuffworks.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "bb85679687",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Snopes (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "bb9dcd2aa4",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "WorldLifestyle",
+      "domain": "worldlifestyle.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "bc2afab5f7",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "OpsCo",
+      "domain": "opsco.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "bc32fa1e34",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Fusion Media LTD (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "bc9e612228",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Maven.io (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "beb3195530",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Vidazoo",
+      "domain": "vidazoo.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "bf7151d154",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Got Chosen",
+      "domain": "gotchosen.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "c05b3f0719",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Fatherly (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "c05c89b467",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow - QD (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "c2ae35a3bc",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Time and Date",
+      "domain": "timeanddate.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "c3bbdd8d44",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Practical Machinist",
+      "domain": "delicioussimplicity.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "c3d803622d",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "La Nacion (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "c7329c4710",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Local Sales Network (via TAM)",
+      "domain": "golsn.comm",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "c7c1270007",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow_IFLS (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "c7ce6fdf6b",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Top Law Schools",
+      "domain": "top-law-schools.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "c8600ce323",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Boston Globe (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "ca8e9ef7f0",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Playwire Media Video (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "cbc69701ce",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "West Seven Media",
+      "domain": "westseven.media",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "cc769a822a",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Softpedia",
+      "domain": "softpedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "cdcb6fdb07",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Proper Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "cdf700d7e9",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "London Southeast",
+      "domain": "lse.co.uk",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "ce6c916da5",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Publir",
+      "domain": "publir.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "cf4d567472",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Penske (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d089631d2d",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "The Guardian",
+      "domain": "theguardian.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d1ba225542",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Inuvo",
+      "domain": "inuvo.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d1e6488bf1",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Den of Geek (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d21913b18e",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Aleteia.Org",
+      "domain": "aleteia.org",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d2381cba79",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow-ADW (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d624699fd7",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "RTK.IO (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d626ef8cd5",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Newsweek Media Group (via TAM)",
+      "domain": "newsweek.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d64ee8651d",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "The Media Shop",
+      "domain": "themediashop.co",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d663b37ae4",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Snow Day Calc",
+      "domain": "sukhin.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d6651f020f",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Chegg Study (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d6898a7161",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Outreach Media Group",
+      "domain": "outreach.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d75834c9c5",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "1001 Fonts",
+      "domain": "1001fonts.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "d8c85cc54e",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Encyclopaedia Britannica, Inc (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "da919912a3",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Playbill",
+      "domain": "playbill.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "db8cebe31a",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "CBSi",
+      "domain": "cbsinteractive.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "db8d61494a",
+      "is_confidential": 0,
+      "seller_type": "BOTH",
+      "name": "Media Fuse",
+      "domain": "mediafuse.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "dd997949f3",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Random Elements",
+      "domain": "randomem.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "ddd4dfa283",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Titan Gate (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "dfe546d1a9",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Farlex Inc",
+      "domain": "farlex-inc.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e068b2359f",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Barons Media",
+      "domain": "baronsmedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e0921ba12f",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Futbol Sites (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e135dcc58a",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Exent",
+      "domain": "exent.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e164a9a747",
+      "is_confidential": 0,
+      "seller_type": "BOTH",
+      "name": "Krush Media",
+      "domain": "krushmedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e1c669f2f0",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Venture Beat",
+      "domain": "venturebeat.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e211e0df45",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Meredith Corp (via TAM)",
+      "domain": "meredith.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e2465749cb",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Yourbow-RH (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e25b7fc5a4",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Sound Publishing",
+      "domain": "soundpublishing.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e307326db6",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "9 Dots",
+      "domain": "9dots.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e315a43aa9",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Insticator Inc",
+      "domain": "ppa.insticator.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e4464446ab",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Playwire.com (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e55fb5d7c2",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Consumable, Inc.",
+      "domain": "consumable.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e6980328df",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Bukisa Media, LLC",
+      "domain": "verticalpulse.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e79600a24e",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Salt Lake Tribune (via TAM)",
+      "domain": "numbersix.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "e97f100c80",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Hometalk.com (via TAM)",
+      "domain": "hometalk.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "eacfd9f8a5",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Viant Inc",
+      "domain": "viantinc.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "eba2d35162",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Digital Trends",
+      "domain": "digitaltrends.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "ec5b599247",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Publisher Clearing House",
+      "domain": "pch.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "edb136f3f4",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Fatherly",
+      "domain": "fatherly.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "edf0562ca4",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Brulee Media (via TAM)",
+      "domain": "bruleemedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "ef047fee4e",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Ziff Davis (via TAM)",
+      "domain": "ziffdavis.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "ef1177d8d0",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Vexigo",
+      "domain": "vexigo.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "ef1526442d",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "BluTonic",
+      "domain": "blutonic.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "ef1d5eb22e",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Saturdays Down South",
+      "domain": "saturdaydownsouth.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "ef4ba5126f",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow-BD (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "efb033eac1",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "BCM",
+      "domain": "bcm.ltd",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f01429b4b9",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow-ALM (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f11cb04eec",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Deviant Art",
+      "domain": "Wix.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f15a035804",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Athlon Media Group",
+      "domain": "amgparade.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f21f38b4ce",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Everhance LLC",
+      "domain": "everhance.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f22036b5f1",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Minute Media (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f3365e8c72",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "YourBow-SciMag (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f56ce88917",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Topix LLC",
+      "domain": "pch.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f664fbdf1f",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "The Drive Media",
+      "domain": "thedrive.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f69dbb9485",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Smart RTB",
+      "domain": "smrtb.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f79d8a858b",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "VidCrunch",
+      "domain": "vidcrunch.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f8813fc801",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Notsy B.V.",
+      "domain": "notsy.io",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f88711ff45",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "123Greeting (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f8a62666bf",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Future plc",
+      "domain": "futureplc.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "f8c84894c4",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Novelty Media LTD (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "fab11a9725",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "PopSugar (via TAM)",
+      "domain": "popsugar.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "fb1f827da2",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Jukin Media",
+      "domain": "jukinmedia.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "fb2594d6df",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Epoch Media Group (via TAM)",
+      "domain": "epochmediagroup.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "fb30a9d7a0",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Classmates.com",
+      "domain": "unitedonline.net",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "fb9580c293",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "Sortable",
+      "domain": "sortable.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "fbf6d2f2a8",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Town Square Media",
+      "domain": "townsquaredigital.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "fbf988bf0f",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Al Jazeera",
+      "domain": "aljazeera.net",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "fda5ec8b0e",
+      "is_confidential": 0,
+      "seller_type": "PUBLISHER",
+      "name": "Lifezette",
+      "domain": "lifezette.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "fddd14ff99",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "9 Dots (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    },
+    {
+      "seller_id": "feaf91f47b",
+      "is_confidential": 0,
+      "seller_type": "INTERMEDIARY",
+      "name": "The Weather Channel (via EB)",
+      "domain": "google.com",
+      "is_passthrough": 0
+    }
+  ],
+  "version": "1.0",
+  "ext": {
+    "timestamp": "03/06/2020 08:03:30 PM +00:00"
+  }
+}

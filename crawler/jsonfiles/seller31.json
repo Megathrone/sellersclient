@@ -1,0 +1,881 @@
+{
+  "version": "1.0",
+  "contact_email": "info@lkqd.com",
+  "contact_address": "Nexstar Digital, LLC, 27422 Portola Parkway, Suite 100 Foothill Ranch, CA 92610",
+  "identifiers": [
+    {
+      "name": "TAG-ID",
+      "value": "59c49fa9598a0117"
+    },
+    {
+      "name": "DUNS",
+      "value": "080679444"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "476",
+      "seller_type": "PUBLISHER",
+      "name": "Nexstar Broadcasting, Inc.",
+      "domain": "http://www.nexstardigital.com"
+    },
+    {
+      "seller_id": "605",
+      "seller_type": "INTERMEDIARY",
+      "name": "Kargo",
+      "domain": "https://kargo.com"
+    },
+    {
+      "seller_id": "604",
+      "seller_type": "PUBLISHER",
+      "name": "Samsung",
+      "domain": "https://www.samsung.com/us"
+    },
+    {
+      "seller_id": "603",
+      "seller_type": "PUBLISHER",
+      "name": "Rakuten",
+      "domain": "https://www.rakuten.com"
+    },
+    {
+      "seller_id": "602",
+      "seller_type": "INTERMEDIARY",
+      "name": "Outbrain",
+      "domain": "https://www.outbrain.com/"
+    },
+    {
+      "seller_id": "601",
+      "seller_type": "PUBLISHER",
+      "name": "Viacom",
+      "domain": "https://www.viacbs.com"
+    },
+    {
+      "seller_id": "600",
+      "seller_type": "INTERMEDIARY",
+      "name": "Glewed.tv",
+      "domain": "http://glewed.tv"
+    },
+    {
+      "seller_id": "599",
+      "seller_type": "INTERMEDIARY",
+      "name": "Digital Fairway",
+      "domain": "https://www.digital-fairway.com"
+    },    
+    {
+      "seller_id": "598",
+      "seller_type": "INTERMEDIARY",
+      "name": "Distroscale",
+      "domain": "http://www.distroscale.com"
+    },
+    {
+      "seller_id": "596",
+      "seller_type": "INTERMEDIARY",
+      "name": "TetraTV",
+      "domain": "https://www.tetra.tv"
+    },
+    {
+      "seller_id": "595",
+      "seller_type": "PUBLISHER",
+      "name": "Ultimate Guitar",
+      "domain": "https://www.ultimate-guitar.com"
+    },
+    {
+      "seller_id": "594",
+      "seller_type": "PUBLISHER",
+      "name": "Tastemade",
+      "domain": "https://watch.tastemade.com"
+    },
+    {
+      "seller_id": "593",
+      "seller_type": "INTERMEDIARY",
+      "name": "Connatix",
+      "domain": "https://www.connatix.com"
+    },
+    {
+      "seller_id": "592",
+      "seller_type": "INTERMEDIARY",
+      "name": "WURL",
+      "domain": "https://www.wurl.com"
+    },
+    {
+      "seller_id": "591",
+      "seller_type": "PUBLISHER",
+      "name": "DailyMotion",
+      "domain": "https://dailymotion.com"
+    },
+    {
+      "seller_id": "590",
+      "seller_type": "PUBLISHER",
+      "name": "Vizio",
+      "domain": "https://www.vizio.com"
+    },
+    {
+      "seller_id": "589",
+      "seller_type": "INTERMEDIARY",
+      "name": "Origin Media",
+      "domain": "http://www.originmedia.com"
+    },
+    {
+      "seller_id": "588",
+      "seller_type": "PUBLISHER",
+      "name": "Big Star",
+      "domain": "https://www.bgstr.com"
+    },
+    {
+      "seller_id": "587",
+      "seller_type": "PUBLISHER",
+      "name": "The Chive",
+      "domain": "https://thechive.com"
+    },
+    {
+      "seller_id": "586",
+      "seller_type": "INTERMEDIARY",
+      "name": "47 Samurai",
+      "domain": "http://47samurai.com"
+    },
+    {
+      "seller_id": "584",
+      "seller_type": "PUBLISHER",
+      "name": "Weather Group",
+      "domain": "http://weathergroup.com"
+    },
+    {
+      "seller_id": "582",
+      "seller_type": "PUBLISHER",
+      "name": "Hive Media",
+      "domain": "http://www.hivemedia.com"
+    },
+    {
+      "seller_id": "581",
+      "seller_type": "PUBLISHER",
+      "name": "Xite",
+      "domain": "https://xite.com"
+    },
+    {
+      "seller_id": "580",
+      "seller_type": "PUBLISHER",
+      "name": "CBS Interactive",
+      "domain": "https://www.cbsinteractive.com"
+    },
+    {
+      "seller_id": "577",
+      "seller_type": "PUBLISHER",
+      "name": "Internet Brands - Travel",
+      "domain": "https://www.internetbrands.com"
+    },
+    {
+      "seller_id": "574",
+      "seller_type": "PUBLISHER",
+      "name": "Univision Communications Inc.",
+      "domain": "https://www.univision.com"
+    },
+    {
+      "seller_id": "573",
+      "seller_type": "PUBLISHER",
+      "name": "Philo Inc.",
+      "domain": "https://philo.com"
+    },
+    {
+      "seller_id": "572",
+      "seller_type": "BOTH",
+      "name": "IPONWEB",
+      "domain": "https://www.iponweb.com"
+    },
+    {
+      "seller_id": "568",
+      "seller_type": "PUBLISHER",
+      "name": "Popcorn Flix",
+      "domain": "https://www.popcornflix.com"
+    },
+    {
+      "seller_id": "566",
+      "seller_type": "PUBLISHER",
+      "name": "Fexy",
+      "domain": "http://fexy.com"
+    },
+    {
+        "seller_id": "561",
+        "seller_type": "PUBLISHER",
+        "name": "National Geographic",
+        "domain": "https://www.nationalgeographic.com"
+    },
+    {
+      "seller_id": "559",
+      "seller_type": "PUBLISHER",
+      "name": "Chegg",
+      "domain": "https://www.chegg.com"
+    },
+    {
+      "seller_id": "557",
+      "seller_type": "PUBLISHER",
+      "name": "DotStudioz",
+      "domain": "https://www.dotstudiopro.com"
+    },
+    {
+      "seller_id": "556",
+      "seller_type": "PUBLISHER",
+      "name": "American Media",
+      "domain": "https://www.americanmediainc.com"
+    },
+    {
+      "seller_id": "554",
+      "seller_type": "PUBLISHER",
+      "name": "Weather Nation",
+      "domain": "https://www.weathernationtv.com"
+    },
+    {
+      "seller_id": "553",
+      "seller_type": "PUBLISHER",
+      "name": "TubiTV",
+      "domain": "https://tubitv.com"
+    },
+    {
+      "seller_id": "552",
+      "seller_type": "PUBLISHER",
+      "name": "Xumo",
+      "domain": "https://corp.xumo.com"
+    },
+    {
+      "seller_id": "551",
+      "seller_type": "PUBLISHER",
+      "name": "Cheddar",
+      "domain": "https://cheddar.com"
+    },
+    {
+      "seller_id": "550",
+      "seller_type": "PUBLISHER",
+      "name": "A&E",
+      "domain": "https://www.aetv.com"
+    },
+    {
+      "seller_id": "548",
+      "seller_type": "PUBLISHER",
+      "name": "Prometheus Global Media",
+      "domain": "http://www.prometheusgm.com"
+    },
+    {
+      "seller_id": "547",
+      "seller_type": "PUBLISHER",
+      "name": "Newsy",
+      "domain": "https://www.newsy.com"
+    },
+    {
+      "seller_id": "544",
+      "seller_type": "PUBLISHER",
+      "name": "Sony",
+      "domain": "https://www.sonycrackle.com"
+    },
+    {
+      "seller_id": "543",
+      "seller_type": "INTERMEDIARY",
+      "name": "Amity Digital",
+      "domain": "https://amitydigital.com"
+    },
+    {
+      "seller_id": "539",
+      "seller_type": "PUBLISHER",
+      "name": "Syncbak TV",
+      "domain": "https://www.syncbak.com"
+    },
+    {
+      "seller_id": "536",
+      "seller_type": "PUBLISHER",
+      "name": "Perk",
+      "domain": "https://perk.com"
+    },
+    {
+      "seller_id": "535",
+      "seller_type": "PUBLISHER",
+      "name": "Haystack",
+      "domain": "https://www.haystack.tv"
+    },
+    {
+      "seller_id": "531",
+      "seller_type": "INTERMEDIARY",
+      "name": "Underdog Media",
+      "domain": "udmserve.net"
+    },
+    {
+      "seller_id": "529",
+      "seller_type": "PUBLISHER",
+      "name": "Jukin Media",
+      "domain": "https://www.jukinmedia.com"
+    },
+    {
+      "seller_id": "528",
+      "seller_type": "INTERMEDIARY",
+      "name": "Minute.ly",
+      "domain": "https://minute.ly"
+    },
+    {
+      "seller_id": "526",
+      "seller_type": "PUBLISHER",
+      "name": "Bright Mountain Media",
+      "domain": "https://www.brightmountainmedia.com"
+    },
+    {
+      "seller_id": "523",
+      "seller_type": "PUBLISHER",
+      "name": "Fandom",
+      "domain": "https://www.fandom.com"
+    },
+    {
+      "seller_id": "520",
+      "seller_type": "PUBLISHER",
+      "name": "Perpetual Media",
+      "domain": "http://www.perpetualmediagroup.ca"
+    },
+    {
+      "seller_id": "514",
+      "seller_type": "PUBLISHER",
+      "name": "CBS Local",
+      "domain": "http://cbslocal.com"
+    },
+    {
+      "seller_id": "513",
+      "seller_type": "INTERMEDIARY",
+      "name": "LatinON",
+      "domain": "https://latinon.us"
+    },
+    {
+      "seller_id": "511",
+      "seller_type": "PUBLISHER",
+      "name": "Overwolf",
+      "domain": "https://www.overwolf.com"
+    },
+    {
+      "seller_id": "508",
+      "seller_type": "INTERMEDIARY",
+      "name": "SendToNews",
+      "domain": "https://www.sendtonews.com"
+    },
+    {
+      "seller_id": "506",
+      "seller_type": "PUBLISHER",
+      "name": "Bangor Daily News",
+      "domain": "https://bangordailynews.com"
+    },
+    {
+      "seller_id": "505",
+      "seller_type": "INTERMEDIARY",
+      "name": "Powr",
+      "domain": "https://www.powr.io"
+    },
+    {
+      "seller_id": "498",
+      "seller_type": "PUBLISHER",
+      "name": "Future Today",
+      "domain": "https://futuretodayinc.com"
+    },
+    {
+      "seller_id": "494",
+      "seller_type": "PUBLISHER",
+      "name": "OutsideTV",
+      "domain": "http://www.outsidetv.com"
+    },
+    {
+      "seller_id": "492",
+      "seller_type": "PUBLISHER",
+      "name": "Internet Brands",
+      "domain": "https://www.internetbrands.com"
+    },
+    {
+      "seller_id": "491",
+      "seller_type": "PUBLISHER",
+      "name": "Accretive Ads",
+      "domain": "http://accretiveads.com"
+    },
+    {
+      "seller_id": "488",
+      "seller_type": "INTERMEDIARY",
+      "name": "Zedo Inc",
+      "domain": "https://www.zedo.com"
+    },
+    {
+      "seller_id": "484",
+      "seller_type": "PUBLISHER",
+      "name": "Pluto.tv",
+      "domain": "https://pluto.tv"
+    },
+    {
+      "seller_id": "477",
+      "seller_type": "PUBLISHER",
+      "name": "Evite",
+      "domain": "https://www.evite.com"
+    },
+    {
+      "seller_id": "469",
+      "seller_type": "BOTH",
+      "name": "Tappx",
+      "domain": "https://tappx.com"
+    },
+    {
+      "seller_id": "464",
+      "seller_type": "INTERMEDIARY",
+      "name": "NGL Media",
+      "domain": "https://nglcollective.com"
+    },
+    {
+      "seller_id": "463",
+      "seller_type": "PUBLISHER",
+      "name": "MOTDgd",
+      "domain": "https://motdgd.com"
+    },
+    {
+      "seller_id": "459",
+      "seller_type": "INTERMEDIARY",
+      "name": "Chartboost",
+      "domain": "https://www.chartboost.com"
+    },
+    {
+      "seller_id": "457",
+      "seller_type": "INTERMEDIARY",
+      "name": "Taboola",
+      "domain": "https://www.taboola.com"
+    },
+    {
+      "seller_id": "454",
+      "seller_type": "INTERMEDIARY",
+      "name": "ZMG",
+      "domain": "http://dev.zazoomvideo.com"
+    },
+    {
+      "seller_id": "452",
+      "seller_type": "INTERMEDIARY",
+      "name": "Inch Media",
+      "domain": "http://www.inch.media"
+    },
+    {
+      "seller_id": "450",
+      "seller_type": "INTERMEDIARY",
+      "name": "All In Views",
+      "domain": "https://www.allinviews.com"
+    },
+    {
+      "seller_id": "448",
+      "seller_type": "INTERMEDIARY",
+      "name": "Vodel",
+      "domain": "https://vodelmedia.com"
+    },
+    {
+      "seller_id": "446",
+      "seller_type": "INTERMEDIARY",
+      "name": "Freestar.io",
+      "domain": "https://freestar.com"
+    },
+    {
+      "seller_id": "441",
+      "seller_type": "INTERMEDIARY",
+      "name": "Thirdpresence",
+      "domain": "https://thirdpresence.com"
+    },
+    {
+      "seller_id": "437",
+      "seller_type": "INTERMEDIARY",
+      "name": "Saambaa",
+      "domain": "http://go.saambaa.com"
+    },
+    {
+      "seller_id": "435",
+      "seller_type": "INTERMEDIARY",
+      "name": "Impression Digital",
+      "domain": "https://www.impressiondigitalmedia.com"
+    },
+    {
+      "seller_id": "430",
+      "seller_type": "INTERMEDIARY",
+      "name": "Vidoomy Media SL",
+      "domain": "https://www.vidoomy.com"
+    },
+    {
+      "seller_id": "423",
+      "seller_type": "INTERMEDIARY",
+      "name": "Viralize",
+      "domain": "https://viralize.com"
+    },
+    {
+      "seller_id": "415",
+      "seller_type": "PUBLISHER",
+      "name": "Inbox Dollars",
+      "domain": "https://www.inboxdollars.com"
+    },
+    {
+      "seller_id": "410",
+      "seller_type": "INTERMEDIARY",
+      "name": "Impaktu",
+      "domain": "https://www.impaktu.com"
+    },
+    {
+      "seller_id": "408",
+      "seller_type": "INTERMEDIARY",
+      "name": "OmniJay",
+      "domain": "http://omnijay.com"
+    },
+    {
+      "seller_id": "399",
+      "seller_type": "INTERMEDIARY",
+      "name": "Trion",
+      "domain": "https://trioninteractive.com"
+    },
+    {
+      "seller_id": "398",
+      "seller_type": "INTERMEDIARY",
+      "name": "Veuhub",
+      "domain": "https://veuhub.com"
+    },
+    {
+      "seller_id": "390",
+      "seller_type": "INTERMEDIARY",
+      "name": "BIG M",
+      "domain": "https://www.thabigm.com"
+    },
+    {
+      "seller_id": "381",
+      "seller_type": "INTERMEDIARY",
+      "name": "Krush",
+      "domain": "https://gokrush.com"
+    },
+    {
+      "seller_id": "379",
+      "seller_type": "INTERMEDIARY",
+      "name": "Cignal.IO",
+      "domain": "https://www.cignal.io"
+    },
+    {
+      "seller_id": "377",
+      "seller_type": "INTERMEDIARY",
+      "name": "Whenever Media",
+      "domain": "https://www.whenevermedia.com"
+    },
+    {
+      "seller_id": "374",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mobco",
+      "domain": "http://www.mobcomedia.com"
+    },
+    {
+      "seller_id": "360",
+      "seller_type": "INTERMEDIARY",
+      "name": "Vudha",
+      "domain": "http://vudha.com"
+    },
+    {
+      "seller_id": "357",
+      "seller_type": "INTERMEDIARY",
+      "name": "MobiMight",
+      "domain": "http://mobimight.com"
+    },
+    {
+      "seller_id": "355",
+      "seller_type": "INTERMEDIARY",
+      "name": "Stream Key",
+      "domain": "https://www.streamkey.tv"
+    },
+    {
+      "seller_id": "354",
+      "seller_type": "INTERMEDIARY",
+      "name": "Digital Remedy",
+      "domain": "https://www.digitalremedy.com"
+    },
+    {
+      "seller_id": "351",
+      "seller_type": "INTERMEDIARY",
+      "name": "Vungle",
+      "domain": "https://vungle.com"
+    },
+    {
+      "seller_id": "341",
+      "seller_type": "INTERMEDIARY",
+      "name": "Beachside Media Network",
+      "domain": "https://www.beachsidemedia.net"
+    },
+    {
+      "seller_id": "339",
+      "seller_type": "INTERMEDIARY",
+      "name": "Advand",
+      "domain": "https://advandmedia.com"
+    },
+    {
+      "seller_id": "333",
+      "seller_type": "INTERMEDIARY",
+      "name": "Inform",
+      "domain": "http://www.inform.com"
+    },
+    {
+      "seller_id": "328",
+      "seller_type": "INTERMEDIARY",
+      "name": "Rhebus",
+      "domain": "http://www.rhebus.works"
+    },
+    {
+      "seller_id": "327",
+      "seller_type": "INTERMEDIARY",
+      "name": "VidStart",
+      "domain": "https://www.vidstart.com"
+    },
+    {
+      "seller_id": "323",
+      "seller_type": "INTERMEDIARY",
+      "name": "Air Media, Inc.",
+      "domain": "https://corporate.air.tv"
+    },
+    {
+      "seller_id": "308",
+      "seller_type": "INTERMEDIARY",
+      "name": "Sparcmedia",
+      "domain": "https://www.sparcmedia.com"
+    },
+    {
+      "seller_id": "304",
+      "seller_type": "INTERMEDIARY",
+      "name": "Venatus Media Limited",
+      "domain": "https://hb.vntsm.com"
+    },
+    {
+      "seller_id": "301",
+      "seller_type": "PUBLISHER",
+      "name": "YouAppi",
+      "domain": "https://www.youappi.com"
+    },
+    {
+      "seller_id": "295",
+      "seller_type": "INTERMEDIARY",
+      "name": "Thrive Plus",
+      "domain": "https://thriveadvertisingco.com"
+    },
+    {
+      "seller_id": "293",
+      "seller_type": "INTERMEDIARY",
+      "name": "33Across",
+      "domain": "https://33across.com"
+    },
+    {
+      "seller_id": "286",
+      "seller_type": "INTERMEDIARY",
+      "name": "ClearPier",
+      "domain": "http://clearpier.com"
+    },
+    {
+      "seller_id": "284",
+      "seller_type": "PUBLISHER",
+      "name": "Ranker",
+      "domain": "https://www.ranker.com"
+    },
+    {
+      "seller_id": "282",
+      "seller_type": "INTERMEDIARY",
+      "name": "H Code Media",
+      "domain": "https://hcodemedia.com"
+    },
+    {
+      "seller_id": "270",
+      "seller_type": "INTERMEDIARY",
+      "name": "Maple",
+      "domain": "https://maplemedia.io"
+    },
+    {
+      "seller_id": "266",
+      "seller_type": "INTERMEDIARY",
+      "name": "Airpush",
+      "domain": "https://airpush.com"
+    },
+    {
+      "seller_id": "252",
+      "seller_type": "INTERMEDIARY",
+      "name": "Division-D",
+      "domain": "https://www.divisiond.com"
+    },
+    {
+      "seller_id": "244",
+      "seller_type": "INTERMEDIARY",
+      "name": "McCann Disciplines LTD.",
+      "domain": "https://www.primis.tech"
+    },
+    {
+      "seller_id": "238",
+      "seller_type": "INTERMEDIARY",
+      "name": "TOK Media",
+      "domain": "http://tokmedia.net/"
+    },
+    {
+      "seller_id": "234",
+      "seller_type": "INTERMEDIARY",
+      "name": "NovoRoll",
+      "domain": "https://novoroll.com"
+    },
+    {
+      "seller_id": "219",
+      "seller_type": "INTERMEDIARY",
+      "name": "VRTCAL Markets",
+      "domain": "https://vrtcal.com"
+    },
+    {
+      "seller_id": "218",
+      "seller_type": "INTERMEDIARY",
+      "name": "Take1",
+      "domain": "https://www.take1.tv"
+    },
+    {
+      "seller_id": "210",
+      "seller_type": "INTERMEDIARY",
+      "name": "Yep Media",
+      "domain": "http://yepmedia.com"
+    },
+    {
+      "seller_id": "206",
+      "seller_type": "INTERMEDIARY",
+      "name": "Prequel",
+      "domain": "https://www.prequel.tv"
+    },
+    {
+      "seller_id": "198",
+      "seller_type": "INTERMEDIARY",
+      "name": "Zippor Media",
+      "domain": "https://www.zippormedia.com"
+    },
+    {
+      "seller_id": "181",
+      "seller_type": "INTERMEDIARY",
+      "name": "Velis Media",
+      "domain": "https://velismedia.com"
+    },
+    {
+      "seller_id": "158",
+      "seller_type": "INTERMEDIARY",
+      "name": "S&W",
+      "domain": "https://snw.media"
+    },
+    {
+      "seller_id": "137",
+      "seller_type": "INTERMEDIARY",
+      "name": "Matomy",
+      "domain": "http://www.matomy.com"
+    },
+    {
+        "seller_id": "134",
+        "seller_type": "INTERMEDIARY",
+        "name": "Wiseroll",
+        "domain": "http://www.wiseroll.com"
+    },
+    {
+      "seller_id": "123",
+      "seller_type": "INTERMEDIARY",
+      "name": "BoldScreen",
+      "domain": "https://www.boldscreen.com"
+    },
+    {
+      "seller_id": "121",
+      "seller_type": "INTERMEDIARY",
+      "name": "Propel Media",
+      "domain": "https://www.propelmedia.com"
+    },
+    {
+      "seller_id": "112",
+      "seller_type": "INTERMEDIARY",
+      "name": "Media Shakers",
+      "domain": "https://www.mediashakers.com"
+    },
+    {
+      "seller_id": "110",
+      "seller_type": "INTERMEDIARY",
+      "name": "Positive Mobile",
+      "domain": "http://www.positivemobile.com"
+    },
+    {
+      "seller_id": "108",
+      "seller_type": "INTERMEDIARY",
+      "name": "Barons Media",
+      "domain": "http://baronsmedia.com"
+    },
+    {
+      "seller_id": "82",
+      "seller_type": "INTERMEDIARY",
+      "name": "Ad Dot Net",
+      "domain": "https://www.ad.net"
+    },
+    {
+      "seller_id": "80",
+      "seller_type": "INTERMEDIARY",
+      "name": "Mars Media",
+      "domain": "https://mars.media"
+    },
+    {
+      "seller_id": "77",
+      "seller_type": "INTERMEDIARY",
+      "name": "Vexigo",
+      "domain": "https://vexigo.com"
+    },
+    {
+      "seller_id": "75",
+      "seller_type": "INTERMEDIARY",
+      "name": "WEB3",
+      "domain": "https://web3.us.com"
+    },
+    {
+      "seller_id": "74",
+      "seller_type": "BOTH",
+      "name": "AnyClip",
+      "domain": "https://anyclip.com"
+    },
+    {
+      "seller_id": "59",
+      "seller_type": "INTERMEDIARY",
+      "name": "Positive Mobile 2",
+      "domain": "http://www.positivemobile.com"
+    },
+    {
+      "seller_id": "58",
+      "seller_type": "INTERMEDIARY",
+      "name": "Wild Sky Media",
+      "domain": "https://www.wildskymedia.com"
+    },
+    {
+      "seller_id": "57",
+      "seller_type": "INTERMEDIARY",
+      "name": "Harren Media",
+      "domain": "http://harrenmedia.com"
+    },
+    {
+      "seller_id": "51",
+      "seller_type": "INTERMEDIARY",
+      "name": "9Media",
+      "domain": "https://www.9mediaonline.com"
+    },
+    {
+      "seller_id": "49",
+      "seller_type": "INTERMEDIARY",
+      "name": "Brightcom",
+      "domain": "http://www.brightcom.com"
+    },
+    {
+      "seller_id": "44",
+      "seller_type": "INTERMEDIARY",
+      "name": "Tersertude",
+      "domain": "http://tersertude.com"
+    },
+    {
+      "seller_id": "42",
+      "seller_type": "INTERMEDIARY",
+      "name": "Blu Tonic",
+      "domain": "http://blutonic.com"
+    },
+    {
+      "seller_id": "39",
+      "seller_type": "BOTH",
+      "name": "AdKarma",
+      "domain": "https://www.adkarma.com"
+    },
+    {
+      "seller_id": "25",
+      "seller_type": "INTERMEDIARY",
+      "name": "Turf Digital",
+      "domain": "https://www.turf.digital"
+    },
+    {
+      "seller_id": "9",
+      "seller_type": "BOTH",
+      "name": "495 Communications, LLC.",
+      "domain": "http://www.495communications.com"
+    }
+  ]
+}

@@ -1,0 +1,4568 @@
+{
+	"contact_email":"adtech@smartstream.tv",
+	"contact_address":"SMARTSTREAM:TV GmbH, Dachauerstr. 15c, 80335 Munich, Germany",
+	"version": 1.0,
+	"sellers":
+    [
+ {
+   "seller_id": 6309,
+   "name": "Ask.fm Europe Limited",
+   "domain": "ask.fm",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6311,
+   "name": "Ask.fm Europe Limited",
+   "domain": "ask.fm",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2815,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 3097,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5089,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5219,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5297,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5699,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5761,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5759,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5869,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5937,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5939,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6167,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6161,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6163,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6289,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5747,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6563,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5749,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5745,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5743,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6575,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6577,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6579,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6565,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6567,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6569,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6571,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6573,
+   "name": "ATG Ad Tech Group GmbH",
+   "domain": "ad-tech-group.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 875,
+   "name": "Bigpoint GmbH",
+   "domain": "bigpoint.net",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3325,
+   "name": "Bigpoint GmbH",
+   "domain": "bigpoint.net",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6587,
+   "name": "Bigpoint GmbH",
+   "domain": "bigpoint.net",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6635,
+   "name": "Burda Community Network GmbH",
+   "domain": "bcn.burda.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6637,
+   "name": "Burda Community Network GmbH",
+   "domain": "bcn.burda.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6647,
+   "name": "Burda Community Network GmbH",
+   "domain": "bcn.burda.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6649,
+   "name": "Burda Community Network GmbH",
+   "domain": "bcn.burda.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6631,
+   "name": "Burda Community Network GmbH",
+   "domain": "bcn.burda.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6633,
+   "name": "Burda Community Network GmbH",
+   "domain": "bcn.burda.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4329,
+   "name": "CERISE SAS",
+   "domain": "groupecerise.fr",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4327,
+   "name": "CERISE SAS",
+   "domain": "groupecerise.fr",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4313,
+   "name": "CERISE SAS",
+   "domain": "groupecerise.fr",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4311,
+   "name": "CERISE SAS",
+   "domain": "groupecerise.fr",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1637,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1635,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1633,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1671,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1669,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1879,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2085,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2083,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2599,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2597,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2799,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2933,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2935,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5541,
+   "name": "Couchfunk GmbH",
+   "domain": "couchfunk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6695,
+   "name": "Critch GmbH",
+   "domain": "critch-capital.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 267,
+   "name": "dailyme TV GmbH",
+   "domain": "dailyme.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 955,
+   "name": "dailyme TV GmbH",
+   "domain": "dailyme.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 953,
+   "name": "dailyme TV GmbH",
+   "domain": "dailyme.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 1431,
+   "name": "dailyme TV GmbH",
+   "domain": "dailyme.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 1429,
+   "name": "dailyme TV GmbH",
+   "domain": "dailyme.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 1747,
+   "name": "dailyme TV GmbH",
+   "domain": "dailyme.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 1991,
+   "name": "dailyme TV GmbH",
+   "domain": "dailyme.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5731,
+   "name": "dailyme TV GmbH",
+   "domain": "dailyme.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5733,
+   "name": "dailyme TV GmbH",
+   "domain": "dailyme.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6139,
+   "name": "Dailymotion",
+   "domain": "dailymotion.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2143,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2141,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2253,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2349,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2347,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2345,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2737,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4017,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4015,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4669,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4671,
+   "name": "David Doepelheuer",
+   "domain": "anime-tube.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5707,
+   "name": "Doclights GmbH",
+   "domain": "doclights.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6157,
+   "name": "Epoch Times Europe GmbH",
+   "domain": "epochtimes.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6159,
+   "name": "Epoch Times Europe GmbH",
+   "domain": "epochtimes.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4587,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4585,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4583,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4581,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4579,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4577,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5237,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5239,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5445,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5515,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5519,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5539,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5543,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5545,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5591,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5773,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5877,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5911,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5909,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6091,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6089,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6099,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6179,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6237,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6239,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6241,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6103,
+   "name": "FeedAd GmbH",
+   "domain": "feedad.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6979,
+   "name": "Flipboard Germany",
+   "domain": "flipboard.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6697,
+   "name": "Freshclip GmbH & Co. KG",
+   "domain": "freshclip.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1719,
+   "name": "Freshmilk NetTV GmbH",
+   "domain": "freshmilk.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5273,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5275,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5269,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5271,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6501,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6503,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6489,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6491,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6493,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6495,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6497,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6499,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6543,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6545,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6547,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6549,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6365,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6369,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6371,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6395,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6397,
+   "name": "FUNKE Programmzeitschriften GmbH",
+   "domain": "funkemedien.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4397,
+   "name": "Fyber GmbH",
+   "domain": "fyber.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4399,
+   "name": "Fyber GmbH",
+   "domain": "fyber.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3973,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3969,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5111,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5113,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5107,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5109,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5437,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6327,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6313,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6329,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6321,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6315,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6323,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6325,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6317,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6319,
+   "name": "Gameloft GmbH",
+   "domain": "gameloft.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5711,
+   "name": "Glomex GmbH",
+   "domain": "glomex.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5709,
+   "name": "Glomex GmbH",
+   "domain": "glomex.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5883,
+   "name": "Glomex GmbH",
+   "domain": "glomex.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5715,
+   "name": "Glomex GmbH",
+   "domain": "glomex.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5713,
+   "name": "Glomex GmbH",
+   "domain": "glomex.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5921,
+   "name": "gutefrage.net GmbH",
+   "domain": "gutefrage.net",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5935,
+   "name": "Hyvyd GmbH",
+   "domain": "hyvyd.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 1247,
+   "name": "IDG Communications Media AG",
+   "domain": "idg.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5871,
+   "name": "IDG Communications Media AG",
+   "domain": "idg.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3199,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 3201,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 3203,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 3205,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4357,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4355,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4351,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4727,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4721,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4723,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4717,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4719,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4725,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5411,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5413,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5465,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5467,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5469,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5471,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5633,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5635,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5637,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5639,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5641,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6445,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6447,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6449,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6441,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6443,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6583,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6585,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4549,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4551,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4553,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4555,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4879,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6347,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6349,
+   "name": "IronSource UK Ltd.",
+   "domain": "ironsrc.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5917,
+   "name": "King.com Limited",
+   "domain": "king.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5919,
+   "name": "King.com Limited",
+   "domain": "king.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6733,
+   "name": "King.com Limited",
+   "domain": "king.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6735,
+   "name": "King.com Limited",
+   "domain": "king.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4465,
+   "name": "Kronehit Radio Betriebs GmbH",
+   "domain": "kronehit.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5009,
+   "name": "Kronehit Radio Betriebs GmbH",
+   "domain": "kronehit.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5929,
+   "name": "MailOnline",
+   "domain": "dailymail.co.uk",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5930,
+   "name": "MailOnline",
+   "domain": "dailymail.co.uk",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2847,
+   "name": "mann.tv GmbH",
+   "domain": "mann.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3003,
+   "name": "mann.tv GmbH",
+   "domain": "mann.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4881,
+   "name": "mann.tv GmbH",
+   "domain": "mann.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4883,
+   "name": "mann.tv GmbH",
+   "domain": "mann.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4913,
+   "name": "mann.tv GmbH",
+   "domain": "mann.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4911,
+   "name": "mann.tv GmbH",
+   "domain": "mann.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4081,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4141,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4137,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4135,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4133,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4371,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4749,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4751,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4747,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5723,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6435,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6433,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6437,
+   "name": "Media Impact GmbH & Co. KG",
+   "domain": "mediaimpact.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2361,
+   "name": "Mothership Marketing GmbH",
+   "domain": "mothersh1p.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 2573,
+   "name": "Mothership Marketing GmbH",
+   "domain": "mothersh1p.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4983,
+   "name": "Mothership Marketing GmbH",
+   "domain": "mothersh1p.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4987,
+   "name": "Mothership Marketing GmbH",
+   "domain": "mothersh1p.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4985,
+   "name": "Mothership Marketing GmbH",
+   "domain": "mothersh1p.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5235,
+   "name": "Mothership Marketing GmbH",
+   "domain": "mothersh1p.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4197,
+   "name": "Motorsport-Magazin.com GmbH",
+   "domain": "motorsport-magazin.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4199,
+   "name": "Motorsport-Magazin.com GmbH",
+   "domain": "motorsport-magazin.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4937,
+   "name": "Motorsport-Magazin.com GmbH",
+   "domain": "motorsport-magazin.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4935,
+   "name": "Motorsport-Magazin.com GmbH",
+   "domain": "motorsport-magazin.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4939,
+   "name": "Motorsport-Magazin.com GmbH",
+   "domain": "motorsport-magazin.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4941,
+   "name": "Motorsport-Magazin.com GmbH",
+   "domain": "motorsport-magazin.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 117,
+   "name": "Netzkino Services GmbH",
+   "domain": "netzkino.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 297,
+   "name": "Netzkino Services GmbH",
+   "domain": "netzkino.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 193,
+   "name": "Netzkino Services GmbH",
+   "domain": "netzkino.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 205,
+   "name": "Netzkino Services GmbH",
+   "domain": "netzkino.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 587,
+   "name": "Netzkino Services GmbH",
+   "domain": "netzkino.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1235,
+   "name": "Netzkino Services GmbH",
+   "domain": "netzkino.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4057,
+   "name": "Netzkino Services GmbH",
+   "domain": "netzkino.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4055,
+   "name": "Netzkino Services GmbH",
+   "domain": "netzkino.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4049,
+   "name": "Netzkino Services GmbH",
+   "domain": "netzkino.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4559,
+   "name": "Netzkino Services GmbH",
+   "domain": "netzkino.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2581,
+   "name": "Newsweek Media Group Limited",
+   "domain": "ibtimes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5809,
+   "name": "oe24 GmbH",
+   "domain": "oe24.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5811,
+   "name": "oe24 GmbH",
+   "domain": "oe24.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4655,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4651,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4645,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4635,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4633,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4627,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4625,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4623,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4621,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4603,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4599,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4597,
+   "name": "Outfit 7 Limited",
+   "domain": "outfit7.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 559,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1239,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1237,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3233,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5889,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5891,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 457,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 571,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 565,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 569,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 563,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 561,
+   "name": "Phonostar GmbH",
+   "domain": "phonostar.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6653,
+   "name": "Playgendary GmbH",
+   "domain": "playgendary.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6709,
+   "name": "Playgendary GmbH",
+   "domain": "playgendary.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6711,
+   "name": "Playgendary GmbH",
+   "domain": "playgendary.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4425,
+   "name": "PLR Worldwide Sales Limited",
+   "domain": "bigfishgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5015,
+   "name": "PLR Worldwide Sales Limited",
+   "domain": "bigfishgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5017,
+   "name": "PLR Worldwide Sales Limited",
+   "domain": "bigfishgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5103,
+   "name": "PLR Worldwide Sales Limited",
+   "domain": "bigfishgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5105,
+   "name": "PLR Worldwide Sales Limited",
+   "domain": "bigfishgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5225,
+   "name": "PLR Worldwide Sales Limited",
+   "domain": "bigfishgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5631,
+   "name": "PLR Worldwide Sales Limited",
+   "domain": "bigfishgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5721,
+   "name": "PLR Worldwide Sales Limited",
+   "domain": "bigfishgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6387,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6379,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6389,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6381,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6391,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6383,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6375,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6393,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6385,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6377,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6659,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6661,
+   "name": "ProSiebenSat.1 Media SE",
+   "domain": "prosiebensat1.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 415,
+   "name": "radio.de GmbH",
+   "domain": "radio.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 417,
+   "name": "radio.de GmbH",
+   "domain": "radio.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 419,
+   "name": "radio.de GmbH",
+   "domain": "radio.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2687,
+   "name": "radio.de GmbH",
+   "domain": "radio.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4979,
+   "name": "radio.de GmbH",
+   "domain": "radio.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4981,
+   "name": "radio.de GmbH",
+   "domain": "radio.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3193,
+   "name": "Rock you Inc.",
+   "domain": "rockyou.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3197,
+   "name": "Rock you Inc.",
+   "domain": "rockyou.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4043,
+   "name": "Rock you Inc.",
+   "domain": "rockyou.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4867,
+   "name": "Rock you Inc.",
+   "domain": "rockyou.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4871,
+   "name": "Rock you Inc.",
+   "domain": "rockyou.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5611,
+   "name": "Rock you Inc.",
+   "domain": "rockyou.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3861,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3859,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3857,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3853,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3851,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3849,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3847,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3837,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3835,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3829,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3827,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3825,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3815,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3813,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3807,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3805,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3803,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3801,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3791,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3789,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3783,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3781,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3779,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3777,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3767,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3765,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3759,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3757,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3755,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3753,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3743,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3741,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3735,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3733,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3731,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3729,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3695,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3693,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3687,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3685,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3683,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3681,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3671,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3669,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3663,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3661,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3659,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3657,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3647,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3645,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3639,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3637,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3623,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3621,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3615,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3613,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3611,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3609,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3591,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3589,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3583,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3581,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3579,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3577,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3567,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3565,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3559,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3557,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3555,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3553,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3507,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3505,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3499,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3497,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3491,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3489,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3483,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3481,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3439,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3437,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4773,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4771,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5073,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5075,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5077,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5079,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5179,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5181,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3811,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3503,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3501,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6739,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6751,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3855,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3833,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3809,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3785,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3763,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3761,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3739,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3737,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3691,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3689,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3667,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3665,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3643,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3641,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3619,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3617,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3563,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3561,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3487,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3485,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3435,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3433,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5083,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5081,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5197,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6743,
+   "name": "Rovio Entertainment Ltd.",
+   "domain": "rovio.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5963,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5941,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5943,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5945,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5953,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5961,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5947,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5955,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5973,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5979,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6005,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5981,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5975,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5985,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6007,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5987,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5977,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6009,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5983,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6077,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6083,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6079,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6081,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6085,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6087,
+   "name": "SevenOne Media GmbH",
+   "domain": "sevenonemedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5367,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5369,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5409,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5379,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5381,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5383,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5385,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5387,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5389,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5371,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5373,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5375,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5377,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5407,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5423,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5425,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5525,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5393,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6985,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6987,
+   "name": "ShowHeroes GmbH",
+   "domain": "showheroes.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6825,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6827,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6961,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6963,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6955,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6967,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6957,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6951,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6965,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6969,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6953,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6959,
+   "name": "Social Point S.L.",
+   "domain": "socialpoint.es",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 2909,
+   "name": "Spilgames",
+   "domain": "spilgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2907,
+   "name": "Spilgames",
+   "domain": "spilgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2905,
+   "name": "Spilgames",
+   "domain": "spilgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5259,
+   "name": "Spilgames",
+   "domain": "spilgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5261,
+   "name": "Spilgames",
+   "domain": "spilgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5253,
+   "name": "Spilgames",
+   "domain": "spilgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5255,
+   "name": "Spilgames",
+   "domain": "spilgames.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6713,
+   "name": "SPORTAL MEDIA GmbH",
+   "domain": "sportalsports.biz",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6715,
+   "name": "SPORTAL MEDIA GmbH",
+   "domain": "sportalsports.biz",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6727,
+   "name": "SPORTAL MEDIA GmbH",
+   "domain": "sportalsports.biz",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6721,
+   "name": "SPORTAL MEDIA GmbH",
+   "domain": "sportalsports.biz",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6723,
+   "name": "SPORTAL MEDIA GmbH",
+   "domain": "sportalsports.biz",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6725,
+   "name": "SPORTAL MEDIA GmbH",
+   "domain": "sportalsports.biz",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4565,
+   "name": "Spotfilm Networx GmbH",
+   "domain": "spotfilm-networx.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6975,
+   "name": "Spotfilm Networx GmbH",
+   "domain": "spotfilm-networx.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5863,
+   "name": "StartApp Inc.",
+   "domain": "startapp.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5859,
+   "name": "StartApp Inc.",
+   "domain": "startapp.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 7047,
+   "name": "storyflash GmbH",
+   "domain": "storyflash.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6765,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6773,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6767,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6769,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6781,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6771,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6775,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6805,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6793,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6785,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6807,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6795,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6787,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6817,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6819,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6821,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6823,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6799,
+   "name": "styria digital one GmbH",
+   "domain": "sdo.at",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3413,
+   "name": "Swiss Sports Publishing GmbH",
+   "domain": "sports-publishing.ch",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4951,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4953,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4969,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4973,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5069,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5071,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4971,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4975,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5583,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5585,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5587,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5589,
+   "name": "Target Video Parenting Media GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4447,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4445,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4705,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4703,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4887,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5511,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5513,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5873,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6141,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6243,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6301,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6303,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5579,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5555,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5557,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5567,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5581,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5569,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6149,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6151,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6153,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6147,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6245,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6247,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6251,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6305,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6307,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6339,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6341,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6525,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6527,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6529,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6531,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6517,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6519,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6521,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6523,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6705,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4467,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4469,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4885,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4891,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5571,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5573,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5577,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6343,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6345,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6707,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 7009,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 7003,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 7005,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 7007,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 7049,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 7051,
+   "name": "TargetVideo GmbH",
+   "domain": "target-video.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5011,
+   "name": "TVSMILES GmbH",
+   "domain": "tvsmiles.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5013,
+   "name": "TVSMILES GmbH",
+   "domain": "tvsmiles.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5691,
+   "name": "TVSMILES GmbH",
+   "domain": "tvsmiles.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5693,
+   "name": "TVSMILES GmbH",
+   "domain": "tvsmiles.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6271,
+   "name": "TVSMILES GmbH",
+   "domain": "tvsmiles.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6273,
+   "name": "TVSMILES GmbH",
+   "domain": "tvsmiles.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6275,
+   "name": "TVSMILES GmbH",
+   "domain": "tvsmiles.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6277,
+   "name": "TVSMILES GmbH",
+   "domain": "tvsmiles.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6335,
+   "name": "TVSMILES GmbH",
+   "domain": "tvsmiles.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6337,
+   "name": "TVSMILES GmbH",
+   "domain": "tvsmiles.tv",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5475,
+   "name": "upjers GmbH",
+   "domain": "de.upjers.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5473,
+   "name": "upjers GmbH",
+   "domain": "de.upjers.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5477,
+   "name": "upjers GmbH",
+   "domain": "de.upjers.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 2777,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2783,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2793,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2795,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3163,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3157,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3955,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3923,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3921,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3919,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3917,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3915,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4589,
+   "name": "VIMN Germany GmbH",
+   "domain": "de.vimnswemea.com/de/",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6361,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6405,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6407,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6409,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6403,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6413,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6427,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6417,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6555,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6561,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6605,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6623,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6607,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6625,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6627,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6613,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6603,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6663,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6665,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6667,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6683,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6677,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6669,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6671,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6679,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6673,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6681,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6675,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6685,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6687,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6689,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6373,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6431,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6423,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6415,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6425,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6419,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6421,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6557,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6551,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6553,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6619,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6621,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6609,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6611,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6615,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6617,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6901,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6847,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6865,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6829,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6903,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6849,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6867,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6831,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6851,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6889,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6869,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6833,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6871,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6891,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6853,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6835,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6873,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6855,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6875,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6857,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6837,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6877,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6839,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6879,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6893,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6859,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6881,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6895,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6841,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6883,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6843,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6861,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6897,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6845,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6899,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6863,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6887,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6949,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6945,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6947,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6973,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6971,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6989,
+   "name": "Vlyby Digital GmbH",
+   "domain": "vlyby.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 5005,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5007,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5091,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5093,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5095,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5097,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5143,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5157,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5155,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5281,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5283,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5315,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5319,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5321,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5317,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5785,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5787,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5789,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5895,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5897,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6125,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6183,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6185,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5341,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5783,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6351,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6353,
+   "name": "Vungle SEA PTE LTD",
+   "domain": "vungle.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 6655,
+   "name": "wa co media house GmbH",
+   "domain": "waco-media.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 6657,
+   "name": "wa co media house GmbH",
+   "domain": "waco-media.de",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 4995,
+   "name": "Wagawin GmbH",
+   "domain": "wagawin.com",
+   "seller_type": "INTERMEDIARY"
+ },
+ {
+   "seller_id": 3155,
+   "name": "WASD Media GmbH i. Gr.",
+   "domain": "wasdmedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3153,
+   "name": "WASD Media GmbH i. Gr.",
+   "domain": "wasdmedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3151,
+   "name": "WASD Media GmbH i. Gr.",
+   "domain": "wasdmedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3149,
+   "name": "WASD Media GmbH i. Gr.",
+   "domain": "wasdmedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4915,
+   "name": "WASD Media GmbH i. Gr.",
+   "domain": "wasdmedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4919,
+   "name": "WASD Media GmbH i. Gr.",
+   "domain": "wasdmedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4921,
+   "name": "WASD Media GmbH i. Gr.",
+   "domain": "wasdmedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 4917,
+   "name": "WASD Media GmbH i. Gr.",
+   "domain": "wasdmedia.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 1193,
+   "name": "Webedia GmbH",
+   "domain": "webedia-group.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 2701,
+   "name": "Webedia GmbH",
+   "domain": "webedia-group.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 7017,
+   "name": "Werkmeister & Company GmbH",
+   "domain": "werkco.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 7015,
+   "name": "Werkmeister & Company GmbH",
+   "domain": "werkco.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3295,
+   "name": "WinFuture.de",
+   "domain": "winfuture.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3293,
+   "name": "WinFuture.de",
+   "domain": "winfuture.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3339,
+   "name": "WinFuture.de",
+   "domain": "winfuture.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3341,
+   "name": "WinFuture.de",
+   "domain": "winfuture.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3335,
+   "name": "WinFuture.de",
+   "domain": "winfuture.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3337,
+   "name": "WinFuture.de",
+   "domain": "winfuture.de",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 7029,
+   "name": "Wizelife GmbH",
+   "domain": "wize.life",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 7031,
+   "name": "Wizelife GmbH",
+   "domain": "wize.life",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3179,
+   "name": "Zattoo Deutschland GmbH",
+   "domain": "zattoo.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3245,
+   "name": "Zattoo Deutschland GmbH",
+   "domain": "zattoo.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3247,
+   "name": "Zattoo Deutschland GmbH",
+   "domain": "zattoo.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3329,
+   "name": "Zattoo Deutschland GmbH",
+   "domain": "zattoo.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 3331,
+   "name": "Zattoo Deutschland GmbH",
+   "domain": "zattoo.com",
+   "seller_type": "PUBLISHER"
+ },
+ {
+   "seller_id": 5003,
+   "name": "Zattoo Deutschland GmbH",
+   "domain": "zattoo.com",
+   "seller_type": "PUBLISHER"
+ }
+]
+}

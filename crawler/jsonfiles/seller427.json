@@ -1,0 +1,32 @@
+{
+    "contact_address": "14 Rue Auber, 75009 Paris, France",
+    "contact_email": "programmatic-ads-devs@gameloft.com",
+    "version": "1.0",
+    "identifiers": [],
+    "sellers": [
+        {
+            "seller_id": "GAMELOFT",
+            "seller_type": "PUBLISHER",
+            "name": "Gameloft",
+            "domain": "gameloft.com"
+        },
+        {
+            "seller_id": "OUTFIT7",
+            "seller_type": "INTERMEDIARY",
+            "name": "Outfit7",
+            "domain": "outfit7.com"
+        },
+        {
+            "seller_id": "ROVIO",
+            "seller_type": "INTERMEDIARY",
+            "name": "Rovio",
+            "domain": "rovio.com"
+        },
+        {
+            "seller_id": "FRESHPLANET",
+            "seller_type": "INTERMEDIARY",
+            "name": "FreshPlanet",
+            "domain": "freshplanet.com"
+        }
+    ]
+}

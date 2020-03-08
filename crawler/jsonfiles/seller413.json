@@ -1,0 +1,745 @@
+{
+	"contact_email": "info@luponmedia.com",
+	"contact_address": "Lupon Media Ltd, First Floor Thavies Inn House / 3-4, London, EC1N 2HA",
+	"version": "1.0",
+	"identifiers": [
+		{
+			"Name": "TAG-ID",
+			"Value": "luponmedia.com"
+		}
+	],
+	"sellers": [
+		{
+      "seller_id": "19941",
+      "name": "Alo.rs",
+      "domain": "Alo.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "19942",
+      "name": "Doznajemo.com",
+      "domain": "Doznajemo.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "19943",
+      "name": "Gazetaexpress.com",
+      "domain": "Gazetaexpress.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "19944",
+      "name": "Top-channel.tv",
+      "domain": "Top-channel.tv",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "19945",
+      "name": "Sport.blic.rs",
+      "domain": "Sport.blic.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "19946",
+      "name": "blic.rs",
+      "domain": "blic.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "19947",
+      "name": "hisse.net",
+      "domain": "hisse.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "19948",
+      "name": "B92.net",
+      "domain": "B92.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "19949",
+      "name": "Panorama.com.al",
+      "domain": "Panorama.com.al",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199410",
+      "name": "Telegrafi.com",
+      "domain": "Telegrafi.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199411",
+      "name": "Naslovi.net",
+      "domain": "Naslovi.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199412",
+      "name": "Oslobodjenje.ba",
+      "domain": "Oslobodjenje.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199413",
+      "name": "Novosti.rs",
+      "domain": "Novosti.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199414",
+      "name": "Balkanweb.com",
+      "domain": "Balkanweb.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199415",
+      "name": "Nezavisne.com",
+      "domain": "Nezavisne.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199416",
+      "name": "gazeta-shqip.com",
+      "domain": "gazeta-shqip.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199417",
+      "name": "Sportske.net",
+      "domain": "Sportske.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199418",
+      "name": "infokosova.net",
+      "domain": "infokosova.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199419",
+      "name": "Depo.ba",
+      "domain": "Depo.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199420",
+      "name": "Prva.rs",
+      "domain": "Prva.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199421",
+      "name": "motika.com.mk",
+      "domain": "motika.com.mk",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199422",
+      "name": "Saff.ba",
+      "domain": "Saff.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199423",
+      "name": "Pravda.rs",
+      "domain": "Pravda.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199424",
+      "name": "Novi.ba",
+      "domain": "Novi.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199425",
+      "name": "kukuklok.com",
+      "domain": "kukuklok.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199426",
+      "name": "kajgana.com",
+      "domain": "kajgana.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199427",
+      "name": "Albeu.com",
+      "domain": "Albeu.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199428",
+      "name": "Sport.ba",
+      "domain": "Sport.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199429",
+      "name": "sport.novi.ba",
+      "domain": "sport.novi.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199430",
+      "name": "Haber.ba",
+      "domain": "Haber.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199431",
+      "name": "ikub.al",
+      "domain": "ikub.al",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199432",
+      "name": "Srbin.info",
+      "domain": "Srbin.info",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199433",
+      "name": "Akos.ba",
+      "domain": "Akos.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199434",
+      "name": "Sandzakpress.net",
+      "domain": "Sandzakpress.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199435",
+      "name": "Banjalukain.com",
+      "domain": "Banjalukain.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199436",
+      "name": "Telegraf.rs",
+      "domain": "Telegraf.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199437",
+      "name": "Vesti-online.com",
+      "domain": "Vesti-online.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199438",
+      "name": "Islampress.net",
+      "domain": "Islampress.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199439",
+      "name": "jetaoshqef.al",
+      "domain": "jetaoshqef.al",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199440",
+      "name": "Krstarica.com",
+      "domain": "Krstarica.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199441",
+      "name": "Nostalgicno.com",
+      "domain": "Nostalgicno.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199442",
+      "name": "ina-online.net",
+      "domain": "ina-online.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199443",
+      "name": "Bosnapress.net",
+      "domain": "Bosnapress.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199444",
+      "name": "Goal.al",
+      "domain": "Goal.al",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199445",
+      "name": "PortalAnalitika.me",
+      "domain": "PortalAnalitika.me",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199446",
+      "name": "Shqiptari.eu",
+      "domain": "Shqiptari.eu",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199447",
+      "name": "Gazetadita.al",
+      "domain": "Gazetadita.al",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199448",
+      "name": "turkishmaritime.com.tr",
+      "domain": "turkishmaritime.com.tr",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199449",
+      "name": "Mondo.rs",
+      "domain": "Mondo.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199450",
+      "name": "Srbijadanas.com",
+      "domain": "Srbijadanas.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199451",
+      "name": "feeds.pristineapp.com",
+      "domain": "feeds.pristineapp.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199452",
+      "name": "t24.com.tr",
+      "domain": "t24.com.tr",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199453",
+      "name": "Bljesak.info",
+      "domain": "Bljesak.info",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199454",
+      "name": "Pulsonline.rs",
+      "domain": "Pulsonline.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199455",
+      "name": "indeksonline.net",
+      "domain": "indeksonline.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199456",
+      "name": "rrjeta.al",
+      "domain": "rrjeta.al",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199457",
+      "name": "Ringeraja.ba",
+      "domain": "Ringeraja.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199458",
+      "name": "Botapress.info",
+      "domain": "Botapress.info",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199459",
+      "name": "kosmopol.rs",
+      "domain": "kosmopol.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199460",
+      "name": "Jutarnji.hr",
+      "domain": "Jutarnji.hr",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199461",
+      "name": "gjejmakina.com",
+      "domain": "gjejmakina.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199462",
+      "name": "adresari.net",
+      "domain": "adresari.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199463",
+      "name": "noa.al",
+      "domain": "noa.al",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199464",
+      "name": "Cure.ba",
+      "domain": "Cure.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199465",
+      "name": "Lajmifundit.al",
+      "domain": "Lajmifundit.al",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199466",
+      "name": "Kremlin.rs",
+      "domain": "Kremlin.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199467",
+      "name": "komersant.rs",
+      "domain": "komersant.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199468",
+      "name": "haberegider.com",
+      "domain": "haberegider.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199469",
+      "name": "juznibanat.rs",
+      "domain": "juznibanat.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199470",
+      "name": "gazetainfopress.com",
+      "domain": "gazetainfopress.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199471",
+      "name": "pitbulls.tv",
+      "domain": "pitbulls.tv",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199472",
+      "name": "Infokusi.com",
+      "domain": "Infokusi.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199473",
+      "name": "aksam.com.tr",
+      "domain": "aksam.com.tr",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199474",
+      "name": "yemek.com",
+      "domain": "yemek.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199475",
+      "name": "Hayat.ba",
+      "domain": "Hayat.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199476",
+      "name": "Informer.rs",
+      "domain": "Informer.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199477",
+      "name": "Pink.rs",
+      "domain": "Pink.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199478",
+      "name": "slobodna-bosna.ba",
+      "domain": "slobodna-bosna.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199479",
+      "name": "webmail.co.za",
+      "domain": "webmail.co.za",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199480",
+      "name": "vecer.mk",
+      "domain": "vecer.mk",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199481",
+      "name": "happytv.tv",
+      "domain": "happytv.tv",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199482",
+      "name": "republika.mk",
+      "domain": "republika.mk",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199483",
+      "name": "republika.mk",
+      "domain": "republika.mk",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199484",
+      "name": "sport1.oslobodjenje.ba",
+      "domain": "sport1.oslobodjenje.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199485",
+      "name": "vesti.mk",
+      "domain": "vesti.mk",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199486",
+      "name": "reporter.mk",
+      "domain": "reporter.mk",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199487",
+      "name": "pressingtv.mk",
+      "domain": "pressingtv.mk",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199488",
+      "name": "vesnik.com",
+      "domain": "vesnik.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199489",
+      "name": "tv1.ba",
+      "domain": "tv1.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199490",
+      "name": "happytv.rs",
+      "domain": "happytv.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199491",
+      "name": "24vesti.com",
+      "domain": "24vesti.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199492",
+      "name": "sportske.ba",
+      "domain": "sportske.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199493",
+      "name": "foochia.com",
+      "domain": "foochia.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199494",
+      "name": "sportklub.hr",
+      "domain": "sportklub.hr",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199495",
+      "name": "sportklub.si",
+      "domain": "sportklub.si",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199496",
+      "name": "sportklub.hr",
+      "domain": "sportklub.hr",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199497",
+      "name": "idjtv.com",
+      "domain": "idjtv.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199498",
+      "name": "superhaber.tv",
+      "domain": "superhaber.tv",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "199499",
+      "name": "moretvtime.com",
+      "domain": "moretvtime.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994100",
+      "name": "balasevizam.novi.ba",
+      "domain": "balasevizam.novi.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994101",
+      "name": "mojabih.oslobodjenje.ba",
+      "domain": "mojabih.oslobodjenje.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994102",
+      "name": "pink-rs.com",
+      "domain": "pink-rs.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994103",
+      "name": "gesundheit.naanoo.de",
+      "domain": "gesundheit.naanoo.de",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994104",
+      "name": "wissen.naanoo.de",
+      "domain": "wissen.naanoo.de",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994105",
+      "name": "forum.krstarica.com",
+      "domain": "forum.krstarica.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994105",
+      "name": "reise.naanoo.de",
+      "domain": "reise.naanoo.de",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994106",
+      "name": "katalog.krstarica.com",
+      "domain": "katalog.krstarica.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994107",
+      "name": "vijesti.ba",
+      "domain": "vijesti.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994108",
+      "name": "ekskluzivnevesti.com",
+      "domain": "ekskluzivnevesti.com",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994109",
+      "name": "soutajm.rs",
+      "domain": "soutajm.rs",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994110",
+      "name": "dnevnik.hr",
+      "domain": "dnevnik.hr",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994111",
+      "name": "fax.al",
+      "domain": "fax.al",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994112",
+      "name": "fax.mk",
+      "domain": "fax.mk",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994113",
+      "name": "gorila.jutarnji.hr",
+      "domain": "gorila.jutarnji.hr",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994114",
+      "name": "televizioni.tv",
+      "domain": "televizioni.tv",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994115",
+      "name": "24.mk",
+      "domain": "24.mk",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994116",
+      "name": "24sata.info",
+      "domain": "24sata.info",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994117",
+      "name": "a1on.mk",
+      "domain": "a1on.mk",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994118",
+      "name": "bhrt.ba",
+      "domain": "bhrt.ba",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994119",
+      "name": "biscani.net",
+      "domain": "biscani.net",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994120",
+      "name": "diken.com.tr",
+      "domain": "diken.com.tr",
+      "seller_type": "PUBLISHER"
+		},
+		{
+      "seller_id": "1994121",
+      "name": "grid.mk",
+      "domain": "grid.mk",
+      "seller_type": "PUBLISHER"
+		}
+	]
+}

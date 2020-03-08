@@ -1,0 +1,1585 @@
+{
+  "contact_email": "contact@cpmstar.com",
+  "contact_address": "1626 Montana Ave Suite 204, Santa Monica, CA, 90403",
+  "version": "1.0",
+  "identifiers": [
+    {
+      "Name": "DUNS",
+      "Value": "03-036-4844"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": 16,
+      "name": "Newgrounds.com, Inc.",
+      "domain": "newgrounds.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 25,
+      "name": "Solware, Ltd.",
+      "domain": "flyordie.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 25,
+      "name": "Solware, Ltd.",
+      "domain": "playcurling.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 25,
+      "name": "Solware, Ltd.",
+      "domain": "flyordie.hu",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 41,
+      "name": "Armor Games Inc",
+      "domain": "armorgames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 73,
+      "name": "Bigdino",
+      "domain": "bubblebox.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 73,
+      "name": "Bigdino",
+      "domain": "funny-games.biz",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 73,
+      "name": "Bigdino",
+      "domain": "bigdino.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 227,
+      "name": "Nitrome Limited",
+      "domain": "nitrome.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 279,
+      "name": "Kongregate Inc.",
+      "domain": "kongregate.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 301,
+      "name": "Absolutist Ltd",
+      "domain": "absolutist.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 301,
+      "name": "Absolutist Ltd",
+      "domain": "wellgames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 301,
+      "name": "Absolutist Ltd",
+      "domain": "absolutist.de",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 301,
+      "name": "Absolutist Ltd",
+      "domain": "apps.facebook.com/time_gap_mystery/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 301,
+      "name": "Absolutist Ltd",
+      "domain": "apps.facebook.com/mysteriez/",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 301,
+      "name": "Absolutist Ltd",
+      "domain": "kraloyun.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 301,
+      "name": "Absolutist Ltd",
+      "domain": "kibagames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 301,
+      "name": "Absolutist Ltd",
+      "domain": "spielaffe.de",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 2203,
+      "name": "DIGIWALLS MEDIA, UNIPESSOAL LDA",
+      "domain": "freemmogamer.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 2203,
+      "name": "DIGIWALLS MEDIA, UNIPESSOAL LDA",
+      "domain": "mmobomb.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 2203,
+      "name": "DIGIWALLS MEDIA, UNIPESSOAL LDA",
+      "domain": "freemmogirl.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 2203,
+      "name": "DIGIWALLS MEDIA, UNIPESSOAL LDA",
+      "domain": "freebrowsergamer.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 2203,
+      "name": "DIGIWALLS MEDIA, UNIPESSOAL LDA",
+      "domain": "giveawaygamer.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 2203,
+      "name": "DIGIWALLS MEDIA, UNIPESSOAL LDA",
+      "domain": "freesteamkeys.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 2203,
+      "name": "DIGIWALLS MEDIA, UNIPESSOAL LDA",
+      "domain": "freegamekeys.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 2527,
+      "name": "Wolfcom",
+      "domain": "officegamespot.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 2527,
+      "name": "Wolfcom",
+      "domain": "gunblood.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 2527,
+      "name": "Wolfcom",
+      "domain": "trickshotpool.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3054,
+      "name": "Jays Webworks",
+      "domain": "maxgames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3054,
+      "name": "Jays Webworks",
+      "domain": "stickpage.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3054,
+      "name": "Jays Webworks",
+      "domain": "flashportal.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3309,
+      "name": "freepcgamers",
+      "domain": "mmoginfo.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3309,
+      "name": "freepcgamers",
+      "domain": "freepcgamers.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3309,
+      "name": "freepcgamers",
+      "domain": "freemmostation.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3309,
+      "name": "freepcgamers",
+      "domain": "allfreemmo.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3309,
+      "name": "freepcgamers",
+      "domain": "mmometer.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 3836,
+      "name": "Ta Anh Khoa",
+      "domain": "gamegape.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 4410,
+      "name": "Ninja Kiwi Limited",
+      "domain": "ninjakiwi.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 4410,
+      "name": "Ninja Kiwi Limited",
+      "domain": "meeblingsworld.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 4410,
+      "name": "Ninja Kiwi Limited",
+      "domain": "boombotworld.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 4789,
+      "name": "Cybernate",
+      "domain": "arcadeprehacks.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 4789,
+      "name": "Cybernate",
+      "domain": "arcadetrainer.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 6059,
+      "name": "escapejuegos",
+      "domain": "escapejuegos.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 6059,
+      "name": "escapejuegos",
+      "domain": "jugarjuegosdeescape.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 6911,
+      "name": "Silvergames",
+      "domain": "silvergames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 6911,
+      "name": "Silvergames",
+      "domain": "b4gamez.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 7996,
+      "name": "Sahinler",
+      "domain": "wcostream.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 8427,
+      "name": "Zyis Limited",
+      "domain": "friv.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 8427,
+      "name": "Zyis Limited",
+      "domain": "gamib.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 8570,
+      "name": "NSBrotherhood",
+      "domain": "gunfight.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 9342,
+      "name": "Swift Media Entertainment, Inc.",
+      "domain": "solomid.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 9342,
+      "name": "Swift Media Entertainment, Inc.",
+      "domain": "championselect.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 9342,
+      "name": "Swift Media Entertainment, Inc.",
+      "domain": "lolcounter.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 9342,
+      "name": "Swift Media Entertainment, Inc.",
+      "domain": "champion.gg",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 9342,
+      "name": "Swift Media Entertainment, Inc.",
+      "domain": "dotahut.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 9342,
+      "name": "Swift Media Entertainment, Inc.",
+      "domain": "probuilds.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 9342,
+      "name": "Swift Media Entertainment, Inc.",
+      "domain": "fortnitemaster.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 10168,
+      "name": "Shahin Danesh",
+      "domain": "puffgames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 10168,
+      "name": "Shahin Danesh",
+      "domain": "game8.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 10650,
+      "name": "Ha Giang Vui",
+      "domain": "9minecraft.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 11906,
+      "name": "MMO Culture",
+      "domain": "mmoculture.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 12886,
+      "name": "MegaGames Entertainment Inc.",
+      "domain": "megagames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "mmo-worlds.info",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "bestfreemmorpg2012.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "f2pmmorpgs.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "gameslikerunescape.me",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "bestfreemmorpglist.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "bestmmorpg2015.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "bestmmorpg2016.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "mmoify.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "topfreemmorpg.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "bestmmorpg2014.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "bestfreemmorpg2013.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "topmmorpg2013.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 13768,
+      "name": "Mei-Li Linsangan",
+      "domain": "topmmorpg2012.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 14172,
+      "name": "dream pixel ltd",
+      "domain": "dressupwho.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 14172,
+      "name": "dream pixel ltd",
+      "domain": "girlgaming.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 14630,
+      "name": "Evonia",
+      "domain": "jeux-gratuits.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 14630,
+      "name": "Evonia",
+      "domain": "jeuxjeuxjeux.fr",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 14630,
+      "name": "Evonia",
+      "domain": "facebook.com/criminalcasegame",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 14630,
+      "name": "Evonia",
+      "domain": "affiz.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 15281,
+      "name": "Andkon Inc",
+      "domain": "andkon.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 15459,
+      "name": "Refactor Ltd",
+      "domain": "optifine.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 16392,
+      "name": "Kidzworld",
+      "domain": "kidzworld.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 16494,
+      "name": "GameRanger Pty Ltd",
+      "domain": "gameranger.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 19647,
+      "name": "animeindo",
+      "domain": "animeindo.video",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 19749,
+      "name": "TON VIET HA",
+      "domain": "juegosfriv2018.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 24828,
+      "name": "Grupo NZN",
+      "domain": "gruponzn.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 24828,
+      "name": "Grupo NZN",
+      "domain": "baixaki.com.br",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 24828,
+      "name": "Grupo NZN",
+      "domain": "tudogostoso.uol.com.br",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 24828,
+      "name": "Grupo NZN",
+      "domain": "baixakijogos.com.br",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 24828,
+      "name": "Grupo NZN",
+      "domain": "minhaserie.com.br",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 24828,
+      "name": "Grupo NZN",
+      "domain": "tecmundo.com.br",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 24828,
+      "name": "Grupo NZN",
+      "domain": "todaela.com.br",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 25105,
+      "name": "Luca Tem",
+      "domain": "flashgame100.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 25105,
+      "name": "Luca Tem",
+      "domain": "flashgame4v.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 26315,
+      "name": "Axis Entertainment Limited",
+      "domain": "topbabygames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 26315,
+      "name": "Axis Entertainment Limited",
+      "domain": "topbabygames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 26675,
+      "name": "Simon Mazzoni",
+      "domain": "pokeyplay.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 26675,
+      "name": "Simon Mazzoni",
+      "domain": "unovarpg.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 27003,
+      "name": "Athletic Design",
+      "domain": "athleticdesign.se",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 27003,
+      "name": "Athletic Design",
+      "domain": "athleticarcade.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 27468,
+      "name": "Network N Ltd",
+      "domain": "pcgamesn.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 27468,
+      "name": "Network N Ltd",
+      "domain": "futwiz.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 27468,
+      "name": "Network N Ltd",
+      "domain": "steamgifts.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 27468,
+      "name": "Network N Ltd",
+      "domain": "systemrequirementslab.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 27468,
+      "name": "Network N Ltd",
+      "domain": "pixeldynamo.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 30879,
+      "name": "SV",
+      "domain": "nhacdj.vn",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 32741,
+      "name": "Softgames GmbH",
+      "domain": "a10.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 32741,
+      "name": "Softgames GmbH",
+      "domain": "http://movingcake.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 32741,
+      "name": "Softgames GmbH",
+      "domain": "m.softgames.de",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 32741,
+      "name": "Softgames GmbH",
+      "domain": "gamesgames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 32741,
+      "name": "Softgames GmbH",
+      "domain": "1001oyun.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 32741,
+      "name": "Softgames GmbH",
+      "domain": "minijuegos.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 34106,
+      "name": "Overpowered Media Group",
+      "domain": "massivelyop.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 35372,
+      "name": "Altay Enterprises",
+      "domain": "mmos.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 37783,
+      "name": "European Games Group",
+      "domain": "herozerogame.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 37783,
+      "name": "European Games Group",
+      "domain": "operationxgame.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 37783,
+      "name": "European Games Group",
+      "domain": "bigbangempire.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 40114,
+      "name": "Paul Neale",
+      "domain": "funhtml5games.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 40114,
+      "name": "Paul Neale",
+      "domain": "minecraftgamesplay.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 46138,
+      "name": "Bjoern Acker",
+      "domain": "jumbled.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 46138,
+      "name": "Bjoern Acker",
+      "domain": "battleboats.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 46467,
+      "name": "AlgoTech",
+      "domain": "playonlinedicegames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 46467,
+      "name": "AlgoTech",
+      "domain": "onlinesologames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 46467,
+      "name": "AlgoTech",
+      "domain": "netexl.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 47723,
+      "name": "Genie Fun Games",
+      "domain": "geniefungames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 47723,
+      "name": "Genie Fun Games",
+      "domain": "ekeygames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 47747,
+      "name": "Think Alike, Lda",
+      "domain": "wings.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 47747,
+      "name": "Think Alike, Lda",
+      "domain": "brutal.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 47747,
+      "name": "Think Alike, Lda",
+      "domain": "powerline.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 47788,
+      "name": "Odessa Limited",
+      "domain": "warin.space",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 47788,
+      "name": "Odessa Limited",
+      "domain": "shipwrecked.space",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 47788,
+      "name": "Odessa Limited",
+      "domain": "tenk.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 47788,
+      "name": "Odessa Limited",
+      "domain": "gundar.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48036,
+      "name": "Mod Studio Inc.",
+      "domain": "modd.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48036,
+      "name": "Mod Studio Inc.",
+      "domain": "krew.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48154,
+      "name": "lsgeek.com",
+      "domain": "lsgeek.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "alictus.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "slimes.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "biters.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "clown.gs",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "skyroyale.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "mobg.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "smashers.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "landix.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "goons.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "shooters.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "facepunch.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "dotz.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "pikes.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "twix.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "blobie.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "snix.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "fisp.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "zlax.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "jellies.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "boas.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48293,
+      "name": "Alictus Yazilim Anonim Sirketi",
+      "domain": "hilly.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48306,
+      "name": "Night Steed Tobiasz Paszkowski, Grzegorz Jedrusyna Spólka Cywilna",
+      "domain": "evowars.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48306,
+      "name": "Night Steed Tobiasz Paszkowski, Grzegorz Jedrusyna Spólka Cywilna",
+      "domain": "brutalmania.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48306,
+      "name": "Night Steed Tobiasz Paszkowski, Grzegorz Jedrusyna Spólka Cywilna",
+      "domain": "seadragons.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48306,
+      "name": "Night Steed Tobiasz Paszkowski, Grzegorz Jedrusyna Spólka Cywilna",
+      "domain": "snowheroes.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48306,
+      "name": "Night Steed Tobiasz Paszkowski, Grzegorz Jedrusyna Spólka Cywilna",
+      "domain": "octagor.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48327,
+      "name": "Marapets Ltd",
+      "domain": "marapets.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48332,
+      "name": "Lauritz Hasel",
+      "domain": "doomed2.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48332,
+      "name": "Lauritz Hasel",
+      "domain": "doomed.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48332,
+      "name": "Lauritz Hasel",
+      "domain": "nukes.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48332,
+      "name": "Lauritz Hasel",
+      "domain": "raids.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48364,
+      "name": "Pistol Andrei-George PFA",
+      "domain": "nightwalkers.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48364,
+      "name": "Pistol Andrei-George PFA",
+      "domain": "jefawk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48405,
+      "name": "Jetti Games AB",
+      "domain": "jettigames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48405,
+      "name": "Jetti Games AB",
+      "domain": "superspin.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48405,
+      "name": "Jetti Games AB",
+      "domain": "gotia.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48405,
+      "name": "Jetti Games AB",
+      "domain": "wormania.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48442,
+      "name": "VGR LLC",
+      "domain": "vgr.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "pumking.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "blastarena.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "akidgames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "skyarena.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "skywars.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "spacewars.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "boattle.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "massacre.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "seapop.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "retrogrid.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "carboom.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "waterguns.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "relmz.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "alienate.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "warfronts.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "snowar.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "war.city",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "tobattle.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "bomb.town",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "shotz.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48495,
+      "name": "Christopher Lied",
+      "domain": "inkwars.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48497,
+      "name": "GameSpew",
+      "domain": "gamespew.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48657,
+      "name": "Timothy Acosta",
+      "domain": "gamemox.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48700,
+      "name": "Multiverse ApS",
+      "domain": "kogama.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48927,
+      "name": "For Yazilim Reklam",
+      "domain": "blastarena.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 48927,
+      "name": "For Yazilim Reklam",
+      "domain": "imeangame.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49128,
+      "name": "Idea Studios",
+      "domain": "ideastudios.ro",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49128,
+      "name": "Idea Studios",
+      "domain": "girlsgogames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49253,
+      "name": "GoGy",
+      "domain": "gogy.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49351,
+      "name": "Hoofoot",
+      "domain": "hoofoot.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49395,
+      "name": "GU Comics",
+      "domain": "gucomics.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49396,
+      "name": "ourmatch",
+      "domain": "ourmatch.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49481,
+      "name": "Solmaz",
+      "domain": "playemulator.online",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49481,
+      "name": "Solmaz",
+      "domain": "ndsgames.online",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49483,
+      "name": "Gads Media group",
+      "domain": "jeux-gratuits.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49483,
+      "name": "Gads Media group",
+      "domain": "jeuxvideo.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49499,
+      "name": "Hax Media Partners",
+      "domain": "animeindo.video",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49499,
+      "name": "Hax Media Partners",
+      "domain": "wease.im",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49499,
+      "name": "Hax Media Partners",
+      "domain": "warclicks.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49499,
+      "name": "Hax Media Partners",
+      "domain": "manga99.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49499,
+      "name": "Hax Media Partners",
+      "domain": "roblox.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49540,
+      "name": "ahoora",
+      "domain": "vev.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49540,
+      "name": "ahoora",
+      "domain": "vidup.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49962,
+      "name": "Jispa Media",
+      "domain": "allmusic.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49986,
+      "name": "AlterTech LTD.",
+      "domain": "justbuild.lol",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 49986,
+      "name": "AlterTech LTD.",
+      "domain": "1v1.lol",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50103,
+      "name": "Artem",
+      "domain": "unblockeds-games.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50103,
+      "name": "Artem",
+      "domain": "funblocked-games.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50103,
+      "name": "Artem",
+      "domain": "unblockedgamesboo.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50103,
+      "name": "Artem",
+      "domain": "friv.guru",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50103,
+      "name": "Artem",
+      "domain": "lablockedgames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50103,
+      "name": "Artem",
+      "domain": "slopeunblockedworld.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50125,
+      "name": "Edgy Projects GmbH",
+      "domain": "free-gg.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50134,
+      "name": "Tobias Springer",
+      "domain": "yorg.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50134,
+      "name": "Tobias Springer",
+      "domain": "beta.yorg.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50134,
+      "name": "Tobias Springer",
+      "domain": "yorg3.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50134,
+      "name": "Tobias Springer",
+      "domain": "beta.yorg3.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50144,
+      "name": "indirin.co",
+      "domain": "indirin.co",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50144,
+      "name": "indirin.co",
+      "domain": "shortz.club",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50148,
+      "name": "AtoZGames",
+      "domain": "atozgames.me",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50157,
+      "name": "Joshua Stone",
+      "domain": "play.cprewritten.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50157,
+      "name": "Joshua Stone",
+      "domain": "create.cprewritten.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50157,
+      "name": "Joshua Stone",
+      "domain": "cprewritten.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50157,
+      "name": "Joshua Stone",
+      "domain": "community.cprewritten.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50234,
+      "name": "Crispox",
+      "domain": "colourlovers.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50234,
+      "name": "Crispox",
+      "domain": "websudoku.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50242,
+      "name": "B4gamez",
+      "domain": "b4gamez.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50297,
+      "name": "Jojo Recipes",
+      "domain": "jojorecipes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50326,
+      "name": "Epic Earth Games",
+      "domain": "epicearthgames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50339,
+      "name": "Gdragon Media Limited",
+      "domain": "thesgame.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50339,
+      "name": "Gdragon Media Limited",
+      "domain": "videogameonline.xyz",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50545,
+      "name": "CHAOS LLC",
+      "domain": "kingsofchaos.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50545,
+      "name": "CHAOS LLC",
+      "domain": "forums.kingsofchaos.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50606,
+      "name": "McLeodGaming Inc.",
+      "domain": "mcleodgaming.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50616,
+      "name": "papergames.io",
+      "domain": "papergames.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50620,
+      "name": "Super League Gaming",
+      "domain": "superleague.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50620,
+      "name": "Super League Gaming",
+      "domain": "minehut.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50632,
+      "name": "Univert LLC",
+      "domain": "rbx.gg",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50637,
+      "name": "Craig Lloyd",
+      "domain": "survivorsrest.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50637,
+      "name": "Craig Lloyd",
+      "domain": "mmoedge.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50645,
+      "name": "Multiplayer.gg",
+      "domain": "bonk.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50645,
+      "name": "Multiplayer.gg",
+      "domain": "bonk2.io",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50650,
+      "name": "Raymond Peterson",
+      "domain": "funherd.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50682,
+      "name": "bloxawards",
+      "domain": "bloxawards.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50686,
+      "name": "Yaroslav Tsepeniuk",
+      "domain": "mytopgames.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": 50698,
+      "name": "RBXNow",
+      "domain": "getrobux.gg",
+      "seller_type": "PUBLISHER"
+    }
+  ]
+}

@@ -1,0 +1,1012 @@
+{
+	"contact_email": "sellers.json@cignal.io",
+	"contact_address": "94 Yigal Alon St. Tel Aviv 6789139",
+	"version": "1.0",
+	"identifiers": [{
+		"name": "TAG-ID",
+		"value": "d9819e7b540bd6e3"
+	}],
+	"sellers": [{
+			"seller_id": "g45b",
+			"name": "GothamAds",
+			"domain": "gothamads.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "v61h",
+			"name": "SmartyAds",
+			"domain": "smartyads.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "o32m",
+			"name": "Bizzclick",
+			"domain": "bizzclick.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "w44l",
+			"name": "DecenterAds",
+			"domain": "decenterads.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "h71a",
+			"name": "CollectCent",
+			"domain": "collectcent.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "d31l",
+			"name": "Division-D",
+			"domain": "divisiond.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "c16z",
+			"name": "Axonix",
+			"domain": "axonix.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "b07i",
+			"name": "Adview",
+			"domain": "adview.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "n40x",
+			"name": "ScoobyAds",
+			"domain": "scoobyads.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "p18k",
+			"name": "Fidelity",
+			"domain": "fidelity-media.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "y24m",
+			"name": "SmartRTB",
+			"domain": "smrtb.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "f65y",
+			"name": "Revlift",
+			"domain": "revlift.io",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "q65z",
+			"name": "Mobupps",
+			"domain": "mobupps.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "f23c",
+			"name": "Waardex",
+			"domain": "waardex.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "q50o",
+			"name": "RTB demand",
+			"domain": "rtbdemand.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "t27s",
+			"name": "Adstacks",
+			"domain": "adstacks.in",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "q08u",
+			"name": "RTBPlatform",
+			"domain": "rtbplatform.net",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "d82e",
+			"name": "M51",
+			"domain": "m51.co",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "c83z",
+			"name": "Roqoon",
+			"domain": "roqoon.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "f80p",
+			"name": "iAvatarz",
+			"domain": "iavatarz.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "v08m",
+			"name": "Velis",
+			"domain": "velismedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "a49d",
+			"name": "Clickky",
+			"domain": "clickky.biz",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "b32i",
+			"name": "E-Planning",
+			"domain": "E-Planning.net",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "k21e",
+			"name": "Glispa",
+			"domain": "glispa.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "b52k",
+			"name": "Improve Digital",
+			"domain": "improvedigital.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "k18s",
+			"name": "investing.com",
+			"domain": "investing.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "r58j",
+			"name": "Mobfox",
+			"domain": "mobfox.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "n65w",
+			"name": "NUI Media",
+			"domain": "nuimedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "h50p",
+			"name": "Sovrn",
+			"domain": "sovrn.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "i34k",
+			"name": "Spotad",
+			"domain": "spotad.co",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "s40i",
+			"name": "Tappx",
+			"domain": "tappx.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "v48f",
+			"name": "Bidfluence",
+			"domain": "bidfluence.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "n80p",
+			"name": "Content Ignite",
+			"domain": "contentignite.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "a62v",
+			"name": "SpringServe",
+			"domain": "springserve.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "g04a",
+			"name": "Vdopia",
+			"domain": "chocolateplatform.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "d81i",
+			"name": "Connatix",
+			"domain": "connatix.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "q26b",
+			"name": "Fyber",
+			"domain": "fyber.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "h52u",
+			"name": "Ironsource",
+			"domain": "ironsrc.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "c68o",
+			"name": "Nativo",
+			"domain": "nativo.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "v06n",
+			"name": "SoMo audience",
+			"domain": "somoaudience.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "h89h",
+			"name": "Stroer",
+			"domain": "stroeer.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "u70b",
+			"name": "GumGum",
+			"domain": "gumgum.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "t03i",
+			"name": "Beachfront",
+			"domain": "beachfront.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "x49q",
+			"name": "Xapads",
+			"domain": "xapads.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "s29d",
+			"name": "Appodeal",
+			"domain": "appodeal.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "s29d",
+			"name": "Ultimate Guitar",
+			"domain": "ultimate-guitar.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "u07p",
+			"name": "PilotX",
+			"domain": "pilotx.tv",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "a98v",
+			"name": "Smaato",
+			"domain": "smaato.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "p30l",
+			"name": "Bidsopt",
+			"domain": "bidsopto.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "v06n",
+			"name": "RhythmOne",
+			"domain": "rhythmone.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "26026",
+			"name": "9MediaOnline",
+			"domain": "9mediaonline.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "41278",
+			"name": "Addoox",
+			"domain": "addoox.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "37132",
+			"name": "AdElement",
+			"domain": "adelement.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "39740",
+			"name": "AdKarma",
+			"domain": "adkarma.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "43661",
+			"name": "Adnet",
+			"domain": "adnet.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "43154",
+			"name": "Ads.plus",
+			"domain": "ads.plus",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "27989",
+			"name": "Adtopia",
+			"domain": "ad-topia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "33138",
+			"name": "AdvandMedia",
+			"domain": "advandmedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "46989",
+			"name": "Advinteo",
+			"domain": "advinteo.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "47152",
+			"name": "Allinviews",
+			"domain": "allinviews.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "34217",
+			"name": "AnyClip",
+			"domain": "anyclip.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "25381",
+			"name": "Avocet",
+			"domain": "avocet.io",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "55074",
+			"name": "BidderMedia",
+			"domain": "bidder.media",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "44419",
+			"name": "bluTonic",
+			"domain": "blutonic.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "35302",
+			"name": "Boldwin",
+			"domain": "bold-win.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "33914",
+			"name": "Brightcom",
+			"domain": "brightcom.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "54943",
+			"name": "BrightMountainMedia",
+			"domain": "brightmountainmedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "32512",
+			"name": "Clearpier",
+			"domain": "clearpier.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "54523",
+			"name": "Creativeclicks",
+			"domain": "creativeclicks.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "46997",
+			"name": "DailyEngage",
+			"domain": "brightmountainmedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "25731",
+			"name": "DivisionD",
+			"domain": "divisiond.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "44492",
+			"name": "ElectricSheep",
+			"domain": "electric-sheep.tv",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "36706",
+			"name": "GDM",
+			"domain": "take1ads.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "40712",
+			"name": "GermaniaVid",
+			"domain": "germaniavid.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "53333",
+			"name": "Getintent",
+			"domain": "getintent.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "52969",
+			"name": "Globaltrust",
+			"domain": "globaltrustmedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "34403",
+			"name": "GoWithMedia",
+			"domain": "gowithmedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "53702",
+			"name": "GuppyGames",
+			"domain": "guppygames.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "33109",
+			"name": "Harren",
+			"domain": "harrenmedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "50139",
+			"name": "HyperBrainz",
+			"domain": "mymediads.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "40721",
+			"name": "Inch Media",
+			"domain": "inch.media",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "41511",
+			"name": "KeenKale",
+			"domain": "keenkale.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "49013",
+			"name": "Maple",
+			"domain": "maplemedia.io",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "30206",
+			"name": "Mars",
+			"domain": "mars.media",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "37852",
+			"name": "Mobco",
+			"domain": "mobcomedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "32653",
+			"name": "MustDigital",
+			"domain": "mustdigitalagency.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "49515",
+			"name": "My6sense",
+			"domain": "my6sense.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "56018",
+			"name": "nomnom",
+			"domain": "nom-nom.media",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "27381",
+			"name": "Novoroll",
+			"domain": "novoroll.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "45882",
+			"name": "Prequel",
+			"domain": "prequel.tv",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "26192",
+			"name": "PropelMedia",
+			"domain": "propelmedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "27347",
+			"name": "PurifyDigital",
+			"domain": "purifydigital.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "27982",
+			"name": "SnW",
+			"domain": "snw.media",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "27259",
+			"name": "SparcMedia",
+			"domain": "sparcmedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "33626",
+			"name": "StreamKey",
+			"domain": "streamkey.tv",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "34872",
+			"name": "Tapgerine",
+			"domain": "tapgerine.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "51936",
+			"name": "Tersertude",
+			"domain": "tersertude.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "25680",
+			"name": "TerserTude",
+			"domain": "tersertude.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "55154",
+			"name": "Ubrik",
+			"domain": "ubrik.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "45997",
+			"name": "Upzyde",
+			"domain": "upzyde.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "25564",
+			"name": "Velis",
+			"domain": "velismedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "26155",
+			"name": "Adtelligent",
+			"domain": "adtelligent.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "55171",
+			"name": "Veuhub",
+			"domain": "veuhub.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "28020",
+			"name": "Vexigo",
+			"domain": "vexigo.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "55044",
+			"name": "Vidy",
+			"domain": "vidy.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "48932",
+			"name": "Viralize",
+			"domain": "viralize.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "26558",
+			"name": "Web3",
+			"domain": "web3.us.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "26536",
+			"name": "YepMedia",
+			"domain": "yepmedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "46627",
+			"name": "Zippor",
+			"domain": "zippormedia.com",
+			"seller_type": "INTERMEDIARY"
+		},
+		{
+			"seller_id": "7b3c9aa0-730d-49de-ad20-384acbfadbe4",
+			"name": "79 Studio",
+			"domain": "play.google.com/store/apps/developer?id=79+Studio&hl=en",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "ad66d1de-062e-4e15-b311-6ec33236872b",
+			"name": "AccuRadio",
+			"domain": "accuradio.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "0266fe67-855f-4f59-9a82-f6b3a9bd5398 ",
+			"name": "Appslounge ",
+			"domain": "com.droidstrikers.make_me_singh.punjabi_turban_photo_editor",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "aad1851e-19c0-42e7-92a8-a1b4a1c38d83",
+			"name": "APPStoGO",
+			"domain": "com.appstogo.carmanual",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "43f4b4f2-7837-463f-b203-74d30fcf40f3",
+			"name": "authenticng.com",
+			"domain": "authenticng.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "b9dbb7b3-fb08-4ddc-af07-30e6f0537fb4",
+			"name": "Bobble AI Technologies",
+			"domain": "bobble.ai",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3858d459-f5b1-423b-b603-aec7148c81a6",
+			"name": "CHILL IES Red Media",
+			"domain": "chillies.red",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "f8645ebe-975e-4f04-9624-a18a46cb0cbb",
+			"name": "Dayana Networks Ltd.",
+			"domain": "apps.apple.com/us/developer/dayana-networks-ltd/id403434357",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "30e9b260-26e0-47cb-9e0f-688af1797303",
+			"name": "Delik Vritta Sibernet",
+			"domain": "delikpos.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3a78ec57-d92d-4177-b424-2229e56176b9",
+			"name": "Dmitry Koliush",
+			"domain": "appfollow.io/ios/dmitry-koliush?country=us&developer=Dmitry+Koliush",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "16281163-dccc-4186-91ed-3a2b9f0e5641",
+			"name": "DodoTeam",
+			"domain": "do-cleaner.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "fad39132-e35c-4b74-97b5-fde0a99cf8d3",
+			"name": "El Diablito",
+			"domain": "eldiablito.com.au",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "7d201b45-5f1d-4b8e-883b-96a4be9c583f",
+			"name": "Electronic Rescue Service",
+			"domain": "wc8f28dcb.app-ads-txt.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "661055e9-b844-4630-bc63-db49d2d5742c",
+			"name": "Favorite Games LTD",
+			"domain": "favorite-games.app",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "0ef6853d-b85f-42f8-870d-c0f0929ef36a",
+			"name": "Flick Games Ltd.",
+			"domain": "flickgame.org",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "0cd2d33f-3337-4b5d-ac8a-4a8358052fb4",
+			"name": "FootballScoop",
+			"domain": "footballscoop.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "fdae1ec6-2731-4b05-b2b1-48a003f0497a",
+			"name": "forecastmaps.eu",
+			"domain": "forecastmaps.eu",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "b8ce80a3-3565-4843-909f-70cf6445bb7c",
+			"name": "G/O Media, Inc.",
+			"domain": "jalopnik.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "90b0f722-abce-4046-9783-b41f3d4d0e2d",
+			"name": "GateHouse Media, LLC",
+			"domain": "newsok.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "cbee552f-db07-4cb7-80a7-39554c751987",
+			"name": "Give It Love",
+			"domain": "giveitlove.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "f3e1d558-6103-4d01-ab52-c14a07b23894",
+			"name": "HaiderArt",
+			"domain": "haiderart.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4a6c6384-4298-4914-bcf4-a67dcc14b739",
+			"name": "hevdel",
+			"domain": "hevdel.co.il",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "79f2913a-5066-4e27-aaeb-7a0f8dcd9f9e",
+			"name": "History Daily",
+			"domain": "historydaily.org",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "e4476033-17d5-4d49-a108-975f896090ba",
+			"name": "Igniter Studios",
+			"domain": "igniterstudios.atwebpages.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "8a1c631a-359e-4519-84ba-047e95f9fb80",
+			"name": "Iris Studios and Services",
+			"domain": "play.google.com/store/apps/developer?id=Iris+Studios+and+Services&hl=en",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "6518a55e-d881-4f52-b951-d36707a52e6f ",
+			"name": "jamboska",
+			"domain": "vcfb3e284.app-ads-txt.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "308e3189-7f25-4359-a1c1-d19e0a40377e",
+			"name": "jpost",
+			"domain": "jpost.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "82995911-203b-4486-95de-808f3905612b",
+			"name": "KBLab",
+			"domain": "ehliyetsinavsorulari-baykoc.web.app",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "e531c8cf-5e4a-4091-b755-f22bd52134ee ",
+			"name": "Kika Desi Dev",
+			"domain": "com.kikaoem.qisiemoji.inputmethod.cy.se ",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "bdf5fba5-0fa4-4150-bb3f-68d3fe269644",
+			"name": "liputandetik.com",
+			"domain": "liputandetik.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "f770dd0a-7cc3-4ed0-be44-22131b297423",
+			"name": "MA4RNICE LTD",
+			"domain": "tattoolike.co",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "86d701f1-0d91-41ce-887c-375d5b1e6e5c",
+			"name": "MACHAPP Software Ltd",
+			"domain": "machapp.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "d34ac4d1-3c52-4f40-8e54-4798354d1118",
+			"name": "mangulator",
+			"domain": "mangulator.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "14796805-0a80-4c85-b88a-2feccd9e06f9 ",
+			"name": "Masari-Team",
+			"domain": "olou.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": ": 09ce8b9a-226c-41a6-aa55-75e06a75aecb ",
+			"name": "MastersOfBunkers",
+			"domain": "play.google.com/store/apps/dev?id=6032375959892757674&hl=en",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "a16b1fcb-d274-4ffc-9894-d3d97a5bfcc5",
+			"name": "Meitu",
+			"domain": "beautyplus.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "d88cb2b2-f4ad-4712-946b-e60d4371dcdb",
+			"name": "Meitu Technology, Inc.",
+			"domain": "beautyplus.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "94f64d85-2af7-4d2c-bb70-082e5755ca76",
+			"name": "Mentalidade Investidora",
+			"domain": "mentalidadeinvestidora.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "03716251-760b-496f-b557-932cae2318a7",
+			"name": "onthebright.com",
+			"domain": "onthebright.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "967ed16f-4567-4197-8096-c86eb885f73e",
+			"name": "Rascal Gaming",
+			"domain": "apps.apple.com/us/developer/rascal-gaming/id888748923",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "6ee4808c-9d54-464e-9417-f17c038ec963",
+			"name": "River Stone Tech",
+			"domain": "play.google.com/store/apps/developer?id=River+Stone+Tech&hl=en",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "8dbfaa49-5521-43ba-966e-85fb1a766892",
+			"name": "safe partner Inc.",
+			"domain": "safepartner.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "22965dba-a5d5-4858-a777-f54803f1480e",
+			"name": "samnytt.se",
+			"domain": "samnytt.se",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "157fbc86-e909-4d3d-941d-8b9f89322f29",
+			"name": "Scorpio Official",
+			"domain": "data.scorpio-official.com/app-ads.txt",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "b1c0f6b5-3636-4383-97c7-64104f6104e6",
+			"name": "Shqip Vision",
+			"domain": "shqipvision.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "3b431011-2f4e-4710-bdce-d1c9bcaa3f50",
+			"name": "sorucvp.net",
+			"domain": "sorucvp.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "f36fe95f-e16d-405e-bc9b-497409df63e8",
+			"name": "StarSue",
+			"domain": "starsue.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "e2a638fa-0ee5-40d2-a609-513c9df35d61",
+			"name": "streetdir international",
+			"domain": "streetdir.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "0a908d6b-095a-4264-974e-79befc0b6dcf",
+			"name": "Takoomi Ltd",
+			"domain": "takoomi.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "baa9f8a4-441f-4560-9480-e6c8c61408db",
+			"name": "ultimate-guitar.com",
+			"domain": "ultimate-guitar.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "f46b09a4-e35b-4754-9a58-370e52768529",
+			"name": "UnlimApps LLC",
+			"domain": "apps.apple.com/us/developer/unlimapps-llc/id1096954980",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "597778be-2f1a-4120-9ff7-93ea9946a247",
+			"name": "Volcera",
+			"domain": "volcera.io",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "e3bb6e55-0939-4b61-a4d9-fbad533f4e0b",
+			"name": "vuivui.tv",
+			"domain": "vuivui.tv",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "70f69d8f-e7c1-4402-bd98-7c151aadd36e ",
+			"name": "Weather Forecast & Phone Tools Studio",
+			"domain": "s3-eu-west-1.amazonaws.com/ads-txt-market/developer-website/0558fc9bfeb573003478188e3001360d1afed5ab",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "4ef77bdf-436d-43b4-a550-6d6465628b60",
+			"name": "wtop.com",
+			"domain": "wtop.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "5bf008b9-a353-44f6-83df-7827b984ae43",
+			"name": "YoonSoft",
+			"domain": "yoonsoft.nflint.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "a9b767b1-d1d1-4b5a-b786-3bb819bcb18e ",
+			"name": "dzsubwayy",
+			"domain": "play.google.com/store/apps/developer?id=dzsubwayy&hl=en",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "943d18ce-fc25-487c-8025-0af3e43c932d ",
+			"name": "Usha Apps",
+			"domain": "p36a8c8aa.app-ads-txt.com/app-ads.txt",
+			"seller_type": "PUBLISHER"
+		}
+	]
+}

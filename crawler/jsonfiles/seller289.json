@@ -1,0 +1,199 @@
+{
+  "version": 1.0,
+  "contact_email": "info@trustx.org",
+  "contact_address": "TrustX, LLC, 530 7th Ave New York, NY 10018",
+  "sellers": [
+    {
+      "seller_id": "23",
+      "seller_type": "PUBLISHER",
+      "name": "Meredith Corporation",
+      "domain": "www.meredith.com"
+    },
+    {
+      "seller_id": "34",
+      "seller_type": "PUBLISHER",
+      "name": "CBS Interactive",
+      "domain": "https://www.cbsinteractive.com/"
+    },
+    {
+      "seller_id": "35",
+      "seller_type": "PUBLISHER",
+      "name": "Accuweather Inc",
+      "domain": "https://www.accuweather.com/"
+    },
+    {
+      "seller_id": "36",
+      "seller_type": "PUBLISHER",
+      "name": "The Daily Caller",
+      "domain": "https://dailycaller.com"
+    },
+    {
+      "seller_id": "37",
+      "seller_type": "PUBLISHER",
+      "name": "The Washington Post",
+      "domain": " https://washingtonpost.com"
+    },
+    {
+      "seller_id": "38",
+      "seller_type": "PUBLISHER",
+      "name": "Viacom Inc.",
+      "domain": "https://viacom.com"
+    },
+    {
+      "seller_id": "40",
+      "seller_type": "PUBLISHER",
+      "name": "The Weather Company",
+      "domain": "https://business.weather.com/"
+    },
+    {
+      "seller_id": "41",
+      "seller_type": "PUBLISHER",
+      "name": "ABC News",
+      "domain": "https://abcnews.go.com/"
+    },
+    {
+      "seller_id": "43",
+      "seller_type": "PUBLISHER",
+      "name": "Vox Media, Inc",
+      "domain": "https://voxmedia.com"
+    },
+    {
+      "seller_id": "44",
+      "seller_type": "PUBLISHER",
+      "name": "WebMD",
+      "domain": "https://webmd.com"
+    },
+    {
+      "seller_id": "47",
+      "seller_type": "PUBLISHER",
+      "name": "A&E Television Networks, LLC",
+      "domain": "https://www.aenetworks.com/"
+    },
+    {
+      "seller_id": "48",
+      "seller_type": "PUBLISHER",
+      "name": "New York Media LLC",
+      "domain": "http://nymag.com/"
+    },
+    {
+      "seller_id": "50",
+      "seller_type": "PUBLISHER",
+      "name": "NBCUniversal Media, LLC",
+      "domain": "https://nbcuniversal.com"
+    },
+    {
+      "seller_id": "51",
+      "seller_type": "PUBLISHER",
+      "name": "Business Insider",
+      "domain": "https://www.businessinsider.com"
+    },
+    {
+      "seller_id": "52",
+      "seller_type": "PUBLISHER",
+      "name": "WebMD",
+      "domain": "https://webmd.com"
+    },
+    {
+      "seller_id": "53",
+      "seller_type": "PUBLISHER",
+      "name": "The Guardian",
+      "domain": "https://www.theguardian.com/"
+    },
+    {
+      "seller_id": "54",
+      "seller_type": "PUBLISHER",
+      "name": "The Slate Magazine",
+      "domain": "https://slate.com"
+    },
+    {
+      "seller_id": "56",
+      "seller_type": "PUBLISHER",
+      "name": "The Atlantic",
+      "domain": "https://www.theatlantic.com/"
+    },
+    {
+      "seller_id": "57",
+      "seller_type": "PUBLISHER",
+      "name": "Fox News",
+      "domain": "https://www.foxnews.com/"
+    },
+    {
+      "seller_id": "58",
+      "seller_type": "PUBLISHER",
+      "name": "ESPN",
+      "domain": "http://www.espn.com/"
+    },
+    {
+      "seller_id": "60",
+      "seller_type": "PUBLISHER",
+      "name": "Gannett",
+      "domain": "http://www.gannett.com/"
+    },
+    {
+      "seller_id": "61",
+      "seller_type": "PUBLISHER",
+      "name": "Purch Group",
+      "domain": "http://www.purch.com"
+    },
+    {
+      "seller_id": "62",
+      "seller_type": "PUBLISHER",
+      "name": "The E. W. Scripps Company",
+      "domain": "https://scripps.com/"
+    },
+    {
+      "seller_id": "64",
+      "seller_type": "PUBLISHER",
+      "name": "Grateful Ventures",
+      "domain": "https://grateful.ventures/"
+    },
+    {
+      "seller_id": "65",
+      "seller_type": "PUBLISHER",
+      "name": "Livingly",
+      "domain": "http://www.livingly.com/"
+    },
+    {
+      "seller_id": "70",
+      "seller_type": "PUBLISHER",
+      "name": "The Walt Disney Company",
+      "domain": "https://www.thewaltdisneycompany.com/"
+    },
+    {
+      "seller_id": "71",
+      "seller_type": "PUBLISHER",
+      "name": "The Street",
+      "domain": "https://www.thestreet.com/"
+    },
+    {
+      "seller_id": "72",
+      "seller_type": "PUBLISHER",
+      "name": "Bloomberg",
+      "domain": "https://www.bloomberg.com/"
+    },
+    {
+      "seller_id": "73",
+      "seller_type": "PUBLISHER",
+      "name": "Tribune",
+      "domain": "http://www.tribunemedia.com/"
+    },
+    {
+      "seller_id": "74",
+      "seller_type": "PUBLISHER",
+      "name": "Warner Media",
+      "domain": "https://www.warnermediagroup.com/"
+    },
+    {
+      "seller_id": "75",
+      "seller_type": "PUBLISHER",
+      "name": "Deseret News",
+      "domain": "https://www.deseret.com/"
+    },
+    {
+      "seller_id": "76",
+      "seller_type": "PUBLISHER",
+      "name": "G/O Media",
+      "domain": "https://g-omedia.com/"
+    }
+  ]
+}

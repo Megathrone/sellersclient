@@ -1,0 +1,457 @@
+{
+  "contact_email": "support@saambaa.com",
+  "contact_address": "saambaa LLC, 550 West B Street, 4th Floor, San Diego, CA 92101",
+  "version": "1.0",
+  "identifiers": [
+    {
+      "Name": "DUNS",
+      "Value": "07-916-3020"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "71021043",
+      "seller_type": "PUBLISHER",
+      "name": "A. H. Belo Corporation",
+      "domain": "ahbelo.com"
+    },
+    {
+      "seller_id": "71021073",
+      "seller_type": "PUBLISHER",
+      "name": "Abrams Media",
+      "domain": "abrams-media.com"
+    },
+    {
+      "seller_id": "71021107",
+      "seller_type": "PUBLISHER",
+      "name": "Absolute Sports Pvt. Ltd",
+      "domain": "sportskeeda.com"
+    },
+    {
+      "seller_id": "71021156",
+      "seller_type": "PUBLISHER",
+      "name": "Advocate",
+      "domain": "theadvocate.com"
+    },
+    {
+      "seller_id": "71021023",
+      "seller_type": "PUBLISHER",
+      "name": "Apnews",
+      "domain": "ap.org"
+    },
+    {
+      "seller_id": "71021024",
+      "seller_type": "PUBLISHER",
+      "name": "Arcamax.com",
+      "domain": "arcamax.com"
+    },
+    {
+      "seller_id": "71021026",
+      "seller_type": "PUBLISHER",
+      "name": "B1231",
+      "domain": "b1231.com"
+    },
+    {
+      "seller_id": "71021142",
+      "seller_type": "PUBLISHER",
+      "name": "Biotest",
+      "domain": "biotest.net"
+    },
+    {
+      "seller_id": "71021144",
+      "seller_type": "PUBLISHER",
+      "name": "BisMan Online",
+      "domain": "bismanonline.com"
+    },
+    {
+      "seller_id": "71021163",
+      "seller_type": "PUBLISHER",
+      "name": "Boats Group LLC",
+      "domain": "boats.com"
+    },
+    {
+      "seller_id": "71021130",
+      "seller_type": "PUBLISHER",
+      "name": "Capitol Broadcasting Company, Inc.",
+      "domain": "capitolbroadcasting.com"
+    },
+    {
+      "seller_id": "71021037",
+      "seller_type": "PUBLISHER",
+      "name": "Chicago Reader",
+      "domain": "chicagoreader.com"
+    },
+    {
+      "seller_id": "71021022",
+      "seller_type": "PUBLISHER",
+      "name": "Crate Network",
+      "domain": "cratenetwork.com"
+    },
+    {
+      "seller_id": "71021170",
+      "seller_type": "PUBLISHER",
+      "name": "Drafttek, LLC",
+      "domain": "drafttek.com"
+    },
+    {
+      "seller_id": "71021045",
+      "seller_type": "PUBLISHER",
+      "name": "Drudge Report",
+      "domain": "voranda.com"
+    },
+    {
+      "seller_id": "71021030",
+      "seller_type": "PUBLISHER",
+      "name": "Encyclopedia Britannica, Inc.",
+      "domain": "encyclopedia britannica, inc."
+    },
+    {
+      "seller_id": "71021141",
+      "seller_type": "PUBLISHER",
+      "name": "ESMG North America, Inc",
+      "domain": "eliteprospects.com"
+    },
+    {
+      "seller_id": "71021153",
+      "seller_type": "PUBLISHER",
+      "name": "Essel Group",
+      "domain": "esselgroup.com"
+    },
+    {
+      "seller_id": "71021027",
+      "seller_type": "PUBLISHER",
+      "name": "Evolve Media",
+      "domain": "evolvemediallc.com"
+    },
+    {
+      "seller_id": "71021150",
+      "seller_type": "PUBLISHER",
+      "name": "Factinate Ltd.",
+      "domain": "factinate.com"
+    },
+    {
+      "seller_id": "71021046",
+      "seller_type": "PUBLISHER",
+      "name": "Farlex, Inc.",
+      "domain": "farlex.com"
+    },
+    {
+      "seller_id": "71021164",
+      "seller_type": "PUBLISHER",
+      "name": "FiscalNote",
+      "domain": "fiscalnote.com"
+    },
+    {
+      "seller_id": "71021048",
+      "seller_type": "PUBLISHER",
+      "name": "FloSports, Inc.",
+      "domain": "flosports.tv"
+    },
+    {
+      "seller_id": "71021051",
+      "seller_type": "PUBLISHER",
+      "name": "Fox Television Stations",
+      "domain": "foxcorporation.com"
+    },
+    {
+      "seller_id": "71021065",
+      "seller_type": "PUBLISHER",
+      "name": "Good Worldwide Inc",
+      "domain": "goodinc.com"
+    },
+    {
+      "seller_id": "71021132",
+      "seller_type": "PUBLISHER",
+      "name": "Greynium Information Technologies Pvt. Ltd.",
+      "domain": "greynium.com"
+    },
+    {
+      "seller_id": "71021129",
+      "seller_type": "PUBLISHER",
+      "name": "Ground Truth, Inc.",
+      "domain": "groundtruth.com"
+    },
+    {
+      "seller_id": "71021068",
+      "seller_type": "PUBLISHER",
+      "name": "Houston Realtors Information Service, Inc",
+      "domain": "har.com"
+    },
+    {
+      "seller_id": "71021168",
+      "seller_type": "PUBLISHER",
+      "name": "HuskerMax",
+      "domain": "huskermax.com"
+    },
+    {
+      "seller_id": "71021160",
+      "seller_type": "PUBLISHER",
+      "name": "IAC, Inc.",
+      "domain": "iac.com"
+    },
+    {
+      "seller_id": "71021140",
+      "seller_type": "PUBLISHER",
+      "name": "iOne Digital",
+      "domain": "ionedigital.com"
+    },
+    {
+      "seller_id": "71021085",
+      "seller_type": "PUBLISHER",
+      "name": "JNJ Mobile, Inc",
+      "domain": "jnjmobile.com"
+    },
+    {
+      "seller_id": "71021069",
+      "seller_type": "PUBLISHER",
+      "name": "Just Jared, Inc",
+      "domain": "justjared.com"
+    },
+    {
+      "seller_id": "71021143",
+      "seller_type": "PUBLISHER",
+      "name": "Leaf Group",
+      "domain": "leafgroup.com"
+    },
+    {
+      "seller_id": "71021074",
+      "seller_type": "PUBLISHER",
+      "name": "Legacy.com",
+      "domain": "legacy.com"
+    },
+    {
+      "seller_id": "71021166",
+      "seller_type": "PUBLISHER",
+      "name": "LetsRun.com LLC",
+      "domain": "letsrun.com"
+    },
+    {
+      "seller_id": "71021169",
+      "seller_type": "PUBLISHER",
+      "name": "Linkgains (HK) Limited",
+      "domain": "soarinfotech.com"
+    },
+    {
+      "seller_id": "71021071",
+      "seller_type": "PUBLISHER",
+      "name": "Literally Media Ltd",
+      "domain": "literally.media"
+    },
+    {
+      "seller_id": "71021143",
+      "seller_type": "PUBLISHER",
+      "name": "Media Fire, LLC",
+      "domain": "mediafire.com"
+    },
+    {
+      "seller_id": "71021081",
+      "seller_type": "PUBLISHER",
+      "name": "MLB Advanced Media, L.P.",
+      "domain": "mlb.com"
+    },
+    {
+      "seller_id": "71021083",
+      "seller_type": "PUBLISHER",
+      "name": "MLSListings Inc",
+      "domain": "mlslistings.com"
+    },
+    {
+      "seller_id": "71021066",
+      "seller_type": "PUBLISHER",
+      "name": "MMORPG Life Network",
+      "domain": "mmorpg-life.com"
+    },
+    {
+      "seller_id": "71021135",
+      "seller_type": "PUBLISHER",
+      "name": "Motherly Media, Inc.",
+      "domain": "mother.ly"
+    },
+    {
+      "seller_id": "71021077",
+      "seller_type": "PUBLISHER",
+      "name": "MUA",
+      "domain": "makeupalley.com"
+    },
+    {
+      "seller_id": "71021154",
+      "seller_type": "PUBLISHER",
+      "name": "Nasdaq, Inc.",
+      "domain": "nasdaq.com"
+    },
+    {
+      "seller_id": "71021047",
+      "seller_type": "PUBLISHER",
+      "name": "Network18",
+      "domain": "network18online.com"
+    },
+    {
+      "seller_id": "71021084",
+      "seller_type": "PUBLISHER",
+      "name": "North Rock Media Inc.",
+      "domain": "mobafire.com"
+    },
+    {
+      "seller_id": "71021165",
+      "seller_type": "PUBLISHER",
+      "name": "Novelty Magazines Ltd",
+      "domain": "novelty.media"
+    },
+    {
+      "seller_id": "71021120",
+      "seller_type": "PUBLISHER",
+      "name": "Odyssey Media Group, Inc",
+      "domain": "theodysseyonline.com"
+    },
+    {
+      "seller_id": "71021131",
+      "seller_type": "PUBLISHER",
+      "name": "One.in Digitech Media Pvt. Ltd.",
+      "domain": "oneindia.com"
+    },
+    {
+      "seller_id": "71021092",
+      "seller_type": "PUBLISHER",
+      "name": "OPGG Inc.",
+      "domain": "op.gg"
+    },
+    {
+      "seller_id": "71021096",
+      "seller_type": "PUBLISHER",
+      "name": "Pittsburgh Post-Gazette",
+      "domain": "post-gazette.com"
+    },
+    {
+      "seller_id": "71021134",
+      "seller_type": "PUBLISHER",
+      "name": "Rap-Up, LLC",
+      "domain": "rap-up.com"
+    },
+    {
+      "seller_id": "71021101",
+      "seller_type": "PUBLISHER",
+      "name": "Refdesk.com, Inc.",
+      "domain": "refdesk.com"
+    },
+    {
+      "seller_id": "71021020",
+      "seller_type": "PUBLISHER",
+      "name": "RhythmOne Plc",
+      "domain": "rhythmone.com"
+    },
+    {
+      "seller_id": "71021103",
+      "seller_type": "PUBLISHER",
+      "name": "Shmoop University, Inc.",
+      "domain": "shmoop.com"
+    },
+    {
+      "seller_id": "71021108",
+      "seller_type": "PUBLISHER",
+      "name": "StockTwits, Inc.",
+      "domain": "stocktwits.com"
+    },
+    {
+      "seller_id": "71021110",
+      "seller_type": "PUBLISHER",
+      "name": "StudyStack LLC",
+      "domain": "studystack.com"
+    },
+    {
+      "seller_id": "71021112",
+      "seller_type": "PUBLISHER",
+      "name": "Sun-Times Media Productions, LLC",
+      "domain": "suntimes.com"
+    },
+    {
+      "seller_id": "71021034",
+      "seller_type": "PUBLISHER",
+      "name": "Swift Media Entertainment, Inc.",
+      "domain": "solomid.net"
+    },
+    {
+      "seller_id": "71021138",
+      "seller_type": "PUBLISHER",
+      "name": "The Lucy Burns Institute",
+      "domain": "lucyburns.org"
+    },
+    {
+      "seller_id": "71021139",
+      "seller_type": "PUBLISHER",
+      "name": "The Philadelphia Inquirer",
+      "domain": "inquirer.com"
+    },
+    {
+      "seller_id": "71021137",
+      "seller_type": "PUBLISHER",
+      "name": "TheGatewayPundit.com",
+      "domain": "thegatewaypundit.com"
+    },
+    {
+      "seller_id": "71021122",
+      "seller_type": "PUBLISHER",
+      "name": "This Old House Ventures, LLC",
+      "domain": "thisoldhouse.com"
+    },
+    {
+      "seller_id": "71021123",
+      "seller_type": "PUBLISHER",
+      "name": "Times of San Diego LLC",
+      "domain": "timesofsandiego.com"
+    },
+    {
+      "seller_id": "71021158",
+      "seller_type": "PUBLISHER",
+      "name": "Top5.com",
+      "domain": "top5.com"
+    },
+    {
+      "seller_id": "71021125",
+      "seller_type": "PUBLISHER",
+      "name": "Trakt, Inc.",
+      "domain": "trakt.tv"
+    },
+    {
+      "seller_id": "71021025",
+      "seller_type": "PUBLISHER",
+      "name": "Tribune Publishing, Inc.",
+      "domain": "tribpub.com"
+    },
+    {
+      "seller_id": "71021159",
+      "seller_type": "PUBLISHER",
+      "name": "TuneFind LLC",
+      "domain": "tunefind.com"
+    },
+    {
+      "seller_id": "71021167",
+      "seller_type": "PUBLISHER",
+      "name": "Uber Humor, LLC",
+      "domain": "uberhumor.com"
+    },
+    {
+      "seller_id": "71021136",
+      "seller_type": "PUBLISHER",
+      "name": "Untapped Cities, LLC",
+      "domain": "untappedcities.com"
+    },
+    {
+      "seller_id": "71021127",
+      "seller_type": "PUBLISHER",
+      "name": "UtahRealEstate.com",
+      "domain": "utahrealestate.com"
+    },
+    {
+      "seller_id": "71021029",
+      "seller_type": "PUBLISHER",
+      "name": "Vila Media LLC",
+      "domain": "bobvila.com"
+    },
+    {
+      "seller_id": "71021067",
+      "seller_type": "PUBLISHER",
+      "name": "Vox Media, Inc.",
+      "domain": "voxmedia.com"
+    }
+  ]
+}

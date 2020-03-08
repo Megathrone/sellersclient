@@ -1,0 +1,251 @@
+{
+    "contact_email": "anastasiia.romenska@huddledmasses.com",
+    "contact_address": "Huddled Masses, LLC, 135 W 41st St, New York, NY 10036",
+    "version": "1.0",
+    "identifiers": [
+        {
+            "name": "TAG-ID",
+            "value": "6c5b49d96ec1b458"
+        }
+    ],
+    "sellers": [
+        {
+            "seller_id": "7",
+            "domain": "blackenterprise.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Black Enterprise",
+            "name": "Black Enterprise"
+        },
+        {
+            "seller_id": "13",
+            "domain": "pinkieb.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Pink Media",
+            "name": "Pink Media"
+        },
+        {
+            "seller_id": "38",
+            "domain": "kubient.com",
+            "seller_type": "INTERMEDIARY",
+            "comment": "Kubient, Inc",
+            "name": "Kubient, Inc"
+        },
+        {
+            "seller_id": "63",
+            "domain": "kjlhradio.com",
+            "seller_type": "PUBLISHER",
+            "comment": "KJLH",
+            "name": "KJLH"
+        },
+        {
+            "seller_id": "78",
+            "domain": "realtimesmedia.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Real Times Media",
+            "name": "Real Times Media"
+        },
+        {
+            "seller_id": "96",
+            "domain": "natgeo.com",
+            "seller_type": "PUBLISHER",
+            "comment": "National Geographic",
+            "name": "National Geographic"
+        },
+        {
+            "seller_id": "102",
+            "domain": "bossip.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Interactive One",
+            "name": "Interactive One"
+        },
+        {
+            "seller_id": "104",
+            "domain": "bonniercorp.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Bonnier Corp",
+            "name": "Bonnier Corp"
+        },
+        {
+            "seller_id": "111",
+            "domain": "consequencemedia.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Consequence Media LLC",
+            "name": "Consequence Media LLC"
+        },
+        {
+            "seller_id": "117",
+            "domain": "ebony.com",
+            "seller_type": "PUBLISHER",
+            "comment": "EBONY Media Operations",
+            "name": "EBONY Media Operations"
+        },
+        {
+            "seller_id": "123",
+            "domain": "foreignpolicy.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Foreign Policy",
+            "name": "Foreign Policy"
+        },
+        {
+            "seller_id": "127",
+            "domain": "usatoday.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Gannett Company, Inc.",
+            "name": "Gannett Company, Inc."
+        },
+        {
+            "seller_id": "130",
+            "domain": "corp.mocospace.com",
+            "seller_type": "PUBLISHER",
+            "comment": "JNJ Mobile, Inc.",
+            "name": "JNJ Mobile, Inc."
+        },
+        {
+            "seller_id": "137",
+            "domain": "mediafuse.com",
+            "seller_type": "PUBLISHER",
+            "comment": "MediaFuse",
+            "name": "MediaFuse"
+        },
+        {
+            "seller_id": "144",
+            "domain": "ortolanienterprises.com",
+            "seller_type": "PUBLISHER",
+            "comment": "HeaderBiddr",
+            "name": "HeaderBiddr"
+        },
+        {
+            "seller_id": "146",
+            "domain": "essence.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Essence",
+            "name": "Essence"
+        },
+        {
+            "seller_id": "148",
+            "domain": "gaffmedia.com",
+            "seller_type": "INTERMEDIARY",
+            "comment": "GAFF Limited",
+            "name": "GAFF Limited"
+        },
+        {
+            "seller_id": "160",
+            "domain": "drexls.com",
+            "seller_type": "PUBLISHER",
+            "comment": "DREXL",
+            "name": "DREXL"
+        },
+        {
+            "seller_id": "165",
+            "domain": "newsy.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Newsy",
+            "name": "Newsy"
+        },
+        {
+            "seller_id": "168",
+            "domain": "blackgirldigital.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Black Girl Digital",
+            "name": "Black Girl Digital"
+        },
+        {
+            "seller_id": "169",
+            "domain": "agencyorquidea.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Agency Orquidea LATAM",
+            "name": "Agency Orquidea LATAM"
+        },
+        {
+            "seller_id": "170",
+            "domain": "blavity.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Blavity",
+            "name": "Blavity"
+        },
+        {
+            "seller_id": "174",
+            "domain": "XITE.com",
+            "seller_type": "PUBLISHER",
+            "comment": "XITE Networks",
+            "name": "XITE Networks"
+        },
+        {
+            "seller_id": "175",
+            "domain": "thebrave.io",
+            "seller_type": "INTERMEDIARY",
+            "comment": "BRAVE",
+            "name": "BRAVE"
+        },
+        {
+            "seller_id": "181",
+            "domain": "vidazoo.com",
+            "seller_type": "INTERMEDIARY",
+            "comment": "Vidazoo LTD",
+            "name": "Vidazoo LTD"
+        },
+        {
+            "seller_id": "182",
+            "domain": "pixfuture.com",
+            "seller_type": "PUBLISHER",
+            "comment": "pix",
+            "name": "pix"
+        },
+        {
+            "seller_id": "185",
+            "domain": "viads.co",
+            "seller_type": "PUBLISHER",
+            "comment": "VIADS ADVERTISING  S.L.",
+            "name": "VIADS ADVERTISING  S.L."
+        },
+        {
+            "seller_id": "186",
+            "domain": "wibbitz.com",
+            "seller_type": "INTERMEDIARY",
+            "comment": "Wibbitz",
+            "name": "Wibbitz"
+        },
+        {
+            "seller_id": "187",
+            "domain": "limpid.tv",
+            "seller_type": "PUBLISHER",
+            "comment": "Limpid",
+            "name": "Limpid"
+        },
+        {
+            "seller_id": "188",
+            "domain": "embi-media.com",
+            "seller_type": "PUBLISHER",
+            "comment": "EMBI MEDIA",
+            "name": "EMBI MEDIA"
+        },
+        {
+            "seller_id": "189",
+            "domain": "vuuzlelive.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Vuuzle",
+            "name": "Vuuzle"
+        },
+        {
+            "seller_id": "190",
+            "domain": "essmediagroup.com",
+            "seller_type": "PUBLISHER",
+            "comment": "ESS Media Group",
+            "name": "ESS Media Group"
+        },
+        {
+            "seller_id": "191",
+            "domain": "nw18.com",
+            "seller_type": "PUBLISHER",
+            "comment": "Network 18",
+            "name": "Network 18"
+        },
+        {
+            "seller_id": "192",
+            "domain": "g-omedia.com",
+            "seller_type": "PUBLISHER",
+            "comment": "GO Media",
+            "name": "GO Media"
+        }
+    ]
+}

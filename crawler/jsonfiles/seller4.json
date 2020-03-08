@@ -1,0 +1,4187 @@
+{
+    "contact_email": "inventory@spotx.tv", 
+    "contact_address": "8181 Arista Place, Broomfield CO, 80021", 
+    "version": "1.0", 
+    "identifiers": [
+        {
+            "name": "TAG-ID", 
+            "value": "7842df1d2fe2db34"
+        }
+    ], 
+    "sellers": [
+        {
+            "seller_id": "244332", 
+            "name": "JP CCI - TV Tokyo", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "214415", 
+            "name": "Webedia GmbH", 
+            "domain": "webedia-group.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "214254", 
+            "name": "Perpetual Media", 
+            "domain": "perpetualmedia.co", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "277665", 
+            "name": "Lagardere News", 
+            "domain": "lagardere.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "145119", 
+            "name": "Digital Media Rights", 
+            "domain": "digitalmediarights.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "86983", 
+            "name": "MailOnlineUK", 
+            "domain": "mailmetromedia.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "247046", 
+            "name": "Radioline", 
+            "domain": "radiolineapp.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "214325", 
+            "name": " HIFI.de GmbH", 
+            "domain": "hifi.de", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "223034", 
+            "name": "CRM SRL", 
+            "domain": "moto.it", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "219895", 
+            "name": "A&E Television Networks", 
+            "domain": "aenetworks.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "80279", 
+            "name": "Adasta (prev. Webperformance Srl)", 
+            "domain": "adasta.it", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "173542", 
+            "name": "Connected Ventures LLC", 
+            "domain": "connectedventures.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "173544", 
+            "name": "The18, LLC", 
+            "domain": "the18.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "138602", 
+            "name": "Q1Media", 
+            "domain": "q1media.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "271024", 
+            "name": "IBM Watson Advertising", 
+            "domain": "ibm.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "231848", 
+            "name": "ABC OTV", 
+            "domain": "abc.go.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "259421", 
+            "name": "FeedAd GmbH", 
+            "domain": "feedad.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "101831", 
+            "name": "PML - Be Positive", 
+            "domain": "pmlatam.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "237147", 
+            "name": "Samsung TV Plus", 
+            "domain": "samsung.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "192424", 
+            "name": "Bonneville (KSL)", 
+            "domain": "bonneville.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "141052", 
+            "name": "Samba TV", 
+            "domain": "samba.tv", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "231289", 
+            "name": "JP CCI - TSS TV", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "265357", 
+            "name": "Stingray Music USA", 
+            "domain": "stingray.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "254701", 
+            "name": "Car and Classic Ltd", 
+            "domain": "carandclassic.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "267966", 
+            "name": "Samba Networks", 
+            "domain": "sambanetworks.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "222002", 
+            "name": "JW OnlineMedEd", 
+            "domain": "onlinemeded.org", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "238936", 
+            "name": "Outbrain", 
+            "domain": "outbrain.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "247316", 
+            "name": "Webedia Spain SL", 
+            "domain": "webedia-group.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "223842", 
+            "name": "Sharecare", 
+            "domain": "sharecare.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "268145", 
+            "name": "Network N", 
+            "domain": "network-n.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "138460", 
+            "name": "LawNewz, Inc.", 
+            "domain": "mediaite.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "244525", 
+            "name": "Viralize", 
+            "domain": "viralize.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "263354", 
+            "name": "Rakuten TV", 
+            "domain": "rakuten.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "156381", 
+            "name": "M6 Publicite", 
+            "domain": "m6pub.fr", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224658", 
+            "name": "Gannett", 
+            "domain": "gannett.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "109999", 
+            "name": "BX Mannenmedia", 
+            "domain": "mannenmedia.nl", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "111832", 
+            "name": "Vox Media, Inc.", 
+            "domain": "voxmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "181970", 
+            "name": "Haystack TV, Inc", 
+            "domain": "haystack.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "225098", 
+            "name": "JP CCI - STV", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "227172", 
+            "name": "Wifog", 
+            "domain": "wifog.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "249186", 
+            "name": "Dailymotion", 
+            "domain": "dailymotion.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "238503", 
+            "name": "Tradecast", 
+            "domain": "tradecast.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "155391", 
+            "name": "Ubifish B.V.", 
+            "domain": "ubifish.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "228597", 
+            "name": "BX DaviD", 
+            "domain": "pebblemedia.be", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "188298", 
+            "name": "This Old House Ventures, LLC", 
+            "domain": "thisoldhouse.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "239904", 
+            "name": "SpringServe, LLC", 
+            "domain": "springserve.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "228113", 
+            "name": "JP CCI - NTV", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "171945", 
+            "name": "Ellation, Inc", 
+            "domain": "ellation.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "209457", 
+            "name": "Stampen Media", 
+            "domain": "stampenmedia.se", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "191455", 
+            "name": "Gay Times Limited", 
+            "domain": "gaytimes.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "191451", 
+            "name": "Task & Purpose", 
+            "domain": "taskandpurpose.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "154441", 
+            "name": "Critch GmbH", 
+            "domain": "critch-capital.de", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "206709", 
+            "name": "Altitude.tv", 
+            "domain": "altitude.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "190038", 
+            "name": "Sportal Group", 
+            "domain": "sportalsports.biz", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "235911", 
+            "name": "Topgolf Media", 
+            "domain": "topgolfmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "247419", 
+            "name": "PT Vidio Dot Com", 
+            "domain": "vidio.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "247410", 
+            "name": "Food52", 
+            "domain": "food52.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "188990", 
+            "name": "BX Omroep West", 
+            "domain": "omroepwest.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "152838", 
+            "name": "Whenever Media Ltd", 
+            "domain": "whenevermedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "135202", 
+            "name": "Mediasports Digital GmbH (Perform)", 
+            "domain": "performgroup.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "235352", 
+            "name": "Primerealtime", 
+            "domain": "primerealtime.com", 
+            "seller_type": "BOTH"
+        }, 
+        {
+            "seller_id": "254286", 
+            "name": "Viettel Media", 
+            "domain": "viettel.com.vn", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "227314", 
+            "name": "Viple S.r.l.", 
+            "domain": "theviple.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "250703", 
+            "name": "OutsideTV OTTM", 
+            "domain": "outsidetv.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "223793", 
+            "name": "A-Lehdet", 
+            "domain": "a-lehdet.fi", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "265589", 
+            "name": "Poki - HB", 
+            "domain": "poki.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "187527", 
+            "name": "Highfivve GmbH", 
+            "domain": "gutefrage.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "191143", 
+            "name": "Sinclair Television Group, Inc.", 
+            "domain": "sbgi.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "218305", 
+            "name": "Nine Entertainment Co", 
+            "domain": "nine.com.au", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "252842", 
+            "name": "Minga Digital SpA", 
+            "domain": "mingadigital.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "268736", 
+            "name": "Bloguin", 
+            "domain": "bloguin.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "102387", 
+            "name": "BX RTL Netherlands", 
+            "domain": "rtl.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "139058", 
+            "name": "Carbon Media Group", 
+            "domain": "carbonmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "254069", 
+            "name": "Tickled Media", 
+            "domain": "tickledmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "85519", 
+            "name": "Answer Media LLC", 
+            "domain": "answermedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "254060", 
+            "name": "Brit + Co", 
+            "domain": "brit.co", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "123826", 
+            "name": "Datawrkz", 
+            "domain": "datawrkz.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "172978", 
+            "name": "NewsON Media, LLC", 
+            "domain": "newson.us", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "211945", 
+            "name": "Spot.IM Inc", 
+            "domain": "spot.im", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "254125", 
+            "name": "JOE Media", 
+            "domain": "joemediagroup.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "83286", 
+            "name": "Rakuten - Viki", 
+            "domain": "viki.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "263344", 
+            "name": "JP CCI - NHK", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "94794", 
+            "name": "Synacor", 
+            "domain": "synacor.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "87115", 
+            "name": "Epoch Times/NTD Television", 
+            "domain": "theepochtimes.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "268283", 
+            "name": "AJC", 
+            "domain": "ajc.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "149669", 
+            "name": "Atresmedia Publicidad", 
+            "domain": "atresmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "87600", 
+            "name": "Snack Media", 
+            "domain": "snack-media.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "262265", 
+            "name": "Media Figaro", 
+            "domain": "figaro.fr", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "218639", 
+            "name": "Italiaonline spa", 
+            "domain": "italiaonline.it", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "228693", 
+            "name": "Sortable", 
+            "domain": "sortable.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "188350", 
+            "name": "Xiaolian Test Account", 
+            "domain": "test.com", 
+            "seller_type": "BOTH", 
+            "comment": "This is a test."
+        }, 
+        {
+            "seller_id": "89554", 
+            "name": "BigStar.TV", 
+            "domain": "bigstar.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "209621", 
+            "name": "Fox Networks Group", 
+            "domain": "fox.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "137525", 
+            "name": "Trusted Media Brands, Inc", 
+            "domain": "trustedmediabrands.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "238463", 
+            "name": "Underdog Media", 
+            "domain": "udmserve.net", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "131688", 
+            "name": "Gameloft", 
+            "domain": "gameloft.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "262123", 
+            "name": "Pulped Broadcast Ltd.", 
+            "domain": "pulped.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "262124", 
+            "name": "LeMonde Publicite", 
+            "domain": "lemonde.fr", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "228076", 
+            "name": "Gateway Blend", 
+            "domain": "gatewayblend.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "221526", 
+            "name": "PlayersVoice", 
+            "domain": "playersvoice.com.au", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "259283", 
+            "name": "Complex Networks", 
+            "domain": "complexnetworks.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "259447", 
+            "name": "JP CCI - Ishikawa TV", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "266596", 
+            "name": "Streaming Media Limited", 
+            "domain": "system73.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "217055", 
+            "name": "PCCW OTT ( Hong Kong ) Limited", 
+            "domain": "pccw.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "227813", 
+            "name": "Oovvuu Pty Ltd", 
+            "domain": "oovvuu.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "82738", 
+            "name": "Snagfilms Inc.", 
+            "domain": "snagfilms.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "127038", 
+            "name": "TVSMILES GmbH", 
+            "domain": "tvsmiles.de", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "220922", 
+            "name": "Xite", 
+            "domain": "xite.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224916", 
+            "name": "Surfing Australia", 
+            "domain": "surfingaustralia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "246564", 
+            "name": "Mediastay", 
+            "domain": "mediastay.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "172192", 
+            "name": "100UU", 
+            "domain": "1uu.com.cn", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "253570", 
+            "name": "JP CCI - Ryukyu Asahi", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "259260", 
+            "name": "Fubo SportsBreak", 
+            "domain": "fubo.tv", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "100032", 
+            "name": "LATINON INC", 
+            "domain": "latinon.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "71451", 
+            "name": "Taboola", 
+            "domain": "taboola.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "220214", 
+            "name": "BX Adfactor (inactive)", 
+            "domain": "adfactor.nl", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "250394", 
+            "name": "Ubisoft FR", 
+            "domain": "ubisoft.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "125647", 
+            "name": "QUARTER MEDIA GmbH", 
+            "domain": "quartermedia.de", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "232051", 
+            "name": "Music Choice", 
+            "domain": "musicchoice.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "252547", 
+            "name": "Rumble", 
+            "domain": "rumble.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "141458", 
+            "name": "Barstool Sports", 
+            "domain": "barstoolsports.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "167062", 
+            "name": "KSTP-TV, LLC (Hubbard Broadcasting)", 
+            "domain": "corporate.hubbardradio.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "153824", 
+            "name": "Vevo", 
+            "domain": "vevo.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "139220", 
+            "name": "TargetVideo GmbH", 
+            "domain": "target-video.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "197472", 
+            "name": "JW Some Spider, Inc.", 
+            "domain": "somespider.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "221899", 
+            "name": "Future Publishing Ltd UK", 
+            "domain": "futurenet.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "265371", 
+            "name": "GDP Ventures", 
+            "domain": "gdpventure.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "271391", 
+            "name": "Studio71", 
+            "domain": "studio71.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "274724", 
+            "name": "Serious Eats, Inc", 
+            "domain": "seriouseats.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "87299", 
+            "name": "Twitch Interactive, Inc.", 
+            "domain": "twitch.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "102084", 
+            "name": "WeatherNationTv", 
+            "domain": "weathernationtv.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "83924", 
+            "name": "Slacker", 
+            "domain": "slacker.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "108933", 
+            "name": "JustPremium", 
+            "domain": "justpremium.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "199567", 
+            "name": "Entrepreneur Media, Inc.", 
+            "domain": "entrepreneur.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "211936", 
+            "name": "Disney Streaming Services", 
+            "domain": "disney.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "222376", 
+            "name": "E Power", 
+            "domain": "epowersales.nl", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "146088", 
+            "name": "Playtem", 
+            "domain": "corp.playtem.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "143752", 
+            "name": "AdMaru", 
+            "domain": "admaru.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "161633", 
+            "name": "Adbility Media GmbH", 
+            "domain": "adbility-media.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "267986", 
+            "name": "Snigel Web Services Limited", 
+            "domain": "snigelweb.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "153598", 
+            "name": "Azerion", 
+            "domain": "azerion.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "239853", 
+            "name": "Viacom Media Networks 2", 
+            "domain": "viacom.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "217999", 
+            "name": "Fandango LATAM", 
+            "domain": "fandango.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "94963", 
+            "name": "Penske Media Corp, LLC", 
+            "domain": "pmc.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "233403", 
+            "name": "Bloomberg Media", 
+            "domain": "bloombergmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "174371", 
+            "name": "Vewd", 
+            "domain": "vewd.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "241283", 
+            "name": "Mamamia", 
+            "domain": "mamamia.com.au", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "245659", 
+            "name": "Oz Digital", 
+            "domain": "ozdigital.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "94589", 
+            "name": "E.W. Scripps", 
+            "domain": "scripps.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "207937", 
+            "name": "ABS-CBN Corporation - Digital Media Division", 
+            "domain": "abs-cbn.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "98791", 
+            "name": "E.W. Scripps - Newsy", 
+            "domain": "newsy.com", 
+            "seller_type": "BOTH"
+        }, 
+        {
+            "seller_id": "239039", 
+            "name": "JP CCI - Mainichi Newspapers", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "216911", 
+            "name": "Covers Media Group", 
+            "domain": "covers.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "165877", 
+            "name": "Avantis", 
+            "domain": "avantisvideo.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "267698", 
+            "name": "BIZFIN Media Ltd", 
+            "domain": "bizfinmedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "119153", 
+            "name": "SuggesTV", 
+            "domain": "suggestv.io", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "256422", 
+            "name": "Vevo Intl", 
+            "domain": "vevo.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "229997", 
+            "name": "ESPN ANZ", 
+            "domain": "espn.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224696", 
+            "name": "TruChallenge", 
+            "domain": "truchallenge.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224121", 
+            "name": "BX Persgroep", 
+            "domain": "persgroep.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "151986", 
+            "name": "DynAdmic", 
+            "domain": "dynadmic.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "75513", 
+            "name": "The Daily Caller", 
+            "domain": "dailycaller.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "204917", 
+            "name": "AMC Networks", 
+            "domain": "amcnetworks.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "251064", 
+            "name": "Live Nation Entertainment", 
+            "domain": "livenation.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "245990", 
+            "name": "Hooq", 
+            "domain": "hooq.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "223826", 
+            "name": "AT&T.net", 
+            "domain": "att.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "267531", 
+            "name": "AdinPlay BV", 
+            "domain": "adinplay.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "172749", 
+            "name": "Publishers Clearing House", 
+            "domain": "pch.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "227488", 
+            "name": "JP CCI - YTV", 
+            "domain": "cci.co.jp", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "140849", 
+            "name": "The Box Plus Network Limited", 
+            "domain": "boxplus.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "141865", 
+            "name": "Zillian SA", 
+            "domain": "zilian.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "233970", 
+            "name": "Pluto TV Europe GmbH", 
+            "domain": "pluto.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "235620", 
+            "name": "Tatatu", 
+            "domain": "tatatu.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "152670", 
+            "name": "Geniee International", 
+            "domain": "geniee.co.jp", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "251478", 
+            "name": "FloSports", 
+            "domain": "flosports.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "199371", 
+            "name": "Apester Inc", 
+            "domain": "apester.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "254739", 
+            "name": "Microsoft - Mixer", 
+            "domain": "microsoft.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "137053", 
+            "name": "ESI Media", 
+            "domain": "esimedia.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "211581", 
+            "name": "Perform Group France", 
+            "domain": "performgroup.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "152279", 
+            "name": "Thomson Reuters", 
+            "domain": "thomsonreuters.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "237264", 
+            "name": "Crash Media Group", 
+            "domain": "cmg.london", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "113857", 
+            "name": "Pluto.tv", 
+            "domain": "pluto.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "112859", 
+            "name": "Playboy", 
+            "domain": "playboy.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "136839", 
+            "name": "Connatix", 
+            "domain": "connatix.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "147225", 
+            "name": "ITV", 
+            "domain": "itv.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "230183", 
+            "name": "MailOnline AU", 
+            "domain": "dailymail.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "192581", 
+            "name": "Mighty Networks, Inc.", 
+            "domain": "wearethemighty.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "164029", 
+            "name": "American Media Inc", 
+            "domain": "americanmediainc.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "223229", 
+            "name": "Tooplay", 
+            "domain": "tooplay.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "219588", 
+            "name": "Vuemix Inc", 
+            "domain": "vuemix.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "183388", 
+            "name": "TransGaming Inc.", 
+            "domain": "play.works", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "229052", 
+            "name": "JP CCI - Hokkaido Broadcast Co", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "238441", 
+            "name": "Linicom LTD", 
+            "domain": "linicom.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "268888", 
+            "name": "BX CRS (Centrale Reclame Service CV)", 
+            "domain": "orn.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "180493", 
+            "name": "NESN", 
+            "domain": "nesn.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "197259", 
+            "name": "E-Quill Media Pte Ltd", 
+            "domain": "e-quillmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "136947", 
+            "name": "MAIRDUMONT NETLETIX GmbH & Co. KG", 
+            "domain": "mairdumont-netletix.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "214746", 
+            "name": "Nax Nordic", 
+            "domain": "naxnordic.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "92299", 
+            "name": "Vidazoo", 
+            "domain": "vidazoo.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "214741", 
+            "name": "Outside Television Inc", 
+            "domain": "outsidetv.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "232902", 
+            "name": "Smiling.video", 
+            "domain": "smiling.video", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "232937", 
+            "name": "tchaseTest", 
+            "domain": "tyler.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "262786", 
+            "name": "Zazoom Media Group | Ruckus", 
+            "domain": "zmgruckus.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "153054", 
+            "name": "Toon Goggles, Inc.", 
+            "domain": "toongoggles.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "120369", 
+            "name": "Phaistos Networks SA", 
+            "domain": "phaistosnetworks.gr", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "254825", 
+            "name": "DAZN IT", 
+            "domain": "performgroup.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "241788", 
+            "name": "PRISMA MEDIA SOLUTIONS", 
+            "domain": "prismamediasolutions.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "213407", 
+            "name": "Radio.de GmbH", 
+            "domain": "radio.de", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "201186", 
+            "name": "DCT via Verizon EMEA", 
+            "domain": "dctinc.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "200362", 
+            "name": "JP CCI - TBS", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "149243", 
+            "name": "myinvite", 
+            "domain": "myinvite.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "104023", 
+            "name": "Radio's Classic Broadcasts, Inc.", 
+            "domain": "radiosclassicbroadcasts.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "82573", 
+            "name": "dmri", 
+            "domain": "dmri.co.uk", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "199019", 
+            "name": "Veuhub Inc", 
+            "domain": "veuhub.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "155325", 
+            "name": "Microsoft - Universal Store", 
+            "domain": "microsoft.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "228544", 
+            "name": "Brainly", 
+            "domain": "brainly.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "227122", 
+            "name": "TheWrap", 
+            "domain": "thewrap.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "205516", 
+            "name": "Kaskus", 
+            "domain": "kaskus.co.id", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "235814", 
+            "name": "Webtoon Entertainment INC", 
+            "domain": "webtoonscorp.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "69598", 
+            "name": "JW - Endavo Media and Communications, Inc.", 
+            "domain": "endavomedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "146727", 
+            "name": "Unreel.me", 
+            "domain": "unreel.me", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "260234", 
+            "name": "47Samurai", 
+            "domain": "47samurai.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "210194", 
+            "name": "Just A Pinch", 
+            "domain": "justapinch.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "101988", 
+            "name": "Thirdpresence", 
+            "domain": "thirdpresence.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "204335", 
+            "name": "BX Massarius BV - AFFILIATE", 
+            "domain": "massarius.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "202459", 
+            "name": "Jadwal Television", 
+            "domain": "jadwaltv.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "237279", 
+            "name": "Netaddiction srl", 
+            "domain": "netaddiction.it", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "84708", 
+            "name": "MOTDgd", 
+            "domain": "motdgd.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "211667", 
+            "name": "Spanish Broadcasting System", 
+            "domain": "spanishbroadcasting.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "233086", 
+            "name": "German Car TV Programm GmbH", 
+            "domain": "motorvision.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "270977", 
+            "name": "Consumable", 
+            "domain": "consumable.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "220906", 
+            "name": "Rezonence", 
+            "domain": "rezonence.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "216063", 
+            "name": "Mcot Thailand", 
+            "domain": "mcot.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "268072", 
+            "name": "CafeMedia", 
+            "domain": "cafemedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "233175", 
+            "name": "Scroll Media", 
+            "domain": "scrollmedia.co.nz", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "231786", 
+            "name": "VIDEOCLICK ADVERTISING SRL", 
+            "domain": "netmediaclick.it", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "88527", 
+            "name": "Perk.com, Inc.", 
+            "domain": "perk.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "119003", 
+            "name": "DistroScale", 
+            "domain": "distroscale.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "254929", 
+            "name": "JP CCI - Fuji TV LIVE", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "115280", 
+            "name": "VPP Gaming Network", 
+            "domain": "vppgamingnetwork.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "259479", 
+            "name": "The Real Deal", 
+            "domain": "therealdeal.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "229869", 
+            "name": "Fatherly", 
+            "domain": "fatherly.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "262264", 
+            "name": "Adveris", 
+            "domain": "adveris.fr", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "244859", 
+            "name": "Media News Group", 
+            "domain": "medianewsgroup.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "143454", 
+            "name": "CNN", 
+            "domain": "turner.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "229461", 
+            "name": "AmericaTV", 
+            "domain": "americatv.com.pe", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "88858", 
+            "name": "Pop Sugar Network", 
+            "domain": "popsugar.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "121006", 
+            "name": "HTV Entertainment Limited", 
+            "domain": "htvfun.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "253293", 
+            "name": "Limpid", 
+            "domain": "limpid.tv", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "253294", 
+            "name": "Topito", 
+            "domain": "topito.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "228024", 
+            "name": "JP CCI - TBS Catchup", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "206178", 
+            "name": "Insight TV", 
+            "domain": "insight.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "247166", 
+            "name": "Turner Espanol", 
+            "domain": "warnermediagroup.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "124091", 
+            "name": "Video Solutions AG", 
+            "domain": "video-solutions.ag", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "155531", 
+            "name": "Perk", 
+            "domain": "perk.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "155530", 
+            "name": "VIGGLE - Perk", 
+            "domain": "perk.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "244504", 
+            "name": "Celebrity Wire", 
+            "domain": "blakebroadcasting.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "240686", 
+            "name": "Philo", 
+            "domain": "philo.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "266300", 
+            "name": "Rappler", 
+            "domain": "rappler.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "258306", 
+            "name": "Mumsnet Ltd", 
+            "domain": "mumsnet.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "259257", 
+            "name": "Proper Media", 
+            "domain": "proper.io", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "139784", 
+            "name": "Ironsource 2", 
+            "domain": "ironsrc.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "151095", 
+            "name": "Football Media", 
+            "domain": "footballmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "236664", 
+            "name": "JP CCI - HTB", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "181067", 
+            "name": "Saambaa LLC", 
+            "domain": "saambaa.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "140263", 
+            "name": "Stumpertjes", 
+            "domain": "stumpertjes.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "104690", 
+            "name": "Interdigital", 
+            "domain": "interdigital.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "236661", 
+            "name": "JP CCI - THK", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "152892", 
+            "name": "DAILYGO GmbH", 
+            "domain": "futuretv-group.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "122730", 
+            "name": "ESPN ASIA", 
+            "domain": "espn.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "247565", 
+            "name": "Melty", 
+            "domain": "melty.fr", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "223601", 
+            "name": "zone tv", 
+            "domain": "zone.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "208348", 
+            "name": "Meawwworld", 
+            "domain": "meaww.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "125677", 
+            "name": "Gold Line Telemanagement Inc.", 
+            "domain": "groupofgl.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "139891", 
+            "name": "Softgames", 
+            "domain": "softgames.de", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "236061", 
+            "name": "Republic World", 
+            "domain": "republicworld.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "230215", 
+            "name": "JP CCI - MBS", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "179069", 
+            "name": "NC TV4 AB", 
+            "domain": "tv4.se", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "211679", 
+            "name": "MSN", 
+            "domain": "microsoft.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "236660", 
+            "name": "JP CCI - TVA", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "236663", 
+            "name": "JP CCI - UHB", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "236662", 
+            "name": "JP CCI - SATV", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "237791", 
+            "name": "Webedia France", 
+            "domain": "webedia-group.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "265438", 
+            "name": "Origin Media Inc.", 
+            "domain": "app.trustedmarketplace.io", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "255573", 
+            "name": "Shareably", 
+            "domain": "shareably.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "257446", 
+            "name": "JP CCI - Tokyo MX", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "115432", 
+            "name": "Wayne Parker Kent", 
+            "domain": "wayneparkerkent.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "78699", 
+            "name": "CBS News Live", 
+            "domain": "cbsnews.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "183589", 
+            "name": "Sports Local Media", 
+            "domain": "slmads.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "184125", 
+            "name": "AT&T Services, Inc", 
+            "domain": "att.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "208934", 
+            "name": "Lightcast", 
+            "domain": "lightcast.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "193052", 
+            "name": "Guchill TV", 
+            "domain": "guchill.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224772", 
+            "name": "Grumblo", 
+            "domain": "grumblo.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "230037", 
+            "name": "Adyoulike", 
+            "domain": "adyoulike.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "72442", 
+            "name": "ELECTRONIC ARTS", 
+            "domain": "ea.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "267319", 
+            "name": "Reworld Media", 
+            "domain": "reworldmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "212422", 
+            "name": "Vice Media", 
+            "domain": "vice.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "266798", 
+            "name": "Mediaset", 
+            "domain": "publiesp.es", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "144551", 
+            "name": "Future Today Inc.", 
+            "domain": "futuretodayinc.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "88862", 
+            "name": "Gratisspil", 
+            "domain": "e-novative.dk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "149392", 
+            "name": "Four Media Network GmbH", 
+            "domain": "4media-network.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "110408", 
+            "name": "Insticator", 
+            "domain": "insticator.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "81557", 
+            "name": "DIGITEKA UK", 
+            "domain": "digiteka.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "228031", 
+            "name": "AtomikAD S.r.l.", 
+            "domain": "atomikad.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "105302", 
+            "name": "Wurl", 
+            "domain": "wurl.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "197960", 
+            "name": "TimeOut", 
+            "domain": "timeout.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "244539", 
+            "name": "Motor Trends", 
+            "domain": "motortrendgroup.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "189462", 
+            "name": "Blastworks Inc.", 
+            "domain": "blastworksinc.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "240697", 
+            "name": "Vizio", 
+            "domain": "vizio.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "250133", 
+            "name": "Overwolf Ltd.", 
+            "domain": "overwolf.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "104590", 
+            "name": "BX AT5", 
+            "domain": "at5.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "240345", 
+            "name": "tgadv srl", 
+            "domain": "tgadv.it", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "247195", 
+            "name": "Playstation VUE", 
+            "domain": "playstation.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "250862", 
+            "name": "Next Millennium", 
+            "domain": "nextmillennium.io", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "146631", 
+            "name": "Viralize s.r.l.", 
+            "domain": "viralize.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "104684", 
+            "name": "Video Intelligence EMEA", 
+            "domain": "vi.ai", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "165517", 
+            "name": "Udu Digital LLC", 
+            "domain": "ududigital.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "135453", 
+            "name": "Demand Media", 
+            "domain": "leafgroup.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "246805", 
+            "name": "JP CCI - 4cast", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "236783", 
+            "name": "Eurosport", 
+            "domain": "corporate.eurosport.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "236274", 
+            "name": "Xite Networks USA", 
+            "domain": "xite.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "249810", 
+            "name": "Adthink", 
+            "domain": "adthink.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "246977", 
+            "name": "Freakout", 
+            "domain": "fout.jp", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "212562", 
+            "name": "Discovery", 
+            "domain": "discovery.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "254561", 
+            "name": "20 Minutes", 
+            "domain": "20minutes.fr", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "84294", 
+            "name": "McCann Disciplines LTD", 
+            "domain": "primis.tech", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "218443", 
+            "name": "Vidoomy", 
+            "domain": "vidoomy.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "190732", 
+            "name": "STV Group PLC", 
+            "domain": "stv.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "95719", 
+            "name": "Hoopla Digital Ltd", 
+            "domain": "hoopladigital.co.uk", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "218283", 
+            "name": "Headway Digital MX - AudioEngage", 
+            "domain": "audioengage.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "236657", 
+            "name": "JP CCI - FBS", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "236658", 
+            "name": "JP CCI - RCC", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "71426", 
+            "name": "Playwire Media LLC", 
+            "domain": "playwire.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "270999", 
+            "name": "Astro Entertainment", 
+            "domain": "blaze.com.my", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "219007", 
+            "name": "Cubo (UCA)", 
+            "domain": "digital360consulting.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "219004", 
+            "name": "Turner Digital", 
+            "domain": "warnermediagroup.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "113867", 
+            "name": "Cinedigm Entertainment Group", 
+            "domain": "cinedigm.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "230585", 
+            "name": "Sun-Times Media Productions", 
+            "domain": "suntimes.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "231794", 
+            "name": "GWI Media Technologies GmbH", 
+            "domain": "gw-interactive.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "236619", 
+            "name": "FoxTV Local", 
+            "domain": "fox.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "257634", 
+            "name": "Motherly", 
+            "domain": "mother.ly", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "169199", 
+            "name": "Digiteka FRANCE", 
+            "domain": "digiteka.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "122300", 
+            "name": "SAY Media, Inc.", 
+            "domain": "saymedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "225367", 
+            "name": "Tonic Health Media", 
+            "domain": "tonichealthmedia.com.au", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "212637", 
+            "name": "The Hill", 
+            "domain": "thehill.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "245129", 
+            "name": "Comcast Content Exchange", 
+            "domain": "comcast.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "93712", 
+            "name": "WATCHR Media, Inc.", 
+            "domain": "watchrmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "229801", 
+            "name": "Flicks Limited", 
+            "domain": "flicks.co.nz", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "257906", 
+            "name": "RealClearPolitics", 
+            "domain": "realclearpolitics.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "272126", 
+            "name": "Fusion Media Limited", 
+            "domain": "investing.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "207379", 
+            "name": "BX Talpa Network", 
+            "domain": "sbsbelgium.be", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "221669", 
+            "name": "Wooga GmbH", 
+            "domain": "wooga.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "73543", 
+            "name": "iMediaSalesTeam", 
+            "domain": "imediasalesteam.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "244895", 
+            "name": "Actuanimaux", 
+            "domain": "actuanimaux.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "259300", 
+            "name": "JP TV Tokyo", 
+            "domain": "txcom.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "165675", 
+            "name": "Roku", 
+            "domain": "roku.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "87886", 
+            "name": "Accelerated Media", 
+            "domain": "acceleratedmt.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "201681", 
+            "name": "Next Digital", 
+            "domain": "appledaily.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "241914", 
+            "name": "Circles Network S.r.l.s", 
+            "domain": "circlesnetwork.org.uk", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "177364", 
+            "name": "TVPlayer", 
+            "domain": "tvplayer.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "214395", 
+            "name": "Welect GmbH", 
+            "domain": "welect.de", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "224949", 
+            "name": "120 Sports LLC", 
+            "domain": "watchstadium.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "244528", 
+            "name": "TiVo", 
+            "domain": "tivo.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "151810", 
+            "name": "Spil Games - DIRECT", 
+            "domain": "spilgames.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "274268", 
+            "name": "Timehop Inc.", 
+            "domain": "timehop.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "277347", 
+            "name": "Slate", 
+            "domain": "slate.fr", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224686", 
+            "name": "JP CCI - JBpress", 
+            "domain": "cci.co.jp", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "82839", 
+            "name": "Frankly Media", 
+            "domain": "franklyinc.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "263888", 
+            "name": "FXN/NatGeo", 
+            "domain": "disney.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "154201", 
+            "name": "Kompas Cyber Media", 
+            "domain": "kompas.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "200060", 
+            "name": "Gloss Media", 
+            "domain": "glossmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "160227", 
+            "name": "Xumo LLC", 
+            "domain": "xumo.com", 
+            "seller_type": "BOTH"
+        }, 
+        {
+            "seller_id": "163251", 
+            "name": "Reshift Digital", 
+            "domain": "reshift.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "197424", 
+            "name": "Media Aggregators, LLC", 
+            "domain": "godigitalmg.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "232423", 
+            "name": "Drive Network", 
+            "domain": "drivenetwork.com.au", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "261299", 
+            "name": "Osprey Media LLC", 
+            "domain": "weareospreymedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "200488", 
+            "name": "Evite, Inc.", 
+            "domain": "evite.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "148395", 
+            "name": "H Code Media", 
+            "domain": "hcodemedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "122680", 
+            "name": "Luminous", 
+            "domain": "anyclip.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "223726", 
+            "name": "JW Ebony Media", 
+            "domain": "ebony.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "269262", 
+            "name": "Microsoft - Mobile", 
+            "domain": "microsoft.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "176703", 
+            "name": "Impactify", 
+            "domain": "impactify.io", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "210926", 
+            "name": "Intermarkets", 
+            "domain": "intermarkets.net", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "271124", 
+            "name": "Edisport Editoriale srl", 
+            "domain": "edisport.it", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "202314", 
+            "name": "King.com Games", 
+            "domain": "king.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "202312", 
+            "name": "FOODBEAST", 
+            "domain": "foodbeast.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "246637", 
+            "name": "Media Chain Group Limited", 
+            "domain": "mediachain.co", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "159835", 
+            "name": "Conde Nast", 
+            "domain": "condenast.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "142651", 
+            "name": "Vudu", 
+            "domain": "vudu.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "223436", 
+            "name": "Sanook", 
+            "domain": "sanook.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "223430", 
+            "name": "4wmarketplace.com", 
+            "domain": "4wmarketplace.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "218380", 
+            "name": "TheStreet, Inc", 
+            "domain": "thestreet.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "109923", 
+            "name": "A+ (aplus.com)", 
+            "domain": "aplus.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "271017", 
+            "name": "Entercom", 
+            "domain": "entercom.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "178357", 
+            "name": "SmileWanted Group", 
+            "domain": "smilewanted.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "258064", 
+            "name": "Softonic International SA", 
+            "domain": "softonic.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "91705", 
+            "name": "MailOnlineROW", 
+            "domain": "mailmetromedia.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "122316", 
+            "name": "GSN Games, Inc.", 
+            "domain": "gsn.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "91703", 
+            "name": "MailOnline US", 
+            "domain": "dailymail.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "119292", 
+            "name": "TVB USA", 
+            "domain": "tvbusa.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "114948", 
+            "name": "The Blogger Network DBA Monumetric", 
+            "domain": "thebloggernetwork.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "234498", 
+            "name": "JP CCI - Sports Bull", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "145994", 
+            "name": "Adrequest BV", 
+            "domain": "adrequest.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "221386", 
+            "name": "Vixi.TV (Boldwin)", 
+            "domain": "vixi.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "188598", 
+            "name": "NBC Universal - JAPAC", 
+            "domain": "nbcuniversal.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "188597", 
+            "name": "NBC Universal - LATAM", 
+            "domain": "nbcuniversal.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "188596", 
+            "name": "NBC Universal - EMEA", 
+            "domain": "nbcuniversal.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "239685", 
+            "name": "The Irish Times", 
+            "domain": "irishtimes.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224626", 
+            "name": "Pandora TV", 
+            "domain": "pandora.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "217545", 
+            "name": "National Review, Inc", 
+            "domain": "nationalreview.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "261305", 
+            "name": "VuClip", 
+            "domain": "vuclip.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "220383", 
+            "name": "DISH Network (Evolve)", 
+            "domain": "dish.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "215949", 
+            "name": "Bangkok Post Public Company Limited", 
+            "domain": "bangkokpost.co.th", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "261185", 
+            "name": "Giant Interactive", 
+            "domain": "giant.pictures", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "124062", 
+            "name": "Vemba Corp", 
+            "domain": "vemba.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "244678", 
+            "name": "MittMedia", 
+            "domain": "mittmedia.se", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "214836", 
+            "name": "Publy ltd", 
+            "domain": "publy.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "235900", 
+            "name": "SQAD", 
+            "domain": "toongoggles.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "232162", 
+            "name": "Good Move Srl", 
+            "domain": "goodmove.media", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "186849", 
+            "name": "Intowow", 
+            "domain": "intowow.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "257926", 
+            "name": "Egmont Publishing DK", 
+            "domain": "egmont.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "117127", 
+            "name": "Disney Digital Network", 
+            "domain": "disney.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "102183", 
+            "name": "Vidgyor Media Technologies Private Limited", 
+            "domain": "vidgyor.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "230489", 
+            "name": "ODK Media", 
+            "domain": "ondemandkorea.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "165539", 
+            "name": "Hyvio", 
+            "domain": "hyvio.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "210391", 
+            "name": "YieldPass", 
+            "domain": "yieldpass.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "252370", 
+            "name": "Cedato Technologies Inc", 
+            "domain": "cedato.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "139337", 
+            "name": "Sheology", 
+            "domain": "sheologydigital.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "261165", 
+            "name": "JP Discovery", 
+            "domain": "discovery.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "218122", 
+            "name": "Ciaopeople", 
+            "domain": "ciaopeople.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "153446", 
+            "name": "MAZ", 
+            "domain": "mazdigital.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "200478", 
+            "name": "DC Thomson", 
+            "domain": "dcthomson.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "249903", 
+            "name": "Planet Media", 
+            "domain": "planetmedia.fr", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "190531", 
+            "name": "TV 2 Danmark", 
+            "domain": "tv2.dk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "71936", 
+            "name": "Digital Trends", 
+            "domain": "digitaltrends.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "230221", 
+            "name": "Pluto.tv (Pub-Sourced Deal IDs)", 
+            "domain": "pluto.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "203096", 
+            "name": "Liftable Media", 
+            "domain": "liftablemedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "223428", 
+            "name": "OTTera", 
+            "domain": "ottera.tv", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "255308", 
+            "name": "JP CCI - BS12", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "113481", 
+            "name": "Goldbach Germany", 
+            "domain": "goldbach.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "269741", 
+            "name": "Minute.ly", 
+            "domain": "minute.ly", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "226961", 
+            "name": "ESPN Deportes", 
+            "domain": "espn.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "231573", 
+            "name": "Consequence Media LLC", 
+            "domain": "consequencemedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "237316", 
+            "name": "AccuWeather, Inc.", 
+            "domain": "accuweather.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "174045", 
+            "name": "Investing Channel", 
+            "domain": "investingchannel.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "233260", 
+            "name": "Groundswell Publishing", 
+            "domain": "groundswellpublishing.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "156127", 
+            "name": "AnyPoint Media", 
+            "domain": "anypoint.media", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "77201", 
+            "name": "AdKarma", 
+            "domain": "adkamra.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "119135", 
+            "name": "Entravision", 
+            "domain": "entravision.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "239989", 
+            "name": "Crazy Games", 
+            "domain": "crazygames.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "225721", 
+            "name": "Vidazoo - Video", 
+            "domain": "vidazoo.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "197175", 
+            "name": "Fotocommunity GmbH", 
+            "domain": "fotocommunity.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "217759", 
+            "name": "Star Media Group Berhad", 
+            "domain": "thestar.com.my", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "245147", 
+            "name": "JP CCI - DAZN", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "207169", 
+            "name": "Nyheter365", 
+            "domain": "n365group.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "124053", 
+            "name": "Netpoint Media", 
+            "domain": "netpoint-media.de", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "119721", 
+            "name": "BX IPB", 
+            "domain": "ipb.be", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "84966", 
+            "name": "Zynga Platform", 
+            "domain": "zynga.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "148104", 
+            "name": "The Telegraph Media Group", 
+            "domain": "telegraph.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "69908", 
+            "name": "The Enthusiast Network", 
+            "domain": "enthusiastnetwork.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "220732", 
+            "name": "JW Elephant Journal", 
+            "domain": "elephantjournal.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "82810", 
+            "name": "Select Media International", 
+            "domain": "selectmedia.asia", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "173711", 
+            "name": "MGID", 
+            "domain": "mgid.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "258744", 
+            "name": "Urbanlinx Media Inc.", 
+            "domain": "urban-linx.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "172614", 
+            "name": "OneAd", 
+            "domain": "onead.com.tw", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "135285", 
+            "name": "ADman Media", 
+            "domain": "admanmedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "69618", 
+            "name": "iWin Inc.", 
+            "domain": "iwin.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "101683", 
+            "name": "Motion Publishing Pty Ltd", 
+            "domain": "thenewdaily.com.au", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "260976", 
+            "name": "Glewed Media", 
+            "domain": "glewed.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "227885", 
+            "name": "JP CCI - Fuji TV Network", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "93865", 
+            "name": "3Caravelle", 
+            "domain": "3caravelle.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "269408", 
+            "name": "Invincible Entertainment", 
+            "domain": "invincibleent.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "244762", 
+            "name": "JP CCI - Niigata Nippo", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "166987", 
+            "name": "Perform Group UK", 
+            "domain": "performgroup.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "116066", 
+            "name": "Perform Group BX", 
+            "domain": "performgroup.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "220423", 
+            "name": "PGA", 
+            "domain": "pgatour.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "190096", 
+            "name": "JP CCI - Present Cast", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "222602", 
+            "name": "Piemme S.p.A.", 
+            "domain": "piemmeonline.it", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "161519", 
+            "name": "Verizon", 
+            "domain": "verizonmedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "203087", 
+            "name": "Global Radio", 
+            "domain": "global.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "246612", 
+            "name": "JP CCI - Asahi Shinbun", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "248087", 
+            "name": "FruitLab Media Limited", 
+            "domain": "fruitlab.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "133049", 
+            "name": "AQMS GmbH", 
+            "domain": "couchfunk.de", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "122881", 
+            "name": "Ranker, Inc.", 
+            "domain": "ranker.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "222273", 
+            "name": "Whow Games GmbH", 
+            "domain": "whow.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "222075", 
+            "name": "Factinate", 
+            "domain": "factinate.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "256027", 
+            "name": "Samsung TV+ EMEA", 
+            "domain": "samsung.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "263122", 
+            "name": "Mundo Hispano", 
+            "domain": "mundohispanico.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "233678", 
+            "name": "First Media", 
+            "domain": "first.media", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224730", 
+            "name": "Media Prime S.R.L.", 
+            "domain": "mediaprime.it", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224731", 
+            "name": "Talks s.r.l.", 
+            "domain": "talksmedia.it", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "197001", 
+            "name": "Salon Media", 
+            "domain": "salon.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "156684", 
+            "name": "Dogmelon Pty Ltd", 
+            "domain": "dogmelon.com.au", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "142328", 
+            "name": "Weischer Online GmbH", 
+            "domain": "weischer.media", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "150849", 
+            "name": "Dainik Bhaskar Group (DB Digital)", 
+            "domain": "dainikbhaskar.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "207895", 
+            "name": "NBC Universal - CA", 
+            "domain": "nbcuniversal.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "206546", 
+            "name": "PPTV", 
+            "domain": "pptv.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224606", 
+            "name": "Right This Minute", 
+            "domain": "rightthisminute.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "228164", 
+            "name": "ABC", 
+            "domain": "abc.go.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "212517", 
+            "name": "Mautilus, s.r.o.", 
+            "domain": "mautilus.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224502", 
+            "name": "Performance One Media LLC", 
+            "domain": "p1.media", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "245572", 
+            "name": "Townsquare Media", 
+            "domain": "townsquaremedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "193465", 
+            "name": "Gofresh GmbH", 
+            "domain": "gofresh.de", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "195893", 
+            "name": "JP CCI - TV Asahi", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "256780", 
+            "name": "Noktacom Medya", 
+            "domain": "noktamedya.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "209642", 
+            "name": "JP NicoNico", 
+            "domain": "nicovideo.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "249286", 
+            "name": "Seedtag Advertising s.l", 
+            "domain": "seedtag.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "69593", 
+            "name": "Big Think", 
+            "domain": "bigthink.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "154695", 
+            "name": "BX IPM Group", 
+            "domain": "ipmgroup.be", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "84953", 
+            "name": "Tubi", 
+            "domain": "tubi.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "230805", 
+            "name": "RelapPro", 
+            "domain": "relappro.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "212457", 
+            "name": "Sharethrough", 
+            "domain": "sharethrough.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "253462", 
+            "name": "Cheddar", 
+            "domain": "cheddar.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "266244", 
+            "name": "JP CCI - UNIVAS", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "198919", 
+            "name": "Viacom Media Networks", 
+            "domain": "viacom.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "124044", 
+            "name": "Freshclip GmbH & Co. KG", 
+            "domain": "freshclip.de", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "167486", 
+            "name": "Fox Deportes", 
+            "domain": "foxdeportes.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "118062", 
+            "name": "J Media Global LLC", 
+            "domain": "thejmg.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "154344", 
+            "name": "Baeble Media", 
+            "domain": "baeblemusic.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "271911", 
+            "name": "VidCrunch LLC", 
+            "domain": "vidcrunch.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "237218", 
+            "name": "Mi9 New Zealand Ltd", 
+            "domain": "mi9.co.nz", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "85140", 
+            "name": "ABC.com International", 
+            "domain": "abcnews.go.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "237214", 
+            "name": "JP CCI - Asahi TV", 
+            "domain": "cc.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "149668", 
+            "name": "NGL Media", 
+            "domain": "nglcollective.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "139996", 
+            "name": "7Hops.com Inc", 
+            "domain": "zergnet.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "236376", 
+            "name": "Addoor Latinmarkets S.L.", 
+            "domain": "addoor.net", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "223401", 
+            "name": "The CW Television Network", 
+            "domain": "cwtv.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "148766", 
+            "name": "PT. LIPUTAN ENAM DOT COM (KMK Online)", 
+            "domain": "kmkonline.co.id", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "208512", 
+            "name": "Communitainment LP", 
+            "domain": "gen.tech", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "121452", 
+            "name": "digitalbox", 
+            "domain": "digitalbox.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "243239", 
+            "name": "Pulpo", 
+            "domain": "pulpomedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "232609", 
+            "name": "TheWeatherGroup", 
+            "domain": "weathergroup.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "122503", 
+            "name": "Netzkino", 
+            "domain": "netzkino.de", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "129013", 
+            "name": "Discovery Networks DE", 
+            "domain": "discovery.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "152009", 
+            "name": "IP Austria", 
+            "domain": "ipaustria.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "263601", 
+            "name": "ExMarketPlace FZ LLC", 
+            "domain": "exmarketplace.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "202324", 
+            "name": "Adseven", 
+            "domain": "ad7.nl", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "84548", 
+            "name": "Receptiv", 
+            "domain": "verve.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "71714", 
+            "name": "Tetris Online, Inc.", 
+            "domain": "tetrisonline.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "226902", 
+            "name": "ESPN", 
+            "domain": "espn.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "202100", 
+            "name": "Sunmedia", 
+            "domain": "sunmedia.tv", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "106817", 
+            "name": "IP Deutschland GmbH", 
+            "domain": "ip.de", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "264026", 
+            "name": "Mediaforce", 
+            "domain": "mediaforcegroup.co.uk", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "115202", 
+            "name": "Blue Planet Software, Inc.", 
+            "domain": "tetrisonline.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "265237", 
+            "name": "Top 5", 
+            "domain": "top5.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "108371", 
+            "name": "Arkadium", 
+            "domain": "arkadium.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "151588", 
+            "name": "BT Media UK", 
+            "domain": "bt.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "272082", 
+            "name": "Daily Racing Forum", 
+            "domain": "drf.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "262952", 
+            "name": "Nexstar Digital LLC", 
+            "domain": "nexstardigital.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "74999", 
+            "name": "Infolinks, Inc.", 
+            "domain": "infolinks.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "221022", 
+            "name": "Pepsia", 
+            "domain": "pepsia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "231731", 
+            "name": "CaptivePlay", 
+            "domain": "captiveplay.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "230609", 
+            "name": "DF Marketplace Kaidee", 
+            "domain": "kaidee.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "117932", 
+            "name": "Meredith Corporation", 
+            "domain": "meredith.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "267434", 
+            "name": "Granite Media", 
+            "domain": "granitemedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "215862", 
+            "name": "Jungle Creations Ltd", 
+            "domain": "junglecreations.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "208076", 
+            "name": "NK Media", 
+            "domain": "nkmc.com.vn", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "266250", 
+            "name": "Grand Play Media", 
+            "domain": "grandplaymedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "257204", 
+            "name": "Al Jazeera Media Network", 
+            "domain": "aljazeera.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "200992", 
+            "name": "Flipboard", 
+            "domain": "flipboard.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "221801", 
+            "name": "Shopkick", 
+            "domain": "shopkick.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "254313", 
+            "name": "Play INC Publishing", 
+            "domain": "playinc.uk.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "250321", 
+            "name": "Curiosity Media", 
+            "domain": "curiositymedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "237786", 
+            "name": "Adversport (Footmercato)", 
+            "domain": "footmercato.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "97361", 
+            "name": "GiveMeSport", 
+            "domain": "givemesport.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "128003", 
+            "name": "UPROXX", 
+            "domain": "uproxx.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "246988", 
+            "name": "Smartclip Italia", 
+            "domain": "smartclip.net", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "246986", 
+            "name": "Nowtilus Onlinevertriebs-GmbH", 
+            "domain": "nowtilus.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "237775", 
+            "name": "Culture G", 
+            "domain": "cultureg.eu", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "143955", 
+            "name": "BX Telegraaf Media Group", 
+            "domain": "tmg.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "247217", 
+            "name": "Chegg", 
+            "domain": "chegg.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "187567", 
+            "name": "Fubo.tv", 
+            "domain": "fubo.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "255043", 
+            "name": "La Nacion", 
+            "domain": "lanacion.com.ar", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "138942", 
+            "name": "SendtoNews", 
+            "domain": "sendtonews.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "86798", 
+            "name": "Feature Forward", 
+            "domain": "featurefoward.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "122515", 
+            "name": "Video Intelligence (DACH)", 
+            "domain": "vi.ai", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "171225", 
+            "name": "Hyvyd GmbH", 
+            "domain": "hyvyd.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "237393", 
+            "name": "JP CCI - HTV", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "176928", 
+            "name": "YuppTV", 
+            "domain": "yupptv.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "242047", 
+            "name": "How Stuff Works", 
+            "domain": "system1.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "220972", 
+            "name": "Stringr, Inc.", 
+            "domain": "stringr.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "233256", 
+            "name": "Livestream", 
+            "domain": "livestream.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "222835", 
+            "name": "JW Digg, Inc.", 
+            "domain": "digg.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "258194", 
+            "name": "IDN Media", 
+            "domain": "idntimes.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "86176", 
+            "name": "Time Inc.", 
+            "domain": "meredith.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "202009", 
+            "name": "Showheroes", 
+            "domain": "showheroes.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "245240", 
+            "name": "Sony Pictures Networks India", 
+            "domain": "setindia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "262942", 
+            "name": "Dexerto", 
+            "domain": "dexerto.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "74964", 
+            "name": "VI Video Intelligence", 
+            "domain": "vi.ai", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "202470", 
+            "name": "9GAG", 
+            "domain": "9gag.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "259281", 
+            "name": "Big Ten Network", 
+            "domain": "btn.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "82069", 
+            "name": "Minute Media LLC", 
+            "domain": "minutemedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "230630", 
+            "name": "Rock My World, Inc.", 
+            "domain": "rockmyworldmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "206458", 
+            "name": "OONA Limited", 
+            "domain": "watchoona.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "241275", 
+            "name": "Tastemade", 
+            "domain": "tastemade.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "220182", 
+            "name": "iVideoSmart", 
+            "domain": "ivideosmart.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "149886", 
+            "name": "Playwire LLC - COPPA", 
+            "domain": "playwire.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "220186", 
+            "name": "AddApptr GmbH", 
+            "domain": "addapptr.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "92859", 
+            "name": "Pinsight Media", 
+            "domain": "pinsightmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "224034", 
+            "name": "Inertia Media LLC", 
+            "domain": "theinertia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "97779", 
+            "name": "Dotstudioz Inc", 
+            "domain": "dotstudioz.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "201294", 
+            "name": "BX RTV Rijnmond", 
+            "domain": "rijnmond.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "201295", 
+            "name": "BX NH", 
+            "domain": "nhnieuws.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "81300", 
+            "name": "SilverMT Media, Inc.", 
+            "domain": "silvermtmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "124020", 
+            "name": "Jukin Media", 
+            "domain": "jukinmedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "117872", 
+            "name": "POKKT", 
+            "domain": "pokkt.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "276334", 
+            "name": "Vedia", 
+            "domain": "vedia.ai", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "196184", 
+            "name": "Tempo", 
+            "domain": "tempo.co", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "220362", 
+            "name": "MetricsMonster Limited", 
+            "domain": "metricsmonster.tv", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "212994", 
+            "name": "Evolution ADV srl", 
+            "domain": "evolution-adv.it", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "97798", 
+            "name": "Gamehouse Europe BV", 
+            "domain": "gamehouse.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "150719", 
+            "name": "News UK", 
+            "domain": "news.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "148362", 
+            "name": "Enthusiast Gaming Inc ", 
+            "domain": "enthusiastgaming.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "82845", 
+            "name": "SURFLINE", 
+            "domain": "surfline.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "227214", 
+            "name": "Vix Inc", 
+            "domain": "vix.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "124576", 
+            "name": "Reach PLC (previously Express Newspaper)", 
+            "domain": "nandsplus.co.uk", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "221903", 
+            "name": "Vetrya", 
+            "domain": "vetrya.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "254182", 
+            "name": "Iflix", 
+            "domain": "iflix.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "254185", 
+            "name": "JP CCI - TV Kochi", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "126022", 
+            "name": "Playbuzz Ltd.", 
+            "domain": "playbuzz.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "251116", 
+            "name": "JP CCI - Kobe Shinbun", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "141412", 
+            "name": "Venatus Media Limited", 
+            "domain": "venatusmedia.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "203291", 
+            "name": "Zattoo Europa AG", 
+            "domain": "zattoo.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "246882", 
+            "name": "JP Mobage (DeNA)", 
+            "domain": "dena.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "142042", 
+            "name": "BX Pebble", 
+            "domain": "pebblemedia.be", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "255677", 
+            "name": "JP CCI - Chukyo TV", 
+            "domain": "cc.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "115686", 
+            "name": "Spotify", 
+            "domain": "spotify.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "226725", 
+            "name": "PixFuture", 
+            "domain": "pixfuture.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "251972", 
+            "name": "Skyboard", 
+            "domain": "skyboard.fr", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "155929", 
+            "name": "Liquor.com Inc", 
+            "domain": "liquor.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "213950", 
+            "name": "JP CCI - Kansai TV", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "211156", 
+            "name": "Media.net", 
+            "domain": "media.net", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "223865", 
+            "name": "SchoolTube Inc.", 
+            "domain": "schooltube.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "183191", 
+            "name": "Lava Digital", 
+            "domain": "akadigital.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "237777", 
+            "name": "Aufeminin/marmiton", 
+            "domain": "corporate.aufeminin.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "122162", 
+            "name": "Arrow", 
+            "domain": "arrow.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "197053", 
+            "name": "Anthem Sport & Entertainment", 
+            "domain": "anthemse.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "225100", 
+            "name": "JP CCI - IPM", 
+            "domain": "cci.co.jp", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "273596", 
+            "name": "Viads", 
+            "domain": "viads.co", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "111853", 
+            "name": "NBC Universal", 
+            "domain": "nbcuniversal.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "252050", 
+            "name": "BX SBS Belgium", 
+            "domain": "sbsbelgium.be", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "164162", 
+            "name": "TenMax Adtech Lab Co. Ltd", 
+            "domain": "tenmax.io", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "229777", 
+            "name": "Fusion Media Group", 
+            "domain": "thefmg.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "144527", 
+            "name": "Cox Media Group (CMG Corporate Services)", 
+            "domain": "coxenterprises.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "253056", 
+            "name": "Mediamob", 
+            "domain": "themediamob.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "225672", 
+            "name": "Viva News Media", 
+            "domain": "vivagroup.co.id", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "114792", 
+            "name": "Crackle Plus_Popcornflix", 
+            "domain": "screenmedia.net", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "234221", 
+            "name": "Fox News", 
+            "domain": "foxnews.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "154735", 
+            "name": "Evolve Media LLC", 
+            "domain": "evolvemediallc.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "241646", 
+            "name": "Media Square", 
+            "domain": "mediasquare.fr", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "103882", 
+            "name": "OnCampus Advertising", 
+            "domain": "oncampusadvertising.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "262752", 
+            "name": "Den of Geek", 
+            "domain": "denofgeek.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "235395", 
+            "name": "Bitcentral", 
+            "domain": "bitcentral.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "262758", 
+            "name": "JP DAZN", 
+            "domain": "performgroup.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "259386", 
+            "name": "AI MOTUS LTD", 
+            "domain": "motus.aero", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "78994", 
+            "name": "CBS Local", 
+            "domain": "cbs.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "206712", 
+            "name": "Tribune Broadcasting Company", 
+            "domain": "tribunemedia.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "75958", 
+            "name": "ATG Ad Tech Group GmbH", 
+            "domain": "ad-tech-group.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "191478", 
+            "name": "DISH Network L.L.C.", 
+            "domain": "dish.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "260991", 
+            "name": "Venture Beat", 
+            "domain": "venturebeat.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "223044", 
+            "name": "Playbill", 
+            "domain": "playbill.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "239712", 
+            "name": "Univision Communications", 
+            "domain": "univision.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "104705", 
+            "name": "BX QMusic", 
+            "domain": "qmusic.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "240338", 
+            "name": "JP CCI - PDC", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "71379", 
+            "name": "Cafrino (DBA NYX Social Gaming)", 
+            "domain": "cafrino.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "70077", 
+            "name": "Exent Technologies Ltd.", 
+            "domain": "exent.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "80692", 
+            "name": "GameRanger Technologies", 
+            "domain": "gameranger.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "204258", 
+            "name": "The Next Web", 
+            "domain": "thenextweb.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "231871", 
+            "name": "Lan Kwai Fong Group", 
+            "domain": "lkfgroup.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "265732", 
+            "name": "ECG - Benelux (2dehands/2ememain/Marktplaats)", 
+            "domain": "marktplaats.nl", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "252865", 
+            "name": "Netsonic", 
+            "domain": "netsonic.tv", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "143812", 
+            "name": "McClatchy Shared Services, Inc", 
+            "domain": "mcclatchy.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "208528", 
+            "name": "Boredom Therapy", 
+            "domain": "boredomtherapy.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "254517", 
+            "name": "Sightline Media", 
+            "domain": "sightlinemediagroup.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "108706", 
+            "name": "USA Today", 
+            "domain": "usatoday.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "202714", 
+            "name": "Amagi Media Labs Pvt Ltd", 
+            "domain": "amagi.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "248727", 
+            "name": "Eborealis", 
+            "domain": "e-borealis.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "210949", 
+            "name": "Mashable", 
+            "domain": "mashable.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "253370", 
+            "name": "JP CCI - Shogakukan", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "226645", 
+            "name": "JP CCI - AFP BB", 
+            "domain": "cci.co.jp", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "187751", 
+            "name": "Raycom Media, Inc.", 
+            "domain": "gray.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "222053", 
+            "name": "Nosey", 
+            "domain": "nosey.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "216033", 
+            "name": "Adverline", 
+            "domain": "adverline.com", 
+            "seller_type": "INTERMEDIARY"
+        }, 
+        {
+            "seller_id": "242376", 
+            "name": "Groupe Cerise", 
+            "domain": "groupecerise.fr", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "272298", 
+            "name": "AtmosphereTV", 
+            "domain": "atmosphere.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "207009", 
+            "name": "Viber", 
+            "domain": "viber.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "209913", 
+            "name": "Whisper", 
+            "domain": "whisper.sh", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "257732", 
+            "name": "Hawkfish AS", 
+            "domain": "hawkfish.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "256609", 
+            "name": "Danger TV", 
+            "domain": "dangertv.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "256608", 
+            "name": "BX Medialaan De Persgroep", 
+            "domain": "dpgmedia.be", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "147045", 
+            "name": "AccentHealth", 
+            "domain": "outcomehealth.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "77943", 
+            "name": "Syncbak, Inc.", 
+            "domain": "syncbak.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "207616", 
+            "name": "Plex", 
+            "domain": "plex.tv", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "239861", 
+            "name": "SK Stoa", 
+            "domain": "sk.com", 
+            "seller_type": "PUBLISHER"
+        }, 
+        {
+            "seller_id": "268079", 
+            "name": "Virtuvent", 
+            "domain": "virtuvent.com", 
+            "seller_type": "PUBLISHER"
+        }
+    ], 
+    "ext": {
+        "time_last_generated": "2020-03-08 20:13:26.074508"
+    }
+}

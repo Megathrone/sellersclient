@@ -1,0 +1,292 @@
+{
+	"contact_email": "sales@vidillion.com",
+	"contact_address": "Vidillion Inc., 3090 South Durango, Suite 200-E, Las Vegas, NV 89117",
+	"version": "1.0",
+	"identifiers": [{
+		"name": "TAG-ID",
+		"value": "aaa3eac051a85d1c"
+	}],
+	"sellers": [{
+			"seller_id": "jdp",
+			"name": "JadooTV Inc.",
+			"domain": "jadootv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "ad1",
+			"name": "JadooTV Inc.",
+			"domain": "jadootv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "jlt",
+			"name": "JadooTV Inc.",
+			"domain": "jadootv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "jhw",
+			"name": "JadooTV Inc.",
+			"domain": "jadootv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "jak",
+			"name": "JadooTV Inc.",
+			"domain": "jadootv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "sdl",
+			"name": "JadooTV Inc.",
+			"domain": "jadootv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "phi",
+			"name": "Philo, Inc.",
+			"domain": "philo.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "dmr",
+			"name": "Digital Media Rights",
+			"domain": "digitalmediarights.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "smr",
+			"name": "Sommers Media, Inc.",
+			"domain": "sommersmediainc.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "nvb",
+			"name": "TV Time Media",
+			"domain": "tvtimemedia.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "uno",
+			"name": "UNO NETWORK, LLC",
+			"domain": "unoipbox.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "lht",
+			"name": "Lightcast",
+			"domain": "lightcast.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "ppl",
+			"name": "People TV",
+			"domain": "people.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "dgr",
+			"name": "Danger TV",
+			"domain": "dangertv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "big",
+			"name": "Bigstar TV",
+			"domain": "bigstar.tv",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "rsq",
+			"name": "R Squared Films",
+			"domain": "rsquaredfilms.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "mac",
+			"name": "MacMillan Interactive Communications",
+			"domain": "macmillanweb.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "cit",
+			"name": "Cinema Italiano",
+			"domain": "italias-cinema.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "grh",
+			"name": "Greg Rhoades",
+			"domain": "phoenixentertainment.org",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "mrf",
+			"name": "My Retro Flix",
+			"domain": "myretroflix.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "ret",
+			"name": "247 Retro",
+			"domain": "247retro.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "and",
+			"name": "Androvue Technologies Pvt Ltd.",
+			"domain": "ashokapps.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "fct",
+			"name": "Free Cast",
+			"domain": "freecast.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "sgm",
+			"name": "Stream Go Media",
+			"domain": "streamgomedia.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "mng",
+			"name": "Marengo Knoll",
+			"domain": "marengoknoll.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "0tv",
+			"name": "Instant TV",
+			"domain": "instanttvchannel.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "ftv",
+			"name": "Fashion TV",
+			"domain": "fashiontv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "mdy",
+			"name": "GMD Films Streaming Networks",
+			"domain": "maddygtv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "swg",
+			"name": "Swig TV",
+			"domain": "swig.tv",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "acm",
+			"name": "Acron Media",
+			"domain": "globalpunjabtv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "frw",
+			"name": "Fairway",
+			"domain": "fairwayenterprise.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "fhg",
+			"name": "FlixHouse",
+			"domain": "flixhouse.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "vol",
+			"name": "VolumeTV Network",
+			"domain": "volumetvonline.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "occ",
+			"name": "The Outdoor Cooking Channel",
+			"domain": "outdoorcookingchannel.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "ign",
+			"name": "Ingenii (Cape TV)",
+			"domain": "ingenii.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "zpi",
+			"name": "ZP International",
+			"domain": "moturoais.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "cuu",
+			"name": "Century UU Culture & Communication Co., Ltd.",
+			"domain": "100uu.com.cn",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "vst",
+			"name": "New Vista Studios LLC",
+			"domain": "vistastudios.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "tvd",
+			"name": "TV Dance Live",
+			"domain": "tvdance.live",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "tkc",
+			"name": "Koko Sports aka the Karate Channel",
+			"domain": "karate.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "sst",
+			"name": "Stream Shift TV",
+			"domain": "streamshifttv.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "tar",
+			"name": "Tarmac Tactics",
+			"domain": "jaxonglobal.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "rmg",
+			"name": "Resilient Media Group",
+			"domain": "resilientmediagroup.com",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "chu",
+			"name": "Stream Church",
+			"domain": "streamingchurch.tv",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "ind",
+			"name": "VSPNAME",
+			"domain": "indiemade.net",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "oms",
+			"name": "VSPNAME",
+			"domain": "bingenetworks.tv",
+			"seller_type": "PUBLISHER"
+		},
+		{
+			"seller_id": "tvs",
+			"name": "VSPNAME",
+			"domain": "tvstartup.com",
+			"seller_type": "PUBLISHER"
+		}
+	]
+}

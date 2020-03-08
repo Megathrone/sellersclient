@@ -1,0 +1,3554 @@
+{
+  "contact_email": "hello@viralize.com",
+  "contact_address": "Via di Santo Spirito 14, Firenze, Italy",
+  "version": "1.0",
+  "identifiers": [
+      {
+          "name": "DUNS",
+          "value": "434341818"
+      }
+  ],
+  "sellers":
+[
+{
+  "seller_id": 4547,
+  "name": "1hindi.com",
+  "domain": "1hindi.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3034,
+  "name": "3W Media S.r.l.",
+  "domain": "3wmedia.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3842,
+  "name": "42 srl",
+  "domain": "quarantadue.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3937,
+  "name": "56k media srl",
+  "domain": "machenesanno.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 302,
+  "name": "A.S.C.D. SPORT COUNTRY CLUB",
+  "domain": "sportpontino.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1316,
+  "name": "Aaron Jackson",
+  "domain": "exposingtruth.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3196,
+  "name": "Abrianello, Beatrice",
+  "domain": "beatriceabrianello.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1785,
+  "name": "Ad Intend Srl",
+  "domain": "adintend.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4206,
+  "name": "Adasta Media Srl",
+  "domain": "adasta.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2864,
+  "name": "AdCapital",
+  "domain": "adcapital.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4104,
+  "name": "Adier corporation",
+  "domain": "powermv.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3823,
+  "name": "AdvHub",
+  "domain": "advhub.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4736,
+  "name": "Agile Content Inversiones S.L.",
+  "domain": "agilecontent.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1945,
+  "name": "Ags My Digital Agency di Antonio Scollo",
+  "domain": "avvocato-separazione-divorzio.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4064,
+  "name": "Aldo Junior Andreano",
+  "domain": "youreduaction.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 608,
+  "name": "Alessandro Danzè",
+  "domain": "danzeassicurazioni.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3302,
+  "name": "Alessandro Giarratana",
+  "domain": "ricetteintv.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2823,
+  "name": "Algorithmedia s.r.l.",
+  "domain": "algorithmedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3801,
+  "name": "Almerico Manganella",
+  "domain": "fifaultimateteam.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4510,
+  "name": "Alvarez, Jordan",
+  "domain": "musicmundial.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2787,
+  "name": "ALZ Sftware",
+  "domain": "chimerarevo.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1907,
+  "name": "Amadore, Antonino",
+  "domain": "nebrodinews.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4757,
+  "name": "Amenzing",
+  "domain": "amenzing.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4554,
+  "name": "American Prospect Inc",
+  "domain": "prospect.org",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4744,
+  "name": "Amusing Planet",
+  "domain": "amusingplanet.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1341,
+  "name": "Anastasia Golyakova",
+  "domain": "it.geosnews.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3975,
+  "name": "Andaloro Stefano Daniele",
+  "domain": "malgradotuttoblog.blogspot.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4349,
+  "name": "Angel Daniel Borzillo",
+  "domain": "norteenlinea.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4435,
+  "name": "Angelo Benincasa",
+  "domain": "caleno24ore.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 303,
+  "name": "Angelo Galasso",
+  "domain": "tarantoindiretta.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1809,
+  "name": "Aniello Lauro",
+  "domain": "ilgiornalelocale.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 903,
+  "name": "Anna Andreani",
+  "domain": "tuttoimu.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1604,
+  "name": "Anna Maria Di Leo",
+  "domain": "skuolasprint.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2205,
+  "name": "Annalisa Pomilio",
+  "domain": "noinonni.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3205,
+  "name": "Antenna del Mediterraneo srl",
+  "domain": "amnotizie.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4706,
+  "name": "Antevenio Rich & Reach S.L.U.",
+  "domain": "annarecetasfaciles.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1646,
+  "name": "ANTONELLO CARERI",
+  "domain": "elettro-domestici.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2583,
+  "name": "Antonianum srl",
+  "domain": "brocardi.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1999,
+  "name": "Antonio Signorile",
+  "domain": "truciolisavonesi.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3732,
+  "name": "Appsmob Ltd",
+  "domain": "noidonne.tv",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4301,
+  "name": "Aragonés, Antonio Lanceta",
+  "domain": "glosarios.servidor-alicante.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2455,
+  "name": "Aranzulla Srl",
+  "domain": "aranzulla.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1129,
+  "name": "Arcabascio, Vito",
+  "domain": "italiaradio.eu",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3175,
+  "name": "Archart di Giovanni Lattanzi",
+  "domain": "iltatuatore.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 255,
+  "name": "Arquen di Aldo Licenziato",
+  "domain": "fonteufficiale.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4325,
+  "name": "Asendorf, Sascha",
+  "domain": "survivethis.news",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4644,
+  "name": "Asociacion Ahunemendi",
+  "domain": "travesiapirenaica.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3535,
+  "name": "Ass. Beyond Edizioni",
+  "domain": "minformo.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3817,
+  "name": "Ass. Cult. Libera Informazione",
+  "domain": "corrieresalentino.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3076,
+  "name": "Asso News",
+  "domain": "scuolainforma.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2495,
+  "name": "Associazione Arsenali Culturali",
+  "domain": "noicaserta.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2698,
+  "name": "ASSOCIAZIONE BARCELLONA LIVE",
+  "domain": "24live.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 840,
+  "name": "Associazione culturale La Voce di Manduria",
+  "domain": "lavocedimanduria.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1877,
+  "name": "Associazione Culturale Reggio Nel Pallone",
+  "domain": "reggionelpallone.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4145,
+  "name": "Associazione Culturale “Urba”",
+  "domain": "sport.strill.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2040,
+  "name": "Associazione Diretta Ciclismo",
+  "domain": "direttaciclismo.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3259,
+  "name": "Associazione EOS",
+  "domain": "ilmeridianonews.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3465,
+  "name": "Associazione Il Vizzarro",
+  "domain": "ilvizzarro.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3358,
+  "name": "Associazione Oikos",
+  "domain": "ora-siciliana.eu",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2612,
+  "name": "Associazione Vigile Amico",
+  "domain": "vigileamico.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4560,
+  "name": "Bachmann, Enrico",
+  "domain": "4-fotos-1-palabra.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4572,
+  "name": "Barbosa, Mario Alejandro Rodríguez",
+  "domain": "elrincondelvinotinto.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1723,
+  "name": "Basketball Store srls",
+  "domain": "basketball-store.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2035,
+  "name": "Benedetto Fedele",
+  "domain": "larampa.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2913,
+  "name": "BERAUDO PIERPAOLO",
+  "domain": "disegnidacoloraregratis.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4366,
+  "name": "Bertoldi, Elisa",
+  "domain": "pennarellicopic.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4092,
+  "name": "Better Days",
+  "domain": "betterdays.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3845,
+  "name": "Bitdrome Srl",
+  "domain": "bitdrome.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4230,
+  "name": "Biwiza Inc.",
+  "domain": "biwiza.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4704,
+  "name": "Black Flag Group",
+  "domain": "echo.msk.ru",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2191,
+  "name": "Blogiko",
+  "domain": "blogiko.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4035,
+  "name": "BLUE MONKEY S.R.L.",
+  "domain": "blue-monkey.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2782,
+  "name": "Bluebyte di Raffaello Corradini",
+  "domain": "blograffo.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3104,
+  "name": "Bojkic, Dalibor",
+  "domain": "balkanfm.square7.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4518,
+  "name": "Braddox, Andre",
+  "domain": "ontheflix.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 877,
+  "name": "Bradek Webmaster",
+  "domain": "screenweek.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2844,
+  "name": "BrandStrat Consultancy Pvt Ltd",
+  "domain": "britishmalayali.co.uk",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4000,
+  "name": "Brutus Media SRLS",
+  "domain": "mob.ktigerradio.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4674,
+  "name": "Bueno Serrano, Alfonso",
+  "domain": "malgusto.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 51,
+  "name": "Business For You Srl",
+  "domain": "b4u-advertising.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4627,
+  "name": "Capasso, Romano",
+  "domain": "foodingnews.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3186,
+  "name": "Capogreco, Cosimo",
+  "domain": "calciodangolo.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3019,
+  "name": "Cardone, Giorgio",
+  "domain": "ostuninotizie.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2562,
+  "name": "Carmosina srls",
+  "domain": "cno-webtv.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1420,
+  "name": "Carri, Emiliano",
+  "domain": "fiorentina.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4616,
+  "name": "Castello, David",
+  "domain": "super-loterie.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4203,
+  "name": "Cattaneo, Luigi",
+  "domain": "mappe-scuola.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1057,
+  "name": "cengia gianfranco",
+  "domain": "numeropoli.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3952,
+  "name": "CGworld PTE LTD",
+  "domain": "almeglio.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4097,
+  "name": "Cheri Media LLC",
+  "domain": "cherimedia.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4372,
+  "name": "Chiofalo Giuseppe",
+  "domain": "linklav.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 69,
+  "name": "Ciao People SRL",
+  "domain": "ciaopeople.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4253,
+  "name": "Cinefilos APS",
+  "domain": "cinefilos.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 733,
+  "name": "Cinzia Kianga Parmi",
+  "domain": "mammastyle.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 204,
+  "name": "Claudio Cafarelli",
+  "domain": "ilgiornaledicaivano.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2645,
+  "name": "Claudio Lamberti",
+  "domain": "lineadirettaeuropa.eu",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1997,
+  "name": "Click Camboriú",
+  "domain": "clickcamboriu.com.br",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4475,
+  "name": "Columna Cero",
+  "domain": "columnacero.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2563,
+  "name": "Company 1000",
+  "domain": "tudigitale.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1484,
+  "name": "Company 2068",
+  "domain": "bynapoli.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4067,
+  "name": "Company 4379",
+  "domain": "elisirdilungoviaggio.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4343,
+  "name": "Company 4663",
+  "domain": "sports21.com.br",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4344,
+  "name": "Company 4664",
+  "domain": "jornalcontabil.com.br",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4379,
+  "name": "Company 4699",
+  "domain": "nerdsquare.eu",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4395,
+  "name": "Company 4715",
+  "domain": "funkelfaden.de",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4411,
+  "name": "Company 4731",
+  "domain": "meteo-maghreb.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4465,
+  "name": "Company 4785",
+  "domain": "mydigi.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4474,
+  "name": "Company 4794",
+  "domain": "eldiariodetriana.es",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4479,
+  "name": "Company 4799",
+  "domain": "narino.info",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4502,
+  "name": "Company 4822",
+  "domain": "portomarinadipinetamare.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4505,
+  "name": "Company 4825",
+  "domain": "ahockeyworld.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4511,
+  "name": "Company 4831",
+  "domain": "taranto.nightguide.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4516,
+  "name": "Company 4836",
+  "domain": "bolsayeconomia.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4522,
+  "name": "Company 4843",
+  "domain": "informativohoy.com.ar",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4533,
+  "name": "Company 4854",
+  "domain": "dokari.gr",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4550,
+  "name": "Company 4872",
+  "domain": "sambad24.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4555,
+  "name": "Company 4877",
+  "domain": "stertix.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4561,
+  "name": "Company 4885",
+  "domain": "chiaramonique.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4566,
+  "name": "Company 4890",
+  "domain": "andromedacomputer.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4570,
+  "name": "Company 4894",
+  "domain": "connuestroperu.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4579,
+  "name": "Company 4904",
+  "domain": "vipeoples.info",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4589,
+  "name": "Company 4916",
+  "domain": "virgoletteblog.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4615,
+  "name": "Company 4945",
+  "domain": "darkitalia.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4628,
+  "name": "Company 4958",
+  "domain": "cliccandonews.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4632,
+  "name": "Company 4962",
+  "domain": "ciromuto.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4633,
+  "name": "Company 4963",
+  "domain": "truutube.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4645,
+  "name": "Company 4975",
+  "domain": "mbwebstudio.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4653,
+  "name": "Company 4983",
+  "domain": "v-news.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4672,
+  "name": "Company 5002",
+  "domain": "e360tv.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4673,
+  "name": "Company 5003",
+  "domain": "asiantvsub.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4675,
+  "name": "Company 5005",
+  "domain": "generacodice.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4688,
+  "name": "Company 5019",
+  "domain": "tvrealitys.es",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4693,
+  "name": "Company 5024",
+  "domain": "samrudhaodisha.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4694,
+  "name": "Company 5025",
+  "domain": "thefamouspeoples.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4696,
+  "name": "Company 5027",
+  "domain": "playhub.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4702,
+  "name": "Company 5034",
+  "domain": "wznoticias.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4711,
+  "name": "Company 5043",
+  "domain": "gratisforgratis.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4712,
+  "name": "Company 5044",
+  "domain": "generationsport.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4713,
+  "name": "Company 5045",
+  "domain": "yehundinokibathai.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4714,
+  "name": "Company 5046",
+  "domain": "formarse.com.ar",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4717,
+  "name": "Company 5049",
+  "domain": "biggboss.cc",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4722,
+  "name": "Company 5054",
+  "domain": "jardin-potager-bio.fr",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4723,
+  "name": "Company 5055",
+  "domain": "youngsucceed.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4725,
+  "name": "Company 5057",
+  "domain": "giovanilinazionali.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4726,
+  "name": "Company 5058",
+  "domain": "yessgame.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4729,
+  "name": "Company 5061",
+  "domain": "bormio.info",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4733,
+  "name": "Company 5065",
+  "domain": "insert-gamer.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4739,
+  "name": "Company 5071",
+  "domain": "newslandia.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4748,
+  "name": "Company 5080",
+  "domain": "theexclusiveafrica.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4751,
+  "name": "Company 5083",
+  "domain": "gamesaddict.online",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4752,
+  "name": "Company 5084",
+  "domain": "twisterandroid.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4753,
+  "name": "Company 5087",
+  "domain": "komikindo.web.id",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4762,
+  "name": "Company 5098",
+  "domain": "buzzitup.in",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4767,
+  "name": "Company 5103",
+  "domain": "napolipiu.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4768,
+  "name": "Company 5104",
+  "domain": "nationalbrandsurvey.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2725,
+  "name": "Company 841",
+  "domain": "losdisoccupato.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2667,
+  "name": "Company 899",
+  "domain": "balistreri.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2592,
+  "name": "Company 972",
+  "domain": "oasidellemamme.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 931,
+  "name": "Content Lab Srls",
+  "domain": "contentlab.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2222,
+  "name": "CORONA PUBLISHING SRL",
+  "domain": "coronapublishing.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2146,
+  "name": "Correggio Hockey ASD",
+  "domain": "correggiohockey.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 190,
+  "name": "Creativa Medialab S.r.l.s",
+  "domain": "creativamedialab.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1693,
+  "name": "Crescimbeni, Giovanni",
+  "domain": "frasiperfacebook.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4721,
+  "name": "Cronache di spogliatoio srl",
+  "domain": "cronachedispogliatoio.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3300,
+  "name": "CTAWeb S.r.l.s.",
+  "domain": "ctaweb.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4387,
+  "name": "Daily Motion",
+  "domain": "dailymotion.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2968,
+  "name": "Daniela Ilaria Maria Veronesi",
+  "domain": "bloccosport.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2517,
+  "name": "DataParallax di Christian Carrone",
+  "domain": "tangopusher.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 20,
+  "name": "Davide Nonino",
+  "domain": "giochibambiniragazzi.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1965,
+  "name": "DaVinci Media di Morra L.",
+  "domain": "enjoyphoneblog.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2602,
+  "name": "De Angelis, Alessandro",
+  "domain": "sailuniverse.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4544,
+  "name": "De Filippis, Raffaele",
+  "domain": "ilcaudino.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3940,
+  "name": "DE LIGUORO Francesco Paolo",
+  "domain": "medicidiercolano.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4643,
+  "name": "De Marchi, Alessandro",
+  "domain": "trovarigenerati.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4641,
+  "name": "Delivery Media S.L.",
+  "domain": "deliverymedia.es",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 893,
+  "name": "Delos Books",
+  "domain": "fantascienza.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3098,
+  "name": "DG SOLUTIONS DI DIDONNA GIOVANNI",
+  "domain": "gifandgif.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3110,
+  "name": "Di Felice Matteo",
+  "domain": "ideegreen.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3250,
+  "name": "Di Francesco, Davide",
+  "domain": "noidegli8090.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1889,
+  "name": "Di Monte, Roberta",
+  "domain": "biosost.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2840,
+  "name": "Di Piazza, Francesco",
+  "domain": "bottadiculo.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4099,
+  "name": "Diario del Web S.r.l.",
+  "domain": "diariodelweb.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4271,
+  "name": "Digital Advertising Distribution to You s.l.",
+  "domain": "dad2u.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1178,
+  "name": "Diritto di Cronaca Ass. Cul.",
+  "domain": "testitradotti.wikitesti.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4076,
+  "name": "DL Comunicazione di Lorusso Vincenza",
+  "domain": "tuttobari.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 423,
+  "name": "Donato Di Pietrantonio",
+  "domain": "notizie24.eu",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1288,
+  "name": "Dotcube S.r.l.",
+  "domain": "moduli.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4394,
+  "name": "Dreamartist Webmedia",
+  "domain": "ungeziefer-und-schaedlinge.de",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2449,
+  "name": "DREAMER SRL",
+  "domain": "acquistolibrionline.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2887,
+  "name": "Ducklab s.r.l.",
+  "domain": "ducklab.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 339,
+  "name": "eADV s.r.l.",
+  "domain": "eadv.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1402,
+  "name": "Eagle Web s.a.s. di Rimoldi Luca e C.",
+  "domain": "musictory.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 678,
+  "name": "EBINetwork di Marina Galatioto",
+  "domain": "ebinetwork.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2118,
+  "name": "Ecoedizioni Internazionali Srl group",
+  "domain": "motori360.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4731,
+  "name": "Economía Digital, S.L.",
+  "domain": "economiadigital.es",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4610,
+  "name": "Ediciones desdeSoria SC",
+  "domain": "desdesoria.es",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1493,
+  "name": "EDIGMA s.r.l.",
+  "domain": "edigma.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 989,
+  "name": "Edimedia Web srl",
+  "domain": "retenews24.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1791,
+  "name": "Edinet Ltd",
+  "domain": "edinet.bg",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1171,
+  "name": "Edinet srl",
+  "domain": "edinet.bg",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1703,
+  "name": "Edoardo Bridda",
+  "domain": "sentireascoltare.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1557,
+  "name": "Eight Signs FZ-LLC",
+  "domain": "eightsigns.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4680,
+  "name": "El Semanal Digital SL",
+  "domain": "esdiario.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2505,
+  "name": "emanuele gambino",
+  "domain": "unfoldingroma.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2845,
+  "name": "Enarrare Omnia Srl",
+  "domain": "enarrareomnia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4743,
+  "name": "Enfluenso",
+  "domain": "enfluenso.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4217,
+  "name": "ENGAGE! Alessandro Pecora",
+  "domain": "sostenitori.info",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2006,
+  "name": "Enrico Mainero",
+  "domain": "arealavoro.org",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 251,
+  "name": "Entire Digital Publishing srl",
+  "domain": "entiredigital.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4484,
+  "name": "Enzo Matafora",
+  "domain": "aircraft-pics.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4037,
+  "name": "EPLANET LAB LIMITED",
+  "domain": "newsviaggi.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 913,
+  "name": "Erwin Luswandy Siagian",
+  "domain": "berita.bangsiagian.id",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3731,
+  "name": "Euro Studio's Società Cooperativa",
+  "domain": "scrivolibero.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1942,
+  "name": "Fabio Farnesi",
+  "domain": "tstyle.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 896,
+  "name": "FABRIZIO CANNATELLI",
+  "domain": "informarea.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4487,
+  "name": "Fantaking Interactive Srl",
+  "domain": "fantakinginteractive.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3956,
+  "name": "FantaSoccerVillage S.r.l.s.",
+  "domain": "fanta.soccer",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3154,
+  "name": "Fare Digital Media srls",
+  "domain": "faredigitalmedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4416,
+  "name": "Farizano, Santiago",
+  "domain": "donostitik.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3807,
+  "name": "Favara, Riccardo",
+  "domain": "shenmueitalia.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4642,
+  "name": "Fave S.r.l.s. a socio unico",
+  "domain": "letture.org",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4715,
+  "name": "Favero, Claudio",
+  "domain": "ilmondodelledonne.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2005,
+  "name": "Federico Migliorini",
+  "domain": "fiscomania.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4252,
+  "name": "Fernando Romero García",
+  "domain": "lavozdeltrubia.es",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3174,
+  "name": "Ferraro, Gaetano",
+  "domain": "direttasicilia.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 25,
+  "name": "Ferrazzuolo, Mirella",
+  "domain": "zazoom.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3388,
+  "name": "Fersino Andrea",
+  "domain": "betitaly.tv",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4534,
+  "name": "FidelityHouse International SA",
+  "domain": "fidelityhouse.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1737,
+  "name": "File News di Longo Pietro",
+  "domain": "partinicolive.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 217,
+  "name": "Filippo Della Bianca",
+  "domain": "diggita.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2860,
+  "name": "Flobmedia inc",
+  "domain": "flobmedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4354,
+  "name": "Formighieri Neme, Luiz",
+  "domain": "ovnihoje.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4571,
+  "name": "Fortunito Srl",
+  "domain": "fortunito.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3224,
+  "name": "Frammenti d'Autore 2.0",
+  "domain": "forzazzurri.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1039,
+  "name": "Francesca Beer",
+  "domain": "trucchidicasa.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2808,
+  "name": "Francesco Alvaro",
+  "domain": "pianetastudenti.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1874,
+  "name": "Francesco Diani",
+  "domain": "lachiesa.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1541,
+  "name": "Francesco Fidale",
+  "domain": "francescofidale.altervista.org",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2681,
+  "name": "Francesco Galdieri",
+  "domain": "filmpost.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4158,
+  "name": "Francesco Monteleone",
+  "domain": "tuttotek.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1621,
+  "name": "Francesco Oddo Casano",
+  "domain": "corrieregiallorosso.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2800,
+  "name": "Francesco Paolo Colucci D'Amato",
+  "domain": "bmwpassion.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1660,
+  "name": "Francesco Russo",
+  "domain": "franzrusso.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1808,
+  "name": "Freiheit, Marc André",
+  "domain": "android-digital.de",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4585,
+  "name": "Frenz, Stefan",
+  "domain": "pflanzen-steckbriefe.de",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 479,
+  "name": "FUNLAB SRL",
+  "domain": "funlab.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4678,
+  "name": "Furquim, Fábio Rodrigo",
+  "domain": "mundodomanolo.com.br",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1616,
+  "name": "Gabriele Caldieron",
+  "domain": "labaroviola.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1842,
+  "name": "Gaiaitalia.com di Ennio Trinelli",
+  "domain": "gaiaitalia.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3192,
+  "name": "Galbit srl",
+  "domain": "spaziogames.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4622,
+  "name": "Galeriamusical",
+  "domain": "galeriamusical.com.br",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 327,
+  "name": "Gangale, Giuseppe",
+  "domain": "oggisud.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2121,
+  "name": "Ganio Vecchiolino Stefano",
+  "domain": "trendmotori.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3950,
+  "name": "Garden Media",
+  "domain": "ilcartello.eu",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2974,
+  "name": "GEA DI GENNARO ANNUNZIATA",
+  "domain": "solonapoli.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2890,
+  "name": "Geek Suite Inc.",
+  "domain": "boxofficebuz.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4454,
+  "name": "GeneriniDe Oliveira, Nilton Jose",
+  "domain": "corridasbr.com.br",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2982,
+  "name": "Geniee International Pte Ltd.",
+  "domain": "en.geniee.co.jp",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4226,
+  "name": "GEO Editrice srl",
+  "domain": "cittaceleste.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4742,
+  "name": "Geografía Infinita",
+  "domain": "geografiainfinita.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4222,
+  "name": "Gian Franco Morra",
+  "domain": "imiglioridififa.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2098,
+  "name": "Gianluca de Benedictis",
+  "domain": "gdr-online.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1315,
+  "name": "Giovanni Santamarina",
+  "domain": "blogitalia.news",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1006,
+  "name": "giovanni scorzafave",
+  "domain": "coriglianocal.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1175,
+  "name": "Gir&Grafica di Felice Bonfrate",
+  "domain": "grottaglieinrete.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1239,
+  "name": "Giuseppe Abbate",
+  "domain": "abbategiuseppe.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1343,
+  "name": "GIUSEPPE INO",
+  "domain": "tecnotariffe.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2373,
+  "name": "Giuseppe Ricciardiello",
+  "domain": "acasanoncisto.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1943,
+  "name": "GIZ SRL",
+  "domain": "gizchina.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3678,
+  "name": "Glenn Pattott",
+  "domain": "how2fixvideos.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3667,
+  "name": "Globetrotting",
+  "domain": "globetrotting.rocks",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4114,
+  "name": "Gocity di Bove Alessandro",
+  "domain": "barlettaviva.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4102,
+  "name": "GogoVest Srl",
+  "domain": "gogovest.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4208,
+  "name": "Gonzo, Federico",
+  "domain": "tuttociclismo.eu",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4625,
+  "name": "Gpro Ood LTD",
+  "domain": "gpro.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1613,
+  "name": "Grandoni, Alessandro",
+  "domain": "calcionazionale.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4761,
+  "name": "Grupo Medios SACV",
+  "domain": "cocinavital.mx",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4669,
+  "name": "Herrera, Francisco de Asis Calvo",
+  "domain": "alcachondeo.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4106,
+  "name": "HF4 srls",
+  "domain": "hf4.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3736,
+  "name": "HI MEDIA ESPAÑA PUBLICIDAD ONLINE, SL",
+  "domain": "fichajes.net",
+  "seller_type": "INTERMEDIARY ?"
+},
+{
+  "seller_id": 4738,
+  "name": "Hispanic Exchange",
+  "domain": "hispanicexchange.com",
+  "seller_type": "INTERMEDIARY ?"
+},
+{
+  "seller_id": 4391,
+  "name": "Holy Fire Games Studio LLC",
+  "domain": "gazpo.IO",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 207,
+  "name": "Horizon Group s.r.l.",
+  "domain": "horizongroup.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 37,
+  "name": "IATECH LTD",
+  "domain": "latuaguida.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3176,
+  "name": "Icardoo Digital Marketing Srl",
+  "domain": "galluraoggi.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3681,
+  "name": "Ida Zampetti",
+  "domain": "vivere-armoniosamente.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2169,
+  "name": "IDRESSITALIAN S.R.L.",
+  "domain": "idressitalian.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4649,
+  "name": "IKreate Online Solutions S.L.",
+  "domain": "ikreate.es",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3643,
+  "name": "il monile sas",
+  "domain": "lnx.tonyassante.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2392,
+  "name": "Imperium Web SRLS",
+  "domain": "mk3000.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4254,
+  "name": "INFORMACION ESTADIO DEPORTIVO, SA",
+  "domain": "estadiodeportivo.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1638,
+  "name": "Internapoli Srls",
+  "domain": "internapoli.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4284,
+  "name": "Investing.com ES",
+  "domain": "es.investing.com",
+  "seller_type": "PUBLISHER ?"
+},
+{
+  "seller_id": 4676,
+  "name": "Iqbal, Faisal",
+  "domain": "pinoylambingantv.su",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2963,
+  "name": "Italiaonline SpA",
+  "domain": "italiaonline.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4036,
+  "name": "Ivan Miceli",
+  "domain": "marshallmathers.eu",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4513,
+  "name": "Jamil, Ahmat Yacoub",
+  "domain": "alwihdainfo.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4587,
+  "name": "Jobrapido",
+  "domain": "jobrapido.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2220,
+  "name": "Jobwave",
+  "domain": "jobwave.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2865,
+  "name": "Joincom Consulting Srl",
+  "domain": "smooto.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3591,
+  "name": "Joseph Valdez",
+  "domain": "eyekonradio.com",
+  "seller_type": "PUBLISHER ?"
+},
+{
+  "seller_id": 1702,
+  "name": "Julie Italia srl",
+  "domain": "julienews.it",
+  "seller_type": "INTERMEDIARY ?"
+},
+{
+  "seller_id": 2566,
+  "name": "justco S.a.s. di Vecchio Domenico & C.",
+  "domain": "licatanet.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4353,
+  "name": "KALTBLUT",
+  "domain": "kaltblut-magazine.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4679,
+  "name": "Khan, Gulishta",
+  "domain": "bollyfuntv.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3825,
+  "name": "Kirim Srl",
+  "domain": "family-sitter.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2905,
+  "name": "KITABU SRLS",
+  "domain": "no-news.co",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4377,
+  "name": "Klamm.de Corp.",
+  "domain": "klamm.de",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3130,
+  "name": "KRUMBO MARKETING LTD",
+  "domain": "blogdilifestyle.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2489,
+  "name": "la ProvinciaKR di Antonio Carella",
+  "domain": "laprovinciakr.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4157,
+  "name": "La TV di Gwendalina",
+  "domain": "gwtelevision.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4490,
+  "name": "Layus, Juan Pablo",
+  "domain": "pablolayus.com.ar",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4055,
+  "name": "Leo, Francesca",
+  "domain": "consigli.tuttosogni.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4305,
+  "name": "Leonardi, Sergio",
+  "domain": "telenicosia.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4749,
+  "name": "LINK WORLD NETWORK SL",
+  "domain": "forocoches.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 31,
+  "name": "Listupp SRL",
+  "domain": "listupp.it ?",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3859,
+  "name": "Londra da Vivere",
+  "domain": "londradavivere.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4467,
+  "name": "Longo, Massimiliano",
+  "domain": "allmusicitalia.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4382,
+  "name": "Lorenz, Heike",
+  "domain": "das-ernaehrungshandbuch.de",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3248,
+  "name": "Lorenzo Procolo",
+  "domain": "tuttocalciocampano.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3255,
+  "name": "Lovecooking",
+  "domain": "lovecooking.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2107,
+  "name": "Luca Micheli",
+  "domain": "fotografiaindigitale.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3156,
+  "name": "Luca Papi",
+  "domain": "maidirelink.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2108,
+  "name": "Luca Talotta",
+  "domain": "timemagazine.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1193,
+  "name": "Luigi Zecca",
+  "domain": "controcopertina.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1800,
+  "name": "Maione, Candida",
+  "domain": "lameziaclick.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4437,
+  "name": "Man Ging Quinter, Felix Guillermo",
+  "domain": "blixtv.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 555,
+  "name": "Mango ADV",
+  "domain": "mangoadv.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1437,
+  "name": "Marchetti, Federico",
+  "domain": "a2tech.eu",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1150,
+  "name": "Marco Carra",
+  "domain": "salento.tv",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2792,
+  "name": "marco ceccotti",
+  "domain": "voti-fanta.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 422,
+  "name": "Marco cobianchi",
+  "domain": "marcocobianchi.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2046,
+  "name": "Marco Feliziani",
+  "domain": "etruriaoggi.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 492,
+  "name": "Marco Scannapieco",
+  "domain": "pianetadonne.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4181,
+  "name": "Mario Perri",
+  "domain": "milanworld.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4453,
+  "name": "Martin, Angel Gallegos",
+  "domain": "elquintobeatle.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3568,
+  "name": "Martina Rodini",
+  "domain": "martinarodini.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4068,
+  "name": "Mashup Web",
+  "domain": "fr.mashup-web.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2607,
+  "name": "Massimiliano Achille",
+  "domain": "sblogg.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2841,
+  "name": "Massimiliano Bendotti",
+  "domain": "ipv1001.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1460,
+  "name": "Massimiliano Motta",
+  "domain": "oasismania.co.uk",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1935,
+  "name": "Massimo Garofalo",
+  "domain": "rockshock.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 260,
+  "name": "Matteo Acitelli",
+  "domain": "ilclandestinogiornale.italiasera.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4041,
+  "name": "Matteo Carrara",
+  "domain": "pc-gaming.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1803,
+  "name": "Mauro Guitto",
+  "domain": "lagazzettadigitale.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1968,
+  "name": "Mauro Pepe",
+  "domain": "frasi-aforismi.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2408,
+  "name": "MC S.r.l.",
+  "domain": "mcsrl.info/en",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2825,
+  "name": "MD. ALAL HOSSAIN",
+  "domain": "arenapot.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2746,
+  "name": "Me Commerce di Luca Frabetti",
+  "domain": "mecommerce.it",
+  "seller_type": "PUBLISHER ?"
+},
+{
+  "seller_id": 579,
+  "name": "Media Prime S.R.L.",
+  "domain": "mediaprime.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4273,
+  "name": "Mediablogger SAS",
+  "domain": "funcafe.mediablogger.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4002,
+  "name": "Mediabong SAS (Vuble)",
+  "domain": "vuble.tv/us",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1850,
+  "name": "MediaFun ltd",
+  "domain": "mediafun.bg",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4283,
+  "name": "Meraki TV Travel Producciones Audiovisuales SL",
+  "domain": "merakitv.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2008,
+  "name": "MetUp Srl",
+  "domain": "metup.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4601,
+  "name": "MGID",
+  "domain": "mgid.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 463,
+  "name": "Michele Catalano",
+  "domain": "medmedicine.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 174,
+  "name": "MICHELE FIDATI",
+  "domain": "mangaforever.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3228,
+  "name": "Michele Iapicca",
+  "domain": "iapicca.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4048,
+  "name": "Miki Suhendra",
+  "domain": "cinemaku.me",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4239,
+  "name": "Milo4 Srl",
+  "domain": "chefaticalavitadabomber.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1603,
+  "name": "Mind the Lab snc",
+  "domain": "megamodo.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 620,
+  "name": "MKTG di Ilaria Tilli",
+  "domain": "romacalcio.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3187,
+  "name": "Mobilpro di Claudia omezzolli",
+  "domain": "mobilishabbyroma.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3951,
+  "name": "Mole24 sas di Alessandro Maldera e c.",
+  "domain": "mole24.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4075,
+  "name": "Monreale News",
+  "domain": "monrealenews.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3843,
+  "name": "Monrif",
+  "domain": "monrifgroup.net/en",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4148,
+  "name": "Mood 03 SRL",
+  "domain": "oddmag.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 179,
+  "name": "MORALAB di Christian Morabito",
+  "domain": "vogliaditech.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4260,
+  "name": "MotorAge SaS",
+  "domain": "motorage.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1172,
+  "name": "MovingUp S.r.L.",
+  "domain": "movingup.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2038,
+  "name": "MR Comunicazioni SRL Semplificata",
+  "domain": "pianetalecce.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3090,
+  "name": "Multicom di Claudio Bartolini & c. Snc",
+  "domain": "sistemacase.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4383,
+  "name": "My Celebrity & I",
+  "domain": "mycelebrityandi.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4689,
+  "name": "Napoli Magazine Srl",
+  "domain": "napolimagazine.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2554,
+  "name": "Nayla Carvalho e Silva",
+  "domain": "naylac.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2153,
+  "name": "Neapolis Media Srls",
+  "domain": "vesuviolive.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3142,
+  "name": "NetAddiction srl",
+  "domain": "netaddiction.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2368,
+  "name": "NETEDIT di Mesto Ernesto Fabrizio",
+  "domain": "opgt.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4581,
+  "name": "Networld HK",
+  "domain": "discuss.com.hk",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3848,
+  "name": "New Life di Ivan Iaconisi",
+  "domain": "talentscout.cloud",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 547,
+  "name": "No company",
+  "domain": "mondorap.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3545,
+  "name": "Nomix s.r.l.",
+  "domain": "cognomix.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2694,
+  "name": "novajo scarl",
+  "domain": "piemonteexpo.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4163,
+  "name": "Nunziati, Alessandro",
+  "domain": "improntaunika.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2138,
+  "name": "Octava",
+  "domain": "concepitonapoletano.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2946,
+  "name": "Osman Hassan Ali",
+  "domain": "kooxda.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3512,
+  "name": "Overstep S.r.l.",
+  "domain": "apt.rieti.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4316,
+  "name": "Paiano, Jonathan",
+  "domain": "trustmyscience.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4373,
+  "name": "Parlons Basket",
+  "domain": "parlons-basket.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 308,
+  "name": "Pasquale Sorrentini",
+  "domain": "agendaonline.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3829,
+  "name": "Patrizia Serra",
+  "domain": "comesipronuncia.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3962,
+  "name": "Paulo Rainoldi",
+  "domain": "mrgreengold.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3080,
+  "name": "Pavani, Alexandra",
+  "domain": "eurocalcionews.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4236,
+  "name": "Pellini, Jacopo",
+  "domain": "eurocalcionews.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1860,
+  "name": "Perfectweb",
+  "domain": "dogsitterversilia.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1528,
+  "name": "PF Edizioni srl",
+  "domain": "casertafocus.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3425,
+  "name": "Piemme S.p.A.",
+  "domain": "piemmeonline.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4337,
+  "name": "Pietro Faccioni",
+  "domain": "ilmilaneseimbruttito.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2652,
+  "name": "PIXIE COMMUNICATIONS s.a.s.",
+  "domain": "ilgazzettinodilivorno.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1042,
+  "name": "play sistem.com editoriale",
+  "domain": "ilgazzettinodilivorno.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1388,
+  "name": "PressComm Tech Srl",
+  "domain": "presscommtech.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2366,
+  "name": "Progetti Creativi di Ruocco Fernando",
+  "domain": "canale58.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3809,
+  "name": "Progetto Web di Maria Mercuri",
+  "domain": "canale58.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 176,
+  "name": "Projectadv Srl",
+  "domain": "projectadv.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4038,
+  "name": "PRS DIGITAL SRL",
+  "domain": "agrdigital.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1692,
+  "name": "PT Web Expert Srl",
+  "domain": "ptwebexpert.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2589,
+  "name": "PUBBLIVISION DI TASCONE GAETANO FABRIZIO",
+  "domain": "pubblivision-adv.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 137,
+  "name": "Publy Ltd",
+  "domain": "publy.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2011,
+  "name": "Puligheddu, Simone",
+  "domain": "infonotizia.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1947,
+  "name": "puremedia di Patrizia D'Ingiullo",
+  "domain": "thepuremedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 990,
+  "name": "QNetwork di Luca Montresor",
+  "domain": "qnetwork.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2397,
+  "name": "Quadronica srl",
+  "domain": "leghe.fantagazzetta.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2842,
+  "name": "R&B Junk Sagl",
+  "domain": "rnbjunk.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4638,
+  "name": "Rafiq, M Raza",
+  "domain": "biggboss.co",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2113,
+  "name": "re-gistra.it SRL",
+  "domain": "immobilio.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3144,
+  "name": "Real Paparazzi",
+  "domain": "realpaparazzi.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4700,
+  "name": "Refinery89 (XGN B.V.)",
+  "domain": "refinery89.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2811,
+  "name": "Relinko SHPK",
+  "domain": "relinko.net",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3826,
+  "name": "Report Aziende S.r.l.",
+  "domain": "reportaziende.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4418,
+  "name": "Restrepo, Harol Ruiz",
+  "domain": "180gradosquindio.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4128,
+  "name": "Rhythmone",
+  "domain": "360daily.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1663,
+  "name": "Riccardo Campioni",
+  "domain": "gazzettagranata.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2179,
+  "name": "Rizzuto Gianfranco",
+  "domain": "essere-informati.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2950,
+  "name": "Robert Saunders",
+  "domain": "adessobasta.org",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2852,
+  "name": "Roberto Marcianò",
+  "domain": "regginalife.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4313,
+  "name": "Rockandblog",
+  "domain": "rockandblog.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1553,
+  "name": "Rosa Oneyda Adames Montero",
+  "domain": "sarconiweb.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1647,
+  "name": "ROSARIO FRANZA",
+  "domain": "solidando.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2137,
+  "name": "Rubiu, Matteo",
+  "domain": "sardalavoro.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4737,
+  "name": "Russo, Antonio",
+  "domain": "ilveggente.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4258,
+  "name": "Russo, Francesco",
+  "domain": "whispermagazine.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 408,
+  "name": "Russo, Massimo",
+  "domain": "maxsomagazine.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4240,
+  "name": "Salvatore Catalfamo",
+  "domain": "direecondire.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4728,
+  "name": "Saqib Shakeel, Muhammad",
+  "domain": "gathbandhan.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2068,
+  "name": "Sara Palazzotti",
+  "domain": "ragionveduta.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1377,
+  "name": "Sardegna Live S.R.L.",
+  "domain": "sardegnalive.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4457,
+  "name": "Sassuolonews.net",
+  "domain": "sassuolonews.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 285,
+  "name": "Saturn Dynamic LDA",
+  "domain": "investingzone.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4040,
+  "name": "Scifo Salvatore",
+  "domain": "lovingsicily.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4221,
+  "name": "Seijo, Pedro Jaén",
+  "domain": "letralibre.es",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2659,
+  "name": "Seneca dot com srl",
+  "domain": "ilquaderno.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1661,
+  "name": "Seowebbs Srl",
+  "domain": "androidplanet.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4655,
+  "name": "Serini, Andrea",
+  "domain": "serialfreaks.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 890,
+  "name": "Sfera sas",
+  "domain": "disegnidacolorare.me",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2760,
+  "name": "shahzeb khan",
+  "domain": "harpalpk.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4424,
+  "name": "Sherifi, Idaver",
+  "domain": "albeu.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2633,
+  "name": "ShoppingLifestyle PTE LTD",
+  "domain": "travelmiso.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4415,
+  "name": "Silva, Francisco Alves",
+  "domain": "entaotane.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4459,
+  "name": "Silva, Renato",
+  "domain": "futnet.com.br",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1062,
+  "name": "SILVIO OTTANELLI",
+  "domain": "cercoiltuovolto.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1833,
+  "name": "Simone Concu",
+  "domain": "absurdityisnothing.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3351,
+  "name": "Skolor",
+  "domain": "anticipazioni-tv.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4287,
+  "name": "Soares Igreja, Bruno",
+  "domain": "superbraga.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2512,
+  "name": "Soluzioni di casa",
+  "domain": "soluzionidicasa.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4701,
+  "name": "Somoza Marquez, Alfonso",
+  "domain": "todocircuito.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2949,
+  "name": "Sonarmusic di Filadelfo Commendatore",
+  "domain": "seguimy.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2989,
+  "name": "Sonarmusic di Filadelfo Commendatore",
+  "domain": "sonarmusic.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4569,
+  "name": "Sonderbar Media",
+  "domain": "wastungegen.org",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1782,
+  "name": "sonia baldon",
+  "domain": "ambientebio.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4489,
+  "name": "Sousa, Ivo Luís de la Cerda Garcia e",
+  "domain": "caisdopico.pt",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2983,
+  "name": "Speed Spa",
+  "domain": "speedadv.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2588,
+  "name": "Sportnetwork",
+  "domain": "sportnetwork.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2063,
+  "name": "Spot and Web",
+  "domain": "spotandweb.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4275,
+  "name": "Sravan kumar k",
+  "domain": "wittysparks.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2748,
+  "name": "STEFANO MENEGUZZI",
+  "domain": "intheoffside.blogspot.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1731,
+  "name": "Stefano Piergiovanni",
+  "domain": "viviallestero.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4322,
+  "name": "Stefano Tosoni",
+  "domain": "hiphopstarztour.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2895,
+  "name": "Stephens, Dan",
+  "domain": "top10films.co.uk",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2208,
+  "name": "Steven Preece",
+  "domain": "welfareweekly.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 889,
+  "name": "Studio Cataldi - Associazione Professionale",
+  "domain": "studiocataldi.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3160,
+  "name": "Studio Fantasy Magazè",
+  "domain": "magaze.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4556,
+  "name": "Summonpress",
+  "domain": "guiafitness.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4698,
+  "name": "Syed, Yasir Ejaz",
+  "domain": "bepanahpyarserial.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3724,
+  "name": "talks srl",
+  "domain": "talksmedia.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3815,
+  "name": "Taormina, Paolo",
+  "domain": "auto.motori.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4508,
+  "name": "Tarpaulin LLC",
+  "domain": "arcamax.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4600,
+  "name": "Teixeira Filho, José Timóteo",
+  "domain": "portaldefinancas.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4237,
+  "name": "Terranostra News",
+  "domain": "terranostranews.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4609,
+  "name": "Testa, Valerio",
+  "domain": "theitaliantimes.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2164,
+  "name": "TgAdv",
+  "domain": "tgadv.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3857,
+  "name": "Theoreo SRL",
+  "domain": "theoreosrl.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2229,
+  "name": "Thirdfloor SRL",
+  "domain": "thirdfloor.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1295,
+  "name": "Tommaso Napoli",
+  "domain": "litalianews.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1701,
+  "name": "Torinomedica SRL",
+  "domain": "micurodame.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4662,
+  "name": "Towailib, Ali Hassan Al",
+  "domain": "gpucheck.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4439,
+  "name": "Travunity Unternehmergesellschaft (haftungsbeschränkt)",
+  "domain": "kriminetz.de",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4426,
+  "name": "Tuerkay, Barbaros Erol Poyraz",
+  "domain": "aufderbuehne.de",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 502,
+  "name": "Tuzzolino Antonino",
+  "domain": "sweetsound.altervista.org",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4386,
+  "name": "Tv Oggi Srl",
+  "domain": "tvoggisalerno.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2352,
+  "name": "TV Prato s.r.l",
+  "domain": "tvprato.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4329,
+  "name": "Udine20",
+  "domain": "udine20.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4654,
+  "name": "Unidad Editorial",
+  "domain": "unidadeditorial.es",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4051,
+  "name": "Valica srl",
+  "domain": "valica.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3808,
+  "name": "Varese News",
+  "domain": "varesenews.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2141,
+  "name": "Veesible",
+  "domain": "veesible.it/en",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 870,
+  "name": "VENDITTO GIUSEPPE",
+  "domain": "passionecalcio24.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2148,
+  "name": "Venturi, Daniele",
+  "domain": "papaboys.org",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3178,
+  "name": "Veruska Anconitano",
+  "domain": "thefoodellers.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4612,
+  "name": "Vetrya Asia - Innity",
+  "domain": "innity.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4543,
+  "name": "Vetrya Asia - Telecom",
+  "domain": "telecomitalia.com/tit/en.html",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3183,
+  "name": "Viaggio nel Mondo snc",
+  "domain": "viaggionelmondo.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3469,
+  "name": "Victoria Stan",
+  "domain": "vicaincucina.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4630,
+  "name": "Vidazoo",
+  "domain": "vidazoo.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4524,
+  "name": "Video Intelligence AG",
+  "domain": "vi.ai",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4468,
+  "name": "Videoclick Advertising SRL",
+  "domain": "netmediaclick.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2996,
+  "name": "Viewdeos LTD",
+  "domain": "viewdeos.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3295,
+  "name": "Vikram Singh",
+  "domain": "completegate.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2045,
+  "name": "Vincenzo Craxi",
+  "domain": "social24.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 358,
+  "name": "Vincenzo Farano",
+  "domain": "fcitalia.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2025,
+  "name": "Vincenzo Malzone",
+  "domain": "cilentonotizie.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3831,
+  "name": "Visibilia Srl",
+  "domain": "visibilia.eu",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1724,
+  "name": "vito santoro",
+  "domain": "wineflowers.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3206,
+  "name": "Vittorio Mainero",
+  "domain": "dolcepasticceria.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 783,
+  "name": "Vittorio Tiso",
+  "domain": "outofbit.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4629,
+  "name": "VOZPÓPULI DIGITAL, S.A.",
+  "domain": "vozpopuli.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4545,
+  "name": "VPP Gaming Network LLC",
+  "domain": "vppgamingnetwork.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 1832,
+  "name": "Web Digital Design",
+  "domain": "wdd.it/index.html",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2147,
+  "name": "Web365 Srl",
+  "domain": "web365.online",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4232,
+  "name": "Webads ES",
+  "domain": "webads.es",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2523,
+  "name": "Webads Srl",
+  "domain": "webads.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4732,
+  "name": "Webconsultas Healthcare S.A.",
+  "domain": "webconsultas.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 1598,
+  "name": "Webtime",
+  "domain": "tuttouomini.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4191,
+  "name": "Weiner, Jonathan",
+  "domain": "thisis50.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3877,
+  "name": "Wibbitz Ltd",
+  "domain": "wibbitz.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 3100,
+  "name": "Wickedin",
+  "domain": "animali24.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3864,
+  "name": "Williams, Alton Earl",
+  "domain": "battleroyalewithcheese.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3651,
+  "name": "XMedia Group Srl",
+  "domain": "ceamgroup.com/gruppo/x-media-group-srl.html",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 2079,
+  "name": "Yeah Up Srl",
+  "domain": "gravidanza360.net",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4441,
+  "name": "Ymonetize",
+  "domain": "ymonetize.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2385,
+  "name": "Yobee Srl",
+  "domain": "yobee.it",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4164,
+  "name": "Yugenstudio KK",
+  "domain": "yugenstudio.jp/it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3540,
+  "name": "Zaguirre, Michael Christian",
+  "domain": "gearculture.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 3850,
+  "name": "Zarium & associates S.L.",
+  "domain": "direttanews24.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4552,
+  "name": "Zero Uno",
+  "domain": "zerounotv.it",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4683,
+  "name": "Zeta Gestion de Medios, S.A.U.",
+  "domain": "grupozeta.es",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 2805,
+  "name": "Zillian S.A.",
+  "domain": "forebase.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": 4245,
+  "name": "Zingariello, Ivan",
+  "domain": "spettacolo.eu",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": 4594,
+  "name": "Zvorwadza, John",
+  "domain": "staines.online",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A1",
+  "name": "495Communications",
+  "domain": "495communications.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A2",
+  "name": "ABS-CBN",
+  "domain": "news.abs-cbn.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A3",
+  "name": "Adcounty",
+  "domain": "adcountymedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A4",
+  "name": "AdElement",
+  "domain": "adelement.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A5",
+  "name": "Adkarma",
+  "domain": "adkarma.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A6",
+  "name": "AdMixer",
+  "domain": "admixer.net",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A7",
+  "name": "Adtopia",
+  "domain": "ad-topia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A8",
+  "name": "Advandmedia",
+  "domain": "advandmedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A9",
+  "name": "Adview",
+  "domain": "adview.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A10",
+  "name": "Advinteo",
+  "domain": "advinteo.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A11",
+  "name": "Alarm Clock Alarmy",
+  "domain": "alar.my",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A12",
+  "name": "Appstock",
+  "domain": "app-stock.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A13",
+  "name": "BeSoccer Apps",
+  "domain": "it.besoccer.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A14",
+  "name": "Boldwin",
+  "domain": "bold-win.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A15",
+  "name": "BrightMountain",
+  "domain": "brightmountainmedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A16",
+  "name": "Castbox",
+  "domain": "castbox.fm",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A17",
+  "name": "Cignal",
+  "domain": "cignal.io",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A18",
+  "name": "Clearpier",
+  "domain": "clearpier.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A19",
+  "name": "DivisionD",
+  "domain": "divisiond.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A20",
+  "name": "Etermax",
+  "domain": "etermax.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A21",
+  "name": "Gamma Gaana Ltd",
+  "domain": "gaana.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A22",
+  "name": "GermaniaVid",
+  "domain": "germaniavid.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A23",
+  "name": "GoWithMedia",
+  "domain": "gowithmedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A24",
+  "name": "Handcent",
+  "domain": "handcent.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A25",
+  "name": "HyperBrainz",
+  "domain": "www.hyperbrainz.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A26",
+  "name": "ImpressionDigital",
+  "domain": "impressiondigitalmedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A27",
+  "name": "Keenkale",
+  "domain": "keenkale.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A28",
+  "name": "Malayala Manorama Co. Ltd.",
+  "domain": "manoramaonline.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A29",
+  "name": "Maple",
+  "domain": "maple-team.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A30",
+  "name": "Mars",
+  "domain": "mars.video",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A31",
+  "name": "NAVER WEBTOON CORP.",
+  "domain": "webtoons.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A32",
+  "name": "Nextwave Multimedia",
+  "domain": "nextwavemultimedia.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A33",
+  "name": "Omnijay",
+  "domain": "omnijay.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A34",
+  "name": "Plexus",
+  "domain": "plexusstudios.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A35",
+  "name": "RelyTV",
+  "domain": "relytv.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A36",
+  "name": "S&W",
+  "domain": "snw.media",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A37",
+  "name": "Smartyads",
+  "domain": "smartyads.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A38",
+  "name": "SparcMedia",
+  "domain": "sparcmedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A39",
+  "name": "Streamkey",
+  "domain": "streamkey.tv",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A40",
+  "name": "Tapgerine",
+  "domain": "tapgerine.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A41",
+  "name": "TextNow, Inc.",
+  "domain": "textnow.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A42",
+  "name": "Ubrik",
+  "domain": "elixirholdinginc.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A43",
+  "name": "Unidad Editorial",
+  "domain": "marca.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A44",
+  "name": "Upzyde",
+  "domain": "upzyde.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A45",
+  "name": "Velis",
+  "domain": "velismedia.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A46",
+  "name": "Vidstart",
+  "domain": "vidstart.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A47",
+  "name": "Weather Widget Theme",
+  "domain": "amberweather.com",
+  "seller_type": "PUBLISHER"
+},
+{
+  "seller_id": "A48",
+  "name": "Web3",
+  "domain": "web3.us.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A49",
+  "name": "Wiseroll",
+  "domain": "wiseroll.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A50",
+  "name": "Yepmedia",
+  "domain": "creativeclicks.com",
+  "seller_type": "INTERMEDIARY"
+},
+{
+  "seller_id": "A51",
+  "name": "Zoomd",
+  "domain": "zoomd.com",
+  "seller_type": "INTERMEDIARY"
+}
+]
+}

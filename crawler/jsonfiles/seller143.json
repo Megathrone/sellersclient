@@ -1,0 +1,376 @@
+{
+  "contact_email": "sellers.json@amxrtb.com",
+  "contact_address": "New York, NY",
+  "version": "1.0",
+  "identifiers": [
+
+  ],
+  "sellers": [
+    {
+      "seller_id": "1209",
+      "name": "Fashionbeans.com",
+      "domain": "fashionbeans.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "vgubdtw",
+      "name": "SomethingPositive.net",
+      "domain": "somethingpositive.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1219",
+      "name": "Splitcoaststampers.com",
+      "domain": "splitcoaststampers.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1126",
+      "name": "Twistynoodle.com",
+      "domain": "twistynoodle.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1376",
+      "name": "Okmagazine.com",
+      "domain": "okmagazine.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1330",
+      "name": "Psx-place.com",
+      "domain": "psx-place.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1329",
+      "name": "Allfreechristmascrafts.com",
+      "domain": "allfreechristmascrafts.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1304",
+      "name": "Windowsreport.com",
+      "domain": "windowsreport.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "90wfpmfb",
+      "name": "AllHipHop",
+      "domain": "allhiphop.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "zobuocq",
+      "name": "FootwearNews.com",
+      "domain": "footwearnews.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5dxhecd",
+      "name": "Deadline.com",
+      "domain": "deadline.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1086",
+      "name": "Electrek.co",
+      "domain": "electrek.co",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1083",
+      "name": "The-Gadgeteer.com",
+      "domain": "the-gadgeteer.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "0opsec8",
+      "name": "Variety.com",
+      "domain": "variety.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ygytpcd",
+      "name": "GoldDerby.com",
+      "domain": "goldderby.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1341",
+      "name": "Carscoops.com",
+      "domain": "carscoops.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "83uvqsd",
+      "name": "YourEDM.com",
+      "domain": "youredm.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "eqtbviq",
+      "name": "TheHardTimes.net",
+      "domain": "thehardtimes.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1113",
+      "name": "DotEsports.com",
+      "domain": "dotesports.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7eouv2id",
+      "name": "Realhomes.com",
+      "domain": "realhomes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1272",
+      "name": "Geekspin.co",
+      "domain": "geekspin.co",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1271",
+      "name": "Makingstarwars.net",
+      "domain": "makingstarwars.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1274",
+      "name": "Bigthink.com",
+      "domain": "bigthink.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1283",
+      "name": "Thetechgame.com",
+      "domain": "thetechgame.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1285",
+      "name": "Technipages.com",
+      "domain": "technipages.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "op0fdcz",
+      "name": "Tvline.com",
+      "domain": "tvline.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1281",
+      "name": "Whowhatwear.com",
+      "domain": "whowhatwear.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1343",
+      "name": "Fanbuzz.com",
+      "domain": "fanbuzz.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "qk7c9c7",
+      "name": "Indiewire.com",
+      "domain": "indiewire.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1367",
+      "name": "Macrumors.com",
+      "domain": "macrumors.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1090",
+      "name": "Poynter.org",
+      "domain": "poynter.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1369",
+      "name": "Techspot.com",
+      "domain": "techspot.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1074",
+      "name": "TheOdysseyOnline.com",
+      "domain": "theodysseyonline.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1112",
+      "name": "TheBigLead.com",
+      "domain": "thebiglead.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ow7up7ux",
+      "name": "BroadwayWorld.com",
+      "domain": "broadwayworld.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "PLATFORM_CONN_ID",
+      "name": "FStoppers.com",
+      "domain": "fstoppers.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "57pfa0ue",
+      "name": "Inverse.com",
+      "domain": "inverse.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "75pcoyik",
+      "name": "TheSpun.com",
+      "domain": "thespun.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1327",
+      "name": "Bobvila.com",
+      "domain": "bobvila.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1079",
+      "name": "Cad-Comic.com",
+      "domain": "cad-comic.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "wkfb5t3",
+      "name": "Consequenceofsound.net",
+      "domain": "consequenceofsound.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1233",
+      "name": "TheBrag.com",
+      "domain": "thebrag.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1111",
+      "name": "Player.one",
+      "domain": "player.one",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "nkph5ju8",
+      "name": "SheFinds.com",
+      "domain": "shefinds.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1162",
+      "name": "Livestrong.com",
+      "domain": "livestrong.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1248",
+      "name": "ManofMany.com",
+      "domain": "manofmany.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "j96hmns6",
+      "name": "BoingBoing.net",
+      "domain": "boingboing.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1228",
+      "name": "Rap-Up.com",
+      "domain": "rap-up.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1234",
+      "name": "Consciouslifestylemag.com",
+      "domain": "consciouslifestylemag.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "wdt1mce",
+      "name": "MeTV.com",
+      "domain": "metv.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1236",
+      "name": "Flickeringmyth.com",
+      "domain": "flickeringmyth.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1241",
+      "name": "Shared.com",
+      "domain": "shared.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1161",
+      "name": "Observer.com",
+      "domain": "observer.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1242",
+      "name": "Theawesomer.com",
+      "domain": "theawesomer.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1244",
+      "name": "Starwarsnewsnet.com",
+      "domain": "starwarsnewsnet.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1258",
+      "name": "ComicSands.com",
+      "domain": "comicsands.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1273",
+      "name": "Wrestlinginc.com",
+      "domain": "wrestlinginc.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "10811135",
+      "name": "Techlicious.com",
+      "domain": "techlicious.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1260",
+      "name": "Readliverpoolfc.com",
+      "domain": "readliverpoolfc.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1256",
+      "name": "Nhra.com",
+      "domain": "nhra.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1091",
+      "name": "YourDictionary.com",
+      "domain": "yourdictionary.com",
+      "seller_type": "PUBLISHER"
+    }
+  ]
+}

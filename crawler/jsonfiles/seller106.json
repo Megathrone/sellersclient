@@ -1,0 +1,1171 @@
+{
+  "contact_email": "sellers.json@westseven.media",
+  "contact_address": "West Seven Media 3432 W. 7th St., Fort Worth, TX 76107",
+  "version": "1.0",
+  "identifiers": [
+    {
+      "name": "TAG-ID",
+      "value": "cbf665107bc614c7"
+    }
+  ],
+  "sellers": [
+    {
+      "seller_id": "0e14e79e68fa",
+      "name": "24/7 Wall St./LLC",
+      "domain": "247wallst.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d9e0d39d2b58",
+      "name": "Carbon Media Group",
+      "domain": "8thCivic.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5168afdbeeea",
+      "name": "Carbon Media Group",
+      "domain": "A5OC.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "60576a63e6ab",
+      "name": "Carbon Media Group",
+      "domain": "AcadiaForum.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "6bf70e666155",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "acurazine.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "e8db20aeffff",
+      "name": "Carbon Media Group",
+      "domain": "AfricaTwinForum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "94cc4d5a4dd6",
+      "name": "Outdoor Hub LLC",
+      "domain": "airliners.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "598788482eb8",
+      "name": "Carbon Media Group",
+      "domain": "AllFordMustangs.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d25e13fe6b96",
+      "name": "Monetize More",
+      "domain": "approvedadvisor.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "55a0cbcb7441",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "atvconnection.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5237a433fd99",
+      "name": "Carbon Media Group",
+      "domain": "AutoGuide.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "62c97a585a67",
+      "name": "MICHAEL WILLIAMS PRODUCTIONS & BANDSINTOWN",
+      "domain": "bandsintown.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1a396dcb7a5a",
+      "name": "Study Mode, LLC",
+      "domain": "bartleby.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "577f2b64954f",
+      "name": "Baseball Prospectus LLC",
+      "domain": "baseballprospectus.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "feb60a2442e9",
+      "name": "Monetize More",
+      "domain": "beautynailhairsalons.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d69139736235",
+      "name": "Outdoor Hub LLC",
+      "domain": "benzworld.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d7a172a61b39",
+      "name": "The Nation Network INC",
+      "domain": "bluejaysnation.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "75d293f8bc3c",
+      "name": "Bored Panda",
+      "domain": "BoredPanda.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "43da0221aa6c",
+      "name": "Monetize More",
+      "domain": "boredpanda.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3e96b2cfecb5",
+      "name": "The Buffalo News",
+      "domain": "buffalonews.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "04e0be551540",
+      "name": "Carbon Media Group",
+      "domain": "CadillacForums.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "2072c37ceb56",
+      "name": "Carbon Media Group",
+      "domain": "Camaros.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21e55252945e",
+      "name": "The Nation Network INC",
+      "domain": "canucksarmy.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "870d8a578e2a",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "carsdirect.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "b4fd4370e9d8",
+      "name": "Carbon Media Group",
+      "domain": "ChallengerTalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5bb8fc386b9e",
+      "name": "Outdoor Hub LLC",
+      "domain": "chargerforums.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1baf00785877",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "cherokeeforum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "41c432b09761",
+      "name": "Outdoor Hub LLC",
+      "domain": "chevelles.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "be5a56ee6593",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "chevroletforum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "b2c265990cd0",
+      "name": "Carbon Media Group",
+      "domain": "ChevyMalibuForum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "61107c01d08c",
+      "name": "Carbon Media Group",
+      "domain": "ChryslerMinivan.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "622bbbc8c96c",
+      "name": "Carbon Media Group",
+      "domain": "ClubArmada.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c36e401f0838",
+      "name": "Carbon Media Group",
+      "domain": "ClubFrontier.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f31645b88a91",
+      "name": "Carbon Media Group",
+      "domain": "ClubWRX.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "cf02c66ffee3",
+      "name": "Carbon Media Group",
+      "domain": "ClubXTerra.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "e91d8015b252",
+      "name": "CoinMarketCap LLC",
+      "domain": "coinmarketcap.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "dd755d8c7a31",
+      "name": "Carbon Media Group",
+      "domain": "ColoradoFans.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7b045b52e340",
+      "name": "Investing Media Solutions LLC",
+      "domain": "commodity.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "4810cf6b8f5b",
+      "name": "Outdoor Hub LLC",
+      "domain": "contractortalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "a3dad2f05fea",
+      "name": "Carbon Media Group",
+      "domain": "Corral.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "e532ccbb381a",
+      "name": "Covers Media Group LTD",
+      "domain": "covers.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d34c6a44d8ef",
+      "name": "Study Mode, LLC",
+      "domain": "cram.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "22abdeb06a35",
+      "name": "Outdoor Hub LLC",
+      "domain": "crazymoto.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8eb6fce3a524",
+      "name": "Carbon Media Group",
+      "domain": "CrownVic.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "248ed0553b95",
+      "name": "Carbon Media Group",
+      "domain": "CruzeTalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "757395220ead",
+      "name": "Carbon Media Group",
+      "domain": "CRVOwnersClub.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "54d0434e6da3",
+      "name": "Carbon Media Group",
+      "domain": "CumminsForum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c57b31f68eae",
+      "name": "UCLA",
+      "domain": "dailybruin.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "6963687510a2",
+      "name": "Carbon Media Group",
+      "domain": "DakotaForumz.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "17cf06b79263",
+      "name": "Breaking Media, Inc.",
+      "domain": "dealbreaker.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "05b1c7021587",
+      "name": "Carbon Media Group",
+      "domain": "DiecastXChange.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "267a1aa38087",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "dieseltruckresource.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "4a13ac8d9d89",
+      "name": "Investing Media Solutions LLC",
+      "domain": "dividendchannel.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ab71527d8754",
+      "name": "Outdoor Hub LLC",
+      "domain": "diychatroom.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "da2342ea8665",
+      "name": "Carbon Media Group",
+      "domain": "DIYMobileAudio.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "a43d31d9106c",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "dodgeforum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "43d5e34abdd8",
+      "name": "The Nation Network INC",
+      "domain": "dodgerblue.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f2a1656496a8",
+      "name": "Carbon Media Group",
+      "domain": "DogForums.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "24dd5ddec75a",
+      "name": "Carbon Media Group",
+      "domain": "DooTalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "e4c841dc01be",
+      "name": "Monetize More",
+      "domain": "doyouremember.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c761052343e7",
+      "name": "Carbon Media Group",
+      "domain": "DriveAccord.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7e9f5beebf04",
+      "name": "Drugs.com",
+      "domain": "drugs.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5af1fdca0e9f",
+      "name": "Foundation Media",
+      "domain": "ducatiforum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d7063680cd13",
+      "name": "Carbon Media Group",
+      "domain": "Ducati.ms",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c1f33f823330",
+      "name": "Outdoor Hub LLC",
+      "domain": "electriciantalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "870194c3104f",
+      "name": "WebMD",
+      "domain": "emedicinehealth.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "42e87110125a",
+      "name": "Monetize More",
+      "domain": "Emulatorgames.online",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "9a0cf9fdf877",
+      "name": "Investing Media Solutions LLC",
+      "domain": "etfchannel.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "fe5c189975c5",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "evolutionm.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "e05f830a253f",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "f150online.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3035762b8bbb",
+      "name": "Breaking Media, Inc.",
+      "domain": "fashionista.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "e7031480a14e",
+      "name": "Hubbard",
+      "domain": "FederalNewsNetwork.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "9fb91841e375",
+      "name": "The Nation Network INC",
+      "domain": "flamesnation.ca",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "988f47f56d3e",
+      "name": "Carbon Media Group",
+      "domain": "FocusRS.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "cef6d1debeac",
+      "name": "Front Porch",
+      "domain": "frontporchnewstexas.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "472055092d25",
+      "name": "Front Porch",
+      "domain": "frontporchrockwall.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3da4d3232edf",
+      "name": "Carbon Media Group",
+      "domain": "FullsizeBronco.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8d5ab2eefb57",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "G35Driver.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ab08136d33be",
+      "name": "Carbon Media Group",
+      "domain": "gardentractortalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1c5aae1df8ab",
+      "name": "Outdoor Hub LLC",
+      "domain": "germanshepherds.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ba28700c37b8",
+      "name": "Outdoor Hub LLC",
+      "domain": "greentractortalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "82bfe4090cf7",
+      "name": "Carbon Media Group",
+      "domain": "HayTalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "442445f7064e",
+      "name": "Investing Media Solutions LLC",
+      "domain": "histdata.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "33296bb539a1",
+      "name": "Foundation Media",
+      "domain": "historum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "e0442ffd19e6",
+      "name": "Investing Media Solutions LLC",
+      "domain": "holdingschannel.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "a9f5ec34f2e8",
+      "name": "Outdoor Hub LLC",
+      "domain": "homesteadingtoday.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f13ed400a24b",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "honda-tech.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3e31204ac9ab",
+      "name": "Carbon Media Group",
+      "domain": "HybridCars.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "9653840303b4",
+      "name": "Carbon Media Group",
+      "domain": "Hyundai-Forums.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c731a87673fd",
+      "name": "Carbon Media Group",
+      "domain": "IndianMotorcycles.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "92d1dea80586",
+      "name": "Investing Media Solutions LLC",
+      "domain": "inflationdata.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f09048556ec7",
+      "name": "Investing Media Solutions LLC",
+      "domain": "investorshangout.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "62264af30728",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "jaguarforums.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "29e08b0cfc3c",
+      "name": "Java Tutoring",
+      "domain": "JavaTutoring.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "745aec870652",
+      "name": "Outdoor Hub LLC",
+      "domain": "jeepforum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f7d5ad5cef9d",
+      "name": "Carbon Media Group",
+      "domain": "JeepGarage.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f84e1fa39989",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "jk-forum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3cb6f6e2b94d",
+      "name": "Hubbard Broadcasting INC",
+      "domain": "kaaltv.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "a8c6be49337b",
+      "name": "Carbon Media Group",
+      "domain": "Kia-Forums.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f41671d31768",
+      "name": "Hubbard Broadcasting INC",
+      "domain": "kob.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "150d02679658",
+      "name": "Kongregate, INC",
+      "domain": "kongregate.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "4a45c70ac97d",
+      "name": "Hubbard Broadcasting INC",
+      "domain": "kstp.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "805023cc548c",
+      "name": "Letsrun.com, LLC",
+      "domain": "letsrun.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "056736e6bcd9",
+      "name": "Lovefood.com",
+      "domain": "Lovefood.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "9355334c396c",
+      "name": "LoveMoney.com",
+      "domain": "LoveMoney.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ff164384550b",
+      "name": "Outdoor Hub LLC",
+      "domain": "lumberjocks.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "aca60b896aa4",
+      "name": "Study Mode, LLC",
+      "domain": "majortests.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "054100ab438f",
+      "name": "Investing Media Solutions LLC",
+      "domain": "marketbeat.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "9df591a6f061",
+      "name": "Foundation Media",
+      "domain": "mathhelpforum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "316358d20028",
+      "name": "Breaking Media, Inc.",
+      "domain": "medcitynews.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "cc943fbb351d",
+      "name": "WebMD",
+      "domain": "medicinenet.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5271d0fe6149",
+      "name": "Outdoor Hub LLC",
+      "domain": "menstennisforums.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "0279c055d670",
+      "name": "Miami News Times, LLC",
+      "domain": "miaminewtimes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "85fe13e048af",
+      "name": "Carbon Media Group",
+      "domain": "Microskiff.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "4184b28f99c4",
+      "name": "Carbon Media Group",
+      "domain": "Mini2.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "455ed5522f80",
+      "name": "Wise Publishing, INC",
+      "domain": "moneywise.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c07c4e78e06c",
+      "name": "Outdoor Hub LLC",
+      "domain": "mothering.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "2d0342c9377e",
+      "name": "Outdoor Hub LLC",
+      "domain": "motorcycle.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7681f944416a",
+      "name": "Outdoor Hub LLC",
+      "domain": "mtbr.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "184b03510143",
+      "name": "MWPEG",
+      "domain": "westseven.media",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "bbfa55735d69",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "my350Z.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "28af91e7589f",
+      "name": "The Nation Network INC",
+      "domain": "mynhltraderumors.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d8730de467b4",
+      "name": "Outdoor Hub LLC",
+      "domain": "mytractorforum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "4e9ff6ac6ba2",
+      "name": "The National Hot Rod Association",
+      "domain": "nhra.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8f58ca2c55c9",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "northamericanmotoring.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "063837befffd",
+      "name": "Nation Networks",
+      "domain": "oilersnation.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8d8589c3d9c8",
+      "name": "Carbon Media Group",
+      "domain": "OneSixthWarriors.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "9249bbdcef3f",
+      "name": "WebMD",
+      "domain": "onhealth.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "41825c890e52",
+      "name": "Carbon Media Group",
+      "domain": "PaintTalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "fb9c60ed07bf",
+      "name": "Monetize More",
+      "domain": "panlasangpinoy.com ",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "dbb8a8391ea2",
+      "name": "Monetize More",
+      "domain": "panlasangpinoy.com ",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d789d0fc23ff",
+      "name": "Carbon Media Group",
+      "domain": "Patrol4x4.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "01aa00c23900",
+      "name": "Outdoor Hub LLC",
+      "domain": "personalitycafe.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "b8bf7278e91c",
+      "name": "Outdoor Hub LLC",
+      "domain": "petguide.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ded085ba8414",
+      "name": "WWB Holdings LLC",
+      "domain": "phillyvoice.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5509944181fd",
+      "name": "Monetize More",
+      "domain": "Playmariogames.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "2757ef74991d",
+      "name": "Foundation Media",
+      "domain": "politicalhotwire.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "275101c5be47",
+      "name": "",
+      "domain": "postcourier.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3e6e2b1c3b72",
+      "name": "Carbon Media Group",
+      "domain": "Powerstroke.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ed2d50a2fb45",
+      "name": "Investing Media Solutions LLC",
+      "domain": "preferredstockchannel.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "70316a79961f",
+      "name": "Carbon Media Group",
+      "domain": "RangeRovers.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5b45a74103a7",
+      "name": "Real Clear Holdings, LLC",
+      "domain": "realclearbooks.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "d3e2e1ceb890",
+      "name": "Real Clear Holdings, LLC",
+      "domain": "realcleardefense.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "94d921756ec3",
+      "name": "Real Clear Holdings, LLC",
+      "domain": "realclearenergy.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c10cb274aecd",
+      "name": "Real Clear Holdings, LLC",
+      "domain": "realclearhistory.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "0f4874b3344b",
+      "name": "Real Clear Holdings, LLC",
+      "domain": "realclearpolicy.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "436179656db9",
+      "name": "Real Clear Holdings, LLC",
+      "domain": "realclearreligion.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "579b8b3cff25",
+      "name": "Real Clear Holdings, LLC",
+      "domain": "realclearscience.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "633a5dfc5ff5",
+      "name": "Real Clear Holdings, LLC",
+      "domain": "realclearworld.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "99fb3a9b77e2",
+      "name": "Outdoor Hub LLC",
+      "domain": "roadbikereview.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3e5ebb955bdd",
+      "name": "Monetize More",
+      "domain": "Romsmania.cc",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "faf629cadebc",
+      "name": "Monetize More",
+      "domain": "Romsmode.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "1009fba240bd",
+      "name": "MH Sub I, LLC dba Internet Brands",
+      "domain": "rx7club.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "77cd6878068b",
+      "name": "WebMD",
+      "domain": "rxlist.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "dcd8c8225337",
+      "name": "Carbon Media Group",
+      "domain": "SaabCentral.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "21ac3087a9f8",
+      "name": "Outdoor Hub LLC",
+      "domain": "sailnet.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "217c8d6cb9ff",
+      "name": "The Seattle Times",
+      "domain": "seattletimes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7c951f662c95",
+      "name": "BlueSpruceVenturesLLC",
+      "domain": "singletracks.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "a2008495c906",
+      "name": "Carbon Media Group",
+      "domain": "SkyScraperCity.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "ad82be702173",
+      "name": "Investing Media Solutions LLC",
+      "domain": "stockoptionschannel.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "bebe703bbd18",
+      "name": "Carbon Media Group",
+      "domain": "SubaruForester.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "0cd1db7934ee",
+      "name": "Carbon Media Group",
+      "domain": "SubaruOutback.org",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "9c33bb9a43ad",
+      "name": "Outdoor Hub LLC",
+      "domain": "swellinfo.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "c0e1293bc2c1",
+      "name": "Investing Media Solutions",
+      "domain": "talkmarkets.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "5fa80f01ece5",
+      "name": "TalkStreamLive, LLC",
+      "domain": "talkstreamlive.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "024e8ee53f19",
+      "name": "Carbon Media Group",
+      "domain": "TaurusClub.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f471155f4b61",
+      "name": "Floor64, Inc.",
+      "domain": "techdirt.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "23685eebf713",
+      "name": "Investing Media Solutions LLC",
+      "domain": "techinvestornews.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "4531ebf8ce20",
+      "name": "Engineering.com, INC",
+      "domain": "tek-tips.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "6798e241fe2a",
+      "name": "Outdoor Hub LLC",
+      "domain": "tennisforum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "0c59481c424f",
+      "name": "Investing Media Solutions",
+      "domain": "thedailycoin.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "a060398203ca",
+      "name": "Carbon Media Group",
+      "domain": "TheDieselstop.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "7074e3dab81f",
+      "name": "Outdoor Hub LLC",
+      "domain": "thegoatspot.net",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "979354dbca2d",
+      "name": "The Nation Network INC",
+      "domain": "theleafsnation.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "e4a08ceeabe1",
+      "name": "Carbon Media Group",
+      "domain": "TheTruthAboutCars.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "2fa09e25d7c6",
+      "name": "Carbon Media Group",
+      "domain": "TitanTalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "32e5b7139312",
+      "name": "Outdoor Hub LLC",
+      "domain": "tractorforum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "0d87eb91f86b",
+      "name": "Carbon Media Group",
+      "domain": "TrailVoy.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "11cac93cc0f1",
+      "name": "Carbon Media Group",
+      "domain": "T-ShirtForums.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "8b03e5474f4c",
+      "name": "Carbon Media Group",
+      "domain": "TundraSolutions.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "02c85790cf5b",
+      "name": "",
+      "domain": "unijokes.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "17194cf5435e",
+      "name": "Inconspicuous LLC",
+      "domain": "uni-watch.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "b3755dbf241d",
+      "name": "Investing Media Solutions LLC",
+      "domain": "valuewalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "29d4c9f362dd",
+      "name": "Carbon Media Group",
+      "domain": "Veggiegardener.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "3272d10ccbde",
+      "name": "Outdoor Hub LLC",
+      "domain": "vintage-mustang.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "47093c1c90b9",
+      "name": "Hubbard Broadcasting INC",
+      "domain": "wdio.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "28aadb54fa2b",
+      "name": "WebMD",
+      "domain": "webmd.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "f913fa76d701",
+      "name": "Hubbard Broadcasting INC",
+      "domain": "whec.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "92ad02b6a3db",
+      "name": "Hubbard Broadcasting INC",
+      "domain": "wnyt.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "447c76eb2ae0",
+      "name": "Outdoor Hub LLC",
+      "domain": "woodworkingtalk.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "484e12bfeae0",
+      "name": "Outdoor Hub LLC",
+      "domain": "wranglerforum.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "b06ae31cef98",
+      "name": "Hubbard",
+      "domain": "WTOP.com",
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "seller_id": "79188f6db1bb",
+      "name": "Zacks Investment Research, INC",
+      "domain": "zacks.com",
+      "seller_type": "PUBLISHER"
+    }
+  ]
+}

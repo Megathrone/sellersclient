@@ -1,0 +1,1033 @@
+{
+   "contact_email":"support@consumable.com",
+   "contact_address":"Consumable, Inc, 690 S Highway 89, Suite 201,Box 12679,  Jackson, WY 83002",
+   "version":1,
+   "identifiers":[
+      {
+         "name":"TAG-ID",
+         "value":"aefcd3d2f45b5070"
+      }
+   ],
+   "sellers":[
+      {
+         "seller_id":"2000694",
+         "name":"Townhall Media",
+         "domain":"townhallmedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000264",
+         "name":"Hive Media",
+         "domain":"idolator.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000838",
+         "name":"BuzzWorthy",
+         "domain":"BuzzWorthy.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000845",
+         "name":"Orion Media Limited",
+         "domain":"emuparadise.me",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000198",
+         "name":"Merriam Webster Inc",
+         "domain":"eb.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000199",
+         "name":"All Things Comedy",
+         "domain":"allthingscomedy.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000200",
+         "name":"WatchrMedia.com",
+         "domain":"watchrmedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000833",
+         "name":"Random Elements Media",
+         "domain":"randomem.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000201",
+         "name":"7Hops",
+         "domain":"zergnet.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000863",
+         "name":"Advertise.com",
+         "domain":"Advertise.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000202",
+         "name":"USA Today Sports Media Group",
+         "domain":"usatoday.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000695",
+         "name":"ZAM Network",
+         "domain":"zam.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000203",
+         "name":"Fareportal",
+         "domain":"fareportal.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000891",
+         "name":"Math-Aids",
+         "domain":"math-aids.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000850",
+         "name":"A New Mode Inc",
+         "domain":"Anewmode.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000206",
+         "name":"McClatchy",
+         "domain":"mcclatchy.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000001",
+         "name":"247 Wall Street",
+         "domain":"247wallst.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000696",
+         "name":"Ranker",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000697",
+         "name":"FloSports (Not ACTIVE)",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000597",
+         "name":"RhythmOne",
+         "domain":"rhythmone.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000906",
+         "name":"National Review",
+         "domain":"nationalreview.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000848",
+         "name":"Quizony",
+         "domain":"quizony.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000700",
+         "name":"IAC Publishing",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000864",
+         "name":"Shmoop",
+         "domain":"shmoop.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000855",
+         "name":"Listverse",
+         "domain":"Listverse.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000790",
+         "name":"Incnut Digital",
+         "domain":"incnut.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000905",
+         "name":"Lola Digital ",
+         "domain":"loladigital.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000210",
+         "name":"Tegna",
+         "domain":"tegna.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000892",
+         "name":"Temptalia",
+         "domain":"Temptalia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000706",
+         "name":"Realtor.com",
+         "domain":"realtor.com/mediasolutions",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000707",
+         "name":"Boone Newspapers Inc.",
+         "domain":"natchezdemocrat.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000835",
+         "name":"Enthusiast Gaming",
+         "domain":"enthusiastgaming.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000211",
+         "name":"CBS Interactive",
+         "domain":"cbs.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000900",
+         "name":"Redbrick",
+         "domain":"facty.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1032790",
+         "name":"Urban Dictionary",
+         "domain":"urbandictionary.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000709",
+         "name":"Famous Birthdays",
+         "domain":"famousbirthdays.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000857",
+         "name":"Krush Media",
+         "domain":"krushmedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000796",
+         "name":"Valnet Inc.",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000837",
+         "name":"Lions Light Corporation",
+         "domain":"lionslight.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000710",
+         "name":"Deseret Digital Media",
+         "domain":"deseretnews.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000711",
+         "name":"Barstool Sports",
+         "domain":"barstoolsports.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000854",
+         "name":"MGID ",
+         "domain":"mgid.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000840",
+         "name":"Synacor",
+         "domain":"Synacor.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1038074",
+         "name":"Digital Info DNA",
+         "domain":"didna.io",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000902",
+         "name":"Ask.Fm Europe LTD",
+         "domain":"ask.fm",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000213",
+         "name":"FlightNetwork",
+         "domain":"flightnetwork.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000214",
+         "name":"AOTY",
+         "domain":"albumoftheyear.org",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000215",
+         "name":"Bonnier Corporation",
+         "domain":"bonniercorp.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000787",
+         "name":"Zippor Media",
+         "domain":"zippormedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000839",
+         "name":"Roaring Earth",
+         "domain":"roaringearth.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000844",
+         "name":"Versus",
+         "domain":"versus.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000853",
+         "name":"Wrestling Inc.",
+         "domain":"wrestlinginc.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000896",
+         "name":"Obsev",
+         "domain":"obsev.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000798",
+         "name":"United Press Intentional",
+         "domain":"upi.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000462",
+         "name":"Intermarkets",
+         "domain":"intermarkets.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1039096",
+         "name":"Vox Media",
+         "domain":"voxmedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000860",
+         "name":"FiscalNote",
+         "domain":"FiscalNote.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000035",
+         "name":"Market Realist",
+         "domain":"marketrealist.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000714",
+         "name":"Gourmet Ads",
+         "domain":"gourmetads.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000715",
+         "name":"Purch",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000217",
+         "name":"Sinclair Broadcast Group",
+         "domain":"sbgtv.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000827",
+         "name":"Cortex Media Group Ltd.",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1039669",
+         "name":"NCC Media",
+         "domain":"nccmedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000132",
+         "name":"Nexstar",
+         "domain":"nexstar.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000718",
+         "name":"Instructables",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000219",
+         "name":"Number Six",
+         "domain":"numbersix.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000719",
+         "name":"Bloomjoy",
+         "domain":"bloomjoy.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000909",
+         "name":"ValueImpression",
+         "domain":"valueimpression.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000907",
+         "name":"PubVentures Media",
+         "domain":"pubventuresmedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000723",
+         "name":"Leaf Group",
+         "domain":"leafgroup.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000793",
+         "name":"Al Jazeera",
+         "domain":"aljazeera.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000033",
+         "name":"Monumetric",
+         "domain":"monumetric.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000495",
+         "name":"Vatsana",
+         "domain":"Vatsana.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000221",
+         "name":"Penske Media Corporation",
+         "domain":"pmc.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000842",
+         "name":"Wehco Media",
+         "domain":"wehco.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1033940",
+         "name":"Bidder Media LLC",
+         "domain":"bidder.media",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000897",
+         "name":"Hearst",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000731",
+         "name":"Overstock",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000002",
+         "name":"OP.GG",
+         "domain":"op.gg",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000788",
+         "name":"Bob Vila",
+         "domain":"bobvila.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000847",
+         "name":"Stands4",
+         "domain":"abbreviations.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000222",
+         "name":"United Online Inc.",
+         "domain":"untd.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000066",
+         "name":"American Media INC",
+         "domain":"amilink.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000903",
+         "name":"Brainly",
+         "domain":"brainly.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000895",
+         "name":"Brulee Publishing",
+         "domain":"bruleepublishing.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000858",
+         "name":"NicheREV",
+         "domain":"nicherev.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000862",
+         "name":"Entertainment Studios",
+         "domain":"es.tv",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000003",
+         "name":"Absolutist DBA IceStone Ltd",
+         "domain":"absolutist.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1029548",
+         "name":"The Publisher Desk",
+         "domain":"PublisherDesk.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000225",
+         "name":"Sandusky Newspaper Group",
+         "domain":"sanduskynewspapers.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000226",
+         "name":"UPROXX Media Inc",
+         "domain":"uproxx.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000737",
+         "name":"Cracked",
+         "domain":"cracked.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000227",
+         "name":"Weatherbug",
+         "domain":"weatherbug.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000739",
+         "name":"Bidtellect",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000004",
+         "name":"System1",
+         "domain":"system1.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000743",
+         "name":"Wuxiaworld",
+         "domain":"Wuxiaworld.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000744",
+         "name":"Diversify Media ",
+         "domain":"diversifymedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000363",
+         "name":"Frankly Media LLC",
+         "domain":"franklyinc.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000745",
+         "name":"Internet Brands",
+         "domain":"InternetBrands.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1029010",
+         "name":"OpsCo LLC",
+         "domain":"ops.co",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000747",
+         "name":"BAMTech (NHL)",
+         "domain":"nhl.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000099",
+         "name":"Chive Media Group",
+         "domain":"chivemediagroup.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000005",
+         "name":"Future Place",
+         "domain":"futureplc.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000899",
+         "name":"Snigel Web",
+         "domain":"snigelweb.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1035837",
+         "name":"Reach Media Inc",
+         "domain":"eatwell101.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000693",
+         "name":"Rakuten Viber",
+         "domain":"viber.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000750",
+         "name":"Outreach Media Group",
+         "domain":"outreachmediagroup.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000231",
+         "name":"OC Weekly",
+         "domain":"ocweekly.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1035847",
+         "name":"USA Today Networks",
+         "domain":"usatoday.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000232",
+         "name":"Evite",
+         "domain":"evite.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000754",
+         "name":"Digital First Media",
+         "domain":"digitalfirstmedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000627",
+         "name":"Curiosity.com",
+         "domain":"Curiosity.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000006",
+         "name":"RTK",
+         "domain":"rtk.io",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1047232",
+         "name":"Slader",
+         "domain":"Slader.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000826",
+         "name":"Prodege",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1033139",
+         "name":"Freestar",
+         "domain":"freestar.io",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000841",
+         "name":"Koreaboo",
+         "domain":"koreaboo.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000007",
+         "name":"Literally Media ",
+         "domain":"literally.media",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000758",
+         "name":"ESPN",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000430",
+         "name":"GoPoint",
+         "domain":"gopointmedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000234",
+         "name":"Viacom",
+         "domain":"viacom.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000235",
+         "name":"Dictionary.com LLC",
+         "domain":"dictionary.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000893",
+         "name":"Celebspulse",
+         "domain":"Celebspulse.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000236",
+         "name":"Forward Media Partners",
+         "domain":"equitysportspartners.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000237",
+         "name":"RealGM",
+         "domain":"RealGM.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000761",
+         "name":"The Sun",
+         "domain":"TheSun.co.uk",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000762",
+         "name":"Mashable",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000267",
+         "name":"Consequence Media",
+         "domain":"consequenceofsound.net",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000008",
+         "name":"Weigel Broadcasting",
+         "domain":"weigelbroadcasting.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000856",
+         "name":"ODK Media",
+         "domain":"ondemandkorea.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000768",
+         "name":"Readers Digest",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000843",
+         "name":"Tracker Network",
+         "domain":"thetrackernetwork.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000836",
+         "name":"Daily Caller",
+         "domain":"dailycaller.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000898",
+         "name":"Videopoker.com",
+         "domain":"Videopoker.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000851",
+         "name":"Bolde ",
+         "domain":"bolde.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000397",
+         "name":"JNJ Mobile Inc",
+         "domain":"mocospace.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000239",
+         "name":"The Blaze",
+         "domain":"theblaze.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000561",
+         "name":"Wazimo",
+         "domain":"wazimo.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000792",
+         "name":"Fantrax",
+         "domain":"Fantrax.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000240",
+         "name":"Cox Media",
+         "domain":"coxmedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000009",
+         "name":"Digital Trends",
+         "domain":"digitaltrends.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000241",
+         "name":"Accuweather",
+         "domain":"accuweather.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000861",
+         "name":"Hashtag Labs Inc",
+         "domain":"hashtag-labs.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000865",
+         "name":"CPM Star",
+         "domain":"cpmstar.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000010",
+         "name":"Yardbarker",
+         "domain":"yardbarker.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000901",
+         "name":"Chegg",
+         "domain":"chegg.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000243",
+         "name":"NAF Digital Inc",
+         "domain":"nafdigital.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000244",
+         "name":"MLB",
+         "domain":"mlb.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000772",
+         "name":"Eye Popper Digital LLC",
+         "domain":"eyepopperdigital.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000165",
+         "name":"Livestly Media Group",
+         "domain":"livestly.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000831",
+         "name":"iHeart Media",
+         "domain":"iheart.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000775",
+         "name":"TownSquare Media",
+         "domain":"townsquaremedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1041945",
+         "name":"Playwire",
+         "domain":"playwire.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000246",
+         "name":"Berkshire Hathaway Media Group",
+         "domain":"bhmginc.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000011",
+         "name":"Cafe Media",
+         "domain":"cafemedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000846",
+         "name":"Greetings Island",
+         "domain":"greetingsisland.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000778",
+         "name":"The Atlantic",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000908",
+         "name":"The Eighth ",
+         "domain":"theeighth.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000133",
+         "name":"Publir",
+         "domain":"publir.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"1035065",
+         "name":"Monetizemore",
+         "domain":"monetizemore.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"3000012",
+         "name":"Novelty ",
+         "domain":"noveltymedia.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000248",
+         "name":"Scripps",
+         "domain":"thedenverchannel.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000780",
+         "name":"Burda",
+         "domain":"hbm.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000781",
+         "name":"Immediate Media",
+         "domain":"",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000433",
+         "name":"Larry Brown Sports",
+         "domain":"larrybrownsports.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000849",
+         "name":"Elephant Journal",
+         "domain":"elephantjournal.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000894",
+         "name":"Kueez Entertainment",
+         "domain":"kueez-ent.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000249",
+         "name":"Lee Enterprises",
+         "domain":"leeenterprises.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000250",
+         "name":"ZiffDavis",
+         "domain":"ziffdavis.com",
+         "seller_type":"PUBLISHER"
+      },
+      {
+         "seller_id":"2000297",
+         "name":"Very Poor People LLC",
+         "domain":"vppgamingnetwork.com",
+         "seller_type":"PUBLISHER"
+      }
+   ]
+}

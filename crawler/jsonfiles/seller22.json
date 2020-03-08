@@ -1,0 +1,5754 @@
+{
+    "contact_email": "quality-team@smartadserver.com",
+    "contact_address": "66 rue de la chaussee d'Antin - 75009 PARIS",
+    "version": "1.0",
+    "sellers": [
+        {
+            "seller_id": "1395",
+            "name": "Vocento.com",
+            "domain": "vocento.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "251",
+            "name": "Axel Springer Media Impact",
+            "domain": "mediaimpact.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "790",
+            "name": "SFR",
+            "domain": "nextms.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "869",
+            "name": "Webedia",
+            "domain": "fr.webedia-group.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1259",
+            "name": "Guia Del Ocio",
+            "domain": "guiadelocio.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "798",
+            "name": "Lexpress",
+            "domain": "nextms.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3604",
+            "name": "Webedia BR",
+            "domain": "webedia.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3628",
+            "name": "Globo",
+            "domain": "globo.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "721",
+            "name": "Prisma",
+            "domain": "prismamedia.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1844",
+            "name": "Unidad-Editorial",
+            "domain": "unidadeditorial.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "488",
+            "name": "RBS",
+            "domain": "gruporbs.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3214",
+            "name": "Mairdumont Netletix GmbH & Co KG",
+            "domain": "mairdumont-netletix.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3437",
+            "name": "Editorial Prensa Iberica",
+            "domain": "epi.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3330",
+            "name": "Dailymotion",
+            "domain": "dailymotion.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "691",
+            "name": "Le Figaro",
+            "domain": "lefigaro.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1430",
+            "name": "Orange_pub",
+            "domain": "orange.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1",
+            "name": "auFeminin",
+            "domain": "corporate.aufeminin.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2033",
+            "name": "Zinet Media Global",
+            "domain": "zinetmedia.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "619",
+            "name": "Clarin",
+            "domain": "clarin.com.ar",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1930",
+            "name": "Grupo Zeta",
+            "domain": "grupozeta.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1270",
+            "name": "Infobae",
+            "domain": "infobae.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1530",
+            "name": "Ads Movil",
+            "domain": "adsmovil.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2496",
+            "name": "Web Financial Group",
+            "domain": "bolsamania.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2216",
+            "name": "Prisa",
+            "domain": "prisabs.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1640",
+            "name": "Gameloft",
+            "domain": "gameloft.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1325",
+            "name": "America Movil",
+            "domain": "americamovil.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3363",
+            "name": "Catraca Livre",
+            "domain": "catracalivre.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3510",
+            "name": "Turkuvaz",
+            "domain": "turkuvazyayin.com.tr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1650",
+            "name": "Diario Catarinense",
+            "domain": "dc.clicrbs.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3138",
+            "name": "ExMarketplace",
+            "domain": "exmarketplace.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2936",
+            "name": "Karkimedia",
+            "domain": "karkimedia.fi",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3613",
+            "name": "Viber -OB",
+            "domain": "viber.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2576",
+            "name": "SBB Media",
+            "domain": "sbb.bg",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2595",
+            "name": "Grupo La Republica",
+            "domain": "larepublica.pe",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3118",
+            "name": "Grupo Milenio",
+            "domain": "milenio.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3106",
+            "name": "Softgames",
+            "domain": "softgames.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3161",
+            "name": "Fuel Digital Media",
+            "domain": "fueldigitalmedia.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2940",
+            "name": "M6",
+            "domain": "m6pub.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3380",
+            "name": "segundamano",
+            "domain": "segundamano.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3390",
+            "name": "Aristegui Noticias",
+            "domain": "aristeguinoticias.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2987",
+            "name": "ElEconomistamx",
+            "domain": "eleconomista.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3435",
+            "name": "El Financiero",
+            "domain": "elfinanciero.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2868",
+            "name": "Multimedios",
+            "domain": "multimedios.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2540",
+            "name": "Sinembargo",
+            "domain": "sinembargo.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3131",
+            "name": "Vanguardia Colombia",
+            "domain": "vanguardia.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3639",
+            "name": "Nasdaq Inc",
+            "domain": "business.nasdaq.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3460",
+            "name": "Publishers Clearing House (PCH digital)",
+            "domain": "pch.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3598",
+            "name": "The Week",
+            "domain": "theweek.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2668",
+            "name": "Adops.pe",
+            "domain": "adops.pe",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2653",
+            "name": "Bollore Media Regie",
+            "domain": "bolloremediaregie.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3429",
+            "name": "Geniee International",
+            "domain": "genieesspv.jp",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3370",
+            "name": "Imgur.com",
+            "domain": "imgur.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3549",
+            "name": "Legacy.com",
+            "domain": "legacy.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3039",
+            "name": "Playbuzz",
+            "domain": "publishers.playbuzz.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2497",
+            "name": "Verslo Zinios",
+            "domain": "vz.lt",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3250",
+            "name": "Climatempo RTB+",
+            "domain": "climatempo.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3615",
+            "name": "IG",
+            "domain": "ig.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3406",
+            "name": "R7",
+            "domain": "r7.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3254",
+            "name": "Diarios Associados MG",
+            "domain": "em.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3260",
+            "name": "Positivo",
+            "domain": "mundopositivo.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3257",
+            "name": "Grupo Abril",
+            "domain": "abril.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3192",
+            "name": "Terra",
+            "domain": "terra.com.br",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3367",
+            "name": "Grupo Folha",
+            "domain": "folha.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2978",
+            "name": "Studio Sol",
+            "domain": "cifraclub.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3466",
+            "name": "Carta Capital",
+            "domain": "cartacapital.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3279",
+            "name": "TVSmiles",
+            "domain": "tvsmiles.tv",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2751",
+            "name": "Logic-immo",
+            "domain": "logic-immo.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3538",
+            "name": "234 d.o.o.",
+            "domain": "234.hr",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2823",
+            "name": "Triboo",
+            "domain": "triboo.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3053",
+            "name": "REUSSIR",
+            "domain": "reussir.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3609",
+            "name": "Sud Ouest",
+            "domain": "sudouest.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2919",
+            "name": "United Internet Media",
+            "domain": "united-internet-media.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1772",
+            "name": "SlimCut Media",
+            "domain": "outstream.telaria.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1328",
+            "name": "MediaFem Group",
+            "domain": "mediafem.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3073",
+            "name": "VeNA.tv Video and Entertainment Network",
+            "domain": "vena.tv",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1526",
+            "name": "Gemius",
+            "domain": "gemius.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2747",
+            "name": "Grupa eBroker",
+            "domain": "ebroker.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3451",
+            "name": "UMH",
+            "domain": "umh.ua",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2982",
+            "name": "Traffic-Addicts",
+            "domain": "evothink.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2690",
+            "name": "Mondadori",
+            "domain": "mondadori.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3618",
+            "name": "Fexy Media",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3601",
+            "name": "Editora Globo",
+            "domain": "globo.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3273",
+            "name": "Index.hr",
+            "domain": "index.hr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3127",
+            "name": "Kiwilimon",
+            "domain": "kiwilimon.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3255",
+            "name": "Meio & Mensagem",
+            "domain": "meiomensagem.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2151",
+            "name": "OLX Portugal",
+            "domain": "olx.pt",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3245",
+            "name": "Pebblemedia",
+            "domain": "pebblemedia.be",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3086",
+            "name": "Publihebdos",
+            "domain": "publihebdos.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3096",
+            "name": "Scout24 Media",
+            "domain": "scout24.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2860",
+            "name": "YIELDBIRD.COM",
+            "domain": "yieldbird.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1691",
+            "name": "33 Across",
+            "domain": "33across.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3298",
+            "name": "Facilisimo",
+            "domain": "facilisimo.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3094",
+            "name": "Oz Digital",
+            "domain": "zodiakadvertising.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2923",
+            "name": "Sovrn",
+            "domain": "sovrn.net",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3575",
+            "name": "hola_es",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2760",
+            "name": "La Voz de Galicia",
+            "domain": "lavozdegalicia.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2945",
+            "name": "Gigantes",
+            "domain": "gigantes.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1934",
+            "name": "Editorial Perfil",
+            "domain": "perfil.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2605",
+            "name": "GrupoRPP",
+            "domain": "rpp.com.pe",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1117",
+            "name": "MediaSquare",
+            "domain": "laplacemedia.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2340",
+            "name": "tqcorp",
+            "domain": "tarragonadigital.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2276",
+            "name": "Publimetro",
+            "domain": "publimetro.com.mx",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "264",
+            "name": "Antevenio",
+            "domain": "antevenio.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2524",
+            "name": "Schibsted Spain",
+            "domain": "schibsted.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1846",
+            "name": "Grupo Sinos",
+            "domain": "gruposinos.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1953",
+            "name": "Pulzo",
+            "domain": "pulzo.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2403",
+            "name": "Cultura Colectiva",
+            "domain": "culturacolectiva.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1768",
+            "name": "Yoc Espana",
+            "domain": "yoc.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1320",
+            "name": "Correio do Povo",
+            "domain": "correiodopovo.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1884",
+            "name": "Rede Bahia",
+            "domain": "correio24horas.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1962",
+            "name": "Boo-Box",
+            "domain": "boo-box.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "816",
+            "name": "F-Hits",
+            "domain": "fhits.com.br",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3572",
+            "name": "Webads_es",
+            "domain": "webads.es",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2330",
+            "name": "Wolters Kluwer Espana",
+            "domain": "wolterskluwer.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1954",
+            "name": "Cien Radios",
+            "domain": "radiomitre.cienradios.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2001",
+            "name": "Pronto",
+            "domain": "pronto.com.ar",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1507",
+            "name": "Atresmedia",
+            "domain": "antena3.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1692",
+            "name": "tappx.com",
+            "domain": "tappx.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3368",
+            "name": "El Economista - ES",
+            "domain": "eleconomista.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3540",
+            "name": "Quarter Media",
+            "domain": "quartermedia.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3682",
+            "name": "G+J Electronic Media Sales",
+            "domain": "gujmedia.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3519",
+            "name": "Italiaonline",
+            "domain": "italiaonline.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3059",
+            "name": "Calcio Infinito Srl",
+            "domain": "calciomercato.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3558",
+            "name": "Daily Caller",
+            "domain": "dailycaller.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3092",
+            "name": "RCN Radio",
+            "domain": "rcnradio.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3388",
+            "name": "Autocosmos",
+            "domain": "autocosmos.com.co",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2892",
+            "name": "WebAds_it",
+            "domain": "webads.it",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3662",
+            "name": "Microdigital Consulting Corp",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3528",
+            "name": "Reach Plc",
+            "domain": "reachplc.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3124",
+            "name": "TC Television",
+            "domain": "tctelevision.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3606",
+            "name": "Wallstreet Online",
+            "domain": "asfinancialmedia.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3091",
+            "name": "US Cellular",
+            "domain": "uscellular.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3473",
+            "name": "MSO Digital",
+            "domain": "mso-digital.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3198",
+            "name": "MonetizeMore_US_RTB",
+            "domain": "monetizemore.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1592",
+            "name": "Cimacast",
+            "domain": "cimacast.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3021",
+            "name": "RMS Radio Marketing Service GmbH & Co. KG",
+            "domain": "rms.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3283",
+            "name": "Voz Populi",
+            "domain": "vozpopuli.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3020",
+            "name": "Etermax",
+            "domain": "etermax.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "282",
+            "name": "atres advertising",
+            "domain": "lasexta.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2942",
+            "name": "366",
+            "domain": "366.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3043",
+            "name": "Cofina",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2623",
+            "name": "gruponoticias",
+            "domain": "noticiasdenavarra.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2841",
+            "name": "Ebay",
+            "domain": "ebay.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3212",
+            "name": "El Tiempo.es",
+            "domain": "eltiempo.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2793",
+            "name": "Elotrolado",
+            "domain": "elotrolado.net",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3567",
+            "name": "Eurosport",
+            "domain": "eurosport.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2624",
+            "name": "francetvpublicite",
+            "domain": "france.tv",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3534",
+            "name": "Funke Digital",
+            "domain": "funkemedien.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2300",
+            "name": "GRY-OnLine",
+            "domain": "gry-online.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3244",
+            "name": "Guia Mais",
+            "domain": "guiamais.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2970",
+            "name": "iVid",
+            "domain": "ivid.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3378",
+            "name": "JDG",
+            "domain": "jdgmedia.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3535",
+            "name": "Laprovence",
+            "domain": "laprovence.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3518",
+            "name": "LNEIMEDIA",
+            "domain": "inrock.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3374",
+            "name": "Sun Media Mobusi",
+            "domain": "mobusi.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3405",
+            "name": "O Fuxico",
+            "domain": "ofuxico.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3616",
+            "name": "Pelmorex",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2928",
+            "name": "Quoka GmbH",
+            "domain": "quoka.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3236",
+            "name": "SEM SEO y Mas",
+            "domain": "semseoymas.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3144",
+            "name": "Skores",
+            "domain": "skores.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3665",
+            "name": "Slader LLC",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3577",
+            "name": "Smartclip SSB Spain",
+            "domain": "smartclip.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3157",
+            "name": "Softonic",
+            "domain": "softonic.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3623",
+            "name": "Sprzedajemy.pl",
+            "domain": "sprzedajemy.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2763",
+            "name": "TELEGRAFI",
+            "domain": "telegrafi.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3557",
+            "name": "Seattle Times",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2984",
+            "name": "Topito",
+            "domain": "topito.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3652",
+            "name": "UrbanMedia",
+            "domain": "urban-media.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3671",
+            "name": "Wamiz (Web)",
+            "domain": "wamiz.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2547",
+            "name": "webconsultas",
+            "domain": "webconsultas.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3566",
+            "name": "WetterOnline",
+            "domain": "wetteronline.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3184",
+            "name": "Surperformance",
+            "domain": "zonebourse.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "81",
+            "name": "Andrea Media",
+            "domain": "andreamedia.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "891",
+            "name": "SportOutdoorNetwork",
+            "domain": "sportoutdoornetwork.it",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "955",
+            "name": "La Voz del Interior",
+            "domain": "lavoz.com.ar",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "943",
+            "name": "MessageSpace",
+            "domain": "messagespace.co.uk",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "990",
+            "name": "Rede Paraiba de Comunicacao",
+            "domain": "jornaldaparaiba.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1307",
+            "name": "Ricosurf",
+            "domain": "ricosurf.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1701",
+            "name": "Impresa",
+            "domain": "impresa.pt",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1672",
+            "name": "Local Network",
+            "domain": "localnetworkmedia.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "283",
+            "name": "El Confidencial",
+            "domain": "elconfidencial.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "484",
+            "name": "ElTiempo.com",
+            "domain": "eltiempo.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2884",
+            "name": "Grupo-Godo",
+            "domain": "publipressmedia.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "55",
+            "name": "20 Minutes",
+            "domain": "20minutes.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1002",
+            "name": "El Debate",
+            "domain": "debate.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "690",
+            "name": "Le Monde",
+            "domain": "mpublicite.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3375",
+            "name": "3WRegie",
+            "domain": "3wregie.eu",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3679",
+            "name": "CARBOATMEDIA (Drive Media)",
+            "domain": "drivemedia.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1544",
+            "name": "Journal de l'ile de la Reunion",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1100",
+            "name": "dad2U",
+            "domain": "dad2u.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1045",
+            "name": "Neweb",
+            "domain": "newebregie.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "70",
+            "name": "Turf Editions",
+            "domain": "paris-turf.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "606",
+            "name": "madvertise",
+            "domain": "madvertise.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "886",
+            "name": "Romandie Network SA",
+            "domain": "romandie.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1023",
+            "name": "SPORTFIVE GmbH & Co. KG",
+            "domain": "sportfive.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "384",
+            "name": "fotka",
+            "domain": "spolecznosci.pl",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1211",
+            "name": "Strive",
+            "domain": "strive.lt",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "650",
+            "name": "Slate",
+            "domain": "slate.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "353",
+            "name": "addictmedia",
+            "domain": "addictmedia.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1373",
+            "name": "Grupa Allegro",
+            "domain": "allegro.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1204",
+            "name": "Mosaic Media",
+            "domain": "mosaicmedia.com.mx",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1028",
+            "name": "Mundo Ejecutivo",
+            "domain": "mundoejecutivo.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1056",
+            "name": "Grupo Mac",
+            "domain": "grupomacmultimedia.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "932",
+            "name": "Planete_verte",
+            "domain": "regieplaneteverte.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1189",
+            "name": "digischool",
+            "domain": "digischool.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "400",
+            "name": "Deezer",
+            "domain": "deezermedia.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3680",
+            "name": "RMF (Bauer Group)",
+            "domain": "rmf.fm",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1448",
+            "name": "Targeo.pl",
+            "domain": "indigo.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2674",
+            "name": "Adverline_standalone",
+            "domain": "theplacetobid.fr",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1058",
+            "name": "Sarigato_pub",
+            "domain": "sarigato.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "370",
+            "name": "REC",
+            "domain": "rueducommerce.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "117",
+            "name": "Viadeo",
+            "domain": "viadeo.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "104",
+            "name": "Culture G",
+            "domain": "cultureg.eu",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "62",
+            "name": "Skyboard",
+            "domain": "skyboardmedia.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1106",
+            "name": "Newcom",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1024",
+            "name": "Montevideo Red",
+            "domain": "montevideo.com.uy",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "250",
+            "name": "Letudiant",
+            "domain": "letudiant.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "367",
+            "name": "Menity",
+            "domain": "mensquare.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1030",
+            "name": "Invent",
+            "domain": "excelsior.com.mx",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "11",
+            "name": "Trafficking Solutions (Publishers)",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "438",
+            "name": "Medios Masivos",
+            "domain": "mediosmasivos.com.mx",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "259",
+            "name": "Ricardo",
+            "domain": "ricardocuisine.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1238",
+            "name": "Ozy Media",
+            "domain": "ozymandias.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1003",
+            "name": "Styria",
+            "domain": "sdo.at",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "946",
+            "name": "Wakeup Ad Network",
+            "domain": "agwakeup.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3343",
+            "name": "Latin America Media And Soft SA",
+            "domain": "taringa.net",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "646",
+            "name": "OnVista",
+            "domain": "onvista-media.de",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1108",
+            "name": "Freshmilk NetTV GmbH",
+            "domain": "freshmilk.tv",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1151",
+            "name": "El Pais",
+            "domain": "elpais.com.uy",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "241",
+            "name": "advice",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1079",
+            "name": "Adexon",
+            "domain": "yieldriser.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1020",
+            "name": "RedViewMedia",
+            "domain": "redviewmedia.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1290",
+            "name": "Webedia Germany",
+            "domain": "webedia-group.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "363",
+            "name": "netinfo_bg",
+            "domain": "netinfo.bg",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1097",
+            "name": "Themoneytizer",
+            "domain": "themoneytizer.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "500",
+            "name": "Melty",
+            "domain": "melty.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1057",
+            "name": "IDMnet",
+            "domain": "grupazpr.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1177",
+            "name": "Impresiones Aereas SA de CV",
+            "domain": "iasacomunicacion.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "911",
+            "name": "mb_diffusion",
+            "domain": "mb-diffusion.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1230",
+            "name": "Smart AD",
+            "domain": "smart-ad.si",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3109",
+            "name": "Lesechos_Leparisien_Medias",
+            "domain": "medias.lesechosleparisien.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1148",
+            "name": "Tarsago Polska",
+            "domain": "digitalcontact.pl",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "674",
+            "name": "HotNews.ro",
+            "domain": "hotnews.ro",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "795",
+            "name": "Trilulilu",
+            "domain": "trilulilu.ro",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2790",
+            "name": "Expansion",
+            "domain": "expansion.mx",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3082",
+            "name": "DAZN - Perform Group",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3543",
+            "name": "Digital Trends",
+            "domain": "digitaltrends.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2975",
+            "name": "PLS",
+            "domain": "plsfrance.org",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3340",
+            "name": "BayardHB",
+            "domain": "la-croix.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3110",
+            "name": "Leboncoin",
+            "domain": "corporate.leboncoin.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3504",
+            "name": "Supermedia",
+            "domain": "meetsuper.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3362",
+            "name": "ReworldMedia_Video",
+            "domain": "reworldmedia.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2281",
+            "name": "ThinkDigital Romania",
+            "domain": "thinkdigital.net",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1976",
+            "name": "Relevant  SuperSSP",
+            "domain": "relevant.fi",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2244",
+            "name": "Relevant Superssp SA",
+            "domain": "relevant.fi",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1543",
+            "name": "Microp Produksiyon",
+            "domain": "microponline.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1989",
+            "name": "Slash Media",
+            "domain": "sf.media",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1497",
+            "name": "mediaresponse",
+            "domain": "mediaresponse.es",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1667",
+            "name": "Sports Local Media",
+            "domain": "sportslocalmedia.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "688",
+            "name": "Idealista_PT",
+            "domain": "idealista.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "671",
+            "name": "Idealista_it",
+            "domain": "idealista.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1029",
+            "name": "ccma",
+            "domain": "ccma.cat",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "406",
+            "name": "Adorump",
+            "domain": "adorum.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2986",
+            "name": "La Razon",
+            "domain": "larazon.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2417",
+            "name": "wRealu24",
+            "domain": "wrealu24.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1746",
+            "name": "Televisa",
+            "domain": "televisa.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2269",
+            "name": "Grupo El Comercio",
+            "domain": "grupoelcomercio.com.pe",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1689",
+            "name": "Tidok",
+            "domain": "tidok.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1894",
+            "name": "Headway Digital",
+            "domain": "headwaydigital.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2440",
+            "name": "Norsk Helseinformatikk AS",
+            "domain": "nhi.no",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2424",
+            "name": "Odieden AB",
+            "domain": "holid.se",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2480",
+            "name": "Clipkit Turkey",
+            "domain": "clipkit.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2457",
+            "name": "Netdoktor Media AS",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2245",
+            "name": "Strossle",
+            "domain": "strossle.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1827",
+            "name": "Sublime",
+            "domain": "sublime.xyz",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1826",
+            "name": "Motors Regie",
+            "domain": "motorsregie.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1741",
+            "name": "Adthink",
+            "domain": "adthink.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1641",
+            "name": "Ad6Media",
+            "domain": "ad6media.fr",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2051",
+            "name": "Digital_Advert",
+            "domain": "digital-advert.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2136",
+            "name": "Gramica",
+            "domain": "gramica-africa.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1610",
+            "name": "S4M",
+            "domain": "s4m.io",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "934",
+            "name": "AVRAGE",
+            "domain": "avrageb2b.it",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "365",
+            "name": "IGN_Italia",
+            "domain": "it.ign.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1933",
+            "name": "EvolutionAdv",
+            "domain": "evolution-adv.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1899",
+            "name": "Cookie",
+            "domain": "cookiesrl.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1924",
+            "name": "Web365",
+            "domain": "web365.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1236",
+            "name": "ATHESIS",
+            "domain": "gruppoathesis.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2058",
+            "name": "Viralize",
+            "domain": "viralize.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1971",
+            "name": "Manzoni",
+            "domain": "manzoniadvertising.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1949",
+            "name": "Yobee",
+            "domain": "yobee.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2032",
+            "name": "Abingmedia",
+            "domain": "abingmedia.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1414",
+            "name": "Piemme",
+            "domain": "piemmeonline.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1444",
+            "name": "FOREBASE",
+            "domain": "forebase.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1496",
+            "name": "QUADRONICA",
+            "domain": "quadronica.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1614",
+            "name": "SMILING",
+            "domain": "smilingweb.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1552",
+            "name": "Third floor",
+            "domain": "nanalab.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2038",
+            "name": "Globoit",
+            "domain": "globoitmedia.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1876",
+            "name": "AKTIA",
+            "domain": "aktia.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1207",
+            "name": "AME",
+            "domain": "ame-online.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "875",
+            "name": "CiaoPeople",
+            "domain": "ciaopeople.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1247",
+            "name": "METUP",
+            "domain": "metup.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "874",
+            "name": "PreludeAdv",
+            "domain": "preludeadv.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1748",
+            "name": "Areaconcerti",
+            "domain": "areaconcerti.net",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "989",
+            "name": "NetAddiction",
+            "domain": "netaddiction.it",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1214",
+            "name": "EDISCOM",
+            "domain": "ediscom.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1436",
+            "name": "SEAPRESS",
+            "domain": "seapress.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2235",
+            "name": "SkuolaSprint",
+            "domain": "skuolasprint.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2258",
+            "name": "CalcioNapoli24",
+            "domain": "calcionapoli24.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2430",
+            "name": "diariodelweb",
+            "domain": "diariodelweb.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1406",
+            "name": "madvertise_it",
+            "domain": "madvertise.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "432",
+            "name": "comma",
+            "domain": "commaonline.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "929",
+            "name": "SpeeD",
+            "domain": "speedadv.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1965",
+            "name": "Publiedi",
+            "domain": "publiedi.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1228",
+            "name": "TALKSMEDIA",
+            "domain": "talksmedia.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3516",
+            "name": "BakecaSrl",
+            "domain": "bakeca.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1726",
+            "name": "R-Target",
+            "domain": "ccmbenchmark.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2317",
+            "name": "Ividence",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1495",
+            "name": "Cerise_media",
+            "domain": "groupecerise.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1988",
+            "name": "SF Media",
+            "domain": "letribunaldunet.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1874",
+            "name": "Beta et Compagnie",
+            "domain": "viedemerde.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1751",
+            "name": "Reverso",
+            "domain": "reverso.net",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1704",
+            "name": "EVONIA",
+            "domain": "affiz.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2044",
+            "name": "Antenne Reunion",
+            "domain": "antennereunion.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1897",
+            "name": "Booska-p",
+            "domain": "booska-p.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1900",
+            "name": "ParuVendu",
+            "domain": "booska-p.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2176",
+            "name": "Admysports",
+            "domain": "dailyfresh-media.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3400",
+            "name": "oorekahb",
+            "domain": "ooreka.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2338",
+            "name": "Psychologies",
+            "domain": "psychologies.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2491",
+            "name": "SmileWanted",
+            "domain": "smilewanted.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2194",
+            "name": "Idecom",
+            "domain": "e-orientations.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1818",
+            "name": "The Good Regie",
+            "domain": "ideat.thegoodhub.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1870",
+            "name": "Les Indes Radios",
+            "domain": "lesindesradios.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3658",
+            "name": "adleavesas",
+            "domain": "adleave.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2391",
+            "name": "Liberaux",
+            "domain": "contrepoints.org",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "93",
+            "name": "Canal+",
+            "domain": "canalplus.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1508",
+            "name": "Adversport",
+            "domain": "footmercato.net",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2296",
+            "name": "infos-grossesse",
+            "domain": "infos-grossesse.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2370",
+            "name": "Eliraweb",
+            "domain": "eliraweb.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1923",
+            "name": "Tracfone",
+            "domain": "tracfone.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2442",
+            "name": "MMK Group",
+            "domain": "mmkgroup.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2723",
+            "name": "CMI",
+            "domain": "cmi.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2502",
+            "name": "Artear",
+            "domain": "artear.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3146",
+            "name": "Grupo America",
+            "domain": "grupoamerica.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2005",
+            "name": "La Nacion",
+            "domain": "lanacion.com.ar",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3479",
+            "name": "Grupo Octubre",
+            "domain": "octubre.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1509",
+            "name": "Cinemad",
+            "domain": "cinemad.tv",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2191",
+            "name": "Big Bang News",
+            "domain": "bigbangnews.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2958",
+            "name": "performgroup",
+            "domain": "performgroup.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1041",
+            "name": "AdGage",
+            "domain": "adgage.es",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "863",
+            "name": "adUX Spain",
+            "domain": "adtriple.es",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1999",
+            "name": "Sun Media",
+            "domain": "sunmedia.tv",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2483",
+            "name": "iKreate",
+            "domain": "ikreate.es",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2506",
+            "name": "Grupo adslzone",
+            "domain": "adslzone.net",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2481",
+            "name": "Sibbo Ventures",
+            "domain": "sibboventures.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1484",
+            "name": "Totmedia",
+            "domain": "totmedia.cat",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2199",
+            "name": "Newsy",
+            "domain": "newsy.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3654",
+            "name": "BN Media",
+            "domain": "beliefnet.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1659",
+            "name": "pcbolsa",
+            "domain": "pcbolsa.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1963",
+            "name": "Infiniamobile",
+            "domain": "infiniamobile.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1565",
+            "name": "Delivery Media S.L",
+            "domain": "deliverymedia.es",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3673",
+            "name": "rba_ssb",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1743",
+            "name": "Adpone",
+            "domain": "adpone.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "13",
+            "name": "01net",
+            "domain": "nextms.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1289",
+            "name": "mozoo",
+            "domain": "mozoo.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2527",
+            "name": "ASK.FM",
+            "domain": "ask.fm",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2255",
+            "name": "VIONSOFT DOOEL",
+            "domain": "vion.mk",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2328",
+            "name": "Ztools",
+            "domain": "ztools.ro",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "991",
+            "name": "Mediapro",
+            "domain": "mediapro.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1510",
+            "name": "SAPO",
+            "domain": "sapo.pt",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1405",
+            "name": "Webedia Espagne",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2049",
+            "name": "Mediaset Espana",
+            "domain": "mediaset.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2441",
+            "name": "Rich Audience Spain",
+            "domain": "richaudience.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2007",
+            "name": "EITB",
+            "domain": "eitb.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2360",
+            "name": "decine21",
+            "domain": "estrenos21.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1439",
+            "name": "Carreras Populares",
+            "domain": "carreraspopulares.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1607",
+            "name": "tve",
+            "domain": "rtve.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1445",
+            "name": "Adspotmedia",
+            "domain": "adspotmedia.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1926",
+            "name": "In-Store Media",
+            "domain": "in-storemedia.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1569",
+            "name": "luike",
+            "domain": "luike.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2155",
+            "name": "Mi Bebe y yo",
+            "domain": "mibebeyyo.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1778",
+            "name": "El Nacional.cat",
+            "domain": "elnacional.cat",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2157",
+            "name": "Economia Digital",
+            "domain": "economiadigital.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2063",
+            "name": "Mobyd",
+            "domain": "ydigitalmedia.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1824",
+            "name": "AgileAds",
+            "domain": "agilecontent.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1426",
+            "name": "El Confidencial Digital",
+            "domain": "elconfidencialdigital.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1927",
+            "name": "red77",
+            "domain": "red77.net",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2486",
+            "name": "Global Media Group",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3602",
+            "name": "Ampliffy_ssb",
+            "domain": "ampliffy.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "774",
+            "name": "Compania de RadioTelevision de Galicia",
+            "domain": "crtvg.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1203",
+            "name": "SCG Aquitania SL",
+            "domain": "naciodigital.cat",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "50",
+            "name": "GMC",
+            "domain": "marieclaire.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1901",
+            "name": "Playtem",
+            "domain": "playtem.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1013",
+            "name": "Diario do Grande ABC",
+            "domain": "dgabc.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1931",
+            "name": "Brazil Premium Ads",
+            "domain": "premiumads.com.br",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1262",
+            "name": "Grupo RCC",
+            "domain": "acritica.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2478",
+            "name": "Latam Digital Ventures",
+            "domain": "latamdigital.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2210",
+            "name": "sonital",
+            "domain": "sonital.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1684",
+            "name": "Radio Metro 95.1",
+            "domain": "metro951.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1786",
+            "name": "Telefe",
+            "domain": "telefe.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3464",
+            "name": "Omelete RTB",
+            "domain": "omelete.uol.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2447",
+            "name": "SimpleAds",
+            "domain": "simpleads.com.br",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "497",
+            "name": "DEFINE MEDIA GMBH",
+            "domain": "definemedia.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1408",
+            "name": "madvertise_de",
+            "domain": "madvertise.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2382",
+            "name": "YOC Mobile Advertising Ltd",
+            "domain": "yoc.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2161",
+            "name": "Showheroes GmbH",
+            "domain": "showheroes.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2103",
+            "name": "YOC Central Eastern Europe GmbH",
+            "domain": "yoc.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2416",
+            "name": "Yieldlove GmbH",
+            "domain": "yieldlove.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2461",
+            "name": "GWI Media Technologies GmbH",
+            "domain": "gw-interactive.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2003",
+            "name": "netpoint media gmbh",
+            "domain": "netpoint-media.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1605",
+            "name": "Bulzi Media Inc.",
+            "domain": "bulzi.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1343",
+            "name": "Cavixo",
+            "domain": "cavixo.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1858",
+            "name": "Naspers Classifieds",
+            "domain": "olx.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "710",
+            "name": "Wirtualna Polska",
+            "domain": "onas.wp.pl",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1141",
+            "name": "Ads Interactive",
+            "domain": "adsinteractive.hu",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3386",
+            "name": "Edipresse",
+            "domain": "edipresse.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1331",
+            "name": "PubGalaxy",
+            "domain": "pubgalaxy.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2065",
+            "name": "Grupa Interia.pl",
+            "domain": "interia.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "747",
+            "name": "Polskapresse",
+            "domain": "polskapress.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2219",
+            "name": "DIR.BG",
+            "domain": "dir.bg",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1423",
+            "name": "RoyalAd",
+            "domain": "royalad.pl",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1644",
+            "name": "I.R.V.",
+            "domain": "irv.si",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2079",
+            "name": "optAd360",
+            "domain": "optad360.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "386",
+            "name": "Onet",
+            "domain": "mediaimpact.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1671",
+            "name": "MOVIads",
+            "domain": "moviads.pl",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2278",
+            "name": "OLX Bulgaria",
+            "domain": "olx.bg",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1660",
+            "name": "Gremi Business Communication",
+            "domain": "gremimedia.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1947",
+            "name": "Bonnier Business Polska",
+            "domain": "bonnier.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2114",
+            "name": "Filmweb",
+            "domain": "filmweb.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1994",
+            "name": "Admixer",
+            "domain": "sales.admixer.ua",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2354",
+            "name": "QRTB",
+            "domain": "qrtb.pl",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2859",
+            "name": "INFINETY.HU",
+            "domain": "infinety.hu",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1206",
+            "name": "Central Mediacsoport",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3484",
+            "name": "economia",
+            "domain": "economia.cz",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3164",
+            "name": "natemat",
+            "domain": "natemat.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1740",
+            "name": "TVN",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3548",
+            "name": "adprime",
+            "domain": "adprime.pl",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2698",
+            "name": "MARQUARD MEDIA POLSKA",
+            "domain": "marquard.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2792",
+            "name": "Ringier Romania",
+            "domain": "ringier.ro",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1313",
+            "name": "adtiger",
+            "domain": "adtiger.de",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1381",
+            "name": "Ceramex Media GmbH",
+            "domain": "schaltplatz.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "420",
+            "name": "Gameswelt",
+            "domain": "gameswelt.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1388",
+            "name": "AddApptr GmbH",
+            "domain": "addapptr.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3213",
+            "name": "gutefrage",
+            "domain": "highfivve.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3527",
+            "name": "setupad.com",
+            "domain": "setupad.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1938",
+            "name": "Naspers Classifieds Romania",
+            "domain": "olx.ro",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1887",
+            "name": "Reisegiganten",
+            "domain": "reisegiganten.no",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2808",
+            "name": "Ulike",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2302",
+            "name": "Reseguiden Interactive AB",
+            "domain": "reseguiden.se",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2292",
+            "name": "Gaffa DK ApS",
+            "domain": "gaffa.dk",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3357",
+            "name": "Carambola",
+            "domain": "carambola.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1099",
+            "name": "Media One Contact SA",
+            "domain": "mediaone.ch",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2272",
+            "name": "Netdoktor SE AB",
+            "domain": "netdoktor.se",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2060",
+            "name": "AdAsia Holdings Limited",
+            "domain": "adasiaholdings.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3112",
+            "name": "Blutonic_COED",
+            "domain": "blutonic.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1996",
+            "name": "Jump Ramp Games",
+            "domain": "jumprampgames.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2511",
+            "name": "Curiosity Media",
+            "domain": "spanishdict.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2934",
+            "name": "Financial Times",
+            "domain": "ft.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3603",
+            "name": "Whitepages Inc.",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2875",
+            "name": "CAVIXO PREMIUM",
+            "domain": "cavixo.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3324",
+            "name": "Pomo Media Group Sro (CSFD)",
+            "domain": "csfd.cz",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3632",
+            "name": "4w MarketPlace",
+            "domain": "4wmarketplace.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2132",
+            "name": "TronTV",
+            "domain": "trontv.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2703",
+            "name": "Pulpo Media",
+            "domain": "pulpomedia.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2149",
+            "name": "PROGRAMMATIC",
+            "domain": "programmatic.cz",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2910",
+            "name": "R2B2",
+            "domain": "r2b2.cz",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3262",
+            "name": "Insticator",
+            "domain": "insticator.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2546",
+            "name": "Weblogs SL",
+            "domain": "weblogssl.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2664",
+            "name": "Blue Media Spain",
+            "domain": "bluemedia.es",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3648",
+            "name": "Dos Mil Palabras",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2256",
+            "name": "Zoom.in Deutschland GmbH",
+            "domain": "zoomin.tv",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2879",
+            "name": "Fluiddo",
+            "domain": "fluiddo.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3010",
+            "name": "Webedia LATAM",
+            "domain": "webedia-group.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2597",
+            "name": "Revenue Maker",
+            "domain": "revenuemaker.es",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2537",
+            "name": "HICMOBILE",
+            "domain": "hicmobile.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2846",
+            "name": "Zedo",
+            "domain": "zedo.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "687",
+            "name": "Idealista_com",
+            "domain": "idealista.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2246",
+            "name": "Styria_avp",
+            "domain": "sdo.at",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1363",
+            "name": "YOC Mobile Advertising GmbH",
+            "domain": "yoc.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2807",
+            "name": "Cabroworld",
+            "domain": "cabroworld.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2786",
+            "name": "Red Pineapple Media GmbH",
+            "domain": "redpineapplemedia.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2612",
+            "name": "MovingUp",
+            "domain": "movingup.it",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2553",
+            "name": "Radiosa",
+            "domain": "radiosa.biz",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2618",
+            "name": "MindBlast",
+            "domain": "mindblast.it",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2584",
+            "name": "MediaMob",
+            "domain": "mediamob.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2579",
+            "name": "AMM",
+            "domain": "ammadv.it",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2661",
+            "name": "IGPDecaux",
+            "domain": "igpdecaux.it",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3052",
+            "name": "MWD",
+            "domain": "kongmedia.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2596",
+            "name": "Zenext",
+            "domain": "zenext.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2422",
+            "name": "MonsterMedia",
+            "domain": "mmg.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2289",
+            "name": "Project Agora",
+            "domain": "projectagora.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2236",
+            "name": "SmartadsCZ",
+            "domain": "smartads.cz",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2220",
+            "name": "Meetic Publisher",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1342",
+            "name": "MetricsMonster",
+            "domain": "advit.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1180",
+            "name": "Edizioni Universo",
+            "domain": "universopubblicita.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1175",
+            "name": "Way to Grow",
+            "domain": "waytogrow.eu",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "618",
+            "name": "Aventers",
+            "domain": "aventers.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2640",
+            "name": "Rich Audience International",
+            "domain": "richaudience.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2655",
+            "name": "Delidatax",
+            "domain": "delidatax.net",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2937",
+            "name": "APEX TECH HOLDING LIMITED",
+            "domain": "apusapps.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2816",
+            "name": "BTS Informa",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2891",
+            "name": "El Espanol",
+            "domain": "elespanol.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2672",
+            "name": "Wallapop",
+            "domain": "es.wallapop.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2581",
+            "name": "Adexon SSP",
+            "domain": "yieldriser.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3193",
+            "name": "notmusamx",
+            "domain": "digital.notmusa.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2946",
+            "name": "Linicom",
+            "domain": "linicom.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2628",
+            "name": "Sync.tv",
+            "domain": "sync.tv",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2638",
+            "name": "CCM_Benchmark",
+            "domain": "ccmbenchmark.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2694",
+            "name": "Leeads",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2820",
+            "name": "Minuto30",
+            "domain": "minuto30.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3494",
+            "name": "IPM Group",
+            "domain": "ipmadvertising.be",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2611",
+            "name": "YOC Poland",
+            "domain": "yoc.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2900",
+            "name": "Moneytag",
+            "domain": "moneytag.fr",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3135",
+            "name": "La Region",
+            "domain": "laregion.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3344",
+            "name": "Lepoint",
+            "domain": "lepoint.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2858",
+            "name": "Peradigital",
+            "domain": "peradigital.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3035",
+            "name": "Openhost",
+            "domain": "openhost.es",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2545",
+            "name": "Relevant_Netpool_Foreca",
+            "domain": "netpool.net",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2782",
+            "name": "reachmedia",
+            "domain": "reachmedia.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2776",
+            "name": "video intelligence AG",
+            "domain": "vi.ai",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3246",
+            "name": "Infopro",
+            "domain": "infopro-digital.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2826",
+            "name": "newdream",
+            "domain": "newdreamglobalcorp.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2852",
+            "name": "Smarty Content Americas",
+            "domain": "redmas.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3101",
+            "name": "Mediastream",
+            "domain": "mediastre.am",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2842",
+            "name": "Minga Digital",
+            "domain": "mingadigital.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2855",
+            "name": "JoeTec Networks",
+            "domain": "joetec.net",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2843",
+            "name": "Embi Media",
+            "domain": "embi-media.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2850",
+            "name": "LISTONIC.PL",
+            "domain": "listonic.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2905",
+            "name": "Prim3time Media",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3060",
+            "name": "Latinon",
+            "domain": "latinon.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2863",
+            "name": "Audiencias Premium",
+            "domain": "audienciaspremium.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3397",
+            "name": "Mas Comunicacion",
+            "domain": "mascomunicacion.com.mx",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2861",
+            "name": "YIELDBIRD.COM.PREMIUM",
+            "domain": "yieldbird.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3012",
+            "name": "Marketnews24.pl",
+            "domain": "marketnews24.pl",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2883",
+            "name": "eADV",
+            "domain": "eadv.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2887",
+            "name": "YowiTV",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2888",
+            "name": "Difoosion",
+            "domain": "difoosion.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3070",
+            "name": "Clickio",
+            "domain": "adexchange.clickio.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2918",
+            "name": "Epoch Times",
+            "domain": "epochtimes.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2898",
+            "name": "Cote Maison",
+            "domain": "cotemaison.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2933",
+            "name": "Volantis Digital Media LLP",
+            "domain": "volantisdigital.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2969",
+            "name": "Amaury-Media",
+            "domain": "lequipe.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3328",
+            "name": "Vidillion",
+            "domain": "vidillion.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2974",
+            "name": "Impactify",
+            "domain": "impactify.io",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2926",
+            "name": "Sarmiento",
+            "domain": "sarmiento.net",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2930",
+            "name": "PressCommTech",
+            "domain": "presscommtech.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3001",
+            "name": "Hadoq",
+            "domain": "hadoq.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3017",
+            "name": "Tappx Video",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2959",
+            "name": "VanguardiaMX",
+            "domain": "vanguardia.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3019",
+            "name": "Digital ID",
+            "domain": "digitalid.bg",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3272",
+            "name": "El Diario de Prensa Digital SL",
+            "domain": "eldiario.es",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3544",
+            "name": "SkyItalia",
+            "domain": "sky.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2957",
+            "name": "dailyme TV",
+            "domain": "dailyme.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3407",
+            "name": "PrisaCO",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2967",
+            "name": "SnigelWeb",
+            "domain": "snigelweb.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2938",
+            "name": "seedtag video",
+            "domain": "seedtag.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2951",
+            "name": "SunMedia Native",
+            "domain": "mobusi.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2962",
+            "name": "LuciaSeCasa",
+            "domain": "luciasecasa.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2489",
+            "name": "Planet",
+            "domain": "planet-advertising.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2980",
+            "name": "INSTAL",
+            "domain": "instal.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3074",
+            "name": "BrokerAdv",
+            "domain": "brokeradv.cl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1407",
+            "name": "Webedia Turkey",
+            "domain": "fr.webedia-group.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2979",
+            "name": "Vignoli",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2881",
+            "name": "Grupo NZN RTB",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3032",
+            "name": "PUBLY",
+            "domain": "publy.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3015",
+            "name": "Buscape",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3067",
+            "name": "4all",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2999",
+            "name": "Kaleva",
+            "domain": "kaleva.fi",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2998",
+            "name": "Turun Sanoma",
+            "domain": "ts.fi",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2997",
+            "name": "I-Mediat",
+            "domain": "i-mediat.fi",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "2995",
+            "name": "Dream Ad",
+            "domain": "brightcom.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3199",
+            "name": "24-horas",
+            "domain": "24-horas.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3371",
+            "name": "Primero y Diez",
+            "domain": "primeroydiez.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3642",
+            "name": "En Cancha cl",
+            "domain": "encancha.cl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3005",
+            "name": "Marfeel",
+            "domain": "marfeel.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3046",
+            "name": "HeyMatic srl",
+            "domain": "heymatic.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3205",
+            "name": "Mercado Livre",
+            "domain": "mercadolivre.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3056",
+            "name": "AppMonet",
+            "domain": "appmonet.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3622",
+            "name": "Viacom",
+            "domain": "viacom.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3512",
+            "name": "kwejk",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3048",
+            "name": "Tweakbox",
+            "domain": "tweakboxapp.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3018",
+            "name": "Diario",
+            "domain": "diario.mx",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3054",
+            "name": "InternetMarketingStrategiesLLC",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3050",
+            "name": "Seedtag",
+            "domain": "seedtag.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3232",
+            "name": "InMobi",
+            "domain": "inmobi.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3063",
+            "name": "Altice",
+            "domain": "nextms.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3066",
+            "name": "Openhost Premium",
+            "domain": "openhost.es",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3252",
+            "name": "Phonearena",
+            "domain": "phonearena.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3117",
+            "name": "Smaato Inc.",
+            "domain": "smaato.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3085",
+            "name": "Studia Rapido",
+            "domain": "studiarapido.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3600",
+            "name": "VIX Latam",
+            "domain": "vix.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3560",
+            "name": "Lagardere Publicite",
+            "domain": "lagardere.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3647",
+            "name": "El Salvador",
+            "domain": "elsalvador.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3042",
+            "name": "Adincube",
+            "domain": "ogury.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3160",
+            "name": "Apester_RTB",
+            "domain": "apester.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3099",
+            "name": "Realtid media",
+            "domain": "realtidmedia.se",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3108",
+            "name": "AU Media",
+            "domain": "news.abounderrattelser.fi",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3308",
+            "name": "Adbeacon",
+            "domain": "adbeacon.si",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3107",
+            "name": "LQR Participations",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3177",
+            "name": "ScreenOnDemand",
+            "domain": "vlyby.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3111",
+            "name": "YOC Netherland",
+            "domain": "yoc.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3446",
+            "name": "OLX Latam",
+            "domain": "olx.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3119",
+            "name": "AdAsta",
+            "domain": "adasta.it",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3154",
+            "name": "ElPaisColombia",
+            "domain": "elpais.com.co",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3626",
+            "name": "La Patria CO",
+            "domain": "lapatria.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3172",
+            "name": "Orange Click Media",
+            "domain": "orangeclickmedia.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3128",
+            "name": "Zygon Digital",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3121",
+            "name": "Wisead",
+            "domain": "wisead.es",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3130",
+            "name": "TecnicheNuove",
+            "domain": "tecnichenuove.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3129",
+            "name": "GoodMove",
+            "domain": "goodmove.media",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3259",
+            "name": "OLX UA",
+            "domain": "olx.ua",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3284",
+            "name": "OLX KZ",
+            "domain": "olx.kz",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3153",
+            "name": "Creative Research",
+            "domain": "playtem.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "1309",
+            "name": "Salesoar",
+            "domain": "salesoar.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3384",
+            "name": "El Universal Co",
+            "domain": "eluniversal.com.co",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3191",
+            "name": "Concursos no Brasil",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3176",
+            "name": "Adlive",
+            "domain": "adlive.io",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3064",
+            "name": "Forebase BD",
+            "domain": "forebase.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3247",
+            "name": "Rakuten",
+            "domain": "rakutenmarketing.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3183",
+            "name": "GotChosen RTB",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3500",
+            "name": "Current_media",
+            "domain": "current.us",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3197",
+            "name": "Tecnoblog",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3345",
+            "name": "AsteriNetworks",
+            "domain": "asteriholdings.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3203",
+            "name": "Manatee",
+            "domain": "manatee.dk",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3211",
+            "name": "Seedtag LATAM",
+            "domain": "seedtag.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3335",
+            "name": "MGID",
+            "domain": "mgid.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3206",
+            "name": "O Dia",
+            "domain": "odia.ig.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3243",
+            "name": "Webedia Header Bidding",
+            "domain": "fr.webedia-group.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3230",
+            "name": "Vinted LT",
+            "domain": "vinted.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3489",
+            "name": "Hispanic Exchange",
+            "domain": "hispanicexchange.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3228",
+            "name": "Full Lab",
+            "domain": "fulllab.com.br",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3225",
+            "name": "Solution Programatica",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3227",
+            "name": "EightSigns",
+            "domain": "eightsigns.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3432",
+            "name": "JustPremium",
+            "domain": "justpremium.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3545",
+            "name": "Overwolf",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3217",
+            "name": "BeintooAdServer",
+            "domain": "beintoo.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3276",
+            "name": "Vidoomy LATAM",
+            "domain": "Vidoomy.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3235",
+            "name": "Allenby House",
+            "domain": "allenby.co.il",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3238",
+            "name": "Infolinks(US)",
+            "domain": "infolinks.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3234",
+            "name": "Sold",
+            "domain": "sold.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3256",
+            "name": "AdApex",
+            "domain": "apexadv.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3610",
+            "name": "Ouest France",
+            "domain": "ouest-france.fr",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3270",
+            "name": "IQDigital",
+            "domain": "iqdigital.us",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3241",
+            "name": "Boursorama SSP",
+            "domain": "boursorama.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3301",
+            "name": "Candowell",
+            "domain": "candowell.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3331",
+            "name": "Lobulo Media",
+            "domain": "lobulomedia.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3300",
+            "name": "JersulemPost",
+            "domain": "jpost.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3643",
+            "name": "Recognified",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3319",
+            "name": "ThirdPresence",
+            "domain": "learn.thirdpresence.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3296",
+            "name": "CirclesNetwork",
+            "domain": "rockcircle.it",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3286",
+            "name": "Relappro",
+            "domain": "relappro.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3175",
+            "name": "ThinkDigital Romania PMP",
+            "domain": "thinkdigital.net",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3297",
+            "name": "Khronos Publishing",
+            "domain": "khronospublishing.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3352",
+            "name": "Azteca Noreste",
+            "domain": "info7.mx",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3278",
+            "name": "ICardoo Digital Marketing Srl",
+            "domain": "headerbidding.agency",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3265",
+            "name": "MediaStrike",
+            "domain": "media-strike.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3470",
+            "name": "The Start Magazine",
+            "domain": "taboola.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3366",
+            "name": "IP Belgium",
+            "domain": "ipb.be",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3295",
+            "name": "VertisMedia",
+            "domain": "vertismedia.co.uk",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3277",
+            "name": "WMG International",
+            "domain": "wmgroup.us",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3382",
+            "name": "wemass",
+            "domain": "wemass.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3311",
+            "name": "RandomElementsMedia",
+            "domain": "randomem.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3320",
+            "name": "9Giga",
+            "domain": "9giga.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3305",
+            "name": "Refinery89",
+            "domain": "refinery89.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3481",
+            "name": "Grupo Megamedia",
+            "domain": "yucatan.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3282",
+            "name": "Berria",
+            "domain": "berria.eus",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3285",
+            "name": "Sataku",
+            "domain": "sarigato.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3351",
+            "name": "First Media",
+            "domain": "first.media",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3355",
+            "name": "Yapo",
+            "domain": "yapo.cl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3307",
+            "name": "GiftLoopSmart",
+            "domain": "giftloop.co",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3306",
+            "name": "CastboxRTB",
+            "domain": "castbox.fm",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3326",
+            "name": "AtomikAd Srl",
+            "domain": "atomikad.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3336",
+            "name": "Tan-media",
+            "domain": "tan-media.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3365",
+            "name": "Involved Media",
+            "domain": "involvedmedia.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3318",
+            "name": "Intersoft d.o.o",
+            "domain": "klix.ba",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3323",
+            "name": "Adquota Latvia Sia",
+            "domain": "adquota.lv",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3334",
+            "name": "AdMetrics Pro",
+            "domain": "admetricspro.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3483",
+            "name": "MavenMedia",
+            "domain": "maven.io",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3329",
+            "name": "RBS RTB",
+            "domain": "gruporbs.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3525",
+            "name": "Freestar_smart",
+            "domain": "freestar.io",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3376",
+            "name": "Galaxie-Media",
+            "domain": "galaxiemedia.fr",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3550",
+            "name": "NBC Universal",
+            "domain": "telemundo.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3327",
+            "name": "NetMediaClick",
+            "domain": "netmediaclick.it",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3332",
+            "name": "Datawad",
+            "domain": "datawad.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3325",
+            "name": "Valica Srl",
+            "domain": "valica.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3354",
+            "name": "Nano Interactive Gmbh",
+            "domain": "nanointeractive.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3425",
+            "name": "Perfect365",
+            "domain": "perfect365.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3350",
+            "name": "Trebel_Music",
+            "domain": "trebel.io",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3398",
+            "name": "Veovee",
+            "domain": "veovee.pl",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3663",
+            "name": "Pixfuture",
+            "domain": "pixfuture.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3433",
+            "name": "ADWEB",
+            "domain": "adweb.gr",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3342",
+            "name": "Appo-Group",
+            "domain": "appo-group.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3341",
+            "name": "Playmedia",
+            "domain": "play.tv",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3668",
+            "name": "Union Media Limited",
+            "domain": "thereisntawebsiteyet",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3498",
+            "name": "Hexagon",
+            "domain": "hexagondata.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3396",
+            "name": "HornetApp",
+            "domain": "hornet.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3486",
+            "name": "UGitGud",
+            "domain": "u.gg",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3401",
+            "name": "Textnow",
+            "domain": "textnow.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3347",
+            "name": "Piximedia",
+            "domain": "piximedia.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3492",
+            "name": "miitis",
+            "domain": "miitis.ai",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3356",
+            "name": "Truvid",
+            "domain": "truvid.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3359",
+            "name": "Vagas",
+            "domain": "vagas.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3491",
+            "name": "RMB",
+            "domain": "rmb.be",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3337",
+            "name": "OLX Brasil",
+            "domain": "olx.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3436",
+            "name": "McCann Disciplines LTD",
+            "domain": "primis.tech",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3426",
+            "name": "iPROM d.o.o.",
+            "domain": "iprom.si",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3480",
+            "name": "ModaIt",
+            "domain": "modait.com.br",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3353",
+            "name": "M32",
+            "domain": "m32connect.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3364",
+            "name": "Homepal",
+            "domain": "homepal.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3383",
+            "name": "HugeadTV",
+            "domain": "hugeadtv.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3373",
+            "name": "storyflash GmbH",
+            "domain": "storyflash.de",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3358",
+            "name": "YMonetize",
+            "domain": "ymonetize.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3521",
+            "name": "CMIREGIE",
+            "domain": "cmimedia.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3361",
+            "name": "Adnet Media",
+            "domain": "adnetmedia.lt",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3445",
+            "name": "Digital Media Technologies SLU (Scroller Ads)",
+            "domain": "scrollerads.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3372",
+            "name": "LightDesign",
+            "domain": "llw.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3506",
+            "name": "HotbookLopezDoriga",
+            "domain": "hotbook.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3450",
+            "name": "FeedAd GmbH",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3379",
+            "name": "Opti-Digital",
+            "domain": "optidigital.fr",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3468",
+            "name": "Bussolaweb",
+            "domain": "bussolaweb.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3392",
+            "name": "Bliink",
+            "domain": "bliink.io",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3402",
+            "name": "KIOSKED",
+            "domain": "kiosked.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3389",
+            "name": "Bricks",
+            "domain": "viously.com",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3434",
+            "name": "Nacion 321",
+            "domain": "nacion321.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3410",
+            "name": "videonow",
+            "domain": "viqeo.tv",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3408",
+            "name": "AtTheRaces",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3490",
+            "name": "Venatus Media Limited",
+            "domain": "venatusmedia.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3449",
+            "name": "Wikr",
+            "domain": "wikrgroup.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3411",
+            "name": "onvista Prebid",
+            "domain": "onvista-media.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3456",
+            "name": "GINMedia",
+            "domain": "ginmedia.com.mx",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3393",
+            "name": "Zygon RTB+",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3563",
+            "name": "Taboola",
+            "domain": "taboola.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3621",
+            "name": "Spil Games",
+            "domain": "spilgames.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3462",
+            "name": "Inquirer Interactive Inc",
+            "domain": "inquirer.net",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3412",
+            "name": "Azteca Mexico",
+            "domain": "aztecaamerica.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3431",
+            "name": "24h Online Advertising Jsc",
+            "domain": "24h.com.vn",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3447",
+            "name": "Duration_Media",
+            "domain": "durationmedia.net",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3599",
+            "name": "MVPSportsMarketing",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3551",
+            "name": "GiveMeSport",
+            "domain": "givemesport.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3439",
+            "name": "entravision",
+            "domain": "limpid.tv",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3485",
+            "name": "Brandigic",
+            "domain": "brandigic.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3463",
+            "name": "EITBNET S.A (Euskadi PMP)",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3438",
+            "name": "AGEA",
+            "domain": "clarin.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3461",
+            "name": "Vetrya SpA",
+            "domain": "vetrya.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3453",
+            "name": "Aluna",
+            "domain": "aluna.co",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3474",
+            "name": "PML Latam",
+            "domain": "pmlatam.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3457",
+            "name": "Cronica Global Media SL",
+            "domain": "cronicaglobal.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3482",
+            "name": "High Rev Ads",
+            "domain": "highrevads.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3502",
+            "name": "absolutist",
+            "domain": "absolutist.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3459",
+            "name": "revenuemaker_es",
+            "domain": "revenuemaker.es",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3514",
+            "name": "insurads",
+            "domain": "insurads.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3515",
+            "name": "Streann",
+            "domain": "streann.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3395",
+            "name": "Le Figaro HB",
+            "domain": "media.figaro.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3476",
+            "name": "Thanks to You",
+            "domain": "web.thankstoyou.co",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3501",
+            "name": "SCM Suomi Oy",
+            "domain": "tori.fi",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3469",
+            "name": "Etermax2",
+            "domain": "etermax.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3536",
+            "name": "Digiteka",
+            "domain": "digiteka.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3513",
+            "name": "KoiAdvertising",
+            "domain": "it.linkedin.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3503",
+            "name": "adsparc_APAC",
+            "domain": "adsparc.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3472",
+            "name": "naciodigital_adolescent",
+            "domain": "naciodigital.cat",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3522",
+            "name": "EgamiTV",
+            "domain": "egami.tv",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3633",
+            "name": "Ultimate Guitar",
+            "domain": "ultimate-guitar.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3509",
+            "name": "Gamebid SRL",
+            "domain": "ideastudios.ro",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3533",
+            "name": "Hometalk",
+            "domain": "hometalk.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3508",
+            "name": "AdvertDigital",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3569",
+            "name": "ObjectiveRTB",
+            "domain": "object1ve.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3553",
+            "name": "Blavity Inc.",
+            "domain": "blavity.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3644",
+            "name": "WTOP",
+            "domain": "wtop.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3542",
+            "name": "Jobrapido",
+            "domain": "it.jobrapido.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3523",
+            "name": "iberion",
+            "domain": "iberion.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3524",
+            "name": "InnovaMedia",
+            "domain": "innovamedia.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3661",
+            "name": "Swift Media Entertainment",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3526",
+            "name": "MDS",
+            "domain": "mediastay.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3530",
+            "name": "Automoto",
+            "domain": "automoto.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3539",
+            "name": "gadugadu",
+            "domain": "gg.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3532",
+            "name": "Booster",
+            "domain": "booster3d.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3570",
+            "name": "Grupo Editorial Mundo",
+            "domain": "editorialmundo.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3552",
+            "name": "Zee Entertainment",
+            "domain": "zeeentertainment.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3537",
+            "name": "Aranzulla",
+            "domain": "aranzulla.it",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3556",
+            "name": "Hej",
+            "domain": "hej.ai",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3555",
+            "name": "And Beyond Media",
+            "domain": "",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3564",
+            "name": "Lemma",
+            "domain": "lemmatechnologies.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3561",
+            "name": "Glewed TV",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3630",
+            "name": "Connatix",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3660",
+            "name": "Arkadium",
+            "domain": "",
+            "seller_type": "BOTH",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3562",
+            "name": "EBRA",
+            "domain": "ebra.fr",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3576",
+            "name": "appgeneration",
+            "domain": "appgeneration.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3568",
+            "name": "Futbol Sites",
+            "domain": "futbolsites.net",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3605",
+            "name": "Playbuzz Latam",
+            "domain": "playbuzz.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3635",
+            "name": "Snopes",
+            "domain": "snopes.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3634",
+            "name": "RentPath",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3573",
+            "name": "the binary family",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3625",
+            "name": "Kidoodle TV",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3574",
+            "name": "Vagalume",
+            "domain": "vagalume.com.br",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3571",
+            "name": "Media Impact (OB)",
+            "domain": "mediaimpact.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3674",
+            "name": "Medical Tribune",
+            "domain": "podyplomie.pl",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3638",
+            "name": "EAT SMARTER",
+            "domain": "eatsmarter.de",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3614",
+            "name": "AreaVibes",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3607",
+            "name": "Market Inside Media GmbH",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3608",
+            "name": "ABC New Media AG",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3611",
+            "name": "adKaora",
+            "domain": "adkaora.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3619",
+            "name": "Rave",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3612",
+            "name": "Northern & Shell",
+            "domain": "northernandshell.co.uk",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3629",
+            "name": "123Greetings.com",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3627",
+            "name": "Admixer EU",
+            "domain": "admixer.net",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3636",
+            "name": "Business on Web",
+            "domain": "",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3669",
+            "name": "Dadsolution - Supply FR",
+            "domain": "dadsolutions.fr",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3640",
+            "name": "Pricerunner",
+            "domain": "pricerunner.se",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3641",
+            "name": "Gemius Serbia",
+            "domain": "adocean-global.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3672",
+            "name": "Gemius HU",
+            "domain": "adocean-global.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3650",
+            "name": "LADbible Group",
+            "domain": "ladbible.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3657",
+            "name": "Ride The World",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3646",
+            "name": "Rough Maps",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3655",
+            "name": "Village Media",
+            "domain": "",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3651",
+            "name": "Pixnet",
+            "domain": "pixnet.net",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3653",
+            "name": "Headerlift",
+            "domain": "headerlift.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3656",
+            "name": "Dexerto Ltd",
+            "domain": "dexerto.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3649",
+            "name": "Sercanto",
+            "domain": "sercanto.com",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3681",
+            "name": "MYVIDEOPLACE",
+            "domain": "viagrandparis.tv",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3676",
+            "name": "Lee Enterprises",
+            "domain": "lee.net",
+            "seller_type": "PUBLISHER",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3497",
+            "name": "Karkimedia PMP",
+            "domain": "karkimedia.fi",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        },
+        {
+            "seller_id": "3675",
+            "name": "Gemius HQ",
+            "domain": "adocean-global.com",
+            "seller_type": "INTERMEDIARY",
+            "is_confidential": 0
+        }
+    ]
+}

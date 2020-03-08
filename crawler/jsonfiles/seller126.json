@@ -1,0 +1,2005 @@
+{
+    "contact_address": "Newor Media, LLC, 23 Riverview Rd Killingworth, Connecticut7",
+    "contact_email": "hello@newormedia.com",
+    "version": "1.0",
+    "identifiers": [
+        {
+            "name": "DUNS",
+            "value": "114187980"
+        }
+    ],
+    "sellers": [
+        {
+            "seller_id": "7414",
+            "name": "Sharks World",
+            "domain": "www.sharks-world.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7413",
+            "name": "Dolphins World",
+            "domain": "www.dolphins-world.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7404",
+            "name": "Hollywood News",
+            "domain": "www.hollywoodnews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7395",
+            "name": "Sketch OK",
+            "domain": "sketchok.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7368",
+            "name": "The Vehicle Lab",
+            "domain": "www.thevehiclelab.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7311",
+            "name": "Eco-Secretariat",
+            "domain": "www.ecosecretariat.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7310",
+            "name": "Tuxedo Cat",
+            "domain": "www.tuxedo-cat.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7299",
+            "name": "Job Monkey Jobs",
+            "domain": "www.jobmonkeyjobs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7298",
+            "name": "Job Monkey",
+            "domain": "www.jobmonkey.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7270",
+            "name": "Jeff Lenney",
+            "domain": "jefflenney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7259",
+            "name": "Cancelled Shows TV",
+            "domain": "cancelledshowstv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7257",
+            "name": "Next Season TV",
+            "domain": "nextseasontv.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7234",
+            "name": "Camp Addict",
+            "domain": "campaddict.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7215",
+            "name": "Ask Python ",
+            "domain": "www.askpython.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7157",
+            "name": "Tropical Fish Care Guides",
+            "domain": "www.tropicalfishcareguides.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7146",
+            "name": "Faraz Jafari",
+            "domain": "www.farazjafari.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7088",
+            "name": "Simple News",
+            "domain": "simplenews.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7086",
+            "name": "Ride Share",
+            "domain": "www.rideshare.us",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7085",
+            "name": "On Demandly",
+            "domain": "www.ondemandly.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7084",
+            "name": "Rydely",
+            "domain": "www.rydely.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7069",
+            "name": "Cats Who Code",
+            "domain": "catswhocode.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7048",
+            "name": "PNG Arts",
+            "domain": "www.pngarts.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7025",
+            "name": "Toolbox Gaming",
+            "domain": "toolboxgaming.space",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "7005",
+            "name": "Urine Drug Test HQ",
+            "domain": "urinedrugtesthq.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6992",
+            "name": "Happy Sleepy Head",
+            "domain": "happysleepyhead.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6983",
+            "name": "Fishing Picks",
+            "domain": "fishingpicks.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6972",
+            "name": "Leek Duck",
+            "domain": "leekduck.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6953",
+            "name": "Cellular News",
+            "domain": "cellularnews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6936",
+            "name": "NanaDC",
+            "domain": "nanadc.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6925",
+            "name": "Aquarium Store Depot",
+            "domain": "aquariumstoredepot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6883",
+            "name": "Max Wellness",
+            "domain": "max-wellness.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6866",
+            "name": "All About TRH",
+            "domain": "www.allabouttrh.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6844",
+            "name": "WriteBots",
+            "domain": "www.writebots.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6843",
+            "name": "CMD Line Tips",
+            "domain": "cmdlinetips.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6741",
+            "name": "Shooting and Safety ",
+            "domain": "www.shootingandsafety.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6711",
+            "name": "TvTv US",
+            "domain": "tvtv.us",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6710",
+            "name": "Microbe Notes",
+            "domain": "microbenotes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6664",
+            "name": "Quinnova",
+            "domain": "www.quinnova.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6639",
+            "name": "Fake Number",
+            "domain": "fakenumber.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6638",
+            "name": "Recipe Land",
+            "domain": "recipeland.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6627",
+            "name": "Gadgets Spy",
+            "domain": "www.gadgetsspy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6593",
+            "name": "Film-Fish",
+            "domain": "www.film-fish.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6579",
+            "name": "Fiction Obsessed ",
+            "domain": "fictionobsessed.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6568",
+            "name": "Stardew",
+            "domain": "stardew.info",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6567",
+            "name": "FlixWatch",
+            "domain": "www.flixwatch.co",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6550",
+            "name": "Euromaidan Press",
+            "domain": "euromaidanpress.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6537",
+            "name": "Complete Home Spa",
+            "domain": "completehomespa.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6518",
+            "name": "BDO Altar of Gaming",
+            "domain": "bdo.altarofgaming.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6498",
+            "name": "CodeWall",
+            "domain": "www.codewall.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6492",
+            "name": "Rated Radar Detector",
+            "domain": "www.ratedradardetector.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6435",
+            "name": "bioexpedition",
+            "domain": "www.bioexpedition.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6434",
+            "name": "Sample Swap",
+            "domain": "sampleswap.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6429",
+            "name": "Screen Anarchy",
+            "domain": " screenanarchy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6413",
+            "name": "Gamer Geeks NZ",
+            "domain": "www.gamergeeks.nz",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6402",
+            "name": "Rap 4Ever",
+            "domain": "www.rap4ever.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6379",
+            "name": "Total Shape",
+            "domain": "totalshape.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6378",
+            "name": "Flight Sphere",
+            "domain": "flightsphere.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6369",
+            "name": "Big Converter",
+            "domain": "www.bigconverter.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6343",
+            "name": "GTA-5-Map",
+            "domain": "gta-5-map.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6342",
+            "name": "Division2Map",
+            "domain": "division2map.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6331",
+            "name": "Latin Is Simple",
+            "domain": "www.latin-is-simple.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6317",
+            "name": "Free Preset",
+            "domain": "freepreset.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6302",
+            "name": "Map Cruzin",
+            "domain": "mapcruzin.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6289",
+            "name": "TI84 Calc Wiz",
+            "domain": "www.ti84calcwiz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6277",
+            "name": "Economics Online",
+            "domain": "www.economicsonline.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6267",
+            "name": "SolSpot",
+            "domain": "solspot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6223",
+            "name": "Golden Number ",
+            "domain": "www.goldennumber.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6198",
+            "name": "101SoundBoards",
+            "domain": "www.101soundboards.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6152",
+            "name": "RDR2 Map",
+            "domain": "rdr2map.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6151",
+            "name": "FO76 Map",
+            "domain": "fo76map.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6122",
+            "name": "Zwift Insider ",
+            "domain": "zwiftinsider.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6093",
+            "name": "Finance Train",
+            "domain": "financetrain.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6086",
+            "name": "Base Notes",
+            "domain": "www.basenotes.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6085",
+            "name": "Just Freebies",
+            "domain": "www.justfreebies.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6072",
+            "name": "TV Channel Lists",
+            "domain": "tvchannellists.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6051",
+            "name": "All Best Apps",
+            "domain": "allbestapps.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6031",
+            "name": "Guitar-List",
+            "domain": "www.guitar-list.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6030",
+            "name": "Swing Trade Bot",
+            "domain": "swingtradebot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "6010",
+            "name": "The Ancestor Hunt",
+            "domain": "www.theancestorhunt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5987",
+            "name": "Cooking With Dog",
+            "domain": "cookingwithdog.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5986",
+            "name": "Cool Backgrounds ",
+            "domain": "coolbackgrounds.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5958",
+            "name": "Electric Scotland",
+            "domain": "electricscotland.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5953",
+            "name": "Map Genie",
+            "domain": "mapgenie.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5917",
+            "name": "Section 8 facts",
+            "domain": "section8facts.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5877",
+            "name": "Get It Write Online",
+            "domain": "getitwriteonline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5853",
+            "name": "Vegan Liftz",
+            "domain": "veganliftz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5852",
+            "name": "Steam AH",
+            "domain": "www.steamah.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5851",
+            "name": "Pro Game Talk",
+            "domain": "progametalk.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5835",
+            "name": "Paris By Train",
+            "domain": "parisbytrain.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5825",
+            "name": "Pipe Flow Calculations ",
+            "domain": "www.pipeflowcalculations.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5810",
+            "name": "Massive Sci",
+            "domain": "massivesci.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5758",
+            "name": "Marriland ",
+            "domain": "marriland.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5712",
+            "name": "Science Of Cooking",
+            "domain": "www.scienceofcooking.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5711",
+            "name": "World Of Molecules",
+            "domain": "www.worldofmolecules.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5710",
+            "name": "ED Informatics",
+            "domain": "www.edinformatics.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5699",
+            "name": "Small-Biz Sense",
+            "domain": "small-bizsense.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5686",
+            "name": "Tech Numero",
+            "domain": "technumero.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5673",
+            "name": "SYS Tutorials ",
+            "domain": "www.systutorials.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5661",
+            "name": "Vanilla Guides",
+            "domain": "vanillaguides.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5650",
+            "name": "Merion West",
+            "domain": "merionwest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5635",
+            "name": "LA Taco",
+            "domain": "www.lataco.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5619",
+            "name": "E-Physician",
+            "domain": "www.e-physician.info",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5603",
+            "name": "Japanese-Names",
+            "domain": "japanese-names.info",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5584",
+            "name": "TV Passport ",
+            "domain": "www.tvpassport.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5510",
+            "name": "Dreadlocks Site",
+            "domain": "dreadlockssite.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5498",
+            "name": "Cowboy Way",
+            "domain": "cowboyway.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5487",
+            "name": "Uncover LA",
+            "domain": "uncoverla.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5464",
+            "name": "Monitor Tests",
+            "domain": "www.monitortests.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5430",
+            "name": "Social Media Explorer ",
+            "domain": "socialmediaexplorer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5417",
+            "name": "Grumpy Green Cricket",
+            "domain": "grumpygreen.cricket",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5380",
+            "name": "Word Counter",
+            "domain": "wordcounter.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5368",
+            "name": "Trip Historic ",
+            "domain": "www.triphistoric.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5336",
+            "name": "Geody",
+            "domain": "www.geody.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5304",
+            "name": "Tech Buyers Guru",
+            "domain": "techbuyersguru.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5303",
+            "name": "Vita Hacks",
+            "domain": "vita.hacks.guide",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5294",
+            "name": "Wilks Calculator ",
+            "domain": "wilkscalculator.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5278",
+            "name": "Idio Meanings ",
+            "domain": "www.idiomeanings.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5267",
+            "name": "Pytorials ",
+            "domain": "www.pytorials.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5246",
+            "name": "Elf Qrin ",
+            "domain": "www.elfqrin.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5208",
+            "name": "Home Fixated ",
+            "domain": "homefixated.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5206",
+            "name": "Tekken Zaibatsu",
+            "domain": "www.tekkenzaibatsu.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5192",
+            "name": "Web Confs",
+            "domain": "www.webconfs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5174",
+            "name": "Birthday Wishes Zone ",
+            "domain": "birthdaywisheszone.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5165",
+            "name": "HOSBEG",
+            "domain": "hosbeg.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5156",
+            "name": "Curiosity Human ",
+            "domain": "curiosityhuman.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5147",
+            "name": "Style Wardrobe ",
+            "domain": "www.styleswardrobe.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5120",
+            "name": "Article City ",
+            "domain": "www.articlecity.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5098",
+            "name": "Status Wish",
+            "domain": "statuswish.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5087",
+            "name": "Frank SMS",
+            "domain": "franksms.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5068",
+            "name": "Ezy Zip",
+            "domain": "www.ezyzip.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5063",
+            "name": "MOBA Champion",
+            "domain": "www.mobachampion.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5052",
+            "name": "Ancient Egypt Online ",
+            "domain": "ancientegyptonline.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5025",
+            "name": "Lorem Ipsum ",
+            "domain": "loremipsum.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "5024",
+            "name": "GPA Calculator ",
+            "domain": "gpacalculator.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4995",
+            "name": "Animal Crossing World ",
+            "domain": "animalcrossingworld.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4982",
+            "name": "POE Prices ",
+            "domain": "www.poeprices.info",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4975",
+            "name": "Hottest Haircuts ",
+            "domain": "www.hottesthaircuts.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4966",
+            "name": "Sims4 Cheats",
+            "domain": "www.sims4-cheats.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4945",
+            "name": "Meta Tags",
+            "domain": "metatags.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4944",
+            "name": "Algebra-Class",
+            "domain": "www.algebra-class.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4928",
+            "name": "Dota Haven",
+            "domain": "www.dotahaven.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4921",
+            "name": "Talkin Broadway",
+            "domain": "www.talkinbroadway.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4908",
+            "name": "Sports Know How",
+            "domain": "sportsknowhow.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4895",
+            "name": "Free Auto Mechanic ",
+            "domain": "freeautomechanic.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4878",
+            "name": "The Astro Codex",
+            "domain": "theastrocodex.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4848",
+            "name": "Otter-World",
+            "domain": "www.otter-world.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4792",
+            "name": "MTG Press",
+            "domain": "mtgpress.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4779",
+            "name": "Guides 4 Gamers",
+            "domain": "guides4gamers.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4772",
+            "name": "The GWW",
+            "domain": "thegww.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4751",
+            "name": "Military Factory ",
+            "domain": "www.militaryfactory.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4734",
+            "name": "WOW Classic Countdown ",
+            "domain": "www.wowclassiccountdown.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4722",
+            "name": "GPS Visualizer ",
+            "domain": "www.gpsvisualizer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4709",
+            "name": "Curious Concept ",
+            "domain": "curiousconcept.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4696",
+            "name": "PNG Mart",
+            "domain": "www.pngmart.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4692",
+            "name": "Sudoku-Solutions ",
+            "domain": "sudoku-solutions.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4671",
+            "name": "Insect Identification ",
+            "domain": "www.insectidentification.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4670",
+            "name": "Flight Connections ",
+            "domain": "www.flightconnections.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4659",
+            "name": "Los Angeleno ",
+            "domain": "losangeleno.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4654",
+            "name": "PNG All ",
+            "domain": "www.pngall.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4645",
+            "name": "CSS Gradient ",
+            "domain": "cssgradient.io",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4635",
+            "name": "Indie Game Bundles ",
+            "domain": "www.indiegamebundles.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4569",
+            "name": "Psych 2 Go",
+            "domain": "psych2go.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4552",
+            "name": "Historical Map Chart",
+            "domain": "historicalmapchart.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4551",
+            "name": "Map Chart",
+            "domain": "mapchart.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4538",
+            "name": "Automate Excel ",
+            "domain": "www.automateexcel.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4525",
+            "name": "Spider ID",
+            "domain": "spiderid.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4518",
+            "name": "My Beer Buzz",
+            "domain": "mybeerbuzz.blogspot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4499",
+            "name": "Dog Breed Plus",
+            "domain": "www.dogbreedplus.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4480",
+            "name": "The Teachers Corner ",
+            "domain": "theteacherscorner.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4458",
+            "name": "Fsmitha ",
+            "domain": "www.fsmitha.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4457",
+            "name": "Web Trickz",
+            "domain": "webtrickz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4401",
+            "name": "Baka Data",
+            "domain": "bakadata.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4388",
+            "name": "The Light Forge ",
+            "domain": "thelightforge.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4362",
+            "name": "This Day In Quotes ",
+            "domain": "www.thisdayinquotes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4353",
+            "name": "Aviator Joe ",
+            "domain": "www.aviatorjoe.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4342",
+            "name": "Office Quotes ",
+            "domain": "officequotes.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4309",
+            "name": "Vulkan-Tutorial ",
+            "domain": "vulkan-tutorial.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4302",
+            "name": "OpenGL",
+            "domain": "open.gl",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4284",
+            "name": "Fossils-Facts-And-Finds",
+            "domain": "www.fossils-facts-and-finds.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4241",
+            "name": "Curiosmos ",
+            "domain": "curiosmos.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4228",
+            "name": "Altar Of Gaming ",
+            "domain": "altarofgaming.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4191",
+            "name": "Platinum God ",
+            "domain": "platinumgod.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4190",
+            "name": "Gungeon God ",
+            "domain": "gungeongod.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4189",
+            "name": "Swish Today ",
+            "domain": "swishtoday.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4164",
+            "name": "Wrestler Deaths ",
+            "domain": "wrestlerdeaths.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4157",
+            "name": "Game-Maps",
+            "domain": "game-maps.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4156",
+            "name": "Hacks Guide",
+            "domain": "hacks.guide",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4144",
+            "name": "POE Affix ",
+            "domain": "poeaffix.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4139",
+            "name": "Airline Geeks ",
+            "domain": "airlinegeeks.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4108",
+            "name": "Shark 007",
+            "domain": "shark007.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4107",
+            "name": "Major Geeks ",
+            "domain": "www.majorgeeks.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4066",
+            "name": "History Hit ",
+            "domain": "www.historyhit.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4056",
+            "name": "Dune Book",
+            "domain": "www.dunebook.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4005",
+            "name": "Dream Calendars ",
+            "domain": "www.dreamcalendars.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "4004",
+            "name": "Beta Calendars ",
+            "domain": "www.betacalendars.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3954",
+            "name": "Swot And Pestle ",
+            "domain": "www.swotandpestle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3941",
+            "name": "Senior Resource ",
+            "domain": "www.seniorresource.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3921",
+            "name": "ISL Collective ",
+            "domain": "islcollective.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3908",
+            "name": "Meta WOW",
+            "domain": "metawow.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3873",
+            "name": "Stack Abuse",
+            "domain": "stackabuse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3862",
+            "name": "Nomao App",
+            "domain": "nomaoapp.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3836",
+            "name": "Java Revisited",
+            "domain": "javarevisited.blogspot.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3835",
+            "name": "Java 67",
+            "domain": "www.java67.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3796",
+            "name": "Oolimo",
+            "domain": "www.oolimo.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3778",
+            "name": "CodeShare",
+            "domain": "codeshare.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3732",
+            "name": "Birds-Of-North-America",
+            "domain": "www.birds-of-north-america.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3719",
+            "name": "Media Bias Fact Check",
+            "domain": "mediabiasfactcheck.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3663",
+            "name": "Clipart-Email",
+            "domain": "www.clipart.email",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3652",
+            "name": "Smart-Words",
+            "domain": "www.smart-words.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3647",
+            "name": "Coaching Toolbox",
+            "domain": "coachingtoolbox.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3628",
+            "name": "Elprocus",
+            "domain": "www.elprocus.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3623",
+            "name": "Scribble Fun",
+            "domain": "www.scribblefun.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3575",
+            "name": "Bailey Line Road",
+            "domain": "baileylineroad.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3561",
+            "name": "Corpina",
+            "domain": "corpina.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3513",
+            "name": "Coupon Surfer",
+            "domain": "www.couponsurfer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3504",
+            "name": "Codes Dope",
+            "domain": "www.codesdope.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3493",
+            "name": "Poftut",
+            "domain": "www.poftut.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3463",
+            "name": "Memes Rush",
+            "domain": "memesrush.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3462",
+            "name": "Fresh Calendars",
+            "domain": "freshcalendars.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3427",
+            "name": "Visa Free Countries",
+            "domain": "visafreecountries.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3359",
+            "name": "Study Tonight",
+            "domain": "www.studytonight.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3281",
+            "name": "Beginners Book",
+            "domain": "beginnersbook.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3249",
+            "name": "Use Of Technology",
+            "domain": "www.useoftechnology.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3229",
+            "name": "WordSmyth",
+            "domain": "www.wordsmyth.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3228",
+            "name": "Cycle Harmony",
+            "domain": "cycleharmony.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3197",
+            "name": "Trendir",
+            "domain": "www.trendir.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3190",
+            "name": "HomeDsgn",
+            "domain": "www.homedsgn.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3184",
+            "name": "How To Be A Dad",
+            "domain": "www.howtobeadad.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3179",
+            "name": "TechBrown",
+            "domain": "www.techbrown.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3139",
+            "name": "Town Charts",
+            "domain": "www.towncharts.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3121",
+            "name": "Be Me That",
+            "domain": "bemethat.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3094",
+            "name": "How To Do In Java",
+            "domain": "howtodoinjava.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "3078",
+            "name": "Home Dit",
+            "domain": "www.homedit.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2399",
+            "name": "The Crazy Programmer",
+            "domain": "www.thecrazyprogrammer.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2385",
+            "name": "Temploola",
+            "domain": "www.temploola.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2333",
+            "name": "Slydor",
+            "domain": "slydor.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2330",
+            "name": "Our Plnt",
+            "domain": "ourplnt.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2293",
+            "name": "Calculate Aspect Ratio",
+            "domain": "calculateaspectratio.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2273",
+            "name": "Journal Dev",
+            "domain": "www.journaldev.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2244",
+            "name": "Be Me This",
+            "domain": "bemethis.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2209",
+            "name": "Cat-Lovers-Only",
+            "domain": "www.cat-lovers-only.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2208",
+            "name": "Sushi FAQ",
+            "domain": "www.sushifaq.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2189",
+            "name": "Shihtzu Buzz",
+            "domain": "shihtzubuzz.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2169",
+            "name": "Python-Guide",
+            "domain": "python-guide.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2153",
+            "name": "Real Python",
+            "domain": "realpython.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2152",
+            "name": "DBader",
+            "domain": "dbader.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2150",
+            "name": "Name Dat",
+            "domain": "www.namedat.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2149",
+            "name": "Tok-Pisin",
+            "domain": "www.tok-pisin.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2148",
+            "name": "Standard Poster Sizes",
+            "domain": "standardpostersizes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2140",
+            "name": "My Speech Class",
+            "domain": "www.myspeechclass.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2124",
+            "name": "The Human Marvels",
+            "domain": "www.thehumanmarvels.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2107",
+            "name": "Comic Book Realm",
+            "domain": "comicbookrealm.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2083",
+            "name": "Grief and Sympathy",
+            "domain": "www.griefandsympathy.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2063",
+            "name": "Heart-Symbol",
+            "domain": "heart-symbol.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2055",
+            "name": "Condolence Messages",
+            "domain": "condolencemessages.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2048",
+            "name": "The-Editing-Room",
+            "domain": "www.the-editing-room.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2038",
+            "name": "Omnilexica",
+            "domain": "www.omnilexica.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2027",
+            "name": "Pocket Now",
+            "domain": "pocketnow.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "2013",
+            "name": "Social Lifestyle Mag",
+            "domain": "socialifestylemag.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1982",
+            "name": "Student World Online",
+            "domain": "www.studentworldonline.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1976",
+            "name": "Pick The Brain",
+            "domain": "www.pickthebrain.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1941",
+            "name": "I Am Not A Stalker",
+            "domain": "www.iamnotastalker.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1935",
+            "name": "WWE-Champions Guide",
+            "domain": "wwe-champions.guide",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1855",
+            "name": "Best Classic Bands",
+            "domain": "bestclassicbands.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1827",
+            "name": "Angry Duck",
+            "domain": "www.angryduck.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1826",
+            "name": "Daily Haha",
+            "domain": "www.dailyhaha.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1813",
+            "name": "Real Kana",
+            "domain": "realkana.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1797",
+            "name": "Study-Domain",
+            "domain": "www.study-domain.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1784",
+            "name": "TheOI",
+            "domain": "www.theoi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1779",
+            "name": "Physlink",
+            "domain": "www.physlink.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1729",
+            "name": "Music Notes",
+            "domain": "www.musicnotes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1722",
+            "name": "Football IQ Score",
+            "domain": "footballiqscore.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1702",
+            "name": "Philosophy Basics",
+            "domain": "www.philosophybasics.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1701",
+            "name": "Physics of the Universe",
+            "domain": "www.physicsoftheuniverse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1686",
+            "name": "Science Chat Forum",
+            "domain": "sciencechatforum.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1681",
+            "name": "Learn Open GL",
+            "domain": "learnopengl.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1668",
+            "name": "Python For Beginners",
+            "domain": "www.pythonforbeginners.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1632",
+            "name": "Stanford Binet Test",
+            "domain": "stanfordbinettest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1614",
+            "name": "What Is Six Sigma",
+            "domain": "www.whatissixsigma.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1571",
+            "name": "Message To Eagle",
+            "domain": "www.messagetoeagle.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1558",
+            "name": "Kickass facts",
+            "domain": "www.kickassfacts.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1525",
+            "name": "Index Mundi",
+            "domain": "www.indexmundi.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1508",
+            "name": "Jolly Greets",
+            "domain": "www.jollygreets.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1503",
+            "name": "Liquorista",
+            "domain": "www.liquorista.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1498",
+            "name": "Ancient Pages",
+            "domain": "www.ancientpages.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1494",
+            "name": "TV-Quotes",
+            "domain": "www.tv-quotes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1491",
+            "name": "Shakespeare-Navigators",
+            "domain": "www.shakespeare-navigators.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1460",
+            "name": "The Grad Cafe",
+            "domain": "thegradcafe.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1373",
+            "name": "Watch Report",
+            "domain": "www.watchreport.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1312",
+            "name": "We Draw Animals",
+            "domain": "www.wedrawanimals.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1311",
+            "name": "Gynob",
+            "domain": "gynob.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1310",
+            "name": "Fertility Factor",
+            "domain": "fertilityfactor.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1309",
+            "name": "WDX Cyber",
+            "domain": "wdxcyber.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1308",
+            "name": "Womens-Health",
+            "domain": "womens-health.co.uk",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1307",
+            "name": "Shared Journey",
+            "domain": "sharedjourney.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1299",
+            "name": "Pregnancy-Info",
+            "domain": "pregnancy-info.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1285",
+            "name": "PSX-Scene",
+            "domain": "psx-scene.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1271",
+            "name": "Dash Hacks",
+            "domain": "www.dashhacks.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1213",
+            "name": "Sample Wonder Lic Test",
+            "domain": "samplewonderlictest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1211",
+            "name": "Office Tooltips",
+            "domain": "www.officetooltips.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1123",
+            "name": "Subzin",
+            "domain": "www.subzin.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1104",
+            "name": "Programming-Free",
+            "domain": "programming-free.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1090",
+            "name": "Sunny Bump",
+            "domain": "www.sunnybump.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1053",
+            "name": "Rhyme Brain",
+            "domain": "rhymebrain.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1043",
+            "name": "Genius Tests",
+            "domain": "geniustests.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1010",
+            "name": "Network-Tools",
+            "domain": "network-tools.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1004",
+            "name": "World Time Server",
+            "domain": "www.worldtimeserver.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "931",
+            "name": "Random Wok",
+            "domain": "www.randomwok.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "923",
+            "name": "Soccer Gaming",
+            "domain": "soccergaming.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "889",
+            "name": "Poem Of Quotes",
+            "domain": "www.poemofquotes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "881",
+            "name": "Teen Mom Junkies",
+            "domain": "teenmomjunkies.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "865",
+            "name": "Empty Lighthouse",
+            "domain": "emptylighthouse.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "816",
+            "name": "Tux Diary",
+            "domain": "tuxdiary.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "813",
+            "name": "GeekFlare",
+            "domain": "geekflare.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "800",
+            "name": "PES Gaming",
+            "domain": "www.pesgaming.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "745",
+            "name": "Code Conquest",
+            "domain": "www.codeconquest.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "743",
+            "name": "Smart Watches",
+            "domain": "smartwatches.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "737",
+            "name": "Movie Quote DB",
+            "domain": "www.moviequotedb.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "719",
+            "name": "Biology Corner",
+            "domain": "www.biologycorner.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "704",
+            "name": "Dream Views",
+            "domain": "www.dreamviews.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "689",
+            "name": "Oddee",
+            "domain": "www.oddee.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "364",
+            "name": "MBA Excel",
+            "domain": "www.mbaexcel.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "352",
+            "name": "ImpressiveWebs",
+            "domain": "www.impressivewebs.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "274",
+            "name": "Quotes for Bros",
+            "domain": "www.quotesforbros.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "273",
+            "name": "IZ Quotes",
+            "domain": "izquotes.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "271",
+            "name": "Like Totally 80s",
+            "domain": "www.liketotally80s.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "250",
+            "name": "Meta Videos",
+            "domain": "metavideos.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "210",
+            "name": "Code Call",
+            "domain": "forum.codecall.net",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "186",
+            "name": "Programering",
+            "domain": "www.programering.com",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "148",
+            "name": "RetroSpace",
+            "domain": "www.retrospace.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "64",
+            "name": "Bildr",
+            "domain": "bildr.org",
+            "seller_type": "PUBLISHER"
+        },
+        {
+            "seller_id": "1",
+            "name": "KnowledgeNuts",
+            "domain": "knowledgenuts.com",
+            "seller_type": "PUBLISHER"
+        }
+    ]
+}

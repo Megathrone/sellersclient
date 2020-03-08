@@ -1,0 +1,4016 @@
+﻿{
+    "contact_address": "240 Stockton Street, 10th Floor San Francisco, California 94108 United States of America",
+    "contact_email": "Smaato Support <support@smaato.com>",
+    "version": "1.0",
+    "identifiers": [
+        {
+            "name": "TAG-ID",
+            "value": "07bcf65f187117b4"
+        }
+    ],
+    "sellers": [
+        {
+            "seller_id": "923830229",
+            "name": "24/7 apps (PSSP)",
+            "domain": "itubeandroid.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001000023",
+            "name": "Mobiventura",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001000032",
+            "name": "Sevenlogics",
+            "domain": "sevenlogics.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001000147",
+            "name": "XIMAD INC",
+            "domain": "zimad.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001000308",
+            "name": "AlexChen",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001000318",
+            "name": "VERAXEN LTD",
+            "domain": "veraxen.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001000324",
+            "name": "Lander Development",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001000333",
+            "name": "Talkatone, LLC",
+            "domain": "talkatone.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001000352",
+            "name": "droidbean",
+            "domain": "wordscheat.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001000391",
+            "name": "vatikag",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001000927",
+            "name": "Outfit7 Limited",
+            "domain": "outfit7.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001001345",
+            "name": "Adcel LLC",
+            "domain": "adcel.co",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1001001533",
+            "name": "Komedi Internet",
+            "domain": "memecenter.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001001686",
+            "name": "Resignation Media, LLC",
+            "domain": "chivemediagroup.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001001759",
+            "name": "Beijing Mavericks Mobile Inc.",
+            "domain": "mavericksmobile.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001001813",
+            "name": "Maple Media, LLC.",
+            "domain": "maplemedia.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1001001837",
+            "name": "ask.fm",
+            "domain": "ask.fm",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100000419",
+            "name": "Alictus",
+            "domain": "alictus.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100000468",
+            "name": "Sprakelsoft",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100000615",
+            "name": "Haptic Apps LLC",
+            "domain": "chesstimeapp.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100000739",
+            "name": "Trapped LLC",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100000772",
+            "name": "Lion Studios LLC",
+            "domain": "lionstudios.cc",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100000773",
+            "name": "MeetMe",
+            "domain": "meetme.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001078",
+            "name": "CIERRE MEDIA",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001167",
+            "name": "StuckPixel",
+            "domain": "stuckpixelstudios.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001274",
+            "name": "Fingersoft Ltd",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001504",
+            "name": "If(we)",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001534",
+            "name": "VLMedia A.S.",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001601",
+            "name": "Pinger, Inc",
+            "domain": "pinger.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001657",
+            "name": "xAd, Inc.",
+            "domain": "groundtruth.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001673",
+            "name": "noontale",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001837",
+            "name": "Games2win India Pvt. Ltd.",
+            "domain": "games2win.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001899",
+            "name": "Atipik SARL",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100001954",
+            "name": "Tafimedia",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100002139",
+            "name": "SOROKIN",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100002284",
+            "name": "Springwalk, Inc.",
+            "domain": "springwalk.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100002290",
+            "name": "TPMN Co., Ltd.",
+            "domain": "tpmn.co.kr",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100002436",
+            "name": "Luno Software, Inc.",
+            "domain": "lunosoftware.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100002620",
+            "name": "Lifelike Apps, Inc.",
+            "domain": "lifelikeapps.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100003241",
+            "name": "Maadinfo Services",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100003313",
+            "name": "Mustafa Pehlivan",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100003640",
+            "name": "仲廷資訊有限公司",
+            "domain": "zongtion.myweb.hinet.net",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100003694",
+            "name": "PicsArt",
+            "domain": "picsart.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100004151",
+            "name": "9GAG Limited",
+            "domain": "9gag.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100004740",
+            "name": "24/7 apps LTD.",
+            "domain": "itubeandroid.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100004890",
+            "name": "Smaato Managed",
+            "domain": "smaato.com",
+            "seller_type": "Both"
+        },
+        {
+            "seller_id": "1100005767",
+            "name": "ZPLAY(Beijing)Information Technology Co., Ltd.",
+            "domain": "zplay.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100005888",
+            "name": "PinsightMedia+",
+            "domain": "pinsightmedia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100006659",
+            "name": "AddApptr GmbH",
+            "domain": "addapptr.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100006752",
+            "name": "theScore Inc.",
+            "domain": "thescore.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100007168",
+            "name": "TEEPR",
+            "domain": "teepr.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100007747",
+            "name": "Novagecko",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100007863",
+            "name": "Slader",
+            "domain": "slader.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100007930",
+            "name": "JNJ Mobile, Inc.",
+            "domain": "jnjmobile.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100008630",
+            "name": "EB AdMob - Pro Guitar Sweden AB",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100009005",
+            "name": "Herm's Software",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100009186",
+            "name": "Tapmedia Ltd",
+            "domain": "tapmedia.co",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100009199",
+            "name": "Mobile Deluxe",
+            "domain": "mobiledeluxe.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100009451",
+            "name": "Enless Soft Ltd.",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100009462",
+            "name": "Ernesto Pedrosa",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100010710",
+            "name": "IsCool Entertainment",
+            "domain": "IsCool Entertainment",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100010982",
+            "name": "AudioAddict inc.",
+            "domain": "audioaddict.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100011127",
+            "name": "iHandy Network Limited-SDK",
+            "domain": "ihandygroup.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100011338",
+            "name": "APUS Tech Holding Limited",
+            "domain": "apusapps.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100011485",
+            "name": "GoGoAnime",
+            "domain": "gogoanimehub.tv",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100011688",
+            "name": "risinier",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100013100",
+            "name": "FEO Media AB",
+            "domain": "maginteractive.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100013508",
+            "name": "Friendly App Studio LLC",
+            "domain": "friendly.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100013916",
+            "name": "SG NextBus Pte. Ltd.",
+            "domain": "nextbuses.sg",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100014641",
+            "name": "Woerk",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100015166",
+            "name": "emobi technologies pvt. ltd",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100015171",
+            "name": "MAHDY ABDELHAMID MOHAMED",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100015202",
+            "name": "Lulo Apps",
+            "domain": "classicwords.net",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100015281",
+            "name": "Appodeal, Inc.",
+            "domain": "appodeal.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100015390",
+            "name": "Stormtek Games",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100015624",
+            "name": "AI Factory Limited",
+            "domain": "aifactory.co.uk",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100015880",
+            "name": "TuneIn",
+            "domain": "tunein.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100016329",
+            "name": "ProgrammingTunes",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100016666",
+            "name": "Home Computers",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100017705",
+            "name": "Solitude Software",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100018334",
+            "name": "nishy software",
+            "domain": "nishy-software.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100018452",
+            "name": "Puzan Technology Limited",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100018482",
+            "name": "Wattpad",
+            "domain": "wattpad.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100018571",
+            "name": "Delight Room",
+            "domain": "alar.my",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100018861",
+            "name": "Eryod Soft",
+            "domain": "eryodsoft.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100019070",
+            "name": "KAIBITS Software GmbH",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100019319",
+            "name": "StickyAds.Tv",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100019387",
+            "name": "IAC Search and Media Europe",
+            "domain": "iac.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100019628",
+            "name": "Gumtree AU Pty Ltd",
+            "domain": "gumtree.com.au",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100019814",
+            "name": "KeepSafe",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100019886",
+            "name": "EA Inc",
+            "domain": "ea.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100019902",
+            "name": "IQzone, Inc.",
+            "domain": "iqzone.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100020280",
+            "name": "PYOPYO Studio",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100020412",
+            "name": "Akhilesh Chandra Gupta",
+            "domain": "drollmotion.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100020730",
+            "name": "czh0766",
+            "domain": "mindline.cn",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100020872",
+            "name": "PT Indosat Tbk",
+            "domain": "indosatooredoo.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100020876",
+            "name": "Kaskus Networks",
+            "domain": "m.kaskus.co.id",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100021962",
+            "name": "RJS Tech Solutions LLP",
+            "domain": "rjs.in",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100022004",
+            "name": "Fundevs, LLC",
+            "domain": "fundevs.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100022662",
+            "name": "DEF APPS LLC",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100022663",
+            "name": "ABC Apps LLC",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100023040",
+            "name": "Gram Games Limited",
+            "domain": "gram.gs",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100023089",
+            "name": "FunCorp",
+            "domain": "fun.co",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100023199",
+            "name": "ROMEO BV",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100023319",
+            "name": "IdeaSolutions S.r.l.",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100023389",
+            "name": "360 Mobile Security Limited",
+            "domain": "360securityapps.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100023425",
+            "name": "YUMI",
+            "domain": "yumimobi.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100023770",
+            "name": "EfmSoft",
+            "domain": "efmsoft.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100023996",
+            "name": "Kramer Concepts, LLC",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100025409",
+            "name": "xenoager",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100025518",
+            "name": "LOVOO GmbH",
+            "domain": "lovoo.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100026087",
+            "name": "Kwalee Ltd",
+            "domain": "kwalee.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100026771",
+            "name": "Flyclops LLC",
+            "domain": "flyclops.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100026898",
+            "name": "Guru Network Limited",
+            "domain": "castbox.fm",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100027127",
+            "name": "Gameloft",
+            "domain": "gameloft.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100027214",
+            "name": "Inspired Square FZE",
+            "domain": "ibex.co",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100027248",
+            "name": "MDC",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100027735",
+            "name": "FM GAMES IRELAND 1 LIMITED",
+            "domain": "fmgames1.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100027965",
+            "name": "Global Sports Apps",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100028186",
+            "name": "JRT Studio LLC",
+            "domain": "jrtstudio.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100028197",
+            "name": "App Basic",
+            "domain": "appbasic.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100028333",
+            "name": "PT Wiz Indonesia Nirwana",
+            "domain": "gen.net.id",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100028336",
+            "name": "Techmob Studios",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100028562",
+            "name": "MONSERTA LIMITED",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100028663",
+            "name": "Livesport Media Ltd",
+            "domain": "livesportmedia.eu",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100028841",
+            "name": "Yalwa GmbH",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100028982",
+            "name": "R2sports",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100029049",
+            "name": "Kent Illingsworth",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100029144",
+            "name": "SportsmateMobile",
+            "domain": "sportsmatemobile.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100029333",
+            "name": "Palingseru",
+            "domain": "palingseru.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100029613",
+            "name": "Wafour KR",
+            "domain": "wafour.net",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100029803",
+            "name": "Pro Guitar Sweden AB",
+            "domain": "Pro Guitar Sweden AB",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100030074",
+            "name": "Pinter Pandai",
+            "domain": "pinterpandai.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100030078",
+            "name": "FIOGONIA LIMITED",
+            "domain": "fiogonia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100030081",
+            "name": "ProSiebenSat1 Digital GmbH",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100030846",
+            "name": "TextMe",
+            "domain": "go-text.me",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100031059",
+            "name": "MobilityWare",
+            "domain": "mobilityware.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100031517",
+            "name": "IDN Media",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100031689",
+            "name": "AVM Software, Inc.",
+            "domain": "paltalk.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100031712",
+            "name": "BELISAMA LIMITED",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100031737",
+            "name": "JUNIX LIMITED",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100031757",
+            "name": "SoundHound",
+            "domain": "soundhound.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100031823",
+            "name": "Custom Solutions",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100031882",
+            "name": "Wow Keren",
+            "domain": "wowkeren.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100032283",
+            "name": "WhisperText, Inc.",
+            "domain": "whisper.sh",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100032451",
+            "name": "PlsTech",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100032530",
+            "name": "BigStar TV, Inc.",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100032641",
+            "name": "Trebel Music",
+            "domain": "trebel.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100032679",
+            "name": "Stefan Pledl",
+            "domain": "localcast.app",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100033147",
+            "name": "EB DFP - Whisper",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100033319",
+            "name": "Amber Weather",
+            "domain": "amberweather.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100033371",
+            "name": "Easybrain Ltd",
+            "domain": "easybrain.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100033625",
+            "name": "KIA ORA GAMES PTY LIMITED",
+            "domain": "kiaoragames.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100033630",
+            "name": "Ebda - Trinity Mirror",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100033725",
+            "name": "EB DFP - Workout Inc (Pub-50170743)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100033829",
+            "name": "Voodoo",
+            "domain": "voodoo.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100033996",
+            "name": "EB DFP - Gannett (7103)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100034063",
+            "name": "EB DFP - Valnet (39363775)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100034073",
+            "name": "KOALONIC LIMITED",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100034120",
+            "name": "ANDARTA LIMITED",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100034125",
+            "name": "Ilyon Dynamics",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100034188",
+            "name": "EB DFP - Warner Brothers (55153744)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100034206",
+            "name": "LBE Tech",
+            "domain": "parallelspace-app.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100034390",
+            "name": "on.cc",
+            "domain": "on.cc",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100034480",
+            "name": "EBDA - Everyday Health",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100034532",
+            "name": "EB DFP - Univision (6881)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100034674",
+            "name": "Imgur, Inc.",
+            "domain": "imgur.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100034757",
+            "name": "EBDA - OLX Romania",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100034820",
+            "name": "Dominanta LLC",
+            "domain": "caramelads.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100034852",
+            "name": "EB DFP - Associated Press (15786418)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100034858",
+            "name": "EB DFP - The Weather Network (19849159)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100034940",
+            "name": "EBDA - SouthernX",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100035022",
+            "name": "EBDA - TheLadBible",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100035189",
+            "name": "Webedia",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100035313",
+            "name": "EBDA - Al Jazeera",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100035323",
+            "name": "EB DFP - Raycom Media (63316753)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100035396",
+            "name": "Duva Applications",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100035397",
+            "name": "EBDA - Independent News and Media",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100035565",
+            "name": "EBDA - Hurriyet",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100035606",
+            "name": "Chuma Apps",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100035630",
+            "name": "EB DFP - Meredith (3865)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100035684",
+            "name": "Handcent",
+            "domain": "handcent.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100036021",
+            "name": "Xumo, LLC",
+            "domain": "corp.xumo.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100036025",
+            "name": "WolF Games",
+            "domain": "crazygames.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100036132",
+            "name": "Appten78",
+            "domain": "appten78.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100036156",
+            "name": "MEITU(CHINA) LIMITED",
+            "domain": "global.meitu.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100036244",
+            "name": "EBDA - Constructive Media",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100036326",
+            "name": "Homemade Apps",
+            "domain": "fantasyfootballmanager.app",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100036483",
+            "name": "EB DFP - Ziff Davis (4585)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100036562",
+            "name": "EB DFP - Babycenter (536)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100036563",
+            "name": "EB DFP - Philly (4495)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100036564",
+            "name": "EB DFP - Advance Local (344101295)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100036623",
+            "name": "EBDA - Playbuzz",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100036635",
+            "name": "Zynga",
+            "domain": "zynga.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100036694",
+            "name": "EB DFP - Diply (28725707)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100036776",
+            "name": "EBDA - Drugs.com",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100036893",
+            "name": "Timehop Inc.",
+            "domain": "timehop.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100036915",
+            "name": "EBDA - Apt Therapy",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100036918",
+            "name": "EB DFP - Thomson Reuters (4735792)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037127",
+            "name": "PT MATA MATA INFOTAINMEN",
+            "domain": "mata2.id",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037207",
+            "name": "EB DFP - Christianpost (7241)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037214",
+            "name": "EB DFP - RedBox (113983892)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037233",
+            "name": "EB DFP - MailOnline - EMEA",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037234",
+            "name": "EBDA - Zeptolab",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037239",
+            "name": "Steven Boeger",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037252",
+            "name": "A9 - Zynga (1100037252)",
+            "domain": "zynga.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037253",
+            "name": "A9 - Imgur (1100037253)",
+            "domain": "imgur.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037254",
+            "name": "A9 - Daily Mail (1100037254)",
+            "domain": "dailymail.co.uk",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037255",
+            "name": "Flipboard Inc.",
+            "domain": "flipboard.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037270",
+            "name": "EB DFP - Verse (83414793)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037315",
+            "name": "EB DFP - Times Internet Ltd (7176)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037319",
+            "name": "EB DFP - Vonvon (34009881)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037364",
+            "name": "EB DFP - Scarymommy (32950521)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037392",
+            "name": "EBDA - Issuu",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037395",
+            "name": "EBDA - Ranker",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037497",
+            "name": "EB DFP - Concourse Media",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037516",
+            "name": "EB DFP - Impala Studios",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037668",
+            "name": "EBDA - GiveMeSport",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037688",
+            "name": "EBDA - Promiflash",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037770",
+            "name": "EBDA - Eurogamer",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037777",
+            "name": "A9 - Univision (1100037777)",
+            "domain": "univision.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037811",
+            "name": "pontren.com",
+            "domain": "pontren.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037861",
+            "name": "Etermax",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037879",
+            "name": "Bibliotika",
+            "domain": "bibliotika.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037950",
+            "name": "EB DFP - Etermax (63054487)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037951",
+            "name": "EB DFP - Mass2 (5678)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037971",
+            "name": "Taboola, inc",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100037993",
+            "name": "A9 - Maple Media, LLC. (1100037993)",
+            "domain": "maplemedia.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100037994",
+            "name": "A9 - theScore (1100037994)",
+            "domain": "thescore.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038016",
+            "name": "EB DFP - Wallapop",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038037",
+            "name": "EBDA - 365 Scores",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038041",
+            "name": "EB DFP - Newsday (5819)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038042",
+            "name": "EB DFP - Curiosity Media (1027916)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038044",
+            "name": "EB DFP - Washington Post (701)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038062",
+            "name": "A9 - Gasbuddy (1100038062)",
+            "domain": "gasbuddy.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038064",
+            "name": "A9 - Mobilityware",
+            "domain": "mobilityware.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038089",
+            "name": "A9 - Talkatone (1100038089)",
+            "domain": "talkatone.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038096",
+            "name": "Sqgyapps",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038124",
+            "name": "EB DFP - Gasbuddy (1025479)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038128",
+            "name": "EB DFP - Bell Media (5479)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038280",
+            "name": "A9 - Funcorp",
+            "domain": "fun.co",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038318",
+            "name": "EB DFP - Evite (5480)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038323",
+            "name": "EBDA - Urban Dictionary",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038388",
+            "name": "EB DFP - Wetteronline",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038472",
+            "name": "EB DFP - Perform Group (67970281)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038687",
+            "name": "A9 - Slacker Radio",
+            "domain": "slacker.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038747",
+            "name": "X-FLOW LTD",
+            "domain": "x-flow.app",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038794",
+            "name": "A9 - Newscycle",
+            "domain": "newscycle.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038796",
+            "name": "A9 - Ziff Davis (110004001)",
+            "domain": "ziffdavis.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038849",
+            "name": "EB DFP - Sparkpeople",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038874",
+            "name": "EB DFP - Finderly GmbH",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100038908",
+            "name": "A9 - LifeLike Apps",
+            "domain": "lifelikeapps.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038973",
+            "name": "Canarys",
+            "domain": "ecanarys.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100038979",
+            "name": "EB DFP - Encyclopedia Britannica (15510053)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039068",
+            "name": "EBDA - Haberturk",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039089",
+            "name": "A9 - Trebel (110004005)",
+            "domain": "trebel.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039091",
+            "name": "EB AdMob - Maple Media (pub-4229758926684576)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039191",
+            "name": "EB DFP - Meetme (1023947)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039193",
+            "name": "Kingsoft Office Software Corporation Limited",
+            "domain": "wps.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039200",
+            "name": "EB DFP - E-Eighteen.com (1039154)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039254",
+            "name": "EB AdMob - Ilyon",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039262",
+            "name": "EB DFP - OneIndia (1008496)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039285",
+            "name": "MobiSystems, Inc.",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039290",
+            "name": "Tapatalk, Inc.",
+            "domain": "tapatalk.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039302",
+            "name": "EB AdMob - Veraxen",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039307",
+            "name": "EB DFP - Viber",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039308",
+            "name": "A9 - Genina (110004007)",
+            "domain": "genina.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039310",
+            "name": "EB DFP - The Globe and Mail",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039324",
+            "name": "PubNative",
+            "domain": "pubnative.net",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039333",
+            "name": "A9 - Sevenlogics",
+            "domain": "sevenlogics.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039380",
+            "name": "SignUpGenius",
+            "domain": "signupgenius.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039399",
+            "name": "EB DFP - DailyMail - US (424397508)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039416",
+            "name": "EBDA - Scout24",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039440",
+            "name": "A9 - USA Today (110004009)",
+            "domain": "usatoday.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039460",
+            "name": "EB DFP - Pic Collage (267320516)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039496",
+            "name": "EBDA - Walla! News",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039516",
+            "name": "A9 - 365Scores",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039518",
+            "name": "EB DFP - JNJ Mobile, Inc. - 1029253",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039545",
+            "name": "A9 - Warner Brothers (110004002)",
+            "domain": "warnerbros.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039559",
+            "name": "EB DFP - Adversport",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039600",
+            "name": "Melingo",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039666",
+            "name": "Perfect365, Inc.",
+            "domain": "perfect365.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039717",
+            "name": "EB DFP - Accuweather (6581)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039720",
+            "name": "EB DFP - Freestar",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039731",
+            "name": "Hornet",
+            "domain": "hornet.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039741",
+            "name": "EB DFP - Cricbuzz (1024780)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039767",
+            "name": "IEC Corporation",
+            "domain": "ieccorp.vn",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039805",
+            "name": "A9 - PicsArt (110004011)",
+            "domain": "picsart.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039829",
+            "name": "A9 - IAC Search and Media Europe",
+            "domain": "iac.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100039856",
+            "name": "EB DFP - Carousell (325540922)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039866",
+            "name": "Eb DFP - Glassdoor (1060761)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039985",
+            "name": "EBDA - Patient.co.uk",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100039987",
+            "name": "EBDA - Zattoo",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040037",
+            "name": "EB DFP - Kaidee (34615521)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040043",
+            "name": "EBDA - StreamAMP",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040150",
+            "name": "EB DFP - Resignation Media (1006418)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040151",
+            "name": "EB AdMob - BookDesign",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040158",
+            "name": "Sceneway Technology",
+            "domain": "manga.hk",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040187",
+            "name": "EB AdMob - Stefan Pledl",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040190",
+            "name": "EB AdMob - Melting Source",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040212",
+            "name": "Musi Inc.",
+            "domain": "feelthemusi.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040221",
+            "name": "EB DFP - Graham Media Group (15466288)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040280",
+            "name": "A9 - Rain Rain Sleep Sounds",
+            "domain": "rainrainapp.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040292",
+            "name": "EBDA - Radio.de",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040340",
+            "name": "Cartel Apps",
+            "domain": "bigcartel.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040361",
+            "name": "EB AdMob - Appgeneration",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040366",
+            "name": "Admob EB - jzlabs",
+            "domain": "google.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040398",
+            "name": "IronSource Exchange",
+            "domain": "ironsrc.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040401",
+            "name": "EB Admob - Acotel Group SpA",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040411",
+            "name": "Zephyrmobile",
+            "domain": "zephyrmobile.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040437",
+            "name": "EB Admob - Eryod Soft",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040447",
+            "name": "EB DFP - CBS Interactive Inc. 8264",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040472",
+            "name": "EB DFP - Deseret Digital / KSL",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040473",
+            "name": "EB DFP - Purch (10518929)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040491",
+            "name": "EB DFP - Used.ca (1042313)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040517",
+            "name": "EB Admob - Neobie Enterprise (pub-4012253237320844)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040533",
+            "name": "EB DFP - Flipboard (21709104563)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040622",
+            "name": "EB DFP - Tegna (32805352)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040657",
+            "name": "EB Admob - Pixatel (pub-1313239384483221)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040690",
+            "name": "Winnetnews.com",
+            "domain": "winnetnews.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040721",
+            "name": "EB DFP - Gumtree",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040745",
+            "name": "EBDA - Windfinder",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040746",
+            "name": "EB DFP - Ebay Kleinanzeigen",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040750",
+            "name": "EB Admob - Banana & Co. (pub-7837543084293418)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040794",
+            "name": "Secretly Tech",
+            "domain": "secretly.tech",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040810",
+            "name": "Aisle Ahead",
+            "domain": "aisleahead.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040812",
+            "name": "EB AdMob - PeerStream (pub-4556300566905512)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040830",
+            "name": "Originally US LLP",
+            "domain": "originallyus.sg",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040833",
+            "name": "SUPERVANK",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040834",
+            "name": "EB Admob - EK Studio (pub-3097736325706712)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040851",
+            "name": "EBDA - Wallstreet:online AG",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040858",
+            "name": "EB DFP - TeamSnap (43697218)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040859",
+            "name": "EB Admob - Dmitry Karymov",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040865",
+            "name": "EBDA - Ultimate Guitar",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040868",
+            "name": "Night Cat Productions LLC",
+            "domain": "nightcatproductions.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040923",
+            "name": "EBDA - HITC / Entrepreneur Limited",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040957",
+            "name": "EB DFP - Ströer",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040974",
+            "name": "Madvertise",
+            "domain": "madvertise.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100040992",
+            "name": "EB DFP - Gamma Ganna (21715142772)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100040999",
+            "name": "EB DFP - South China Morning Post (8134)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041026",
+            "name": "123RF Limited",
+            "domain": "123rf.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041070",
+            "name": "A9 - USA Today Sports (110004014)",
+            "domain": "usatoday.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041071",
+            "name": "EB DFP - MLB (2605)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041072",
+            "name": "EB AdMob - iWare",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041073",
+            "name": "EB Admob - Muslim Pro Limited (5761281691800712)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041074",
+            "name": "EB DFP - 1&1",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041077",
+            "name": "Appyfurious",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041090",
+            "name": "A9 - Famous Birthdays",
+            "domain": "famousbirthdays.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041122",
+            "name": "EB DFP - NDTV (1068322)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041123",
+            "name": "EB DFP - Truecaller",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041125",
+            "name": "EBDA - Odesys",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041151",
+            "name": "Genina",
+            "domain": "genina.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041170",
+            "name": "EB DFP - Morfix (5826056)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041188",
+            "name": "Suaranasional.com",
+            "domain": "suaranasional.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041189",
+            "name": "EB DFP - Madvertise",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041234",
+            "name": "EB DFP - Skyscanner.net",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041239",
+            "name": "EB DFP - PSafe (21619909944)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041261",
+            "name": "EB DFP - LINE Webtoon (49289362)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041274",
+            "name": "Adfone, Inc.",
+            "domain": "adfone.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041275",
+            "name": "A9 - Daily Horoscope (Comitic) (110004016)",
+            "domain": "comitic.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041277",
+            "name": "EB DFP - SportsKeeda (11446729)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041281",
+            "name": "EB AdMob - StuckPixel (pub-8890412054062758)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041353",
+            "name": "A9 - Accuweather (110004019)",
+            "domain": "accuweather.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041401",
+            "name": "EB DFP - MeineStadt",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041435",
+            "name": "A9 - Musi (110004021)",
+            "domain": "feelthemusi.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041442",
+            "name": "TMSOFT",
+            "domain": "tmsoft.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041447",
+            "name": "Top10 Apps",
+            "domain": "ugikpoenya.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041459",
+            "name": "XE.com",
+            "domain": "XE.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041462",
+            "name": "EBDA - Funlab Software 2",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041463",
+            "name": "EB DFP - MX Player (21723553151)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041465",
+            "name": "EBDA - LaLiga",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041469",
+            "name": "A9 - Enflick (110004022)",
+            "domain": "textnow.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041482",
+            "name": "EB DFP - AutoTrader.ca (8544)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041492",
+            "name": "EBDA - Haaretz",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041502",
+            "name": "A9 - Easybrain",
+            "domain": "easybrain.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041539",
+            "name": "EB DFP - Streema",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041541",
+            "name": "Huvle KR",
+            "domain": "huvleview.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041562",
+            "name": "EB DFP - MobilePosse (180049092)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041567",
+            "name": "Galamedianews.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041580",
+            "name": "EB DFP - Zoover / Meteovista",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041581",
+            "name": "EB DFP - Infoplaza BV",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041613",
+            "name": "EB DFP - WMG",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041615",
+            "name": "Opera Mini CN",
+            "domain": "opera.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041631",
+            "name": "EB DFP - New Media Group （14112232）",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041632",
+            "name": "aiutu e qualita",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041647",
+            "name": "EB DFP - XO Group",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041662",
+            "name": "EB DFP - Buienalarm",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041671",
+            "name": "A9 - Wattpad (110004025)",
+            "domain": "wattpad.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041691",
+            "name": "House of Pubs",
+            "domain": "houseofpubs.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041704",
+            "name": "A9 - Friendly App Studio (110004023)",
+            "domain": "friendly.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041705",
+            "name": "Newsy",
+            "domain": "newsy.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041737",
+            "name": "EB DFP - Euronews",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041773",
+            "name": "EB DFP - Krazy Coupon Lady (4916285)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041776",
+            "name": "A9 - MeetMe (110004017)",
+            "domain": "meetme.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041782",
+            "name": "EB DFP - AddApptr GmbH",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041791",
+            "name": "eHawk Internet",
+            "domain": "e-hawk.net",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041794",
+            "name": "Citiservi Europe SL",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041804",
+            "name": "EB DFP - AdAsia (21622890900)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041833",
+            "name": "A9 - Krazy Coupon Lady (1100038089)",
+            "domain": "thekrazycouponlady.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041840",
+            "name": "A9 - Slader (110004028)",
+            "domain": "slader.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041841",
+            "name": "EB DFP - Gumtree AU (30720440)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041843",
+            "name": "Outly LTD",
+            "domain": "jamendo.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041846",
+            "name": "EB DFP - olx.bg",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041847",
+            "name": "EB DFP - FixeAds SA OLX",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041856",
+            "name": "EB AdMob - Rottz Games (pub-9283140243316124)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041857",
+            "name": "EB DFP - PBH Network (1017773)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041858",
+            "name": "PlantSnap, Inc.",
+            "domain": "plantsnap.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041860",
+            "name": "Acme AtronOmatic. LLC",
+            "domain": "acmeaom.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041866",
+            "name": "EB DFP - Mediology Software (1009127)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041874",
+            "name": "PLR Worldwide Sales Limited",
+            "domain": "bigfishgames.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041897",
+            "name": "EB DFP - The Publisher Desk (134702932)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041900",
+            "name": "EB DFP - Slader (40402830)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041907",
+            "name": "A9 - Tinybeans",
+            "domain": "tinybeans.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041920",
+            "name": "EB DFP - MyNavi (6082618)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041922",
+            "name": "EB DFP - Hindustan Times (1055314)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041927",
+            "name": "EB DFP - AS Õhtuleht Kirjastus",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041934",
+            "name": "EB DFP - Turkuvaz AdX EMEA",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100041977",
+            "name": "Zoosk",
+            "domain": "zoosk.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041980",
+            "name": "Drakor.id",
+            "domain": "drakorid.tv",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100041989",
+            "name": "EB Admob - Concrete Sofware (pub-1110296512437099)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042015",
+            "name": "EB Admob - 1C Wireless",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042017",
+            "name": "Appodeal, Inc.",
+            "domain": "appodeal.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042106",
+            "name": "SHAREit",
+            "domain": "ushareit.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042112",
+            "name": "EB AdMob - NorApps",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042116",
+            "name": "Imgur (Nimbus)",
+            "domain": "imgur.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042127",
+            "name": "EB DFP - Upday",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042131",
+            "name": "EB DFP - PhoneArena",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042145",
+            "name": "EB DFP - Mobile.de",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042157",
+            "name": "EB DFP - Kobe Shimbun JP (21662775423)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042166",
+            "name": "EB Admob - RadioReference (pub-0543475854053093)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042181",
+            "name": "EB AdMob - MediaSeek (pub-2382615493575342)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042271",
+            "name": "EB DFP - Mirmay",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042309",
+            "name": "Fugo",
+            "domain": "fugo.com.tr",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042318",
+            "name": "InstantBits Inc",
+            "domain": "instantbits.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042356",
+            "name": "EB DFP - Uber Media (2869594)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042365",
+            "name": "UAM A9 - Digitalchemy (110004029)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042369",
+            "name": "ByteDance",
+            "domain": "bytedance.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042411",
+            "name": "A9 - The Weather Network",
+            "domain": "theweathernetwork.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042415",
+            "name": "A9 - Bell Media (110004032)",
+            "domain": "bellmedia.ca",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042424",
+            "name": "EB DFP - E.W. Scripps (6088)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042429",
+            "name": "EB AdMob - Huckleberry",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042467",
+            "name": "A9 - Encyclopedia Britannica (110004033)",
+            "domain": "britannica.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042484",
+            "name": "EB DFP - Surfline (1024858)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042504",
+            "name": "EB DFP Appgeneration",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042525",
+            "name": "Smaato INC - Headerbidding Test",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042539",
+            "name": "EB Admob - NDrive",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042541",
+            "name": "Tripledot Studios",
+            "domain": "tripledotstudios.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042548",
+            "name": "EB DFP - Eva.vn",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042552",
+            "name": "EB DFP - Ippen Digital Ad net",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042558",
+            "name": "EB DFP - Vinted",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042559",
+            "name": "A9 - Perfect365 (110004034)",
+            "domain": "perfect365.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042561",
+            "name": "EB DFP - Jagran Publications (13276288)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042565",
+            "name": "Good Job Games",
+            "domain": "goodjobgames.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042584",
+            "name": "EB DFP - Frankly (43459271)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042604",
+            "name": "EB DFP - GameWith (26172165)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042615",
+            "name": "EB DFP - My Fitness Pal",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042636",
+            "name": "Tinybeans",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042642",
+            "name": "Delicious Global Pty Ltd",
+            "domain": "textra.me",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042675",
+            "name": "EB DFP - SoundHound (4708965)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042676",
+            "name": "Mavericks SDK",
+            "domain": "mavericksmobile.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042782",
+            "name": "Perfect Corp.",
+            "domain": "perfectcorp.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042823",
+            "name": "Opera Beijing",
+            "domain": "opera.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042844",
+            "name": "Medcom.id",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042849",
+            "name": "Wattpad (Nimbus)",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042858",
+            "name": "EB DFP - Famous Birthdays",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042864",
+            "name": "EB Admob - Perform Group (pub-1795488461640048)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042867",
+            "name": "MixerBox Inc.",
+            "domain": "mixerbox.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042888",
+            "name": "Webedia",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042895",
+            "name": "A9 - xAd (110004036)",
+            "domain": "groundtruth.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042899",
+            "name": "Abadikini.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100042909",
+            "name": "EB DFP - iVoox",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042912",
+            "name": "EB DFP - True Digital (21682623839)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100042950",
+            "name": "EB DFP - Shopclues (124148007)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043002",
+            "name": "A9 - 9GAG (TAM-110004037)",
+            "domain": "9gag.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043009",
+            "name": "A9 - Etermax(110004040)",
+            "domain": "etermax.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043015",
+            "name": "EB DFP - Bloomberg 5262",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043018",
+            "name": "A9 - Buzzfeed (110004038)",
+            "domain": "buzzfeed.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043028",
+            "name": "PT.MEDIA BERİTA LIMA",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043032",
+            "name": "A9 - Pool Expert",
+            "domain": "poolexpert.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043043",
+            "name": "A9 - Mavericks (110004041)",
+            "domain": "mavericksmobile.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043054",
+            "name": "PeopleFun, Inc.",
+            "domain": "peoplefun.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043061",
+            "name": "A9 - AutoTrader (110004042)",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043070",
+            "name": "EB Admob - EnsenaSoft (pub-1945217469379784",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043071",
+            "name": "GSN Games",
+            "domain": "gsn.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043145",
+            "name": "Melons HK Limited",
+            "domain": "melonsapp.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043161",
+            "name": "EB DFP - LiveScore",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043167",
+            "name": "A9 - Pinsight (110004043)",
+            "domain": "pinsightmedia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043173",
+            "name": "上海瑛麒动漫科技有限公司",
+            "domain": "manhuaren.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043179",
+            "name": "AppyHigh",
+            "domain": "appyhigh.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043180",
+            "name": "EB Admob - Ndrive2",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043205",
+            "name": "Super Lucky Casino Inc.",
+            "domain": "superluckycasino.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043206",
+            "name": "EB DFP - Concept",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043208",
+            "name": "EB DFP - AsiaNet News (46138097)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043214",
+            "name": "KayaMobileApps",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043233",
+            "name": "Fan Technology Limited",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043246",
+            "name": "Aptoide",
+            "domain": "aptoide.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043252",
+            "name": "Mapway Limited",
+            "domain": "mapway.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043268",
+            "name": "A9 - FlightAware (110004035)",
+            "domain": "flightaware.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043269",
+            "name": "PLUGMIND",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043281",
+            "name": "EB AdMob - Gamebasics BV",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043310",
+            "name": "Glow",
+            "domain": "glowing.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043319",
+            "name": "Popcore GmbH",
+            "domain": "popcore.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043331",
+            "name": "Tastypill, LLC",
+            "domain": "tastypill.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043342",
+            "name": "EB DFP - Trainline.com",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043366",
+            "name": "EB DFP - Investing.com",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043416",
+            "name": "EB Admob - Ufoto (pub-3320553094214357)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043426",
+            "name": "Lemoon Games",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043455",
+            "name": "magicant.inc",
+            "domain": "magicant.co.jp",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043462",
+            "name": "EB Admob - IvyMobile (pub-1914768831611213)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043488",
+            "name": "UAM A9 - TeamSnap (uam_110004046)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043491",
+            "name": "UAM A9 - Narwhal (uam_110004047)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043510",
+            "name": "EB AdMob - Mobirix (pub-8300681586157286)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043520",
+            "name": "UAM A9 - Tegna (uam_110004048)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043521",
+            "name": "EB Admob - Gazeus Game (pub-5073389895475742)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043527",
+            "name": "FunnyApp",
+            "domain": "muzemusic.github.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043530",
+            "name": "iHandy MA",
+            "domain": "ihandygroup.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043534",
+            "name": "EB DFP - Quoka",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043540",
+            "name": "A9 - CallApp",
+            "domain": "amazon.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043581",
+            "name": "EB Admob - Scimob SAS",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043586",
+            "name": "Current Media, LLC",
+            "domain": "current.us",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043587",
+            "name": "A9 - CBS Interactive Inc. (110004050)",
+            "domain": "cbs.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043602",
+            "name": "Advenworks",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043611",
+            "name": "EB DFP - VNG (pub-5566024169310487)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043632",
+            "name": "Ketchapp",
+            "domain": "ketchappgames.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043639",
+            "name": "UAM A9 - Jubilee (uam_110004054)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043640",
+            "name": "UAM A9 - Cookpad (uam_110004057)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043642",
+            "name": "Particle Media Inc",
+            "domain": "particlemedia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043643",
+            "name": "UAM A9 - Amane Factory (uam_110004052)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043646",
+            "name": "EB Admob - Storm8 (pub-3535978192408801)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043647",
+            "name": "UAM A9 - CompassTV (uam_110004053)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043648",
+            "name": "A9 - TuneIn (110004061)",
+            "domain": "tunein.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043649",
+            "name": "EB AdMob - Athena Studio (pub-6643235630721920)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043654",
+            "name": "Listonic Sp. z o.o.",
+            "domain": "listonic.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043657",
+            "name": "Fun Games For Free Limited",
+            "domain": "fungames-forfree.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043661",
+            "name": "UAM A9 - Kanematsu (uam_110004059)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043664",
+            "name": "UAM A9 - Kayac (uam_110004056)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043667",
+            "name": "UAM A9 - Tapatalk (uam_110004062)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043683",
+            "name": "Andrea Sabbatini",
+            "domain": "andreasabbatini.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043689",
+            "name": "Supersonic Software Ltd",
+            "domain": "appynation.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043693",
+            "name": "EB DFP - Axel Springer Media Impact",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043697",
+            "name": "Geisha Tokyo, Inc.",
+            "domain": "geishatokyo.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043709",
+            "name": "EB AdMob - DH3 Games Ltd",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043716",
+            "name": "ABXZ Inc.",
+            "domain": "ultraapplock.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043719",
+            "name": "EB AdMob - BitMango (pub-7874197502607350)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043745",
+            "name": "EB DFP - Meitu (253901709)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043751",
+            "name": "jRustonApps BV",
+            "domain": "jrustonapps.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043766",
+            "name": "EB DFP - Particle Media (Pub-4001304092171320)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043820",
+            "name": "UAM A9 - Pixiv (uam_110004051)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043822",
+            "name": "EB AdMob - Geisha Tokyo (pub-7584678348706327)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043826",
+            "name": "UAM A9 - Lifebear (uam_110004060)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043830",
+            "name": "EB DFP - THG Publishing (22390678)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043833",
+            "name": "UAM A9 - Pro Mobile (uam_110004063)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043834",
+            "name": "UAM A9 - Thomson (uam_110004064)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043835",
+            "name": "UAM A9 - IT Media (uam_110004065)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043836",
+            "name": "UAM A9 - Newsy (uam_110004066)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043856",
+            "name": "Codex",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043863",
+            "name": "PT Wibisana Digital Media",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043879",
+            "name": "EB AdMob - Ilyon 2",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043880",
+            "name": "Azur Games",
+            "domain": "azurgames.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043889",
+            "name": "Dingtone, Inc. (杭州腾展科技股份有限公司)",
+            "domain": "dingtone.me",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043891",
+            "name": "BRAINIUM STUDIOS",
+            "domain": "brainiumstudios.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043892",
+            "name": "UAM A9 - Kadokawa (uam_110004068)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043893",
+            "name": "UAM A9 - Tokubai (uam_110004067)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043899",
+            "name": "Cheil Pengtai GC",
+            "domain": "ipengtai.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043950",
+            "name": "A9 - Impala Studios",
+            "domain": "amazon.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043954",
+            "name": "EB DFP - Outfit 7",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100043972",
+            "name": "Individual Developer",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100043975",
+            "name": "STAR RIVER NETWORK LIMITED",
+            "domain": "moviebox.online",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044036",
+            "name": "EB Admob - Bertheussen IT AS",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044045",
+            "name": "SmartAdServer Exchange",
+            "domain": "smartadserver.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044063",
+            "name": "Enjoymobi",
+            "domain": "enjoy-global.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044072",
+            "name": "UAM A9 - DBrady (uam_110004072)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044103",
+            "name": "EB Admob - Avast AVG",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044104",
+            "name": "EB Admob - Avast",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044105",
+            "name": "EB DFP - MundoHispanico(21733770452)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044115",
+            "name": "Candywriter",
+            "domain": "candywriter.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044124",
+            "name": "UAM A9 - Associated Press(uam_110004074)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044156",
+            "name": "BIGO TECHNOLOGY PTE LTD",
+            "domain": "bigo.sg",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044163",
+            "name": "UAM A9 - Narvii (uam_110004073)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044170",
+            "name": "Colorbit Limited",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044207",
+            "name": "UAM A9 - Dwango (uam_110004070)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044208",
+            "name": "UAM A9 - Roadie (uam_110004075)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044209",
+            "name": "AIO toolbox",
+            "domain": "aiotoolbox.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044240",
+            "name": "EB AdMob - Melons HK (pub-3844350100724933)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044247",
+            "name": "EB DFP - Tradera Sweden AB",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044250",
+            "name": "A9 - Storm8 (110004076)",
+            "domain": "storm8.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044295",
+            "name": "TextNow",
+            "domain": "textnow.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044296",
+            "name": "EB DFP - Dubizzle Middle East FZ LLC",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044303",
+            "name": "A9 - Mobicia (110004071)",
+            "domain": "mobicia.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044304",
+            "name": "EB Admob - The App Tower(pub-7995537911686785)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044352",
+            "name": "A9 - Mobile Deluxe (110004077)",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044386",
+            "name": "EB DFP - Narcity (1020360)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044389",
+            "name": "Pixiv",
+            "domain": "pixiv.net",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044393",
+            "name": "Belka Technologies",
+            "domain": "belka-games.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044397",
+            "name": "EB Admob - Webedia",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044407",
+            "name": "SK Planet",
+            "domain": "skplanet.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044419",
+            "name": "A9 - Scopely (110004044)",
+            "domain": "scopely.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044423",
+            "name": "EB AdMob - Neowiz (pub-9819870612497647)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044445",
+            "name": "Dual Cat",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044452",
+            "name": "EB AdMob - WeeGoon (pub-4594262918120881)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044467",
+            "name": "Godiydo",
+            "domain": "godiygo.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044476",
+            "name": "EB DFP - M2 (2602542)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044491",
+            "name": "EB Admob - Lulo Apps",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044508",
+            "name": "Narcade Teknoloji A.S.",
+            "domain": "narcade.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044545",
+            "name": "EB DFP - KCP (210325652)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044549",
+            "name": "EB Admob - Protostar Games (pub-9227926953289304)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044578",
+            "name": "EB AdMob - CookApps (pub-1076272347919893)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044579",
+            "name": "Rollic Games",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044584",
+            "name": "Onefootball GmbH",
+            "domain": "company.onefootball.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044610",
+            "name": "EB DFP - PlaySimple (21816128462)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044613",
+            "name": "DYWX HK CO., LIMITED",
+            "domain": "castbox.fm",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044615",
+            "name": "Goodia Inc.",
+            "domain": "goodia.co.jp",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044627",
+            "name": "EB Admob - Gametion (pub-6685996456292814)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044633",
+            "name": "EB DFP - Unidad Editorial",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044641",
+            "name": "Vive Games Berk Bozkurt Elif Gür Adi Ortaklığı",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044650",
+            "name": "UAM - Amazon (uam_110004100)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044664",
+            "name": "Steve Ehrenberg",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044682",
+            "name": "IObit",
+            "domain": "iobit.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044690",
+            "name": "EB DFP - MyNet",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044696",
+            "name": "YSO Corp",
+            "domain": "ysocorp.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044698",
+            "name": "Histudio",
+            "domain": "histudiogames.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044703",
+            "name": "PuzzleNation",
+            "domain": "puzzlenation.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044708",
+            "name": "Smarter",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044710",
+            "name": "Meitu E2E (832977703)",
+            "domain": "global.meitu.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044719",
+            "name": "uam_110004100",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044739",
+            "name": "Learnings",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044740",
+            "name": "SHENZHEN LEYAN TECHNOLOGY CO.,LTD",
+            "domain": "leyantech.cn",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044748",
+            "name": "gamesvessel",
+            "domain": "gamesvessel.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044751",
+            "name": "Tico",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044752",
+            "name": "4Sale Kuwait",
+            "domain": "q84sale.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044777",
+            "name": "EB Admob - MYNET MEDYA YAYINCILIK ULUSLARARASI",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044782",
+            "name": "EB Admob - Wifi Map(pub-4933960317434240)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044804",
+            "name": "GoGolfGPS",
+            "domain": "gogolfgps.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044809",
+            "name": "individual",
+            "domain": "h07app.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044817",
+            "name": "AzkiDev",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044818",
+            "name": "EB DFP - Indian Express (1050432)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044829",
+            "name": "EB Admob - Scimob SAS",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044852",
+            "name": "IdeaLabs Pte. Ltd.",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044872",
+            "name": "Cucunguk Microsystem",
+            "domain": "cucunguk.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044878",
+            "name": "SoftWareExperts",
+            "domain": "digital-lair.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044914",
+            "name": "EB DFP - Amane Factory (069287455)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044919",
+            "name": "EB Admob - Athos Perentos",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044925",
+            "name": "A9 - A-Star Software (110004084)",
+            "domain": "astarsoftware.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044928",
+            "name": "EB Admob - Onsquare (pub-6014945983105529)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044933",
+            "name": "EB DFP - theScore (102854637)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100044945",
+            "name": "West Manga",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100044982",
+            "name": "Biggerpan, Inc.",
+            "domain": "biggerpan.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045002",
+            "name": "JoyCastle",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045018",
+            "name": "Polydice, Inc.",
+            "domain": "polydice.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045020",
+            "name": "Honeybadger Technologies LLC",
+            "domain": "honeybadger.tech",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045021",
+            "name": "Francisco Jose Rodriguez Arena",
+            "domain": "retokme.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045022",
+            "name": "TapNation SAS",
+            "domain": "tap-nation.io",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045027",
+            "name": "EB DFP - EA Inc (220)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045046",
+            "name": "OLX ZA & PK (98972116)",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045080",
+            "name": "Swifthawk Apps Technology B.V.",
+            "domain": "vlaunchercorp.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045113",
+            "name": "Honor Expedition Technology Limited",
+            "domain": "maxvideodownloader.com",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045133",
+            "name": "EB DFP - PinsightMedia+ (120348554)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045212",
+            "name": "UAM A9 - PlaySimple (uam_110004086)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045265",
+            "name": "EB Admob - Blyts (pub-9485517237277895)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045270",
+            "name": "RosTeam",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045307",
+            "name": "Ruby Oyun ve Yazilim Danismanlik Sanayi Ticaret Limited Sirketi",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045313",
+            "name": "EB DFP - Sonic Twist Media Publishing",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045315",
+            "name": "App Swim",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045316",
+            "name": "EB DFP - TownSquare Media (8328825)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045329",
+            "name": "EB Admob - RV AppStudios (pub-9660424884786569)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045362",
+            "name": "Kayac Inc.",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045371",
+            "name": "EB AdMob - ENP Games (pub-9038488265235878)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045376",
+            "name": "baek",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045397",
+            "name": "DevChai",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045412",
+            "name": "Andro Buntu",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045426",
+            "name": "EB DFP - Letgo (21666124832)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045428",
+            "name": "EB DFP - TuneIn (15480783)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045438",
+            "name": "EB DFP - Jam City (pub-1694638389384549)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045444",
+            "name": "WhatsCut Pro",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045451",
+            "name": "EB Admob - Intsig (pub-6915354352956816)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045459",
+            "name": "EB Admob - Lunosoft (pub-4267813218499125)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045460",
+            "name": "Queens Solitaire Games",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045463",
+            "name": "EB Admob - Cubic Games",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045468",
+            "name": "UCWEB SINGAPORE PTE. LTD.",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045469",
+            "name": "EB DFP - Rogers Media (7326)",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045473",
+            "name": "EB AdMob - Ilyon 3",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045474",
+            "name": "EB Admob - VISTREX LIMITED",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045497",
+            "name": "Glewed Media, LLC",
+            "seller_type": "Publisher"
+        },
+        {
+            "seller_id": "1100045503",
+            "name": "ED Admob - Huuuge Games",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045511",
+            "name": "EB Admob - DirtyBit",
+            "domain": "google.com",
+            "seller_type": "Intermediary"
+        },
+        {
+            "seller_id": "1100045524",
+            "name": "A9 - Muslim Pro (TAM-110004087)",
+            "domain": "amazon.com",
+            "seller_type": "Intermediary"
+        }
+    ]
+}

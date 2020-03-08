@@ -1,0 +1,248 @@
+{
+  "contact_email": "publisher@gotchosen.com",
+  "contact_address": "GotChosen, Inc., 1801 Lee Road #235, Winter Park, FL 32789 USA",
+  "version": 1.0,
+  "ext": {
+    "updated": "02-19-2020"
+  },
+  "sellers": [
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realclearhistory.com",
+      "seller_id": 1938,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realclearmarkets.com",
+      "seller_id": 1940,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realclearpolicy.com",
+      "seller_id": 1941,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realclearpolitics.com",
+      "seller_id": 1956,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realclearhealth.com",
+      "seller_id": 1943,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realcleareducation.com",
+      "seller_id": 1945,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realclearworld.com",
+      "seller_id": 1942,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realclearenergy.org",
+      "seller_id": 1937,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realcleardefense.com",
+      "seller_id": 1955,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realclearbooks.com",
+      "seller_id": 1939,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realclearscience.com",
+      "seller_id": 1922,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "RealClearPolitics, LLC",
+      "domain": "realclearreligion.org",
+      "seller_id": 1944,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "Brainly.com",
+      "domain": "brainly.com",
+      "seller_id": 1986,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Brainly.com",
+      "domain": "brainly.com.br",
+      "seller_id": 1968,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "Top5.com",
+      "domain": "top5.com",
+      "seller_id": 1997,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Top5.com",
+      "domain": "relativelyinteresting.com",
+      "seller_id": 2004,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "The Knot Worldwide",
+      "domain": "thebump.com",
+      "seller_id": 1925,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "The Knot Worldwide",
+      "domain": "howtheyasked.com",
+      "seller_id": 2008,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "The Knot Worldwide",
+      "domain": "thenest.com",
+      "seller_id": 2000,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "OneGreenPlanet.org",
+      "domain": "onegreenplanet.org",
+      "seller_id": 1929,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "TenhoMaisDiscosQueAmigos",
+      "domain": "tenhomaisdiscosqueamigos.com",
+      "seller_id": 1894,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "Ribbon Roll Control",
+      "domain": "ribbonrollcontrol.com",
+      "seller_id": 100,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "Scary Mommy",
+      "domain": "scarymommy.com",
+      "seller_id": 1883,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "Relix Media",
+      "domain": "relix.com",
+      "seller_id": 1873,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "Olimpíada Todo Dia",
+      "domain": "olimpiadatododia.com.br",
+      "seller_id": 1911,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "GirlsAskGuys",
+      "domain": "girlsaskguys.com",
+      "seller_id": 1936,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "DCM",
+      "domain": "diariodocentrodomundo.com.br",
+      "seller_id": 1893,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "Penske Media Corporation",
+      "domain": "footwearnews.com",
+      "seller_id": 1965,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Penske Media Corporation",
+      "domain": "tvline.com",
+      "seller_id": 1962,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Penske Media Corporation",
+      "domain": "hollywoodlife.com",
+      "seller_id": 1961,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Penske Media Corporation",
+      "domain": "indiewire.com",
+      "seller_id": 2012,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Penske Media Corporation",
+      "domain": "variety.com",
+      "seller_id": 1964,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Penske Media Corporation",
+      "domain": "rollingstone.com",
+      "seller_id": 1963,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "ATribuna",
+      "domain": "atribuna.com.br",
+      "seller_id": 1973,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "Inquisitr",
+      "domain": "inquisitr.com",
+      "seller_id": 1996,
+      "seller_type": "PUBLISHER"
+    },
+
+    {
+      "name": "Outmatch Associates Inc",
+      "domain": "familylifegoals.com",
+      "seller_id": 2007,
+      "seller_type": "PUBLISHER"
+    },
+    {
+      "name": "Outmatch Associates Inc",
+      "domain": "theheartysoul.com",
+      "seller_id": 2006,
+      "seller_type": "PUBLISHER"
+    }
+
+  ]
+}

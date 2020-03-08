@@ -1,0 +1,493 @@
+
+"contact_email": "adops@anyclip.com",
+"contact_address": "135 W 41st St, New York, NY 10036, United States",
+"version": "1.0",
+"identifiers": [
+{
+"name": "DUNS",
+"value": "080376584"
+}
+],
+"sellers": [
+{
+"seller_id": "0011r00001yyEBxAAM",
+"name": "Zam Network",
+"domain": "corp.fanbyte.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "001w000001Y8VaxAAF",
+"name": "Timeout",
+"domain": "timeout.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001ntjmoAAA",
+"name": "Ten: A Discovery Communications Company",
+"domain": "motortrend.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002EfbFwAAJ",
+"name": "Fextralife.Com",
+"domain": "Fextralife.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0061r00001EN9ksAAD",
+"name": "Discovery",
+"domain": "discovery.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002K1iSWAAZ",
+"name": "Maven",
+"domain": "maven.io",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002Fk892AAB",
+"name": "Encyclopaedia Britannica, Inc",
+"domain": "britannica.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001za0kDAAQ",
+"name": "AT&T Foundry",
+"domain": "att.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002QED0VAAX",
+"name": "Axel Springer",
+"domain": "axelspringer.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002NsnTzAAJ",
+"name": "Funke",
+"domain": "news38.de",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "001w000001YqPUaAAN",
+"name": "IDG",
+"domain": "idg.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "001w000001RrzqEAAR",
+"name": "Internet Brands",
+"domain": "internetbrands.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000029esDlAAI",
+"name": "imgur",
+"domain": "imgur.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "001w000001jzPOVAA2",
+"name": "Nesn",
+"domain": "nesn.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000025cE2lAAE",
+"name": "Ludicrous Speed Llc",
+"domain": "raider.io",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000028otUDAAY",
+"name": "Windowsreport.Com - Reflector Ventures",
+"domain": "Windowsreport.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001kaHtoAAE",
+"name": "Rhythmone",
+"domain": "Rhythmone.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001omyudAAA",
+"name": "Venturebeat",
+"domain": "Venturebeat.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "001w000001jTTSlAAO",
+"name": "Watchr Media",
+"domain": "watchrmedia.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "001w000001jULVcAAO",
+"name": "Shmoop",
+"domain": "Shmoop.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001zcbicAAA",
+"name": "Multiply Media Llc",
+"domain": "multiply.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001qbFvJAAU",
+"name": "Phillyvoice.Com - Wwb Holdings, Llc",
+"domain": "phillyvoice.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002IZQzBAAX",
+"name": "Softpedia",
+"domain": "Softpedia.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r0000294FlVAAU",
+"name": "Irksome And Strange, Llc",
+"domain": "warcraftlogs.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002IjDWFAA3",
+"name": "Usnews.Com",
+"domain": "Usnews.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002L0q1cAAB",
+"name": "Sporcle, Inc.",
+"domain": "Sporcle.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000025cGNfAAM",
+"name": "The Fantasy Footballers",
+"domain": "TheFantasyFootballers.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000020MwjgAAC",
+"name": "Mobilesyrup.Com",
+"domain": "Mobilesyrup.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001mg8pZAAQ",
+"name": "Goodinc.Com - Good / Upworthy",
+"domain": "Goodinc.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002JOKL4AAP",
+"name": "53 Formulas Inc",
+"domain": "53formulas.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001nWkw2AAC",
+"name": "Meaww.Com",
+"domain": "Meaww.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000025cGJnAAM",
+"name": "Burr Media Group",
+"domain": "burrmediagroup.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000020N79xAAC",
+"name": "Spigot",
+"domain": "Spigot.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001n2Q66AAE",
+"name": "Novelty.Media",
+"domain": "Novelty.Media",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002Kxvk0AAB",
+"name": "Big Think",
+"domain": "BigThink.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000021qK61AAE",
+"name": "Number Six For Salt Lake Tribune",
+"domain": "numbersix.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000025jZCYAA2",
+"name": "Idle Media",
+"domain": "IdleMedia.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002LeWMhAAN",
+"name": "New Wave Advisors, Llc - Studyfinds.Org",
+"domain": "StudyFinds.org",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002HmPHnAAN",
+"name": "I Love My Dog So Much Llc",
+"domain": "ilovemydogsomuch.org",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002CR8vvAAD",
+"name": "The-Social-Edge.Com",
+"domain": "The-Social-Edge.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001mgHLGAA2",
+"name": "Staradvertiser.Com",
+"domain": "Staradvertiser.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001pPSxZAAW",
+"name": "Whats-On-Netflix.Com",
+"domain": "Whats-On-Netflix.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002F52YzAAJ",
+"name": "Cyclonefanatic.Com",
+"domain": "Cyclonefanatic.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000028SmihAAC",
+"name": "Sports Publishers Group",
+"domain": "Sportspublishersgroup.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "001w000001K3W49AAF",
+"name": "Therealdeal",
+"domain": "Therealdeal.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002A5EM7AAN",
+"name": "Callosum Software Gmbh",
+"domain": "tellonym.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002JfcgHAAR",
+"name": "Round Forest",
+"domain": "RoundForest.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000029hq6TAAQ",
+"name": "M3 Media Management Aka Shawnee Digital, Llc",
+"domain": "m3mediamgmt.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000021p9PBAAY",
+"name": "2paragraphs Productions, Llc",
+"domain": "2paragraphs.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002K1twyAAB",
+"name": "Noticias De Israel",
+"domain": "israelnoticias.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002L197WAAR",
+"name": "Curiosmos",
+"domain": "Curiosmos.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001nreniAAA",
+"name": "Mitu",
+"domain": "wearemitu.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002LdLfsAAF",
+"name": "Amply Media",
+"domain": "AmplyMedia.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002F5579AAB",
+"name": "Wearesc.Com",
+"domain": "Wearesc.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001pPq4LAAS",
+"name": "Wrestlinginc.Com",
+"domain": "Wrestlinginc.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001lcDtHAAU",
+"name": "Eurweb",
+"domain": "Eurweb.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002LgFraAAF",
+"name": "The Daily Dot",
+"domain": "DailyDot.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "001w000001gjErkAAE",
+"name": "The Hive Media Group",
+"domain": "HiveMedia.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001wH8dvAAC",
+"name": "Wrestleview.Com",
+"domain": "Wrestleview.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002Ldj8HAAR",
+"name": "Girlsaskguys Llc",
+"domain": "girlsaskguys.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001qdQmoAAE",
+"name": "Hello And Hola Media, Inc.",
+"domain": "us.hola.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002A5AEFAA3",
+"name": "One Angry Gamer",
+"domain": "oneangrygamer.net",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002E8BLmAAN",
+"name": "Essence.Com",
+"domain": "Essence.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001lcD1iAAE",
+"name": "The Jerusalem Post",
+"domain": "jpost.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r000029iU27AAE",
+"name": "Siasat.Pk",
+"domain": "Siasat.Pk",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002Ma7zMAAR",
+"name": "Pulse 2.0 Llc",
+"domain": "pulse2.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002DWD0PAAX",
+"name": "Simkl",
+"domain": "Simkl.org",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002HnfJPAAZ",
+"name": "Patsfans.Com",
+"domain": "Patsfans.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001pmbJoAAI",
+"name": "Sportslingo.Com",
+"domain": "Sportslingo.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002DYAf3AAH",
+"name": "Drafttek.Com",
+"domain": "Drafttek.Com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00001mhXUmAAM",
+"name": "Gramercy Media",
+"domain": "gramercyglobal.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002Mc2QWAAZ",
+"name": "nitropay",
+"domain": "nitropay.com",
+"seller_type": "INTERMEDIARY"
+},
+{
+"seller_id": "0011r00002Mc2QWAAZ",
+"name": "wibbitz",
+"domain": "wibbitz.com",
+"seller_type": "INTERMEDIARY"
+},
+{
+"seller_id": "0011r00002Mc2QWAAZ",
+"name": "Boone Newspapers Inc",
+"domain": "boonenewspapers.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002NuKegAAF",
+"name": "The Gazette",
+"domain": "TheGazette.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002PW1kNAAT",
+"name": "Border Blue, Inc.",
+"domain": "travelmath.com",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002LhEuXAAV",
+"name": "battlechat.co",
+"domain": "battlechat.co",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "001w000001eWAHkAAO",
+"name": "Consequence Media",
+"domain": "consequnceofsound.net",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002PXI1vAAH",
+"name": "Raven Solutions LLC - AppleWorld.Today",
+"domain": "appleworld.today",
+"seller_type": "PUBLISHER"
+},
+{
+"seller_id": "0011r00002McP5WAAV",
+"name": "adapex",
+"domain": "adapex.io",
+"seller_type": "INTERMEDIARY"
+}
+]
+}

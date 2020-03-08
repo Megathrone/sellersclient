@@ -1,0 +1,602 @@
+{
+ "contact_email": "contact@viewdeos.com",
+ "contact_address": "56, HaMasger St., Tel Aviv, Israel",
+ "version": "1.0",
+ "sellers": [
+{
+ "seller_id": "5af9445328a0614dcb76e565",
+ "seller_type": "INTERMEDIARY",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5c4046e328a0615bd310938e",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "59ff087328a06133ed4abd19",
+ "seller_type": "INTERMEDIARY",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5cff6b90073ef4681512cfab",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5a956c93073ef4778b21bdf5",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5a6f41a0073ef43240167d35",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5c4853bb073ef438f000f940",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d8b5ce328a06175347332ee",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5db6f3fa28a0615efd58a128",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d6e0c6e28a0614688151a5a",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5b2b46ce073ef42cac5e70bd",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5db00b5328a06134824c7979",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5937f284073ef4085f3c1642",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5ced19de073ef46d281dff8b",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5b990f2b28a0610b663c279b",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d835a6a28a061669c54c40b",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5da5c31c28a06141c4540002",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5a9eb573073ef46c63720052",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5a96c3ba073ef4495b618c7d",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5a6dc4a6073ef40e5f364a26",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5ce24cfd073ef40fad4704a0",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d0f4f5728a061468f06227a",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d3073fb28a0617b4d78b354",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5a8d8f19073ef46c75012706",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "592d1463073ef4268d1a9c28",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d2db4e328a0613e47408ed9",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5aa91ee2073ef45a0a0af014",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5aaf863f073ef4637177af92",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5cff6ba628a0611ae10723fa",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5b445433073ef4063b61fa2c",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5b7288b128a06152d57e589e",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5bf6712028a061039307fe09",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5db6f3ef28a061114f56cac3",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5da5c2c028a061733e2307e2",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d64f57b28a0616234686797",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5cff6b9b28a06134312eded8",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5c6136e728a06154123c0236",
+ "seller_type": "INTERMEDIARY",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5cb5c12228a061399806b2e0",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d9b460928a061340d546fc2",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5a40db67073ef466f145134d",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d40429828a0615ebc032470",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5b2b46d4073ef42cac5e70bf",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d9b45ff28a0611525316603",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5bff9c0b28a0612cee54cb20",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5bf65e4c28a06122d21af658",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5c6959dd073ef4550b4ccfdc",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5d64bd7128a0617926363403",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5a548ef4073ef4712609c336",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dc0437028a0615d2220855b",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dc0437c28a0610d4b572810",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dc0439028a0611b0e571f8a",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dc97e5328a0610c2f38de49",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dcac18e28a061114e709306",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dd0fc3b28a06136711293f1",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dd63c9a28a061728621a081",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dd6a07d28a0611f1e376b19",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "59ff087328a06133ed4abd19",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "587c910b073ef46a14717a2d",
+ "seller_type": "INTERMEDIARY",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dde43fc28a0615170136a78",
+ "seller_type": "INTERMEDIARY",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dde82cb28a06151800ac30a",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dde968428a061368d515cc3",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dde440628a0611e195dbf5e",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5ddfa9c628a06177a93c4762",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "304054",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "303766",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "305730",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "305783",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "305784",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "305867",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "305978",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "305979",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "305980",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "305981",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "305982",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "303721",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dd4105828a06129ac5cea79",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5de7d6fa28a0612ab748a31b",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dee181628a06139797fc95a",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5df21ef028a06111656ee937",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e01aecf28a061199c7c2dd2",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e09f45d28a06114651efba6",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e0def4d28a06106443e9f44",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e17092928a0615573238561",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e17093628a0612be10305bc",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e17094828a061215b4803b4",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e1c5e7728a06135301b73a5",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5dd6a29728a06123027c4fd8",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e1d7f9c28a061547903ab42",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e1d7fa728a0614b6f5ab22b",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e1f1eb228a0613631142a4a",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e258b5228a0614c104f72d4",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e29a69728a0613fcf1874d3",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e29a6a428a06173515ed75b",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e303d5b28a0611dc40a8373",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e36964128a061658a4f5dfc",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e36964b28a0617d2b42d43a",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e36965628a0611300089732",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e36966028a06116bd1e337d",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e36966b28a0611b725dbf53",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e36c0dd28a0613da82355ec",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5c20eacc073ef42236239199",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e4143d328a061495a7215fb",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e43b62c28a061413639ea87",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e45488528a061110e553e57",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e4a7b8528a06131442a7b85",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e4d4b0828a0611aec5b559a",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5c87c472073ef453285bae53",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e539f3428a061765177adc7",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e539f4228a0614c353a4c48",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e539f4d28a061353b3a0189",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e539f5a28a0614e082815ac",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e539f6428a0613f0c11ddd6",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e56524c28a06165ac682f25",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e576fa028a061093e1841af",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e576fab28a0614965615cad",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e5b86cb28a06115aa7e73e7",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e5b86d628a061111b04c5cc",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5e60bfad28a0610ba100c7c4",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+},
+{
+ "seller_id": "5b8cc336073ef42cc46a86af",
+ "seller_type": "PUBLISHER",
+ "is_confidential": 1
+}
+ ]
+}
