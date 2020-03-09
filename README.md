@@ -28,7 +28,7 @@ Access to project directory and type  ```mvn clean install``` , then type ```jav
 There is an utility application under the project folder named crawler. The crawler will get JSON urls from  ```https://www.sellersjsons.com/#section-faq``` then download sellers.json and save in local folder.
 
 * Crawler env requirement and usage:
-  * At least Python3.6 with pip
+  * At least Python 3.6 with pip
   * Pip install requests, beautifulsoup4
   * Run crawler.py in the crawler folder
 
